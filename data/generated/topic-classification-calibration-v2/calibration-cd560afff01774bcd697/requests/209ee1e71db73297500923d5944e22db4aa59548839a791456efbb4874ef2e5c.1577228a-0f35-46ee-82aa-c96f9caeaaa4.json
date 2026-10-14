@@ -1,0 +1,23 @@
+{
+  "key": "209ee1e71db73297500923d5944e22db4aa59548839a791456efbb4874ef2e5c",
+  "batchId": "verse-0",
+  "stage": "verse",
+  "attempt": 1,
+  "timestamp": "2026-09-17T18:45:52.701Z",
+  "status": "completed",
+  "usage": {
+    "inputTokens": 76769,
+    "outputTokens": 14103,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 8695,
+    "cacheWriteTokens": null
+  },
+  "httpStatus": 200,
+  "responseId": "resp_05d818a6911a0538016aac3561716c87d28564d0c084d7c0c2",
+  "servedModel": "gpt-5.6-sol",
+  "schemaFailure": true,
+  "validationCategory": "SCHEMA decision incompatible with stage",
+  "error": "SCHEMA result JSON/coverage validation failed.",
+  "originalStatus": "failed",
+  "revalidatedLocally": true
+}

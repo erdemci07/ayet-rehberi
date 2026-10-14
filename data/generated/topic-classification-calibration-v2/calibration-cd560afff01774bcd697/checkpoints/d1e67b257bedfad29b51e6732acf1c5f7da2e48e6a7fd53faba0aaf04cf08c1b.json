@@ -1,0 +1,706 @@
+{
+  "key": "d1e67b257bedfad29b51e6732acf1c5f7da2e48e6a7fd53faba0aaf04cf08c1b",
+  "status": "completed",
+  "checksum": "fbd563836d08fe36a600705150d3379c3d7fbddc808e73fb99967fb4588e7a08",
+  "result": {
+    "consideredVerseIds": [
+      "36:79",
+      "39:53",
+      "49:12",
+      "55:13",
+      "57:20",
+      "65:3",
+      "75:3",
+      "97:1",
+      "107:7",
+      "114:6"
+    ],
+    "consideredTopicIds": [
+      "tevhid",
+      "allah-rahmeti",
+      "allah-ilmi",
+      "allah-kudreti",
+      "allah-adaleti",
+      "allah-yalan",
+      "esma",
+      "iman",
+      "inkar",
+      "sirk",
+      "munafiklik",
+      "takva",
+      "hidayet",
+      "seytan",
+      "melekler",
+      "cinler",
+      "gayb",
+      "din",
+      "din-ozgurlugu",
+      "kisisel-sorumluluk",
+      "tevbe",
+      "vahiy",
+      "kuran-nitelikleri",
+      "kuran-okuma",
+      "kuran-anlama",
+      "vahyin-korunmasi",
+      "metin-carpitma",
+      "muhkem-mutesabih",
+      "nesih",
+      "tasdik",
+      "isr",
+      "dua",
+      "namaz",
+      "namaz-vakitleri",
+      "abdest",
+      "kible",
+      "mescit",
+      "oruc",
+      "hac",
+      "kurban",
+      "kadir",
+      "zikir",
+      "ibadet-ihlasi",
+      "cenaze-baglami",
+      "sabir",
+      "tevekkul",
+      "umit",
+      "korku",
+      "ofke",
+      "huzun",
+      "imtihan",
+      "huzur",
+      "sukur",
+      "dogruluk",
+      "merhamet",
+      "affetme",
+      "tevazu",
+      "kibir",
+      "emanet",
+      "sozlesme",
+      "riya",
+      "ahlaki-ozelestiri",
+      "israf",
+      "evlilik",
+      "ebeveyn",
+      "cocuk",
+      "emzirme",
+      "bosanma",
+      "mahremiyet",
+      "cinsellik",
+      "zina",
+      "akrabalik",
+      "yardimlasma",
+      "baris",
+      "giybet",
+      "alay",
+      "gizli-gorusme",
+      "haber-dogrulama",
+      "zan",
+      "esitlik",
+      "musavere",
+      "toplumsal-gorevler",
+      "din-otoritesi",
+      "yoksulluk",
+      "rizik",
+      "zekat",
+      "infak",
+      "faiz",
+      "ticaret",
+      "borc",
+      "miras",
+      "yetim-hakki",
+      "helal-gida",
+      "icki",
+      "kumar",
+      "adalet",
+      "zulum",
+      "taniklik",
+      "yemin",
+      "iftira",
+      "can-hakki",
+      "kisas",
+      "savas",
+      "ozgurlestirme",
+      "yonetim",
+      "olum",
+      "ahiret",
+      "dirilis",
+      "kiyamet",
+      "hesap",
+      "cennet",
+      "cehennem",
+      "sefaat",
+      "amel-kaydi",
+      "dunya-hayati",
+      "peygamberlik",
+      "teblig",
+      "peygamber-anlatilari",
+      "mucize",
+      "yaratilis",
+      "akil",
+      "bilgi",
+      "insan-yaratilisi",
+      "dogal-duzen",
+      "hayvanlar",
+      "ehli-kitap",
+      "topluluk-akibeti",
+      "sunnetullah",
+      "hicret",
+      "allah-yolunda-olum",
+      "sabir--musibet-karsisinda-sabir",
+      "sabir--sorumlulukta-sebat",
+      "sabir--haksizlik-karsisinda-sabir",
+      "dua--yardim-ve-bagislanma-dilemek",
+      "dua--peygamberlerin-dualari",
+      "dua--dua-ve-yakinlik",
+      "namaz--namaza-devam-etmek",
+      "namaz--namaz-ve-toplumsal-sorumluluk",
+      "oruc--ramazan-orucu",
+      "oruc--telafi-ve-kefaret-baglami",
+      "hac--hac-ve-umre",
+      "hac--hacda-sinirlar",
+      "evlilik--eslerin-karsilikli-haklari",
+      "evlilik--nikahin-sinirlari",
+      "bosanma--bekleme-suresi",
+      "bosanma--ayrilikta-adil-davranmak",
+      "infak--ihtiyac-sahibine-paylasim",
+      "infak--gosterissiz-yardim",
+      "miras--miras-paylari",
+      "miras--vasiyet-sorumlulugu",
+      "yetim-hakki--yetim-malinin-korunmasi",
+      "ticaret--olcu-ve-tarti",
+      "borc--borcun-kayda-alinmasi",
+      "savas--savasta-sinir-ve-baris",
+      "can-hakki--haksiz-yere-oldurme",
+      "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "kiyamet--son-saatin-bilinmezligi",
+      "hesap--eylemlerin-karsiligi",
+      "amel-kaydi--eylemleri-kaydeden-melekler",
+      "amel-kaydi--hesapta-sunulan-kayit",
+      "akil--yaratilis-uzerinde-dusunmek",
+      "akil--vahiy-uzerinde-dusunmek",
+      "teblig--elcinin-bildirme-gorevi",
+      "teblig--hikmetli-davet",
+      "merhamet--insanlara-sefkat"
+    ],
+    "mappings": [
+      {
+        "verseId": "36:79",
+        "topicId": "dirilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Çürümüş kemiklere yeniden hayat verilmesi sorusuna doğrudan cevap verir."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "İlk yaratma ve yeniden hayat verme açıkça Allah'a bağlanır."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, yaratmayı çok iyi bilen açık bir ilahi sıfatla anılır."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "ahiret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölümden sonra yeniden hayat verilmesini konu eden açık bir ahiret anlatımıdır."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "insan-yaratilisi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanın ilk yaratılışı, yeniden dirilişin dayanağı olarak gösterilir."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "yaratilis",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "İlk yaratılış, yeniden hayat verme hakkında düşünmeye temel oluşturan bir işarettir."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "akil",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayette dikkate alınmayan ilk yaratılışa dayalı akıl yürütmeyi tamamlar."
+      },
+      {
+        "verseId": "36:79",
+        "topicId": "akil--yaratilis-uzerinde-dusunmek",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Diriliş itirazına, insanın ilk yaratılışı üzerinden cevap verilir."
+      },
+      {
+        "verseId": "39:53",
+        "topicId": "allah-rahmeti",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "39:53"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'ın rahmetinden ümit kesmeme ve kapsamlı bağışlama ayetin merkezindedir."
+      },
+      {
+        "verseId": "39:53",
+        "topicId": "umit",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "39:53"
+        ],
+        "decision": "candidate",
+        "rationale": "Haddi aşmış kullara Allah'ın rahmetinden ümit kesmemeleri söylenir."
+      },
+      {
+        "verseId": "39:53",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "39:53"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah açıkça Çok Bağışlayıcı ve Rahmeti Kesintisiz sıfatlarıyla anılır."
+      },
+      {
+        "verseId": "39:53",
+        "topicId": "tevbe",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "39:53",
+          "39:54"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayet bağışlanma umudunu kurar; Rabb'e yönelme çağrısı sonraki ayette açıklanır."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "zan",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Zannın birçoğundan sakınma ve bazı zanların günah oluşu doğrudan bildirilir."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "giybet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Gıybet açıkça yasaklanır ve güçlü bir benzetmeyle kötülenir."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "takva",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Ahlaki yasakların ardından Allah'a karşı takva emredilir; dipnot korunma tutumunu açıklar."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "mahremiyet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Başkalarının kusurlarını araştırmama emri kişisel sınırların gözetilmesiyle doğrudan ilişkilidir."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "allah-rahmeti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayet Allah'ı Rahmeti Kesintisiz olarak anar."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Tövbeleri Kabul Eden ve Rahmeti Kesintisiz sıfatlarıyla anılır."
+      },
+      {
+        "verseId": "49:12",
+        "topicId": "tevbe",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "49:12"
+        ],
+        "decision": "candidate",
+        "rationale": "Tövbe eylemi ayrıca açıklanmasa da Allah'ın tövbeleri kabul etmesi açıkça bildirilir."
+      },
+      {
+        "verseId": "55:13",
+        "topicId": "sukur",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "55:13"
+        ],
+        "decision": "candidate",
+        "rationale": "Rabbin nimetlerini yalanlama sorgulanarak nimeti tanıma ve nankörlük karşıtlığı kurulur."
+      },
+      {
+        "verseId": "55:13",
+        "topicId": "yaratilis",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "55:12",
+          "55:13",
+          "55:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Çevredeki bitkiler ve insanın yaratılışı, hedef ayette Rabbin nimetleri olarak çerçevelenir."
+      },
+      {
+        "verseId": "57:20",
+        "topicId": "dunya-hayati",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "57:20"
+        ],
+        "decision": "candidate",
+        "rationale": "Dünya hayatının oyalanma, çokluk yarışı ve geçici meta oluşu ayetin ana konusudur."
+      },
+      {
+        "verseId": "57:20",
+        "topicId": "ahiret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "57:20"
+        ],
+        "decision": "candidate",
+        "rationale": "Dünya hayatı açıkça ahiretteki azap, hoşnutluk ve bağışlanmayla karşılaştırılır."
+      },
+      {
+        "verseId": "57:20",
+        "topicId": "kibir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "57:20"
+        ],
+        "decision": "candidate",
+        "rationale": "Övünme ile mal ve çocuklarda çokluk yarışı eleştirilen dünya tutumları arasındadır."
+      },
+      {
+        "verseId": "57:20",
+        "topicId": "olum",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "57:20"
+        ],
+        "decision": "candidate",
+        "rationale": "Kuruyup çer çöp olan bitki örneği dünya hayatının faniliğini destekler; insan ölümü doğrudan anlatılmaz."
+      },
+      {
+        "verseId": "65:3",
+        "topicId": "tevekkul",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "65:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'a tevekkül eden için Allah'ın yeterli oluşu bildirilir; dipnot çaba sonrasında dayanmayı açıklar."
+      },
+      {
+        "verseId": "65:3",
+        "topicId": "rizik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "65:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'ın umulmadık yerden rızık vermesi doğrudan ifade edilir."
+      },
+      {
+        "verseId": "65:3",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "65:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'ın buyruğunu yerine getirmesi ve her şey için ölçü belirlemesi hükümranlığına ilişkindir."
+      },
+      {
+        "verseId": "65:3",
+        "topicId": "takva",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "65:2",
+          "65:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Ummadığı yerden rızık verilen kişi, önceki ayette takva sahibi olarak belirlenir."
+      },
+      {
+        "verseId": "65:3",
+        "topicId": "bosanma",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "65:2",
+          "65:3",
+          "65:4"
+        ],
+        "decision": "candidate",
+        "rationale": "Tevekkül ve rızık güvencesi, boşanma ve bekleme süresi sorumluluklarının oluşturduğu pasaj içindedir."
+      },
+      {
+        "verseId": "75:3",
+        "topicId": "dirilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "75:3"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsan kemiklerinin yeniden bir araya getirilmesi doğrudan sorgulanır."
+      },
+      {
+        "verseId": "75:3",
+        "topicId": "ahiret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "75:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölüm sonrası bedenin yeniden oluşturulması açık bir ahiret anlatımıdır."
+      },
+      {
+        "verseId": "75:3",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "75:3",
+          "75:4"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayette sorgulanan yeniden düzenleme gücü sonraki ayette açıkça doğrulanır."
+      },
+      {
+        "verseId": "75:3",
+        "topicId": "inkar",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "75:3",
+          "75:4"
+        ],
+        "decision": "candidate",
+        "rationale": "İlahi yeniden yaratma gücünü reddeden sanı aktarılır; inkârın doğrudan nesnesi diriliştir."
+      },
+      {
+        "verseId": "97:1",
+        "topicId": "kadir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "97:1"
+        ],
+        "decision": "candidate",
+        "rationale": "Kur'an'ın Kadir gecesinde indirilmesi doğrudan bildirilir ve dipnot gecenin vahiy bağlamını açıklar."
+      },
+      {
+        "verseId": "97:1",
+        "topicId": "vahiy",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "97:1"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnot, indirilenin Kur'an olduğunu belirleyerek Allah'tan gelen bildirimi açıklaştırır."
+      },
+      {
+        "verseId": "107:7",
+        "topicId": "yardimlasma",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "107:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Küçük ve sıradan yardımın bile esirgenmesi doğrudan eleştirilir."
+      },
+      {
+        "verseId": "107:7",
+        "topicId": "toplumsal-gorevler",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "107:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Basit yardımı esirgememe, açık bir toplumsal sorumluluk olarak sunulur."
+      },
+      {
+        "verseId": "114:6",
+        "topicId": "seytan",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "114:5",
+          "114:6"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayette kuşku ve kuruntu sokan yanıltıcının kaynağı hedef ayette belirtilir."
+      },
+      {
+        "verseId": "114:6",
+        "topicId": "cinler",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "114:5",
+          "114:6"
+        ],
+        "decision": "candidate",
+        "rationale": "Yanıltıcı kuşku ve kuruntu sokanların cinlerden de olabileceği pasaj içinde açıkça bildirilir."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": []
+  },
+  "usage": {
+    "inputTokens": 77983,
+    "outputTokens": 11736,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 7847,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_008509756c050d26016aac38fba00887d2a8494a8241055454",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T19:03:55.794Z",
+  "importedFrom": {
+    "cacheKey": "8202bc3968b97ff32e4082cb454e1f00859a5833684a13ecab58680a9ba6573d",
+    "responseId": "resp_008509756c050d26016aac38fba00887d2a8494a8241055454",
+    "reason": "Same semantic inputs; original paid response independently passes stricter ID/cardinality/stage schema. No new API request."
+  }
+}

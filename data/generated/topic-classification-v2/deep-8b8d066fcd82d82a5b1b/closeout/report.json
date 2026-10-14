@@ -1,0 +1,430 @@
+{
+  "runId": "deep-8b8d066fcd82d82a5b1b",
+  "timestamp": "2026-09-17T19:17:48.502Z",
+  "status": "CLOSED_PARTIAL_BY_USER",
+  "newPaidCalls": 0,
+  "reason": "User requested a conclusion using existing work; no further paid analysis authorized in this closeout.",
+  "providerBlocker": "credit_balance_exhausted",
+  "model": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "structuredOutputs": "strict JSON schema",
+  "canonicalVerses": 6236,
+  "erhanAktas": 6230,
+  "yasarNuriOzturk": 6,
+  "fallbackReferences": [
+    "114:1",
+    "114:2",
+    "114:3",
+    "114:4",
+    "114:5",
+    "114:6"
+  ],
+  "ontologyCanonicalTopics": 130,
+  "ontologySubtopics": 36,
+  "successfulCompatibleBatches": 8,
+  "retrievalBatches": 3,
+  "retrievalTopics": [
+    {
+      "topicId": "sabir",
+      "name": "Sabır",
+      "corpusVerseTargetsCompleted": 384,
+      "corpusVerseTargetsExpected": 6236,
+      "candidateCount": 21,
+      "candidateVerseIds": [
+        "2:45",
+        "2:63",
+        "2:109",
+        "2:124",
+        "2:132",
+        "2:143",
+        "2:153",
+        "2:155",
+        "2:156",
+        "2:157",
+        "2:177",
+        "2:214",
+        "2:216",
+        "2:239",
+        "2:246",
+        "2:249",
+        "21:85",
+        "22:11",
+        "22:35",
+        "22:78",
+        "23:9"
+      ],
+      "completeCorpusRetrieval": false
+    },
+    {
+      "topicId": "zekat",
+      "name": "Zekât",
+      "corpusVerseTargetsCompleted": 384,
+      "corpusVerseTargetsExpected": 6236,
+      "candidateCount": 7,
+      "candidateVerseIds": [
+        "2:43",
+        "2:83",
+        "2:110",
+        "2:177",
+        "22:41",
+        "22:78",
+        "23:4"
+      ],
+      "completeCorpusRetrieval": false
+    },
+    {
+      "topicId": "adalet",
+      "name": "Adalet",
+      "corpusVerseTargetsCompleted": 384,
+      "corpusVerseTargetsExpected": 6236,
+      "candidateCount": 45,
+      "candidateVerseIds": [
+        "2:30",
+        "2:49",
+        "2:61",
+        "2:72",
+        "2:84",
+        "2:85",
+        "2:87",
+        "2:91",
+        "2:114",
+        "2:124",
+        "2:143",
+        "2:178",
+        "2:179",
+        "2:180",
+        "2:181",
+        "2:182",
+        "2:188",
+        "2:190",
+        "2:191",
+        "2:192",
+        "2:193",
+        "2:194",
+        "2:213",
+        "2:217",
+        "2:220",
+        "2:224",
+        "2:228",
+        "2:229",
+        "2:231",
+        "2:232",
+        "2:233",
+        "2:234",
+        "2:236",
+        "2:237",
+        "2:240",
+        "2:241",
+        "2:246",
+        "2:247",
+        "21:78",
+        "21:79",
+        "21:112",
+        "22:25",
+        "22:39",
+        "22:40",
+        "22:60"
+      ],
+      "completeCorpusRetrieval": false
+    },
+    {
+      "topicId": "evlilik",
+      "name": "Evlilik",
+      "corpusVerseTargetsCompleted": 384,
+      "corpusVerseTargetsExpected": 6236,
+      "candidateCount": 22,
+      "candidateVerseIds": [
+        "2:102",
+        "2:187",
+        "2:221",
+        "2:222",
+        "2:223",
+        "2:226",
+        "2:227",
+        "2:228",
+        "2:229",
+        "2:230",
+        "2:231",
+        "2:232",
+        "2:234",
+        "2:235",
+        "2:236",
+        "2:237",
+        "2:240",
+        "2:241",
+        "21:90",
+        "23:5",
+        "23:6",
+        "23:7"
+      ],
+      "completeCorpusRetrieval": false
+    },
+    {
+      "topicId": "dirilis",
+      "name": "Diriliş",
+      "corpusVerseTargetsCompleted": 384,
+      "corpusVerseTargetsExpected": 6236,
+      "candidateCount": 12,
+      "candidateVerseIds": [
+        "2:28",
+        "2:73",
+        "2:148",
+        "2:167",
+        "2:203",
+        "2:243",
+        "21:104",
+        "22:5",
+        "22:6",
+        "22:7",
+        "22:66",
+        "23:15"
+      ],
+      "completeCorpusRetrieval": false
+    }
+  ],
+  "partialCandidateMappings": 107,
+  "independentSampleBatches": 5,
+  "independentSampleTargets": 50,
+  "expectedDiagnosticSampleTargets": 50,
+  "sampleMappingDecisions": 325,
+  "sampleRelationshipsNotRejected": 325,
+  "sampleInitialRejectedDecisions": 0,
+  "finalAdjudicatedAcceptedMappings": null,
+  "fullCorpusAnalysisCompleted": false,
+  "globalQualityCompleted": false,
+  "productionEligibleMappings": 0,
+  "unfinishedWork": [
+    "Complete 6236×130 candidate retrieval",
+    "Complete independent 6236-verse classification",
+    "Context validation",
+    "Mapping adjudication",
+    "Complete-set reverse topic audits",
+    "Corpus coverage audit",
+    "All-pair semantic overlap audit",
+    "Ontology-gap discovery",
+    "Final adversarial quality audit"
+  ],
+  "usage": {
+    "calibration": {
+      "requestCount": 17,
+      "successfulRequests": 8,
+      "failedRequests": 5,
+      "uncertainRequests": 4,
+      "retryCount": 4,
+      "jsonSchemaFailureCount": 5,
+      "inputTokens": 657798,
+      "outputTokens": 168925,
+      "cachedInputTokens": 109622,
+      "reasoningTokens": 94468,
+      "requestsWithoutUsage": 5,
+      "longContextRequests": 0,
+      "usageReceipts": [
+        {
+          "stage": "verse",
+          "usage": {
+            "inputTokens": 76769,
+            "outputTokens": 14103,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 8695,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "verse",
+          "usage": {
+            "inputTokens": 82198,
+            "outputTokens": 14483,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 6100,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "verse",
+          "usage": {
+            "inputTokens": 77983,
+            "outputTokens": 11736,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 7847,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 34655,
+            "outputTokens": 7264,
+            "cachedInputTokens": 34652,
+            "reasoningTokens": 5343,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 34655,
+            "outputTokens": 14105,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 7667,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 34655,
+            "outputTokens": 17035,
+            "cachedInputTokens": 34652,
+            "reasoningTokens": 10195,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 40321,
+            "outputTokens": 21833,
+            "cachedInputTokens": 40318,
+            "reasoningTokens": 9272,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 40321,
+            "outputTokens": 19465,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 10658,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "verse",
+          "usage": {
+            "inputTokens": 79389,
+            "outputTokens": 15264,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 8994,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 34295,
+            "outputTokens": 8182,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 5522,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "verse",
+          "usage": {
+            "inputTokens": 80648,
+            "outputTokens": 14399,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 8743,
+            "cacheWriteTokens": null
+          }
+        },
+        {
+          "stage": "retrieval",
+          "usage": {
+            "inputTokens": 41909,
+            "outputTokens": 11056,
+            "cachedInputTokens": 0,
+            "reasoningTokens": 5432,
+            "cacheWriteTokens": null
+          }
+        }
+      ],
+      "byStage": {
+        "verse": {
+          "requests": 5,
+          "inputTokens": 396987,
+          "outputTokens": 69985,
+          "cachedInputTokens": 0
+        },
+        "retrieval": {
+          "requests": 12,
+          "inputTokens": 260811,
+          "outputTokens": 98940,
+          "cachedInputTokens": 109622
+        }
+      },
+      "servedModels": [
+        "gpt-5.6-sol"
+      ],
+      "pollingRequestCount": 0,
+      "providerFailureCodes": []
+    },
+    "directFull": {
+      "requestCount": 4,
+      "successfulRequests": 0,
+      "failedRequests": 4,
+      "uncertainRequests": 0,
+      "retryCount": 0,
+      "jsonSchemaFailureCount": 0,
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cachedInputTokens": 0,
+      "reasoningTokens": 0,
+      "requestsWithoutUsage": 4,
+      "longContextRequests": 0,
+      "usageReceipts": [],
+      "byStage": {
+        "retrieval": {
+          "requests": 4,
+          "inputTokens": 0,
+          "outputTokens": 0,
+          "cachedInputTokens": 0
+        }
+      },
+      "servedModels": [
+        "gpt-5.6-sol"
+      ],
+      "pollingRequestCount": 4,
+      "providerFailureCodes": [
+        "credit_balance_exhausted"
+      ]
+    }
+  },
+  "estimatedEarlierMeasuredCost": {
+    "usdBaseEstimate": 5.6150528,
+    "usdIfAllUncachedInputWereCacheWrites": 6.1632288,
+    "inputPerMillion": 4,
+    "cachedInputPerMillion": 0.4,
+    "outputPerMillion": 20,
+    "priceChecked": "2026-09-17",
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "caveats": [
+      "Estimate, not an invoice; absent usage from failed/uncertain calls may be billable.",
+      "Cache-write quantities may not be exposed; upper scenario applies 1.25x to all uncached input.",
+      "Requests >272K input tokens use 2x input and 1.5x output rates; check per-request receipts before extrapolation.",
+      "No Batch API discount assumed; standard service tier, no tools."
+    ]
+  },
+  "costLimit": "Not an invoice. Earlier interrupted/transport-failed requests without usage may be billable. No cost fabricated for absent provider usage.",
+  "integrity": {
+    "protectedUnchanged": true,
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "textFootnotesAndProvenanceUnchanged": true
+  },
+  "sourceWarningCount": 64,
+  "footnoteWarningCount": 58,
+  "resumeProof": {
+    "mode": "All available compatible successful checkpoints replayed with cacheOnly",
+    "validatedBatches": 8,
+    "newRequests": 0
+  },
+  "publication": {
+    "productionMappingsChanged": false,
+    "uiChanged": false,
+    "esmaGenerated": false,
+    "deployed": false
+  },
+  "validation": "PASS_PARTIAL_CHECKPOINTS_AND_INTEGRITY_ONLY_NOT_COMPLETE_CLASSIFICATION"
+}

@@ -1,0 +1,385 @@
+{
+  "key": "90bf95f9a7d32f345b8abca8ced82df519d16dca0354247cf53ec6b7c3d3d799",
+  "status": "completed",
+  "checksum": "7ffa8b309335a6bc5a8253ac21db1ce1fc72d8490d23028aec8951c568953d11",
+  "result": {
+    "consideredVerseIds": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "1:4",
+      "1:5",
+      "1:6",
+      "1:7",
+      "2:1",
+      "2:2",
+      "2:3",
+      "2:4",
+      "2:5",
+      "2:6",
+      "2:7",
+      "2:8",
+      "2:9",
+      "2:10",
+      "2:11",
+      "2:12",
+      "2:13",
+      "2:14",
+      "2:15",
+      "2:16",
+      "2:17",
+      "2:18",
+      "2:19",
+      "2:20",
+      "2:21",
+      "2:22",
+      "2:23",
+      "2:24",
+      "2:25",
+      "2:26",
+      "2:27",
+      "2:28",
+      "2:29",
+      "2:30",
+      "2:31",
+      "2:32",
+      "2:33",
+      "2:34",
+      "2:35",
+      "2:36",
+      "2:37",
+      "2:38",
+      "2:39",
+      "2:40",
+      "2:41",
+      "2:42",
+      "2:43",
+      "2:44",
+      "2:45",
+      "2:46",
+      "2:47",
+      "2:48",
+      "2:49",
+      "2:50",
+      "2:51",
+      "2:52",
+      "2:53",
+      "2:54",
+      "2:55",
+      "2:56",
+      "2:57",
+      "2:58",
+      "2:59",
+      "2:60",
+      "2:61",
+      "2:62",
+      "2:63",
+      "2:64",
+      "2:65",
+      "2:66",
+      "2:67",
+      "2:68",
+      "2:69",
+      "2:70",
+      "2:71",
+      "2:72",
+      "2:73",
+      "2:74",
+      "2:75",
+      "2:76",
+      "2:77",
+      "2:78",
+      "2:79",
+      "2:80",
+      "2:81",
+      "2:82",
+      "2:83",
+      "2:84",
+      "2:85",
+      "2:86",
+      "2:87",
+      "2:88",
+      "2:89",
+      "2:90",
+      "2:91",
+      "2:92",
+      "2:93",
+      "2:94",
+      "2:95",
+      "2:96",
+      "2:97",
+      "2:98",
+      "2:99",
+      "2:100",
+      "2:101",
+      "2:102",
+      "2:103",
+      "2:104",
+      "2:105",
+      "2:106",
+      "2:107",
+      "2:108",
+      "2:109",
+      "2:110",
+      "2:111",
+      "2:112",
+      "2:113",
+      "2:114",
+      "2:115",
+      "2:116",
+      "2:117",
+      "2:118",
+      "2:119",
+      "2:120",
+      "2:121"
+    ],
+    "consideredTopicIds": [
+      "sabir",
+      "zekat",
+      "adalet",
+      "evlilik",
+      "dirilis"
+    ],
+    "mappings": [
+      {
+        "verseId": "2:28",
+        "topicId": "dirilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:28"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölümün ardından yeniden diriltilme açık ve merkezî biçimde bildirilir."
+      },
+      {
+        "verseId": "2:30",
+        "topicId": "adalet",
+        "relationshipStrength": "contextual",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:30"
+        ],
+        "decision": "candidate",
+        "rationale": "Yönetim sorumluluğu, bozgunculuk ve kan dökme kaygısı adaletle bağ kurar; adil hüküm doğrudan açıklanmaz."
+      },
+      {
+        "verseId": "2:43",
+        "topicId": "zekat",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:43"
+        ],
+        "decision": "candidate",
+        "rationale": "Zekâtın verilmesi açık bir yükümlülük olarak emredilir."
+      },
+      {
+        "verseId": "2:45",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:45"
+        ],
+        "decision": "candidate",
+        "rationale": "Sabır, ağır gelen görev karşısında Allah’tan yardım istemenin doğrudan yolu olarak sunulur; dipnot sebat boyutunu açıklar."
+      },
+      {
+        "verseId": "2:49",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:49"
+        ],
+        "decision": "candidate",
+        "rationale": "İşkence ve oğulların öldürülmesi, kişiler arası temel hakların ağır ihlalidir."
+      },
+      {
+        "verseId": "2:61",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:61"
+        ],
+        "decision": "candidate",
+        "rationale": "Nebilerin haksız yere öldürülmesi, can ve hak gözetiminin açık ihlalidir."
+      },
+      {
+        "verseId": "2:63",
+        "topicId": "sabir",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:63"
+        ],
+        "decision": "candidate",
+        "rationale": "Verilene kuvvetle sarılma ve onu sürekli gözetme, sorumlulukta sebatı destekler."
+      },
+      {
+        "verseId": "2:72",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:72"
+        ],
+        "decision": "candidate",
+        "rationale": "Öldürme ve olayın gizlenmesi anlatısı, adalet konusuna anlamlı fakat dolaylı delil sağlar."
+      },
+      {
+        "verseId": "2:73",
+        "topicId": "dirilis",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:73"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölülerin diriltilmesi açıkça gösterilir; anlatım belirli bir olay bağlamındadır."
+      },
+      {
+        "verseId": "2:83",
+        "topicId": "zekat",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Zekâtın verilmesi kesin söz kapsamındaki açık yükümlülüklerdendir."
+      },
+      {
+        "verseId": "2:84",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:84"
+        ],
+        "decision": "candidate",
+        "rationale": "Kan dökmeme ve insanları yurtlarından çıkarmama yükümlülükleri doğrudan hak gözetimidir."
+      },
+      {
+        "verseId": "2:85",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:85"
+        ],
+        "decision": "candidate",
+        "rationale": "Öldürme, sürgün, düşmanlıkta işbirliği ve kuralların seçmeci uygulanması merkezî hak ihlalleridir."
+      },
+      {
+        "verseId": "2:87",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:87"
+        ],
+        "decision": "candidate",
+        "rationale": "Elçilerin getirdikleri beğenilmediği için öldürülmeleri, can ve hak ihlaline açık örnektir."
+      },
+      {
+        "verseId": "2:91",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:91"
+        ],
+        "decision": "candidate",
+        "rationale": "Nebilerin öldürülmesi eleştirisi, kişiler arası hakların ihlalini destekleyici biçimde gösterir."
+      },
+      {
+        "verseId": "2:102",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:102"
+        ],
+        "decision": "candidate",
+        "rationale": "Karı ile kocanın arasını açmaya yönelik zarar, evlilik ilişkisinin korunmasıyla açıkça ilgilidir."
+      },
+      {
+        "verseId": "2:109",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:109"
+        ],
+        "decision": "candidate",
+        "rationale": "İnançlarından döndürülme girişimi karşısında aldırış etmeme, affetme ve iyi geçinme sabırlı tutumu açıkça yansıtır."
+      },
+      {
+        "verseId": "2:110",
+        "topicId": "zekat",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:110"
+        ],
+        "decision": "candidate",
+        "rationale": "Zekâtın verilmesi doğrudan emredilir ve yapılan iyiliğin karşılığına bağlanır."
+      },
+      {
+        "verseId": "2:114",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:114"
+        ],
+        "decision": "candidate",
+        "rationale": "İbadet yerlerini engellemek ve harap etmeye çalışmak açık bir hak ihlali olarak kınanır."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": [
+      {
+        "verseId": "2:56",
+        "topicId": "dirilis",
+        "kind": "contextSensitive",
+        "note": "Dipnot, ölüm ve diriltme ifadelerinin burada mecazi kullanıldığını belirttiğinden ahiret dirilişi eşlemesi yapılmamalıdır."
+      }
+    ]
+  },
+  "usage": {
+    "inputTokens": 34655,
+    "outputTokens": 7264,
+    "cachedInputTokens": 34652,
+    "reasoningTokens": 5343,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T18:48:11.075Z"
+}

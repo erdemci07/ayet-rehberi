@@ -1,0 +1,20 @@
+{
+  "key": "90bf95f9a7d32f345b8abca8ced82df519d16dca0354247cf53ec6b7c3d3d799",
+  "batchId": "retrieval-000",
+  "stage": "retrieval",
+  "attempt": 2,
+  "timestamp": "2026-09-17T18:42:25.463Z",
+  "status": "failed",
+  "usage": {
+    "inputTokens": 34655,
+    "outputTokens": 17035,
+    "cachedInputTokens": 34652,
+    "reasoningTokens": 10195,
+    "cacheWriteTokens": null
+  },
+  "httpStatus": 200,
+  "responseId": "resp_0d3436b81c3ba5be016aac3491e0dc87d2a5a92c95593eeb00",
+  "servedModel": "gpt-5.6-sol",
+  "schemaFailure": true,
+  "error": "SCHEMA result JSON/coverage validation failed."
+}

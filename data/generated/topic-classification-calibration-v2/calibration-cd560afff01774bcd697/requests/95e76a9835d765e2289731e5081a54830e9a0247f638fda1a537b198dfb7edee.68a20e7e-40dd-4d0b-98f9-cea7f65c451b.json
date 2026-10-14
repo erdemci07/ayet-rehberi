@@ -1,0 +1,10 @@
+{
+  "key": "95e76a9835d765e2289731e5081a54830e9a0247f638fda1a537b198dfb7edee",
+  "batchId": "retrieval-001",
+  "stage": "retrieval",
+  "attempt": 2,
+  "timestamp": "2026-09-17T18:52:51.357Z",
+  "status": "failed",
+  "usage": null,
+  "error": "Transport or local I/O failure (details withheld)."
+}

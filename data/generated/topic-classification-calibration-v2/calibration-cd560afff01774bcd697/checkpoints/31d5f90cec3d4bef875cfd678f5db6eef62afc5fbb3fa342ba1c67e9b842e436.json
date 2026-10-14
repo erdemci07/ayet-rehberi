@@ -1,0 +1,984 @@
+{
+  "key": "31d5f90cec3d4bef875cfd678f5db6eef62afc5fbb3fa342ba1c67e9b842e436",
+  "status": "completed",
+  "checksum": "022b50c8aadc894b166f007ae3a5abd408582c9aa02ab88124260e03e1a6a220",
+  "result": {
+    "consideredVerseIds": [
+      "12:83",
+      "13:3",
+      "18:60",
+      "18:65",
+      "18:82",
+      "19:13",
+      "20:14",
+      "24:32",
+      "30:21",
+      "36:78"
+    ],
+    "consideredTopicIds": [
+      "tevhid",
+      "allah-rahmeti",
+      "allah-ilmi",
+      "allah-kudreti",
+      "allah-adaleti",
+      "allah-yalan",
+      "esma",
+      "iman",
+      "inkar",
+      "sirk",
+      "munafiklik",
+      "takva",
+      "hidayet",
+      "seytan",
+      "melekler",
+      "cinler",
+      "gayb",
+      "din",
+      "din-ozgurlugu",
+      "kisisel-sorumluluk",
+      "tevbe",
+      "vahiy",
+      "kuran-nitelikleri",
+      "kuran-okuma",
+      "kuran-anlama",
+      "vahyin-korunmasi",
+      "metin-carpitma",
+      "muhkem-mutesabih",
+      "nesih",
+      "tasdik",
+      "isr",
+      "dua",
+      "namaz",
+      "namaz-vakitleri",
+      "abdest",
+      "kible",
+      "mescit",
+      "oruc",
+      "hac",
+      "kurban",
+      "kadir",
+      "zikir",
+      "ibadet-ihlasi",
+      "cenaze-baglami",
+      "sabir",
+      "tevekkul",
+      "umit",
+      "korku",
+      "ofke",
+      "huzun",
+      "imtihan",
+      "huzur",
+      "sukur",
+      "dogruluk",
+      "merhamet",
+      "affetme",
+      "tevazu",
+      "kibir",
+      "emanet",
+      "sozlesme",
+      "riya",
+      "ahlaki-ozelestiri",
+      "israf",
+      "evlilik",
+      "ebeveyn",
+      "cocuk",
+      "emzirme",
+      "bosanma",
+      "mahremiyet",
+      "cinsellik",
+      "zina",
+      "akrabalik",
+      "yardimlasma",
+      "baris",
+      "giybet",
+      "alay",
+      "gizli-gorusme",
+      "haber-dogrulama",
+      "zan",
+      "esitlik",
+      "musavere",
+      "toplumsal-gorevler",
+      "din-otoritesi",
+      "yoksulluk",
+      "rizik",
+      "zekat",
+      "infak",
+      "faiz",
+      "ticaret",
+      "borc",
+      "miras",
+      "yetim-hakki",
+      "helal-gida",
+      "icki",
+      "kumar",
+      "adalet",
+      "zulum",
+      "taniklik",
+      "yemin",
+      "iftira",
+      "can-hakki",
+      "kisas",
+      "savas",
+      "ozgurlestirme",
+      "yonetim",
+      "olum",
+      "ahiret",
+      "dirilis",
+      "kiyamet",
+      "hesap",
+      "cennet",
+      "cehennem",
+      "sefaat",
+      "amel-kaydi",
+      "dunya-hayati",
+      "peygamberlik",
+      "teblig",
+      "peygamber-anlatilari",
+      "mucize",
+      "yaratilis",
+      "akil",
+      "bilgi",
+      "insan-yaratilisi",
+      "dogal-duzen",
+      "hayvanlar",
+      "ehli-kitap",
+      "topluluk-akibeti",
+      "sunnetullah",
+      "hicret",
+      "allah-yolunda-olum",
+      "sabir--musibet-karsisinda-sabir",
+      "sabir--sorumlulukta-sebat",
+      "sabir--haksizlik-karsisinda-sabir",
+      "dua--yardim-ve-bagislanma-dilemek",
+      "dua--peygamberlerin-dualari",
+      "dua--dua-ve-yakinlik",
+      "namaz--namaza-devam-etmek",
+      "namaz--namaz-ve-toplumsal-sorumluluk",
+      "oruc--ramazan-orucu",
+      "oruc--telafi-ve-kefaret-baglami",
+      "hac--hac-ve-umre",
+      "hac--hacda-sinirlar",
+      "evlilik--eslerin-karsilikli-haklari",
+      "evlilik--nikahin-sinirlari",
+      "bosanma--bekleme-suresi",
+      "bosanma--ayrilikta-adil-davranmak",
+      "infak--ihtiyac-sahibine-paylasim",
+      "infak--gosterissiz-yardim",
+      "miras--miras-paylari",
+      "miras--vasiyet-sorumlulugu",
+      "yetim-hakki--yetim-malinin-korunmasi",
+      "ticaret--olcu-ve-tarti",
+      "borc--borcun-kayda-alinmasi",
+      "savas--savasta-sinir-ve-baris",
+      "can-hakki--haksiz-yere-oldurme",
+      "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "kiyamet--son-saatin-bilinmezligi",
+      "hesap--eylemlerin-karsiligi",
+      "amel-kaydi--eylemleri-kaydeden-melekler",
+      "amel-kaydi--hesapta-sunulan-kayit",
+      "akil--yaratilis-uzerinde-dusunmek",
+      "akil--vahiy-uzerinde-dusunmek",
+      "teblig--elcinin-bildirme-gorevi",
+      "teblig--hikmetli-davet",
+      "merhamet--insanlara-sefkat"
+    ],
+    "mappings": [
+      {
+        "verseId": "12:83",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Zorluk karşısında güzelce sabretme, ayetin merkezî tutumudur."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "sabir--musibet-karsisinda-sabir",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:83",
+          "12:84"
+        ],
+        "decision": "candidate",
+        "rationale": "Komşu ayette belirginleşen kayıp ve keder bağlamında sabır açıkça benimsenir."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "umit",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'ın ayrılanları yeniden kavuşturacağına yönelik açık umut vardır."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "tevekkul",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Sabırla birlikte sonucun Allah'tan beklenmesi, Allah'a dayanmayı destekler."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah açıkça Her Şeyi Bilen olarak nitelenir."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:83"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah için açık ilahi sıfatlar bildirilir."
+      },
+      {
+        "verseId": "12:83",
+        "topicId": "huzun",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:83",
+          "12:84"
+        ],
+        "decision": "candidate",
+        "rationale": "Hüzün komşu ayette açıklanır; hedef ayet bu kedere sabır ve umutla karşılık verir."
+      },
+      {
+        "verseId": "13:3",
+        "topicId": "yaratilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "13:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Yeryüzü, dağlar, nehirler, meyveler ve gece-gündüz yaratılış işaretleri olarak sunulur."
+      },
+      {
+        "verseId": "13:3",
+        "topicId": "akil",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "13:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Yaratılış göstergeleri üzerinde tefekkür eden topluma açıkça dikkat çekilir."
+      },
+      {
+        "verseId": "13:3",
+        "topicId": "akil--yaratilis-uzerinde-dusunmek",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "13:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Düşünme çağrısının nesnesi doğrudan yaratılış ve doğadaki işaretlerdir."
+      },
+      {
+        "verseId": "13:3",
+        "topicId": "dogal-duzen",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "13:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Gece-gündüz ilişkisi ile yeryüzündeki düzenli oluşumlar açıkça anlatılır."
+      },
+      {
+        "verseId": "13:3",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "13:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Doğadaki oluşumları yapanın Allah olduğu ve bunların O'nun gücünün işaretleri olduğu belirtilir."
+      },
+      {
+        "verseId": "18:60",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Musa'nın belirli bir hedefe yönelik yolculuğunu başlatan anlatısal bir olaydır."
+      },
+      {
+        "verseId": "18:60",
+        "topicId": "bilgi",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:60",
+          "18:65",
+          "18:66"
+        ],
+        "decision": "candidate",
+        "rationale": "Sonraki ayetler yolculuğun öğretilen doğru yol bilgisini edinme amacı taşıdığını açıklar."
+      },
+      {
+        "verseId": "18:60",
+        "topicId": "hidayet",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:60",
+          "18:65",
+          "18:66"
+        ],
+        "decision": "candidate",
+        "rationale": "Fiziksel yolculuk, sonraki ayette doğru yoldan gitme bilgisini öğrenme arayışı olarak belirginleşir."
+      },
+      {
+        "verseId": "18:60",
+        "topicId": "sabir",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedefe ulaşıncaya kadar uzun süre devam etme kararlılığı sebatı destekler."
+      },
+      {
+        "verseId": "18:65",
+        "topicId": "allah-rahmeti",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:65"
+        ],
+        "decision": "candidate",
+        "rationale": "Kulun kendisine Allah katından rahmet verildiği doğrudan bildirilir."
+      },
+      {
+        "verseId": "18:65",
+        "topicId": "bilgi",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:65"
+        ],
+        "decision": "candidate",
+        "rationale": "Bir kula Allah tarafından ilim öğretilmesi ayetin merkezî unsurlarındandır."
+      },
+      {
+        "verseId": "18:65",
+        "topicId": "hidayet",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:65",
+          "18:66"
+        ],
+        "decision": "candidate",
+        "rationale": "Verilen ilmin doğru yoldan gitme bilgisi olduğu sonraki ayette açıklanır."
+      },
+      {
+        "verseId": "18:65",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:64",
+          "18:65",
+          "18:66"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet, Musa'nın kendisine ilim verilen kul ile karşılaşmasının asli bölümüdür."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "yetim-hakki",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "İki yetimin servetinin erginlik dönemlerine kadar korunması doğrudan konu edilir."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "yetim-hakki--yetim-malinin-korunmasi",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "Duvarın korunma gerekçesi, yetimlere ait servetin güvence altında tutulmasıdır."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "cocuk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "Yetimlerin erginliğe erişinceye kadarki maddi yararı ve korunması açıkça gözetilir."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "allah-rahmeti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "Servetin korunup sahiplerine ulaşması Rabb'lerinden bir rahmet olarak nitelenir."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "Anlatılan olaylar karşısında sabretmeye güç yetirememe açıkça değerlendirilir."
+      },
+      {
+        "verseId": "18:82",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "18:81",
+          "18:82"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayet, Musa'ya açıklanan olayların gerekçelerini vererek anlatı bölümünü tamamlar."
+      },
+      {
+        "verseId": "19:13",
+        "topicId": "takva",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "19:13"
+        ],
+        "decision": "candidate",
+        "rationale": "Takva açıkça Yahya'nın niteliği olarak bildirilir; dipnot Allah'ın buyruklarına içten bağlılığı açıklar."
+      },
+      {
+        "verseId": "19:13",
+        "topicId": "merhamet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "19:13"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsana verilen yumuşak kalplilik, merhametli kişilik niteliğini doğrudan destekler."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "tevhid",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'tan başka ilah bulunmadığı doğrudan ve merkezî biçimde bildirilir."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "sirk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Başka ilahların reddi ve kulluğun yalnız Allah'a yöneltilmesi ortak koşmayı dışlar."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "ibadet-ihlasi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Kulluğun yalnız Allah'a yöneltilmesi ibadette içten ve tek yönlü bağlılığı açıkça destekler."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "din",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Tek ilaha kulluk emri, kulluk düzenine ilişkin açık bir ifadedir."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "vahiy",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "20:13",
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayet vahyin dinlenmesini emreder; hedef ayetin dipnotu öğüdün vahiy olduğunu belirtir."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "teblig",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "20:13",
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnot, salât emrini vahyin duyulmasına destek ve gayret olarak açıklar."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "teblig--elcinin-bildirme-gorevi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "20:13",
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Nebi olarak seçilme bağlamında vahyin duyulmasına destek görevi verilir."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "peygamberlik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "20:13",
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayet ve dipnot Musa'nın nebi olarak seçildiğini, hedef ayet ise görevlerini bildirir."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "20:13",
+          "20:14"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayet, seçilen nebiye tevhid, kulluk ve vahyi destekleme görevlerinin verildiği anlatının parçasıdır."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Bekârların ve uygun kişilerin evlendirilmesi doğrudan emredilir."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "evlilik--nikahin-sinirlari",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Nikâhın kimler için teşvik edildiği ve ahlaki uygunluk şartı açıkça belirtilir."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "ozgurlestirme",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Köle ve cariyelerin evlilik hakkı, tarihsel kölelik bağlamında açıkça ele alınır."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah açıkça Her Şeyi Bilen olarak nitelenir."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah için Yardımı Çok Kapsamlı Olan ve Her Şeyi Bilen sıfatları kullanılır."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "yardimlasma",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Topluluğa bekârların evlenmesine etkin biçimde destek olma sorumluluğu verilir."
+      },
+      {
+        "verseId": "24:32",
+        "topicId": "toplumsal-gorevler",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "24:32"
+        ],
+        "decision": "candidate",
+        "rationale": "Evliliğin kolaylaştırılması bireylere bırakılmayıp topluluğa yöneltilen bir görev olarak bildirilir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşlerin yaratılması ve eş ilişkisindeki huzur, sevgi ve rahmet ayetin merkezidir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "huzur",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşle dinginleşme ve huzur bulma açıkça konu edilir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "merhamet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşler arasında karşılıklı rahmet oluşturulması açıkça bildirilir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "merhamet--insanlara-sefkat",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Rahmetin insanlar arasında ve karşılıklı eş ilişkisi içinde bulunduğu açıkça belirtilir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "yaratilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsan için kendi cinsinden eş yaratılması ilahi bir işaret olarak sunulur."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşlerin yaratılması ve aralarında sevgi ile rahmet oluşturulması Allah'ın fiilleri olarak anlatılır."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "akil",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Bu yaratılış ve ilişki düzeninin düşünen toplum için işaret olduğu açıkça belirtilir."
+      },
+      {
+        "verseId": "30:21",
+        "topicId": "akil--yaratilis-uzerinde-dusunmek",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "30:21"
+        ],
+        "decision": "candidate",
+        "rationale": "Düşünme çağrısı, eşlerin yaratılması ve aralarındaki ilişkinin ilahi işaret oluşuna yöneliktir."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "dirilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "36:78"
+        ],
+        "decision": "candidate",
+        "rationale": "Çürümüş kemiklerin yeniden canlandırılması sorusu doğrudan ölüm sonrası dirilişi konu eder."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "ahiret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "36:78"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölümden sonra yeniden hayat bulma tartışması açık bir ahiret bağlamı kurar."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "inkar",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:77",
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Diriliş imkânı alaycı bir itirazla reddedilir; komşu ayetler bu inkâra cevap verir."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet yeniden yaratma gücünü sorgular; sonraki ayet ilk yaratmayı diriliş kudretine delil gösterir."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "yaratilis",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:77",
+          "36:78",
+          "36:79"
+        ],
+        "decision": "candidate",
+        "rationale": "İlk yaratılışın dikkate alınmaması eleştirilir ve dirilişe kanıt olarak yaratılış bağlamı kurulur."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "insan-yaratilisi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:77",
+          "36:78"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsan kendi yaratılışını dikkate almamakla eleştirilir; önceki ayet başlangıcını açıklar."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "akil",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:77",
+          "36:78"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanın kendi yaratılışını düşünmeden dirilişe itiraz etmesi eleştirel akıl yürütme bağlamıdır."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "akil--yaratilis-uzerinde-dusunmek",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "36:77",
+          "36:78"
+        ],
+        "decision": "candidate",
+        "rationale": "Diriliş itirazına karşı insanın ilk yaratılışını dikkate alması beklenir."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": [
+      {
+        "verseId": "13:3",
+        "topicId": "evlilik",
+        "kind": "contextSensitive",
+        "note": "İkili eşler ifadesi meyveler ve doğal yaratılış hakkındadır; evlilik sözleşmesinin dışlama hükmü uygulanmalıdır."
+      },
+      {
+        "verseId": "18:60",
+        "topicId": "hidayet",
+        "kind": "contextSensitive",
+        "note": "Hedef ayet tek başına fiziksel yolculuk anlatır; hidayet ilişkisi ancak 18:66'daki doğru yol bilgisiyle kurulur."
+      },
+      {
+        "verseId": "19:13",
+        "topicId": "zekat",
+        "kind": "contextSensitive",
+        "note": "Çevirmen dipnotu buradaki zekâtı arınma ve temizlik olarak açıklar; açık zekât yükümlülüğü bulunmaz."
+      },
+      {
+        "verseId": "20:14",
+        "topicId": "namaz",
+        "kind": "contextSensitive",
+        "note": "Çevirmen dipnotu salâtı namaz değil, öğüdün veya vahyin duyulmasına destek olarak yorumlar; namaz eşlemesi yapılmamıştır."
+      },
+      {
+        "verseId": "36:78",
+        "topicId": "allah-kudreti",
+        "kind": "contextSensitive",
+        "note": "Hedef ayet kudreti sorgulayan itirazdır; olumlu kudret ilişkisi 36:79'daki cevapla kesinleşir."
+      }
+    ]
+  },
+  "usage": {
+    "inputTokens": 80648,
+    "outputTokens": 14399,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 8743,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_031e6f0244c69ff1016aac38391cb887d29699bbd6d984b9a5",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T19:01:13.957Z",
+  "importedFrom": {
+    "cacheKey": "c168a7c688c9e592466ba0dd9f5668b8725fdd331ace5c6d1b0859d63cdb8a26",
+    "responseId": "resp_031e6f0244c69ff1016aac38391cb887d29699bbd6d984b9a5",
+    "reason": "Same semantic inputs; original paid response independently passes stricter ID/cardinality/stage schema. No new API request."
+  }
+}

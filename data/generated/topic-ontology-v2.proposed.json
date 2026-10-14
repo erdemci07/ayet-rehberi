@@ -1,0 +1,4990 @@
+{
+  "version": "2.0.0-proposed.1",
+  "status": "proposed",
+  "provenance": {
+    "origin": "editorial-proposal",
+    "corpusSha256": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "corpusVersesConsidered": 6236,
+    "source": "source-topics.json name references only",
+    "finalClassificationExecuted": false
+  },
+  "domains": [
+    {
+      "id": "allah",
+      "name": "Allah inancı",
+      "description": "Allah'ın birliği, sıfatları ve insanın Allah ile ilişkisi.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "iman",
+      "name": "İman ve sorumluluk",
+      "description": "İnanç, özgür tercih ve insanın manevi sorumluluğu.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "vahiy",
+      "name": "Kur’an ve vahiy",
+      "description": "Vahyin niteliği, okunması, anlaşılması ve korunması.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "kulluk",
+      "name": "İbadet ve kulluk",
+      "description": "İbadetlerin Kur’an'daki bağlamı ve Allah'a yöneliş.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "ic-dunya",
+      "name": "İç dünya",
+      "description": "Duygular, dayanıklılık ve insanın iç tutumları; klinik kategoriler değildir.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "ahlak",
+      "name": "Ahlak ve karakter",
+      "description": "Dürüstlük, tevazu, özdenetim ve kişisel tutumlar.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "aile",
+      "name": "Aile ve yakın ilişkiler",
+      "description": "Evlilik, ebeveynlik, çocuklar ve yakınların hakları.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "toplum",
+      "name": "Toplumsal ilişkiler",
+      "description": "Birlikte yaşama, iletişim ve karşılıklı sorumluluklar.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "ekonomi",
+      "name": "Mal ve geçim",
+      "description": "Mülkiyet, paylaşım, borç, ticaret ve maddi sorumluluklar.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "adalet",
+      "name": "Adalet ve haklar",
+      "description": "Hak, tanıklık, zarar, yaptırım ve güç kullanımı.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "ahiret",
+      "name": "Ölüm ve ahiret",
+      "description": "Ölüm, diriliş, hesap ve ölüm sonrası hayata dair anlatımlar.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "peygamberler",
+      "name": "Peygamberlik ve tebliğ",
+      "description": "Elçilerin görevleri ve anlatılardan çıkarılan konu bağları.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "yaratilis",
+      "name": "Yaratılış ve düşünme",
+      "description": "Doğa, insanın yaratılışı ve akıl yürütme.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    },
+    {
+      "id": "tarih",
+      "name": "Topluluklar ve tarihsel bağlam",
+      "description": "Kur’an'da topluluklar, tarihsel olaylar ve sosyal süreçler.",
+      "status": "proposed",
+      "version": "2.0.0-proposed.1"
+    }
+  ],
+  "topics": [
+    {
+      "id": "tevhid",
+      "slug": "tevhid",
+      "name": "Tevhid",
+      "description": "Allah'ın birliğini ve ortak kabul etmemeyi doğrudan konu eden anlatımlar.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "Allah'ın birliği",
+        "tek ilah"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın birliğini ve ortak kabul etmemeyi doğrudan konu eden anlatımlar.",
+      "exclusion": "Her Allah sözcüğü geçişi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-rahmeti",
+      "slug": "allah-rahmeti",
+      "name": "Allah'ın rahmeti",
+      "description": "Allah'ın rahmetini ve rahmetten umut kesmemeyi konu eden ifadeler.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "rahmet",
+        "Allah'ın merhameti"
+      ],
+      "everydayIntents": [
+        "umudumu-kaybediyorum"
+      ],
+      "relatedTopicIds": [
+        "dua",
+        "tevbe"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın rahmetini ve rahmetten umut kesmemeyi konu eden ifadeler.",
+      "exclusion": "İnsanlar arası merhamet tek başına yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-ilmi",
+      "slug": "allah-ilmi",
+      "name": "Allah'ın bilgisi",
+      "description": "Allah'ın açık ve gizli olanı bilmesi hakkındaki anlatımlar.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "Allah bilir",
+        "gaybı bilen"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın açık ve gizli olanı bilmesi hakkındaki anlatımlar.",
+      "exclusion": "İnsan bilgisi ve tahminleri ayrı konudur.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-kudreti",
+      "slug": "allah-kudreti",
+      "name": "Allah'ın kudreti",
+      "description": "Yaratma ve hükümranlığın Allah'a ait oluşunu konu eden ifadeler.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "her şeye gücü",
+        "güç yetiren"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yaratma ve hükümranlığın Allah'a ait oluşunu konu eden ifadeler.",
+      "exclusion": "Her güç veya yönetici ifadesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-adaleti",
+      "slug": "allah-adaleti",
+      "name": "Allah'ın adaleti",
+      "description": "Allah'ın kimseye haksızlık etmeyişi ve adil karşılık hakkındaki ifadeler.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "Allah haksızlık",
+        "zerre kadar"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın kimseye haksızlık etmeyişi ve adil karşılık hakkındaki ifadeler.",
+      "exclusion": "İnsanların yargı uygulamaları ayrı değerlendirilir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-yalan",
+      "slug": "allah-yalan",
+      "name": "Allah hakkında yalan uydurmak",
+      "description": "Allah'a dayanaksız söz veya hüküm isnadı.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "Allah hakkında yalan",
+        "Allah'a iftira"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Allah hakkında yalan uydurmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a dayanaksız söz veya hüküm isnadı.",
+      "exclusion": "Genel yalan ifadesi yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1036"
+        ]
+      }
+    },
+    {
+      "id": "esma",
+      "slug": "esma",
+      "name": "Allah'ın isimleri",
+      "description": "Allah'ın isimleriyle anılması ve açık ilahi sıfatlar.",
+      "domainId": "allah",
+      "parentTopicId": null,
+      "aliases": [
+        "en güzel isimler",
+        "isimleri"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın isimleriyle anılması ve açık ilahi sıfatlar.",
+      "exclusion": "Bir 99 isim listesini veya tekrar sayısı vaadini doğrulamaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "iman",
+      "slug": "iman",
+      "name": "İman",
+      "description": "İnanma, imanın gerekleri ve inanç tutumunun açıkça konu edilmesi.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "iman",
+        "inanan"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnanma, imanın gerekleri ve inanç tutumunun açıkça konu edilmesi.",
+      "exclusion": "Her kişi veya topluluk otomatik iman konusu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "inkar",
+      "slug": "inkar",
+      "name": "İnkâr",
+      "description": "Vahyi veya Allah inancını reddetme tutumu.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "inkar",
+        "inkâr"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyi veya Allah inancını reddetme tutumu.",
+      "exclusion": "Metindeki her itiraz dini inkâr değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sirk",
+      "slug": "sirk",
+      "name": "Şirk",
+      "description": "Allah'a ortak koşma ve yaratılmışı ilahlaştırma.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "ortak koş",
+        "şirk"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a ortak koşma ve yaratılmışı ilahlaştırma.",
+      "exclusion": "Mecazi gündelik ortaklık dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "munafiklik",
+      "slug": "munafiklik",
+      "name": "İkiyüzlülük ve münafıklık",
+      "description": "İnanç beyanı ile tutum arasındaki bilinçli çelişki.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "münafık",
+        "ikiyüzlü"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnanç beyanı ile tutum arasındaki bilinçli çelişki.",
+      "exclusion": "Her hata veya iman zayıflığı münafıklık değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "takva",
+      "slug": "takva",
+      "name": "Takva",
+      "description": "Allah'a karşı sorumluluk bilinci ve korunma tutumu.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "takva",
+        "sorumluluk bilinci"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a karşı sorumluluk bilinci ve korunma tutumu.",
+      "exclusion": "Genel korku veya her sakınma yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "hidayet",
+      "slug": "hidayet",
+      "name": "Hidayet",
+      "description": "Doğru yola yönelme ve rehberlik.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "doğru yol",
+        "hidayet"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Doğru yola yönelme ve rehberlik.",
+      "exclusion": "Fiziksel yolculuk tek başına dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "seytan",
+      "slug": "seytan",
+      "name": "Şeytan ve vesvese",
+      "description": "İblis, şeytan ve yanıltıcı fısıltının açıkça konu edildiği anlatımlar.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "şeytan",
+        "İblis",
+        "vesvese"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İblis, şeytan ve yanıltıcı fısıltının açıkça konu edildiği anlatımlar.",
+      "exclusion": "İnsanların her hatası şeytan etkisi olarak etiketlenmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "melekler",
+      "slug": "melekler",
+      "name": "Melekler",
+      "description": "Meleklerin metinde bildirilen görevleri ve insanlarla ilişkileri.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "melek",
+        "melekler"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Meleklerin metinde bildirilen görevleri ve insanlarla ilişkileri.",
+      "exclusion": "Her elçi veya haberci melek değildir; görevler bağlamdan doğrulanır.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "cinler",
+      "slug": "cinler",
+      "name": "Cinler",
+      "description": "Cinlerden söz eden anlatımlar ve onların sorumluluğu.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "cin",
+        "cinler"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Cinlerden söz eden anlatımlar ve onların sorumluluğu.",
+      "exclusion": "Sağlık sorunları veya gündelik olaylar cinlere isnat edilmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "gayb",
+      "slug": "gayb",
+      "name": "Gayb",
+      "description": "İnsan bilgisinin ötesi ve gayb bilgisinin sınırları.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "gayb",
+        "görünmeyen"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsan bilgisinin ötesi ve gayb bilgisinin sınırları.",
+      "exclusion": "Her gizli görüşme veya bilinmeyen günlük bilgi gayb değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "din",
+      "slug": "din",
+      "name": "Din",
+      "description": "Din, kulluk düzeni ve inanç tercihi hakkındaki açık ifadeler.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "din",
+        "inanç yolu"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Din"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Din, kulluk düzeni ve inanç tercihi hakkındaki açık ifadeler.",
+      "exclusion": "Sözcüğün hesap/karşılık anlamı bağlamla ayrıştırılır.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2057"
+        ]
+      }
+    },
+    {
+      "id": "din-ozgurlugu",
+      "slug": "din-ozgurlugu",
+      "name": "İnançta özgür tercih",
+      "description": "İnançta zorlama olmaması ve inanç farklılığına saygı.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "dinde zorlama",
+        "inançlara saygı"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Dinde zorlama",
+        "İnançlara saygı"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnançta zorlama olmaması ve inanç farklılığına saygı.",
+      "exclusion": "Her savaş ayeti bu başlığa otomatik bağlanmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1028",
+          "1035"
+        ]
+      }
+    },
+    {
+      "id": "kisisel-sorumluluk",
+      "slug": "kisisel-sorumluluk",
+      "name": "Kişisel sorumluluk",
+      "description": "Kişinin kendi eylemleri ve başkasının yükünü taşımaması.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "başkasının günahı",
+        "kendi yaptıkları"
+      ],
+      "everydayIntents": [
+        "hata-yaptim-donmek-istiyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Başkasının günahını üstlenme"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kişinin kendi eylemleri ve başkasının yükünü taşımaması.",
+      "exclusion": "Maddi borcu üstlenmekle karıştırılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1034"
+        ]
+      }
+    },
+    {
+      "id": "tevbe",
+      "slug": "tevbe",
+      "name": "Tövbe",
+      "description": "Yanlıştan dönme ve Allah'tan bağışlanma isteme.",
+      "domainId": "iman",
+      "parentTopicId": null,
+      "aliases": [
+        "tövbe",
+        "tevbe",
+        "günah sonrası dönüş"
+      ],
+      "everydayIntents": [
+        "hata-yaptim-donmek-istiyorum"
+      ],
+      "relatedTopicIds": [
+        "dua",
+        "allah-rahmeti"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yanlıştan dönme ve Allah'tan bağışlanma isteme.",
+      "exclusion": "Her bağışlama eylemi tövbe değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "vahiy",
+      "slug": "vahiy",
+      "name": "Vahiy",
+      "description": "Allah'tan gelen bildirim ve vahyin rehberlik niteliği.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "vahiy",
+        "indirdiğimiz"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "kuran-anlama",
+        "metin-carpitma"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'tan gelen bildirim ve vahyin rehberlik niteliği.",
+      "exclusion": "Her kitap veya yazı vahiy değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "kuran-nitelikleri",
+      "slug": "kuran-nitelikleri",
+      "name": "Kur’an'ın nitelikleri",
+      "description": "Kur’an'ın rehberlik, açıklık ve uyarı niteliği.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "Kur'an",
+        "rehber kitap"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kuran'ın Özellikleri"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kur’an'ın rehberlik, açıklık ve uyarı niteliği.",
+      "exclusion": "Genel kitap sözcüğü yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2045"
+        ]
+      }
+    },
+    {
+      "id": "kuran-okuma",
+      "slug": "kuran-okuma",
+      "name": "Kur’an okumak ve dinlemek",
+      "description": "Kur’an'ın okunması, dinlenmesi ve okuma tutumu.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "Kur'an okumak",
+        "Kur'an dinlemek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kur'an dinlemek - okumak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kur’an'ın okunması, dinlenmesi ve okuma tutumu.",
+      "exclusion": "Başka metin veya herhangi bir ses dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1027"
+        ]
+      }
+    },
+    {
+      "id": "kuran-anlama",
+      "slug": "kuran-anlama",
+      "name": "Kur’an üzerinde düşünmek",
+      "description": "Vahyi anlamak ve üzerinde düşünmek.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "ayetleri düşünmek",
+        "Kur'an'ı anlamak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "vahiy",
+        "metin-carpitma"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyi anlamak ve üzerinde düşünmek.",
+      "exclusion": "Her düşünme ayeti vahiy düşünmesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "vahyin-korunmasi",
+      "slug": "vahyin-korunmasi",
+      "name": "Vahyin korunması",
+      "description": "Vahyin muhafazası ve korunması hakkında açık ifadeler.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "koruyucusu",
+        "koruyacağız"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Ayetlerin korunması"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyin muhafazası ve korunması hakkında açık ifadeler.",
+      "exclusion": "Bütün korunma ifadeleri kutsal metinle ilgili değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1030"
+        ]
+      }
+    },
+    {
+      "id": "metin-carpitma",
+      "slug": "metin-carpitma",
+      "name": "Vahyi çarpıtmak",
+      "description": "Vahyi gizlemek, anlamını veya isnadını bozmak.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "ayetleri çarpıtmak",
+        "kitabı gizlemek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "vahiy",
+        "kuran-anlama"
+      ],
+      "sourceTopicNames": [
+        "Kur'an'ı-Ayetleri çarpıtmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyi gizlemek, anlamını veya isnadını bozmak.",
+      "exclusion": "Sadece ayet/kitap kelimesi eşleşmesi yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2038"
+        ]
+      }
+    },
+    {
+      "id": "muhkem-mutesabih",
+      "slug": "muhkem-mutesabih",
+      "name": "Muhkem ve müteşabih",
+      "description": "Vahyin muhkem/müteşabih niteliği ve anlama bağlamı.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "muhkem",
+        "müteşabih"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Muhkem-Müteşabih"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyin muhkem/müteşabih niteliği ve anlama bağlamı.",
+      "exclusion": "Çeviri farklılığı tek başına bu konu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2050"
+        ]
+      }
+    },
+    {
+      "id": "nesih",
+      "slug": "nesih",
+      "name": "Nesih ve ayet değişimi tartışması",
+      "description": "Ayetin kaldırılması/değişimi olarak yorumlanan ifadeler ve bağlamları.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "nesih",
+        "unuttur"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Nesih"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ayetin kaldırılması/değişimi olarak yorumlanan ifadeler ve bağlamları.",
+      "exclusion": "Tartışmalı yorum kesin hüküm olarak sunulmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2060"
+        ]
+      }
+    },
+    {
+      "id": "tasdik",
+      "slug": "tasdik",
+      "name": "Tasdik",
+      "description": "Vahyin önceki bildirimleri doğrulaması.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "tasdik",
+        "doğrulayan"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Tasdik"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Vahyin önceki bildirimleri doğrulaması.",
+      "exclusion": "Gündelik doğrulama ve tanıklık ayrı değerlendirilir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2058"
+        ]
+      }
+    },
+    {
+      "id": "isr",
+      "slug": "isr",
+      "name": "Isr ve yükümlülük bağlamı",
+      "description": "Ağır yük veya ahit bağlamındaki isr kavramı.",
+      "domainId": "vahiy",
+      "parentTopicId": null,
+      "aliases": [
+        "ısr",
+        "ağır yük"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Isr"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ağır yük veya ahit bağlamındaki isr kavramı.",
+      "exclusion": "Her bedensel yük kavramı dahil değildir; çeviri tartışması incelenir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2059"
+        ]
+      }
+    },
+    {
+      "id": "dua",
+      "slug": "dua",
+      "name": "Dua",
+      "description": "Allah'a yöneliş, yakarış ve yardım isteme.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "dua",
+        "yardım istemek",
+        "niyaz"
+      ],
+      "everydayIntents": [
+        "biraz-huzur-ariyorum",
+        "kendimi-yalniz-hissediyorum"
+      ],
+      "relatedTopicIds": [
+        "tevbe",
+        "allah-rahmeti"
+      ],
+      "sourceTopicNames": [
+        "Dua"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a yöneliş, yakarış ve yardım isteme.",
+      "exclusion": "İnsanlardan her yardım talebi dua değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "023"
+        ]
+      }
+    },
+    {
+      "id": "namaz",
+      "slug": "namaz",
+      "name": "Namaz",
+      "description": "Salat/namaz ibadeti ve ona ilişkin sorumluluklar.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "namaz",
+        "salat"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "abdest",
+        "kible",
+        "mescit"
+      ],
+      "sourceTopicNames": [
+        "Namaz"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Salat/namaz ibadeti ve ona ilişkin sorumluluklar.",
+      "exclusion": "Çeviride salatın bağlamsal anlamı incelenir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "014"
+        ]
+      }
+    },
+    {
+      "id": "namaz-vakitleri",
+      "slug": "namaz-vakitleri",
+      "name": "Namaz vakitleri",
+      "description": "Namazın zamanına ilişkin ifadeler.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "namaz vakitleri",
+        "günün iki ucu"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Namaz vakitleri"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Namazın zamanına ilişkin ifadeler.",
+      "exclusion": "Her gece/gündüz ifadesi namaz vakti değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2048"
+        ]
+      }
+    },
+    {
+      "id": "abdest",
+      "slug": "abdest",
+      "name": "İbadet için temizlik",
+      "description": "Namaz öncesi yıkanma, abdest ve teyemmüm.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "abdest",
+        "teyemmüm"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "namaz",
+        "kible",
+        "mescit"
+      ],
+      "sourceTopicNames": [
+        "Abdest"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Namaz öncesi yıkanma, abdest ve teyemmüm.",
+      "exclusion": "Genel ahlaki arınma aynı şey değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "012"
+        ]
+      }
+    },
+    {
+      "id": "kible",
+      "slug": "kible",
+      "name": "Kıble",
+      "description": "İbadette yöneliş ve kıble değişimi.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "kıble",
+        "yüzünü çevir"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "namaz",
+        "abdest",
+        "mescit"
+      ],
+      "sourceTopicNames": [
+        "Kıble"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İbadette yöneliş ve kıble değişimi.",
+      "exclusion": "Her yüz/yön ifadesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1029"
+        ]
+      }
+    },
+    {
+      "id": "mescit",
+      "slug": "mescit",
+      "name": "Mescit",
+      "description": "Mescitler ve ibadet mekânlarının sorumluluğu.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "mescit",
+        "cami"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "namaz",
+        "abdest",
+        "kible"
+      ],
+      "sourceTopicNames": [
+        "Cami - Mescit"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Mescitler ve ibadet mekânlarının sorumluluğu.",
+      "exclusion": "Her bina mescit değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1024"
+        ]
+      }
+    },
+    {
+      "id": "oruc",
+      "slug": "oruc",
+      "name": "Oruç",
+      "description": "Oruç, Ramazan ve oruçla ilişkili yükümlülükler.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "oruç",
+        "Ramazan",
+        "imsak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Ramazan'da oruç"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Oruç, Ramazan ve oruçla ilişkili yükümlülükler.",
+      "exclusion": "Her susma veya açlık otomatik oruç değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "018"
+        ]
+      }
+    },
+    {
+      "id": "hac",
+      "slug": "hac",
+      "name": "Hac",
+      "description": "Hac, umre ve ilgili mekân/ibadet bağlamları.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "hac",
+        "umre",
+        "Kâbe"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Hac"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Hac, umre ve ilgili mekân/ibadet bağlamları.",
+      "exclusion": "Her kurban veya yolculuk hac değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "016"
+        ]
+      }
+    },
+    {
+      "id": "kurban",
+      "slug": "kurban",
+      "name": "Kurban",
+      "description": "İbadet bağlamında kurban ve sunu.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "kurban",
+        "sunu"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kurban"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İbadet bağlamında kurban ve sunu.",
+      "exclusion": "Genel öldürme ve et tüketimi ayrı konudur.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "019"
+        ]
+      }
+    },
+    {
+      "id": "kadir",
+      "slug": "kadir",
+      "name": "Kadir gecesi",
+      "description": "Kadir gecesinin vahiy bağlamı.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "Kadir gecesi"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kadir gecesi"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kadir gecesinin vahiy bağlamı.",
+      "exclusion": "Genel gece veya ilahi kudret ifadesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "017"
+        ]
+      }
+    },
+    {
+      "id": "zikir",
+      "slug": "zikir",
+      "name": "Allah'ı anmak",
+      "description": "Allah'ı anma ve hatırlama.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "zikir",
+        "Allah'ı anmak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ı anma ve hatırlama.",
+      "exclusion": "Her hatırlama Allah'ı anma değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ibadet-ihlasi",
+      "slug": "ibadet-ihlasi",
+      "name": "Kullukta içtenlik",
+      "description": "İbadette samimiyet ve gösterişten kaçınma.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "içtenlik",
+        "ibadette samimiyet"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İbadette samimiyet ve gösterişten kaçınma.",
+      "exclusion": "Genel doğruluk ayrı konudur.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "cenaze-baglami",
+      "slug": "cenaze-baglami",
+      "name": "Ölüm karşısında dua ve görevler",
+      "description": "Ölüler için dua/namaz ifadelerinin tarihsel bağlamları.",
+      "domainId": "kulluk",
+      "parentTopicId": null,
+      "aliases": [
+        "ölüler için dua",
+        "cenaze namazı"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Cenaze namazı"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ölüler için dua/namaz ifadelerinin tarihsel bağlamları.",
+      "exclusion": "Kur’an'ın ayrıntılı cenaze ritüeli tarif ettiği varsayılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1033"
+        ]
+      }
+    },
+    {
+      "id": "sabir",
+      "slug": "sabir",
+      "name": "Sabır",
+      "description": "Zorluk, görev ve haksızlık karşısında sebat ve sabırlı tutum.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "sabır",
+        "sabretmek",
+        "sebat"
+      ],
+      "everydayIntents": [
+        "sabretmekte-zorlaniyorum",
+        "ofkeliyim",
+        "haksizliga-ugradim",
+        "yakinimi-kaybettim"
+      ],
+      "relatedTopicIds": [
+        "imtihan",
+        "tevekkul",
+        "umit"
+      ],
+      "sourceTopicNames": [
+        "Sabır"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zorluk, görev ve haksızlık karşısında sebat ve sabırlı tutum.",
+      "exclusion": "Her bekleme veya pasif kabullenme sabır değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "038"
+        ]
+      }
+    },
+    {
+      "id": "tevekkul",
+      "slug": "tevekkul",
+      "name": "Tevekkül",
+      "description": "Çaba ve tercih bağlamında Allah'a dayanma.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "tevekkül",
+        "Allah'a güvenmek"
+      ],
+      "everydayIntents": [
+        "gelecek-konusunda-kaygiliyim",
+        "bir-karar-vermem-gerekiyor"
+      ],
+      "relatedTopicIds": [
+        "sabir",
+        "imtihan",
+        "umit"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Çaba ve tercih bağlamında Allah'a dayanma.",
+      "exclusion": "Sorumluluktan kaçış veya insanlara güvenle eş tutulmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "umit",
+      "slug": "umit",
+      "name": "Ümit ve ümitsizlik",
+      "description": "Allah'ın rahmeti ve gelecek karşısında umut/umut kesme.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "ümit",
+        "umut",
+        "ümitsizlik"
+      ],
+      "everydayIntents": [
+        "gelecek-konusunda-kaygiliyim",
+        "umudumu-kaybediyorum"
+      ],
+      "relatedTopicIds": [
+        "sabir",
+        "imtihan",
+        "tevekkul"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'ın rahmeti ve gelecek karşısında umut/umut kesme.",
+      "exclusion": "Klinik depresyon kategorisi veya tedavi iddiası değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "korku",
+      "slug": "korku",
+      "name": "Korku ve güven",
+      "description": "Korku, güven ve bunlar karşısında tutum.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "korku",
+        "güven"
+      ],
+      "everydayIntents": [
+        "gelecek-konusunda-kaygiliyim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Korku, güven ve bunlar karşısında tutum.",
+      "exclusion": "Her takva veya siyasi güvenlik ifadesi aynı konu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ofke",
+      "slug": "ofke",
+      "name": "Öfke ve özdenetim",
+      "description": "İnsanın öfkesi ve öfkeyi kontrol etmesi.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "öfke",
+        "öfkeyi yutmak"
+      ],
+      "everydayIntents": [
+        "ofkeliyim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanın öfkesi ve öfkeyi kontrol etmesi.",
+      "exclusion": "Cehennem ateşi veya ilahi gazap insan öfkesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "huzun",
+      "slug": "huzun",
+      "name": "Hüzün ve teselli",
+      "description": "Keder, üzülme ve metinde açık teselli.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "üzülme",
+        "hüzün",
+        "keder"
+      ],
+      "everydayIntents": [
+        "yakinimi-kaybettim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Keder, üzülme ve metinde açık teselli.",
+      "exclusion": "Klinik tedavi vaadi olarak yorumlanmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "imtihan",
+      "slug": "imtihan",
+      "name": "İmtihan",
+      "description": "Nimet ve zorluklarla sınanma.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "imtihan",
+        "sınanmak",
+        "denemek"
+      ],
+      "everydayIntents": [
+        "sabretmekte-zorlaniyorum"
+      ],
+      "relatedTopicIds": [
+        "sabir",
+        "tevekkul",
+        "umit"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Nimet ve zorluklarla sınanma.",
+      "exclusion": "Deneme sözcüğünün her gündelik kullanımı dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "huzur",
+      "slug": "huzur",
+      "name": "İç huzur ve sükûnet",
+      "description": "Kalbin yatışması ve metindeki güven/sükûnet bağlamı.",
+      "domainId": "ic-dunya",
+      "parentTopicId": null,
+      "aliases": [
+        "kalpler huzur",
+        "sükûnet"
+      ],
+      "everydayIntents": [
+        "biraz-huzur-ariyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kalbin yatışması ve metindeki güven/sükûnet bağlamı.",
+      "exclusion": "Kaygı bozukluğuna tedavi veya garanti değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sukur",
+      "slug": "sukur",
+      "name": "Şükür",
+      "description": "Nimeti tanıma, teşekkür ve nankörlüğün karşıtı.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "şükür",
+        "şükretmek",
+        "nankörlük"
+      ],
+      "everydayIntents": [
+        "sukretmek-istiyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Nimeti tanıma, teşekkür ve nankörlüğün karşıtı.",
+      "exclusion": "Her nimet sözcüğü otomatik şükür değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "dogruluk",
+      "slug": "dogruluk",
+      "name": "Doğruluk ve dürüstlük",
+      "description": "Söz ve davranışta dürüstlük.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "dürüstlük",
+        "doğru söz",
+        "sadık"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Söz ve davranışta dürüstlük.",
+      "exclusion": "Her doğru yol, doğru tahmin veya doğru yön ifadesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "merhamet",
+      "slug": "merhamet",
+      "name": "Merhamet",
+      "description": "İnsanların birbirlerine şefkat ve merhamet göstermesi.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "merhamet",
+        "şefkat"
+      ],
+      "everydayIntents": [
+        "affetmekte-zorlaniyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanların birbirlerine şefkat ve merhamet göstermesi.",
+      "exclusion": "Yalnız ilahi rahmet insan merhameti olarak sınıflanmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "affetme",
+      "slug": "affetme",
+      "name": "Affetmek",
+      "description": "İnsanların affetmesi, bağışlaması ve karşılık vermekten vazgeçmesi.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "affetmek",
+        "bağışlamak"
+      ],
+      "everydayIntents": [
+        "affetmekte-zorlaniyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanların affetmesi, bağışlaması ve karşılık vermekten vazgeçmesi.",
+      "exclusion": "İlahi bağışlama ve tövbe bağımsız konulardır.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "tevazu",
+      "slug": "tevazu",
+      "name": "Tevazu",
+      "description": "Böbürlenmeme ve alçakgönüllü tutum.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "tevazu",
+        "alçakgönüllülük"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Böbürlenmeme ve alçakgönüllü tutum.",
+      "exclusion": "Her eğilme veya bedensel secde tevazu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "kibir",
+      "slug": "kibir",
+      "name": "Kibir",
+      "description": "Üstünlük taslama ve büyüklenme.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "kibir",
+        "böbürlenme"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Üstünlük taslama ve büyüklenme.",
+      "exclusion": "İlahi yücelik kibir olarak etiketlenmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "emanet",
+      "slug": "emanet",
+      "name": "Emanet ve güvenilirlik",
+      "description": "Emaneti koruma ve güvenilir davranış.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "emanet",
+        "güvenilirlik"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Emaneti koruma ve güvenilir davranış.",
+      "exclusion": "Her ilahi bilgi veya maddi mülk emanet sayılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sozlesme",
+      "slug": "sozlesme",
+      "name": "Sözünde durmak ve ahit",
+      "description": "Verilen söz ve ahit sorumluluğu.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "ahit",
+        "sözünde durmak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Verilen söz ve ahit sorumluluğu.",
+      "exclusion": "Bütün söz/söyleme fiilleri ahit değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "riya",
+      "slug": "riya",
+      "name": "Gösteriş",
+      "description": "İyi eylemi gösteriş amacıyla yapma.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "gösteriş",
+        "riya"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İyi eylemi gösteriş amacıyla yapma.",
+      "exclusion": "Her görünür ibadet gösteriş sayılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ahlaki-ozelestiri",
+      "slug": "ahlaki-ozelestiri",
+      "name": "Ahlaki öz değerlendirme",
+      "description": "Kişinin tutumuyla iyi insan iddiası arasındaki ilişki.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "kalbim temiz",
+        "kendini temize"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kalbim temiz diyenler"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kişinin tutumuyla iyi insan iddiası arasındaki ilişki.",
+      "exclusion": "Çeviride her temiz sözcüğü ahlaki öz değerlendirme değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2036"
+        ]
+      }
+    },
+    {
+      "id": "israf",
+      "slug": "israf",
+      "name": "İsraf",
+      "description": "Ölçüsüz harcama/tüketim ve savurganlık.",
+      "domainId": "ahlak",
+      "parentTopicId": null,
+      "aliases": [
+        "israf",
+        "savurganlık"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ölçüsüz harcama/tüketim ve savurganlık.",
+      "exclusion": "Her harcama veya bolluk israf değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "evlilik",
+      "slug": "evlilik",
+      "name": "Evlilik",
+      "description": "Eş ilişkisi, nikâh ve evliliğe ilişkin haklar.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "evlilik",
+        "nikâh",
+        "eşler"
+      ],
+      "everydayIntents": [
+        "ailemle-ilgili-zorlaniyorum"
+      ],
+      "relatedTopicIds": [
+        "bosanma",
+        "cinsellik",
+        "akrabalik"
+      ],
+      "sourceTopicNames": [
+        "Evlilik"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eş ilişkisi, nikâh ve evliliğe ilişkin haklar.",
+      "exclusion": "Doğadaki her çift yaratılışı evlilik değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "027"
+        ]
+      }
+    },
+    {
+      "id": "ebeveyn",
+      "slug": "ebeveyn",
+      "name": "Anne ve babaya iyilik",
+      "description": "Anne/babaya davranış ve hakları.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "anne baba",
+        "ebeveyne iyilik"
+      ],
+      "everydayIntents": [
+        "ailemle-ilgili-zorlaniyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Anne-Babaya hürmet"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Anne/babaya davranış ve hakları.",
+      "exclusion": "Soy anlatısındaki her baba/anne sözcüğü yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2037"
+        ]
+      }
+    },
+    {
+      "id": "cocuk",
+      "slug": "cocuk",
+      "name": "Çocuklar ve bakım",
+      "description": "Çocukların hakları, bakımı ve ebeveyn sorumluluğu.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "çocuk",
+        "evlat"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Çocukların hakları, bakımı ve ebeveyn sorumluluğu.",
+      "exclusion": "Her peygamber soy anlatısı ebeveynlik tavsiyesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "emzirme",
+      "slug": "emzirme",
+      "name": "Emzirme ve sütten kesme",
+      "description": "Çocuğun emzirilmesi, süt akrabalığı ve sütten kesilmesi.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "emzirme",
+        "süt annelik",
+        "sütten kesme"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Sütten kesme ve süt annelik"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Çocuğun emzirilmesi, süt akrabalığı ve sütten kesilmesi.",
+      "exclusion": "Her süt içeceği veya mecazi süt ırmağı dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "030"
+        ]
+      }
+    },
+    {
+      "id": "bosanma",
+      "slug": "bosanma",
+      "name": "Boşanma",
+      "description": "Evliliğin sona ermesi ve karşılıklı haklar.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "boşanma",
+        "talak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "evlilik",
+        "cinsellik",
+        "akrabalik"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Evliliğin sona ermesi ve karşılıklı haklar.",
+      "exclusion": "Genel ayrılma/terk sözcüğü yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "mahremiyet",
+      "slug": "mahremiyet",
+      "name": "Mahremiyet ve izin",
+      "description": "Özel alan, eve giriş izni ve kişisel sınırlar.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "mahremiyet",
+        "izin istemek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Özel alan, eve giriş izni ve kişisel sınırlar.",
+      "exclusion": "Her izin veya gizli bilgi aynı konu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "cinsellik",
+      "slug": "cinsellik",
+      "name": "Cinsellik ve sınırlar",
+      "description": "Cinsel ilişkiler ve bunlara ilişkin sınırlar.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "cinsellik",
+        "cinsel ilişki"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "evlilik",
+        "bosanma",
+        "akrabalik"
+      ],
+      "sourceTopicNames": [
+        "Cinsellik"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Cinsel ilişkiler ve bunlara ilişkin sınırlar.",
+      "exclusion": "Doğadaki her eş/çift ifadesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "026"
+        ]
+      }
+    },
+    {
+      "id": "zina",
+      "slug": "zina",
+      "name": "Zina",
+      "description": "Zina ve cinsel davranışa dair açık sınırlar.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "zina",
+        "fuhuş"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Zina - Fuhuş"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zina ve cinsel davranışa dair açık sınırlar.",
+      "exclusion": "Her ahlaksızlık veya kötülük sözcüğü zina değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "032"
+        ]
+      }
+    },
+    {
+      "id": "akrabalik",
+      "slug": "akrabalik",
+      "name": "Akrabalık bağları",
+      "description": "Yakınlarla ilişki ve bağları gözetmek.",
+      "domainId": "aile",
+      "parentTopicId": null,
+      "aliases": [
+        "akraba",
+        "akrabalık"
+      ],
+      "everydayIntents": [
+        "ailemle-ilgili-zorlaniyorum"
+      ],
+      "relatedTopicIds": [
+        "evlilik",
+        "bosanma",
+        "cinsellik"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yakınlarla ilişki ve bağları gözetmek.",
+      "exclusion": "Yalnız soy bilgisi sorumluluk ilişkisinin kanıtı değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "yardimlasma",
+      "slug": "yardimlasma",
+      "name": "Yardımlaşma",
+      "description": "İnsanların iyilikte destek olması ve ihtiyaç sahibine yardım.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "yardımlaşma",
+        "yardım etmek"
+      ],
+      "everydayIntents": [
+        "kendimi-yalniz-hissediyorum",
+        "birine-yardim-etmek-istiyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanların iyilikte destek olması ve ihtiyaç sahibine yardım.",
+      "exclusion": "Allah'tan yardım isteme tek başına insanlar arası yardım değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "baris",
+      "slug": "baris",
+      "name": "Barış ve uzlaşma",
+      "description": "Çatışmayı durdurma ve uzlaştırma.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "barış",
+        "uzlaşma"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Çatışmayı durdurma ve uzlaştırma.",
+      "exclusion": "Her selam veya güven ifadesi siyasi barış değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "giybet",
+      "slug": "giybet",
+      "name": "Gıybet ve kötüleme",
+      "description": "Arkasından konuşma ve kişiyi karalama.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "gıybet",
+        "arkasından konuşmak"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Arkasından konuşma ve kişiyi karalama.",
+      "exclusion": "Haklı tanıklık otomatik gıybet değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "alay",
+      "slug": "alay",
+      "name": "Alay ve aşağılama",
+      "description": "İnsanlarla veya inançla alay etme ve küçümseme.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "alay",
+        "dinle eğlenme"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Dinle eğlenme"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanlarla veya inançla alay etme ve küçümseme.",
+      "exclusion": "Genel eğlence tek başına dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "020"
+        ]
+      }
+    },
+    {
+      "id": "gizli-gorusme",
+      "slug": "gizli-gorusme",
+      "name": "Gizli görüşme",
+      "description": "Gizli konuşma ve bunun etik bağlamı.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "fısıldaşma",
+        "gizli görüşme"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Fısıldaşma-Gizli Görüşme"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Gizli konuşma ve bunun etik bağlamı.",
+      "exclusion": "Her gizli şey veya ilahi gayb bilgisi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "024"
+        ]
+      }
+    },
+    {
+      "id": "haber-dogrulama",
+      "slug": "haber-dogrulama",
+      "name": "Haber ve iddia doğrulama",
+      "description": "Haber/iddia karşısında kanıt ve doğrulama sorumluluğu.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "haber doğrulamak",
+        "araştırmak"
+      ],
+      "everydayIntents": [
+        "dogru-haberi-nasil-ayirt-ederim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Haber/iddia karşısında kanıt ve doğrulama sorumluluğu.",
+      "exclusion": "Her düşünme ayeti haber doğrulama değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "zan",
+      "slug": "zan",
+      "name": "Zan ve çoğunluğu izlemek",
+      "description": "Kanıtsız kanaat ve çoğunluğu gerekçe sayma.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "zan",
+        "çoğunluğa uymak"
+      ],
+      "everydayIntents": [
+        "dogru-haberi-nasil-ayirt-ederim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Zanna-Çoğunluğa uymak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kanıtsız kanaat ve çoğunluğu gerekçe sayma.",
+      "exclusion": "Her çoğunluk veya sayısal ifade dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2046"
+        ]
+      }
+    },
+    {
+      "id": "esitlik",
+      "slug": "esitlik",
+      "name": "İnsan onuru ve eşitlik",
+      "description": "Soy/ırk üstünlüğünün reddi ve ortak insanlık.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "ırkçılık",
+        "insan onuru"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Irkçılık"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Soy/ırk üstünlüğünün reddi ve ortak insanlık.",
+      "exclusion": "Modern hukuki terim metne zorla yüklenmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2054"
+        ]
+      }
+    },
+    {
+      "id": "musavere",
+      "slug": "musavere",
+      "name": "Danışma",
+      "description": "Kararlarda danışma ve ortak değerlendirme.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "şura",
+        "danışma"
+      ],
+      "everydayIntents": [
+        "bir-karar-vermem-gerekiyor"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kararlarda danışma ve ortak değerlendirme.",
+      "exclusion": "Her soru sormak danışma değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "toplumsal-gorevler",
+      "slug": "toplumsal-gorevler",
+      "name": "Toplumsal sorumluluk",
+      "description": "İyiliği destekleme ve toplumdaki sorumluluklar.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "müminlerin görevleri",
+        "iyiliği emretmek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Müminlerin görevleri"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İyiliği destekleme ve toplumdaki sorumluluklar.",
+      "exclusion": "Her iman ayeti toplumsal görev değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "039"
+        ]
+      }
+    },
+    {
+      "id": "din-otoritesi",
+      "slug": "din-otoritesi",
+      "name": "Dinî otorite ve sorgulama",
+      "description": "Dinî otoriteye sorgusuz bağlılık ve delil sorumluluğu.",
+      "domainId": "toplum",
+      "parentTopicId": null,
+      "aliases": [
+        "din adamları",
+        "mezhep",
+        "tarikat"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Tarikat-Mezhep-Alim peşinde koşmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Dinî otoriteye sorgusuz bağlılık ve delil sorumluluğu.",
+      "exclusion": "Güncel grupların tümüne metinden suçlama türetilmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2041"
+        ]
+      }
+    },
+    {
+      "id": "yoksulluk",
+      "slug": "yoksulluk",
+      "name": "Yoksulluk ve ihtiyaç sahipleri",
+      "description": "İhtiyaç sahipleri ve onların maddi hakları.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "yoksul",
+        "ihtiyaç sahibi"
+      ],
+      "everydayIntents": [
+        "maddi-sikinti-yasiyorum"
+      ],
+      "relatedTopicIds": [
+        "infak",
+        "zekat",
+        "yetim-hakki"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İhtiyaç sahipleri ve onların maddi hakları.",
+      "exclusion": "Her sıkıntı maddi yoksulluk değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "rizik",
+      "slug": "rizik",
+      "name": "Rızık",
+      "description": "Geçim, beslenme ve verilen nimetlerin maddi bağlamı.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "rızık",
+        "geçim"
+      ],
+      "everydayIntents": [
+        "maddi-sikinti-yasiyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Geçim, beslenme ve verilen nimetlerin maddi bağlamı.",
+      "exclusion": "Rızık sözcüğü her durumda yalnız para anlamına gelmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "zekat",
+      "slug": "zekat",
+      "name": "Zekât",
+      "description": "Açık zekât yükümlülüğü ve metindeki anlam bağlamı.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "zekât",
+        "zekât vermek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "infak",
+        "yoksulluk",
+        "yetim-hakki"
+      ],
+      "sourceTopicNames": [
+        "Zekât"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Açık zekât yükümlülüğü ve metindeki anlam bağlamı.",
+      "exclusion": "Genel harcama/sadaka zekâtla özdeş değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "013"
+        ]
+      }
+    },
+    {
+      "id": "infak",
+      "slug": "infak",
+      "name": "İnfak ve sadaka",
+      "description": "Paylaşım ve gönüllü/maddi yardım.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "infak",
+        "sadaka"
+      ],
+      "everydayIntents": [
+        "birine-yardim-etmek-istiyorum"
+      ],
+      "relatedTopicIds": [
+        "zekat",
+        "yoksulluk",
+        "yetim-hakki"
+      ],
+      "sourceTopicNames": [
+        "Yardım - Sadaka"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Paylaşım ve gönüllü/maddi yardım.",
+      "exclusion": "Allah'tan yardım dileme veya her harcama dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "031"
+        ]
+      }
+    },
+    {
+      "id": "faiz",
+      "slug": "faiz",
+      "name": "Faiz",
+      "description": "Riba/faiz ve haksız artış bağlamı.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "faiz",
+        "riba"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Faiz"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Riba/faiz ve haksız artış bağlamı.",
+      "exclusion": "Her kâr veya artış faiz değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "025"
+        ]
+      }
+    },
+    {
+      "id": "ticaret",
+      "slug": "ticaret",
+      "name": "Ticaret ve dürüst ölçü",
+      "description": "Alışveriş, ölçü/tartı ve adil değişim.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "ticaret",
+        "tartı",
+        "ölçü"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Alışveriş, ölçü/tartı ve adil değişim.",
+      "exclusion": "İnançla yapılan mecazi alışveriş ayrı değerlendirilir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "borc",
+      "slug": "borc",
+      "name": "Borç",
+      "description": "Borç, yazılı kayıt ve ödeme sorumluluğu.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "borç",
+        "alacak"
+      ],
+      "everydayIntents": [
+        "maddi-sikinti-yasiyorum"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Borç, yazılı kayıt ve ödeme sorumluluğu.",
+      "exclusion": "Her yükümlülük maddi borç değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "miras",
+      "slug": "miras",
+      "name": "Miras ve vasiyet",
+      "description": "Mirasın paylaşımı, vasiyet ve hak sahipleri.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "miras",
+        "vasiyet"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Vasiyet - Miras"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Mirasın paylaşımı, vasiyet ve hak sahipleri.",
+      "exclusion": "Peygamberlik mirası maddi pay hükmü değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "033"
+        ]
+      }
+    },
+    {
+      "id": "yetim-hakki",
+      "slug": "yetim-hakki",
+      "name": "Yetimler ve hakları",
+      "description": "Yetimlerin korunması ve mal/hak gözetimi.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "yetim",
+        "yetim hakkı"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "infak",
+        "zekat",
+        "yoksulluk"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yetimlerin korunması ve mal/hak gözetimi.",
+      "exclusion": "Yalnız anlatısal yetim sıfatı hukuki hak hükmü değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "helal-gida",
+      "slug": "helal-gida",
+      "name": "Helal gıda",
+      "description": "Yiyecek/içecek sınırları ve tüketim.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "helal et",
+        "helal yiyecek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Helal et"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yiyecek/içecek sınırları ve tüketim.",
+      "exclusion": "Her helal ifadesi gıda değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "015"
+        ]
+      }
+    },
+    {
+      "id": "icki",
+      "slug": "icki",
+      "name": "Sarhoş edici içecekler",
+      "description": "Sarhoşluk ve içkiye ilişkin açık ifadeler.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "içki",
+        "sarhoşluk"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "İçki"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Sarhoşluk ve içkiye ilişkin açık ifadeler.",
+      "exclusion": "Ahiret içecekleri bağlamı dünyadaki içki hükmüyle özdeş değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "022"
+        ]
+      }
+    },
+    {
+      "id": "kumar",
+      "slug": "kumar",
+      "name": "Kumar",
+      "description": "Kumar ve buna ilişkin maddi/sosyal zarar.",
+      "domainId": "ekonomi",
+      "parentTopicId": null,
+      "aliases": [
+        "kumar"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kumar ve buna ilişkin maddi/sosyal zarar.",
+      "exclusion": "Her şans veya kura dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "adalet",
+      "slug": "adalet",
+      "name": "Adalet",
+      "description": "İnsanlar arası adil hüküm ve hak gözetimi.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "adalet",
+        "adil davranmak"
+      ],
+      "everydayIntents": [
+        "haksizliga-ugradim"
+      ],
+      "relatedTopicIds": [
+        "taniklik",
+        "iftira",
+        "can-hakki"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanlar arası adil hüküm ve hak gözetimi.",
+      "exclusion": "Her ilahi karşılık insan yargısı değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "zulum",
+      "slug": "zulum",
+      "name": "Zulüm ve haksızlık",
+      "description": "Hakkı çiğneme, baskı ve haksızlık.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "zulüm",
+        "haksızlık"
+      ],
+      "everydayIntents": [
+        "haksizliga-ugradim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Hakkı çiğneme, baskı ve haksızlık.",
+      "exclusion": "Bağlamdaki şirk/günah kullanımı ayrıca ayrıştırılır.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "taniklik",
+      "slug": "taniklik",
+      "name": "Tanıklık",
+      "description": "Tanıklıkta doğruluk ve adil şahitlik.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "tanıklık",
+        "şahitlik"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "adalet",
+        "iftira",
+        "can-hakki"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Tanıklıkta doğruluk ve adil şahitlik.",
+      "exclusion": "Her görme/bilme fiili hukuki tanıklık değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "yemin",
+      "slug": "yemin",
+      "name": "Yemin",
+      "description": "Yemin, yeminin sorumluluğu ve bozulmasının bağlamı.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "yemin",
+        "and içmek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Yemin"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yemin, yeminin sorumluluğu ve bozulmasının bağlamı.",
+      "exclusion": "Her ahit veya verilmiş söz yemin değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "021"
+        ]
+      }
+    },
+    {
+      "id": "iftira",
+      "slug": "iftira",
+      "name": "İftira",
+      "description": "Kişiye asılsız suç/isnat yöneltme.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "iftira",
+        "asılsız suçlama"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "adalet",
+        "taniklik",
+        "can-hakki"
+      ],
+      "sourceTopicNames": [
+        "İftira atmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Kişiye asılsız suç/isnat yöneltme.",
+      "exclusion": "Her yalan veya Allah'a isnat aynı alt bağlam değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "034"
+        ]
+      }
+    },
+    {
+      "id": "can-hakki",
+      "slug": "can-hakki",
+      "name": "Canın korunması",
+      "description": "İnsan öldürme, can güvenliği ve öldürmenin reddi.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "öldürmek",
+        "katil",
+        "can hakkı"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "adalet",
+        "taniklik",
+        "iftira"
+      ],
+      "sourceTopicNames": [
+        "Öldürmek - Katil olmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsan öldürme, can güvenliği ve öldürmenin reddi.",
+      "exclusion": "Hayvan kesimi ve mecazi ölüm dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "028"
+        ]
+      }
+    },
+    {
+      "id": "kisas",
+      "slug": "kisas",
+      "name": "Kısas",
+      "description": "Zarar karşılığı kısas ve bağışlama seçenekleri.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "kısas"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kısas"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zarar karşılığı kısas ve bağışlama seçenekleri.",
+      "exclusion": "Modern ceza hukuku ayrıntıları metinden türetilmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2039"
+        ]
+      }
+    },
+    {
+      "id": "savas",
+      "slug": "savas",
+      "name": "Savaş ve sınırları",
+      "description": "Silahlı çatışma, savunma ve savaşta sınırlar.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "savaş",
+        "cihad"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Savaşmak - Cihad"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Silahlı çatışma, savunma ve savaşta sınırlar.",
+      "exclusion": "Cihadın her kullanımı silahlı savaşla özdeş değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "029"
+        ]
+      }
+    },
+    {
+      "id": "ozgurlestirme",
+      "slug": "ozgurlestirme",
+      "name": "Kölelik bağlamı ve özgürleştirme",
+      "description": "Tarihsel kölelik ve özgürleştirmeye ilişkin ifadeler.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "köle",
+        "özgürleştirme"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Kölelik"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Tarihsel kölelik ve özgürleştirmeye ilişkin ifadeler.",
+      "exclusion": "Tarihsel kurum modern ilişkilerle eş tutulmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2051"
+        ]
+      }
+    },
+    {
+      "id": "yonetim",
+      "slug": "yonetim",
+      "name": "Yönetim ve yetki",
+      "description": "Yetki sahipleri, itaat ve adil yönetim.",
+      "domainId": "adalet",
+      "parentTopicId": null,
+      "aliases": [
+        "Ulul-Emr",
+        "yetki sahipleri"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Ulul-Emr"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yetki sahipleri, itaat ve adil yönetim.",
+      "exclusion": "Her güncel yönetim için sınırsız itaat hükmü çıkarılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2052"
+        ]
+      }
+    },
+    {
+      "id": "olum",
+      "slug": "olum",
+      "name": "Ölüm",
+      "description": "Ölüm, fanilik ve insanın ölüm karşısındaki tutumu.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "ölüm",
+        "ecel"
+      ],
+      "everydayIntents": [
+        "yakinimi-kaybettim"
+      ],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ölüm, fanilik ve insanın ölüm karşısındaki tutumu.",
+      "exclusion": "Mecazi ölüm ve öldürme hukuku ayrı incelenir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ahiret",
+      "slug": "ahiret",
+      "name": "Ahiret inancı",
+      "description": "Ölüm sonrası hayat ve Ahiret Günü inancının açıkça konu edilmesi.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "ahiret",
+        "Ahiret Günü",
+        "ölüm sonrası"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Ahiret"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ölüm sonrası hayat ve Ahiret Günü inancının açıkça konu edilmesi.",
+      "exclusion": "Her inanan sözcüğü veya dünyadaki karşılık ölüm sonrası bağlamı kurmaz; ayrıntılı anlatılar ilgili daha belirli konularla değerlendirilir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "036"
+        ]
+      }
+    },
+    {
+      "id": "dirilis",
+      "slug": "dirilis",
+      "name": "Diriliş",
+      "description": "Ölümden sonra yeniden dirilme.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "diriliş",
+        "diriltilecek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "kiyamet",
+        "hesap",
+        "amel-kaydi"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ölümden sonra yeniden dirilme.",
+      "exclusion": "Bitkinin canlanması doğrudan ahiret eşlemesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "kiyamet",
+      "slug": "kiyamet",
+      "name": "Kıyamet",
+      "description": "Son saat, zamanı ve kıyamet anlatımları.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "kıyamet",
+        "son saat"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "hesap",
+        "dirilis",
+        "amel-kaydi"
+      ],
+      "sourceTopicNames": [
+        "Kıyamet ne zaman kopacak?"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Son saat, zamanı ve kıyamet anlatımları.",
+      "exclusion": "Her azap/ceza veya ahiret ifadesi kıyametin zamanı değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1026"
+        ]
+      }
+    },
+    {
+      "id": "hesap",
+      "slug": "hesap",
+      "name": "Hesap ve karşılık",
+      "description": "Ahiret hesabı ve eylemlerin karşılığı.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "hesap günü",
+        "karşılık"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "kiyamet",
+        "dirilis",
+        "amel-kaydi"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ahiret hesabı ve eylemlerin karşılığı.",
+      "exclusion": "Ticari hesap veya dünyadaki maaş ayrı konudur.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "cennet",
+      "slug": "cennet",
+      "name": "Cennet",
+      "description": "Ahiret ödül yurdu ve onun betimlemeleri.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "cennet",
+        "ödül yurdu"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Cennet"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ahiret ödül yurdu ve onun betimlemeleri.",
+      "exclusion": "Dünyadaki her bahçe cennet değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "037"
+        ]
+      }
+    },
+    {
+      "id": "cehennem",
+      "slug": "cehennem",
+      "name": "Cehennem",
+      "description": "Ahiret azap yurdu ve onun betimlemeleri.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "cehennem",
+        "ateş azabı"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ahiret azap yurdu ve onun betimlemeleri.",
+      "exclusion": "Dünyadaki ateş veya insan öfkesi dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sefaat",
+      "slug": "sefaat",
+      "name": "Şefaat",
+      "description": "Şefaatin şartları, sınırları ve yetki bağlamı.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "şefaat",
+        "aracılık"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Peygamberler şefaat edebilir mi?"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Şefaatin şartları, sınırları ve yetki bağlamı.",
+      "exclusion": "Her yardım veya vekillik şefaat değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "1032"
+        ]
+      }
+    },
+    {
+      "id": "amel-kaydi",
+      "slug": "amel-kaydi",
+      "name": "Amellerin kaydı",
+      "description": "Eylemlerin yazılması ve hesapta kayıtların sunulması.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "amel defteri",
+        "yazıcı melekler"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "kiyamet",
+        "hesap",
+        "dirilis"
+      ],
+      "sourceTopicNames": [
+        "Yazıcı Melekler",
+        "Yazıcı meleklerin yazdığı kitap"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eylemlerin yazılması ve hesapta kayıtların sunulması.",
+      "exclusion": "Her kitap veya melek sözcüğü dahil değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2055",
+          "2056"
+        ]
+      }
+    },
+    {
+      "id": "dunya-hayati",
+      "slug": "dunya-hayati",
+      "name": "Dünya hayatının geçiciliği",
+      "description": "Dünya hayatı/ahiret karşılaştırması ve geçicilik.",
+      "domainId": "ahiret",
+      "parentTopicId": null,
+      "aliases": [
+        "dünya hayatı",
+        "geçici hayat"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Dünya hayatı/ahiret karşılaştırması ve geçicilik.",
+      "exclusion": "Dünyada geçen her olay bu konu değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "peygamberlik",
+      "slug": "peygamberlik",
+      "name": "Peygamberlik",
+      "description": "Elçilerin seçimi ve vahiy ile görevleri.",
+      "domainId": "peygamberler",
+      "parentTopicId": null,
+      "aliases": [
+        "peygamber",
+        "elçi"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Elçilerin seçimi ve vahiy ile görevleri.",
+      "exclusion": "Melek elçileri ve sıradan haberciler ayrıştırılır.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "teblig",
+      "slug": "teblig",
+      "name": "Tebliğ ve davet",
+      "description": "Elçinin bildirmesi ve hikmetle inanca davet.",
+      "domainId": "peygamberler",
+      "parentTopicId": null,
+      "aliases": [
+        "İslama davet",
+        "peygamberin görevi"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "İslama davet",
+        "Peygamberin görevi"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Elçinin bildirmesi ve hikmetle inanca davet.",
+      "exclusion": "Her çağrı veya davet dini tebliğ değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2040",
+          "1037"
+        ]
+      }
+    },
+    {
+      "id": "peygamber-anlatilari",
+      "slug": "peygamber-anlatilari",
+      "name": "Peygamber anlatıları",
+      "description": "Peygamberlerin anlatılarının bağlamları ve açık temaları.",
+      "domainId": "peygamberler",
+      "parentTopicId": null,
+      "aliases": [
+        "Musa",
+        "İbrahim",
+        "Yusuf"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Peygamberlerin anlatılarının bağlamları ve açık temaları.",
+      "exclusion": "İsim geçişi tek başına ahlaki ders eşlemesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "mucize",
+      "slug": "mucize",
+      "name": "Elçilere verilen işaretler",
+      "description": "Elçilerin doğrulanması bağlamındaki işaretler.",
+      "domainId": "peygamberler",
+      "parentTopicId": null,
+      "aliases": [
+        "mucize",
+        "delil"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Elçilerin doğrulanması bağlamındaki işaretler.",
+      "exclusion": "Doğadaki bütün işaretler peygamber mucizesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "yaratilis",
+      "slug": "yaratilis",
+      "name": "Yaratılışın işaretleri",
+      "description": "Doğa ve yaratılışın düşünmeye davet eden işaretleri.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "Allah'ın yarattığı ayetler",
+        "gökler ve yer"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "akil",
+        "bilgi",
+        "dogal-duzen"
+      ],
+      "sourceTopicNames": [
+        "Allah'ın yarattığı ayetler"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Doğa ve yaratılışın düşünmeye davet eden işaretleri.",
+      "exclusion": "Her yer/gece ifadesi yaratılış delili değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2047"
+        ]
+      }
+    },
+    {
+      "id": "akil",
+      "slug": "akil",
+      "name": "Akıl ve düşünme",
+      "description": "Akletme, düşünme ve ibret alma çağrıları.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "aklını kullanmak",
+        "düşünmek",
+        "tefekkür"
+      ],
+      "everydayIntents": [
+        "bir-karar-vermem-gerekiyor"
+      ],
+      "relatedTopicIds": [
+        "yaratilis",
+        "bilgi",
+        "dogal-duzen"
+      ],
+      "sourceTopicNames": [
+        "Aklını kullanmak"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Akletme, düşünme ve ibret alma çağrıları.",
+      "exclusion": "Her doğru ifade veya bilgi otomatik akletme değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2049"
+        ]
+      }
+    },
+    {
+      "id": "bilgi",
+      "slug": "bilgi",
+      "name": "Bilgi ve delil",
+      "description": "Bilme, öğrenme ve delile dayanma.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "bilgi",
+        "delil"
+      ],
+      "everydayIntents": [
+        "dogru-haberi-nasil-ayirt-ederim"
+      ],
+      "relatedTopicIds": [
+        "akil",
+        "yaratilis",
+        "dogal-duzen"
+      ],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Bilme, öğrenme ve delile dayanma.",
+      "exclusion": "Sadece ilahi ilim insan öğrenmesi değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "insan-yaratilisi",
+      "slug": "insan-yaratilisi",
+      "name": "İnsanın yaratılışı",
+      "description": "İnsanın başlangıcı, gelişimi ve yaratılışı.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "insanın yaratılışı",
+        "balçık"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanın başlangıcı, gelişimi ve yaratılışı.",
+      "exclusion": "Modern biyomedikal kesinlikler metne yüklenmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "dogal-duzen",
+      "slug": "dogal-duzen",
+      "name": "Doğadaki düzen",
+      "description": "Doğadaki ölçü, döngüler ve düzen.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "evrenin kanunları",
+        "doğanın düzeni"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [
+        "akil",
+        "yaratilis",
+        "bilgi"
+      ],
+      "sourceTopicNames": [
+        "Evrenin ve Doğanın kanunları"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Doğadaki ölçü, döngüler ve düzen.",
+      "exclusion": "Ayetler modern fizik yasalarının ders kitabı değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2044"
+        ]
+      }
+    },
+    {
+      "id": "hayvanlar",
+      "slug": "hayvanlar",
+      "name": "Hayvanlar ve canlılık",
+      "description": "Canlılar ve insanla ilişkileri hakkındaki açık anlatımlar.",
+      "domainId": "yaratilis",
+      "parentTopicId": null,
+      "aliases": [
+        "hayvanlar",
+        "canlılar"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Canlılar ve insanla ilişkileri hakkındaki açık anlatımlar.",
+      "exclusion": "Mecazi hayvan benzetmesi doğal tarih sayılmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ehli-kitap",
+      "slug": "ehli-kitap",
+      "name": "Ehl-i kitap",
+      "description": "Önceki vahiy topluluklarına hitap, farklı tutumlar ve inananları.",
+      "domainId": "tarih",
+      "parentTopicId": null,
+      "aliases": [
+        "Ehl-i kitap",
+        "kitap ehli"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+        "Ehl-i kitabın iman edenleri"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Önceki vahiy topluluklarına hitap, farklı tutumlar ve inananları.",
+      "exclusion": "Genel inanan sözcüğü Ehl-i kitap için yeterli değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2042",
+          "1031"
+        ]
+      }
+    },
+    {
+      "id": "topluluk-akibeti",
+      "slug": "topluluk-akibeti",
+      "name": "Toplulukların tutumu ve akıbeti",
+      "description": "Toplulukların davranışları ve anlatılan sosyal sonuçlar.",
+      "domainId": "tarih",
+      "parentTopicId": null,
+      "aliases": [
+        "ümmet",
+        "kavim"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Müslümanlarin hali niye kötü?"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Toplulukların davranışları ve anlatılan sosyal sonuçlar.",
+      "exclusion": "Günümüz toplumları hakkında doğrudan ilahi teşhis türetilmez.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2043"
+        ]
+      }
+    },
+    {
+      "id": "sunnetullah",
+      "slug": "sunnetullah",
+      "name": "Sünnetullah",
+      "description": "Topluluklar ve tarih bağlamında Allah'ın değişmeyen tutumu.",
+      "domainId": "tarih",
+      "parentTopicId": null,
+      "aliases": [
+        "sünnetullah",
+        "Allah'ın yasası"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Sünnetullah"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review.",
+        "Interpretation-sensitive: compare passage context and translator notes; do not infer a settled theological ruling."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Topluluklar ve tarih bağlamında Allah'ın değişmeyen tutumu.",
+      "exclusion": "Modern doğa kanunlarıyla otomatik eş tutulmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "2053"
+        ]
+      }
+    },
+    {
+      "id": "hicret",
+      "slug": "hicret",
+      "name": "Hicret",
+      "description": "İnanç ve baskı bağlamında yer değiştirme.",
+      "domainId": "tarih",
+      "parentTopicId": null,
+      "aliases": [
+        "hicret",
+        "göç eden"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnanç ve baskı bağlamında yer değiştirme.",
+      "exclusion": "Her yolculuk hicret değildir.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "allah-yolunda-olum",
+      "slug": "allah-yolunda-olum",
+      "name": "Allah yolunda ölüm",
+      "description": "Allah yolunda öldürülenlerin metindeki bağlamı.",
+      "domainId": "tarih",
+      "parentTopicId": null,
+      "aliases": [
+        "şehitlik",
+        "Allah yolunda ölmek"
+      ],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [
+        "Şehitlik - Allah yolunda ölmek"
+      ],
+      "status": "proposed",
+      "reviewNotes": [
+        "Editorial proposal; semantic definition, aliases and evidence require human review."
+      ],
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah yolunda öldürülenlerin metindeki bağlamı.",
+      "exclusion": "Her ölüm veya güncel siyasi olay şehitlik diye sınıflanmaz.",
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": [
+          "035"
+        ]
+      }
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "sabir--musibet-karsisinda-sabir",
+      "slug": "sabir--musibet-karsisinda-sabir",
+      "name": "Musibet karşısında sabır",
+      "description": "Sabır konusunun inceleme alt başlığı: Musibet karşısında sabır.",
+      "domainId": "ic-dunya",
+      "parentTopicId": "sabir",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zorluk, görev ve haksızlık karşısında sebat ve sabırlı tutum. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her bekleme veya pasif kabullenme sabır değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sabir--sorumlulukta-sebat",
+      "slug": "sabir--sorumlulukta-sebat",
+      "name": "Sorumlulukta sebat",
+      "description": "Sabır konusunun inceleme alt başlığı: Sorumlulukta sebat.",
+      "domainId": "ic-dunya",
+      "parentTopicId": "sabir",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zorluk, görev ve haksızlık karşısında sebat ve sabırlı tutum. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her bekleme veya pasif kabullenme sabır değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "sabir--haksizlik-karsisinda-sabir",
+      "slug": "sabir--haksizlik-karsisinda-sabir",
+      "name": "Haksızlık karşısında sabır",
+      "description": "Sabır konusunun inceleme alt başlığı: Haksızlık karşısında sabır.",
+      "domainId": "ic-dunya",
+      "parentTopicId": "sabir",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Zorluk, görev ve haksızlık karşısında sebat ve sabırlı tutum. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her bekleme veya pasif kabullenme sabır değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "dua--yardim-ve-bagislanma-dilemek",
+      "slug": "dua--yardim-ve-bagislanma-dilemek",
+      "name": "Yardım ve bağışlanma dilemek",
+      "description": "Dua konusunun inceleme alt başlığı: Yardım ve bağışlanma dilemek.",
+      "domainId": "kulluk",
+      "parentTopicId": "dua",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a yöneliş, yakarış ve yardım isteme. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "İnsanlardan her yardım talebi dua değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "dua--peygamberlerin-dualari",
+      "slug": "dua--peygamberlerin-dualari",
+      "name": "Peygamberlerin duaları",
+      "description": "Dua konusunun inceleme alt başlığı: Peygamberlerin duaları.",
+      "domainId": "kulluk",
+      "parentTopicId": "dua",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a yöneliş, yakarış ve yardım isteme. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "İnsanlardan her yardım talebi dua değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "dua--dua-ve-yakinlik",
+      "slug": "dua--dua-ve-yakinlik",
+      "name": "Dua ve yakınlık",
+      "description": "Dua konusunun inceleme alt başlığı: Dua ve yakınlık.",
+      "domainId": "kulluk",
+      "parentTopicId": "dua",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Allah'a yöneliş, yakarış ve yardım isteme. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "İnsanlardan her yardım talebi dua değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "namaz--namaza-devam-etmek",
+      "slug": "namaz--namaza-devam-etmek",
+      "name": "Namaza devam etmek",
+      "description": "Namaz konusunun inceleme alt başlığı: Namaza devam etmek.",
+      "domainId": "kulluk",
+      "parentTopicId": "namaz",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Salat/namaz ibadeti ve ona ilişkin sorumluluklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Çeviride salatın bağlamsal anlamı incelenir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "namaz--namaz-ve-toplumsal-sorumluluk",
+      "slug": "namaz--namaz-ve-toplumsal-sorumluluk",
+      "name": "Namaz ve toplumsal sorumluluk",
+      "description": "Namaz konusunun inceleme alt başlığı: Namaz ve toplumsal sorumluluk.",
+      "domainId": "kulluk",
+      "parentTopicId": "namaz",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Salat/namaz ibadeti ve ona ilişkin sorumluluklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Çeviride salatın bağlamsal anlamı incelenir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "oruc--ramazan-orucu",
+      "slug": "oruc--ramazan-orucu",
+      "name": "Ramazan orucu",
+      "description": "Oruç konusunun inceleme alt başlığı: Ramazan orucu.",
+      "domainId": "kulluk",
+      "parentTopicId": "oruc",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Oruç, Ramazan ve oruçla ilişkili yükümlülükler. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her susma veya açlık otomatik oruç değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "oruc--telafi-ve-kefaret-baglami",
+      "slug": "oruc--telafi-ve-kefaret-baglami",
+      "name": "Telafi ve kefaret bağlamı",
+      "description": "Oruç konusunun inceleme alt başlığı: Telafi ve kefaret bağlamı.",
+      "domainId": "kulluk",
+      "parentTopicId": "oruc",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Oruç, Ramazan ve oruçla ilişkili yükümlülükler. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her susma veya açlık otomatik oruç değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "hac--hac-ve-umre",
+      "slug": "hac--hac-ve-umre",
+      "name": "Hac ve umre",
+      "description": "Hac konusunun inceleme alt başlığı: Hac ve umre.",
+      "domainId": "kulluk",
+      "parentTopicId": "hac",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Hac, umre ve ilgili mekân/ibadet bağlamları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her kurban veya yolculuk hac değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "hac--hacda-sinirlar",
+      "slug": "hac--hacda-sinirlar",
+      "name": "Hacda sınırlar",
+      "description": "Hac konusunun inceleme alt başlığı: Hacda sınırlar.",
+      "domainId": "kulluk",
+      "parentTopicId": "hac",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Hac, umre ve ilgili mekân/ibadet bağlamları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her kurban veya yolculuk hac değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "evlilik--eslerin-karsilikli-haklari",
+      "slug": "evlilik--eslerin-karsilikli-haklari",
+      "name": "Eşlerin karşılıklı hakları",
+      "description": "Evlilik konusunun inceleme alt başlığı: Eşlerin karşılıklı hakları.",
+      "domainId": "aile",
+      "parentTopicId": "evlilik",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eş ilişkisi, nikâh ve evliliğe ilişkin haklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Doğadaki her çift yaratılışı evlilik değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "evlilik--nikahin-sinirlari",
+      "slug": "evlilik--nikahin-sinirlari",
+      "name": "Nikâhın sınırları",
+      "description": "Evlilik konusunun inceleme alt başlığı: Nikâhın sınırları.",
+      "domainId": "aile",
+      "parentTopicId": "evlilik",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eş ilişkisi, nikâh ve evliliğe ilişkin haklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Doğadaki her çift yaratılışı evlilik değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "bosanma--bekleme-suresi",
+      "slug": "bosanma--bekleme-suresi",
+      "name": "Bekleme süresi",
+      "description": "Boşanma konusunun inceleme alt başlığı: Bekleme süresi.",
+      "domainId": "aile",
+      "parentTopicId": "bosanma",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Evliliğin sona ermesi ve karşılıklı haklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Genel ayrılma/terk sözcüğü yeterli değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "bosanma--ayrilikta-adil-davranmak",
+      "slug": "bosanma--ayrilikta-adil-davranmak",
+      "name": "Ayrılıkta adil davranmak",
+      "description": "Boşanma konusunun inceleme alt başlığı: Ayrılıkta adil davranmak.",
+      "domainId": "aile",
+      "parentTopicId": "bosanma",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Evliliğin sona ermesi ve karşılıklı haklar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Genel ayrılma/terk sözcüğü yeterli değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "infak--ihtiyac-sahibine-paylasim",
+      "slug": "infak--ihtiyac-sahibine-paylasim",
+      "name": "İhtiyaç sahibine paylaşım",
+      "description": "İnfak ve sadaka konusunun inceleme alt başlığı: İhtiyaç sahibine paylaşım.",
+      "domainId": "ekonomi",
+      "parentTopicId": "infak",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Paylaşım ve gönüllü/maddi yardım. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Allah'tan yardım dileme veya her harcama dahil değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "infak--gosterissiz-yardim",
+      "slug": "infak--gosterissiz-yardim",
+      "name": "Gösterişsiz yardım",
+      "description": "İnfak ve sadaka konusunun inceleme alt başlığı: Gösterişsiz yardım.",
+      "domainId": "ekonomi",
+      "parentTopicId": "infak",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Paylaşım ve gönüllü/maddi yardım. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Allah'tan yardım dileme veya her harcama dahil değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "miras--miras-paylari",
+      "slug": "miras--miras-paylari",
+      "name": "Miras payları",
+      "description": "Miras ve vasiyet konusunun inceleme alt başlığı: Miras payları.",
+      "domainId": "ekonomi",
+      "parentTopicId": "miras",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Mirasın paylaşımı, vasiyet ve hak sahipleri. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Peygamberlik mirası maddi pay hükmü değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "miras--vasiyet-sorumlulugu",
+      "slug": "miras--vasiyet-sorumlulugu",
+      "name": "Vasiyet sorumluluğu",
+      "description": "Miras ve vasiyet konusunun inceleme alt başlığı: Vasiyet sorumluluğu.",
+      "domainId": "ekonomi",
+      "parentTopicId": "miras",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Mirasın paylaşımı, vasiyet ve hak sahipleri. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Peygamberlik mirası maddi pay hükmü değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "yetim-hakki--yetim-malinin-korunmasi",
+      "slug": "yetim-hakki--yetim-malinin-korunmasi",
+      "name": "Yetim malının korunması",
+      "description": "Yetimler ve hakları konusunun inceleme alt başlığı: Yetim malının korunması.",
+      "domainId": "ekonomi",
+      "parentTopicId": "yetim-hakki",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Yetimlerin korunması ve mal/hak gözetimi. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Yalnız anlatısal yetim sıfatı hukuki hak hükmü değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ticaret--olcu-ve-tarti",
+      "slug": "ticaret--olcu-ve-tarti",
+      "name": "Ölçü ve tartı",
+      "description": "Ticaret ve dürüst ölçü konusunun inceleme alt başlığı: Ölçü ve tartı.",
+      "domainId": "ekonomi",
+      "parentTopicId": "ticaret",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Alışveriş, ölçü/tartı ve adil değişim. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "İnançla yapılan mecazi alışveriş ayrı değerlendirilir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "borc--borcun-kayda-alinmasi",
+      "slug": "borc--borcun-kayda-alinmasi",
+      "name": "Borcun kayda alınması",
+      "description": "Borç konusunun inceleme alt başlığı: Borcun kayda alınması.",
+      "domainId": "ekonomi",
+      "parentTopicId": "borc",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Borç, yazılı kayıt ve ödeme sorumluluğu. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her yükümlülük maddi borç değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "savas--savasta-sinir-ve-baris",
+      "slug": "savas--savasta-sinir-ve-baris",
+      "name": "Savaşta sınır ve barış",
+      "description": "Savaş ve sınırları konusunun inceleme alt başlığı: Savaşta sınır ve barış.",
+      "domainId": "adalet",
+      "parentTopicId": "savas",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Silahlı çatışma, savunma ve savaşta sınırlar. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Cihadın her kullanımı silahlı savaşla özdeş değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "can-hakki--haksiz-yere-oldurme",
+      "slug": "can-hakki--haksiz-yere-oldurme",
+      "name": "Haksız yere öldürme",
+      "description": "Canın korunması konusunun inceleme alt başlığı: Haksız yere öldürme.",
+      "domainId": "adalet",
+      "parentTopicId": "can-hakki",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsan öldürme, can güvenliği ve öldürmenin reddi. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Hayvan kesimi ve mecazi ölüm dahil değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "slug": "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "name": "Ehl-i kitap içinde inananlar",
+      "description": "Ehl-i kitap konusunun inceleme alt başlığı: Ehl-i kitap içinde inananlar.",
+      "domainId": "tarih",
+      "parentTopicId": "ehli-kitap",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Önceki vahiy topluluklarına hitap, farklı tutumlar ve inananları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Genel inanan sözcüğü Ehl-i kitap için yeterli değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "slug": "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "name": "Ehl-i kitaba yönelik eleştirilerin bağlamı",
+      "description": "Ehl-i kitap konusunun inceleme alt başlığı: Ehl-i kitaba yönelik eleştirilerin bağlamı.",
+      "domainId": "tarih",
+      "parentTopicId": "ehli-kitap",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Önceki vahiy topluluklarına hitap, farklı tutumlar ve inananları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Genel inanan sözcüğü Ehl-i kitap için yeterli değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "kiyamet--son-saatin-bilinmezligi",
+      "slug": "kiyamet--son-saatin-bilinmezligi",
+      "name": "Son saatin bilinmezliği",
+      "description": "Kıyamet konusunun inceleme alt başlığı: Son saatin bilinmezliği.",
+      "domainId": "ahiret",
+      "parentTopicId": "kiyamet",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Son saat, zamanı ve kıyamet anlatımları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her azap/ceza veya ahiret ifadesi kıyametin zamanı değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "hesap--eylemlerin-karsiligi",
+      "slug": "hesap--eylemlerin-karsiligi",
+      "name": "Eylemlerin karşılığı",
+      "description": "Hesap ve karşılık konusunun inceleme alt başlığı: Eylemlerin karşılığı.",
+      "domainId": "ahiret",
+      "parentTopicId": "hesap",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Ahiret hesabı ve eylemlerin karşılığı. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Ticari hesap veya dünyadaki maaş ayrı konudur.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "amel-kaydi--eylemleri-kaydeden-melekler",
+      "slug": "amel-kaydi--eylemleri-kaydeden-melekler",
+      "name": "Eylemleri kaydeden melekler",
+      "description": "Amellerin kaydı konusunun inceleme alt başlığı: Eylemleri kaydeden melekler.",
+      "domainId": "ahiret",
+      "parentTopicId": "amel-kaydi",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eylemlerin yazılması ve hesapta kayıtların sunulması. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her kitap veya melek sözcüğü dahil değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "amel-kaydi--hesapta-sunulan-kayit",
+      "slug": "amel-kaydi--hesapta-sunulan-kayit",
+      "name": "Hesapta sunulan kayıt",
+      "description": "Amellerin kaydı konusunun inceleme alt başlığı: Hesapta sunulan kayıt.",
+      "domainId": "ahiret",
+      "parentTopicId": "amel-kaydi",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Eylemlerin yazılması ve hesapta kayıtların sunulması. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her kitap veya melek sözcüğü dahil değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "akil--yaratilis-uzerinde-dusunmek",
+      "slug": "akil--yaratilis-uzerinde-dusunmek",
+      "name": "Yaratılış üzerinde düşünmek",
+      "description": "Akıl ve düşünme konusunun inceleme alt başlığı: Yaratılış üzerinde düşünmek.",
+      "domainId": "yaratilis",
+      "parentTopicId": "akil",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Akletme, düşünme ve ibret alma çağrıları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her doğru ifade veya bilgi otomatik akletme değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "akil--vahiy-uzerinde-dusunmek",
+      "slug": "akil--vahiy-uzerinde-dusunmek",
+      "name": "Vahiy üzerinde düşünmek",
+      "description": "Akıl ve düşünme konusunun inceleme alt başlığı: Vahiy üzerinde düşünmek.",
+      "domainId": "yaratilis",
+      "parentTopicId": "akil",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Akletme, düşünme ve ibret alma çağrıları. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her doğru ifade veya bilgi otomatik akletme değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "teblig--elcinin-bildirme-gorevi",
+      "slug": "teblig--elcinin-bildirme-gorevi",
+      "name": "Elçinin bildirme görevi",
+      "description": "Tebliğ ve davet konusunun inceleme alt başlığı: Elçinin bildirme görevi.",
+      "domainId": "peygamberler",
+      "parentTopicId": "teblig",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Elçinin bildirmesi ve hikmetle inanca davet. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her çağrı veya davet dini tebliğ değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "teblig--hikmetli-davet",
+      "slug": "teblig--hikmetli-davet",
+      "name": "Hikmetli davet",
+      "description": "Tebliğ ve davet konusunun inceleme alt başlığı: Hikmetli davet.",
+      "domainId": "peygamberler",
+      "parentTopicId": "teblig",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "Elçinin bildirmesi ve hikmetle inanca davet. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Her çağrı veya davet dini tebliğ değildir.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    },
+    {
+      "id": "merhamet--insanlara-sefkat",
+      "slug": "merhamet--insanlara-sefkat",
+      "name": "İnsanlara şefkat",
+      "description": "Merhamet konusunun inceleme alt başlığı: İnsanlara şefkat.",
+      "domainId": "ahlak",
+      "parentTopicId": "merhamet",
+      "aliases": [],
+      "everydayIntents": [],
+      "relatedTopicIds": [],
+      "sourceTopicNames": [],
+      "status": "proposed",
+      "version": "2.0.0-proposed.1",
+      "inclusion": "İnsanların birbirlerine şefkat ve merhamet göstermesi. Alt başlıktaki bağlam ayrıca bulunmalı.",
+      "exclusion": "Yalnız ilahi rahmet insan merhameti olarak sınıflanmaz.",
+      "reviewNotes": [
+        "Not an independent assignment; verify parent definition and contextual distinction."
+      ],
+      "provenance": {
+        "origin": "editorial-proposal",
+        "sourceTopicIds": []
+      }
+    }
+  ],
+  "everydayIntents": [
+    {
+      "id": "biraz-huzur-ariyorum",
+      "label": "Biraz huzur arıyorum",
+      "topicIds": [
+        "huzur",
+        "dua"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "sabretmekte-zorlaniyorum",
+      "label": "Sabretmekte zorlanıyorum",
+      "topicIds": [
+        "sabir",
+        "imtihan"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "gelecek-konusunda-kaygiliyim",
+      "label": "Gelecek konusunda kaygılıyım",
+      "topicIds": [
+        "korku",
+        "tevekkul",
+        "umit"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "bir-karar-vermem-gerekiyor",
+      "label": "Bir karar vermem gerekiyor",
+      "topicIds": [
+        "musavere",
+        "akil",
+        "tevekkul"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "kendimi-yalniz-hissediyorum",
+      "label": "Kendimi yalnız hissediyorum",
+      "topicIds": [
+        "dua",
+        "yardimlasma"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "affetmekte-zorlaniyorum",
+      "label": "Affetmekte zorlanıyorum",
+      "topicIds": [
+        "affetme",
+        "merhamet"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "sukretmek-istiyorum",
+      "label": "Şükretmek istiyorum",
+      "topicIds": [
+        "sukur"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "maddi-sikinti-yasiyorum",
+      "label": "Maddi sıkıntı yaşıyorum",
+      "topicIds": [
+        "rizik",
+        "yoksulluk",
+        "borc"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "ofkeliyim",
+      "label": "Öfkeliyim",
+      "topicIds": [
+        "ofke",
+        "sabir"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "umudumu-kaybediyorum",
+      "label": "Umudumu kaybediyorum",
+      "topicIds": [
+        "umit",
+        "allah-rahmeti"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "ailemle-ilgili-zorlaniyorum",
+      "label": "Ailemle ilgili zorlanıyorum",
+      "topicIds": [
+        "evlilik",
+        "ebeveyn",
+        "akrabalik"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "haksizliga-ugradim",
+      "label": "Haksızlığa uğradım",
+      "topicIds": [
+        "adalet",
+        "zulum",
+        "sabir"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "dogru-haberi-nasil-ayirt-ederim",
+      "label": "Doğru haberi nasıl ayırt ederim?",
+      "topicIds": [
+        "haber-dogrulama",
+        "zan",
+        "bilgi"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "birine-yardim-etmek-istiyorum",
+      "label": "Birine yardım etmek istiyorum",
+      "topicIds": [
+        "infak",
+        "yardimlasma"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "hata-yaptim-donmek-istiyorum",
+      "label": "Hata yaptım, dönmek istiyorum",
+      "topicIds": [
+        "tevbe",
+        "kisisel-sorumluluk"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    },
+    {
+      "id": "yakinimi-kaybettim",
+      "label": "Yakınımı kaybettim",
+      "topicIds": [
+        "olum",
+        "huzun",
+        "sabir"
+      ],
+      "status": "proposed",
+      "kind": "discovery-query",
+      "reviewNotes": "Navigation proposal, not a clinical diagnosis, treatment, life-advice generation or religious promise."
+    }
+  ]
+}

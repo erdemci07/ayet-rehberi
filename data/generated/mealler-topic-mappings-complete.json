@@ -1,0 +1,4473 @@
+{
+  "generatedAt": "2026-09-17T20:02:29.845Z",
+  "source": "mealler.org",
+  "topics": [
+    {
+      "id": "012",
+      "name": "Abdest",
+      "slug": "abdest",
+      "mappings": [
+        {
+          "verseId": "4:43",
+          "source": "mealler.org",
+          "sourceTopicId": "012",
+          "sourceTopicName": "Abdest",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=012",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:6",
+          "source": "mealler.org",
+          "sourceTopicId": "012",
+          "sourceTopicName": "Abdest",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=012",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "036",
+      "name": "Ahiret",
+      "slug": "ahiret",
+      "mappings": [
+        {
+          "verseId": "2:4",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:62",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:217",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:85",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:145",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:176",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:39",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:74",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:77",
+          "source": "mealler.org",
+          "sourceTopicId": "036",
+          "sourceTopicName": "Ahiret",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2049",
+      "name": "Aklını kullanmak",
+      "slug": "akl-n-kullanmak",
+      "mappings": [
+        {
+          "verseId": "2:44",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:76",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:65",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:32",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:169",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "8:22",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:100",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:109",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "11:51",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "21:10",
+          "source": "mealler.org",
+          "sourceTopicId": "2049",
+          "sourceTopicName": "Aklını kullanmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2049",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1036",
+      "name": "Allah hakkında yalan uydurmak",
+      "slug": "allah-hakk-nda-yalan-uydurmak",
+      "mappings": [
+        {
+          "verseId": "3:94",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:50",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:21",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:93",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:144",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:157",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:37",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:17",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:60",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:69",
+          "source": "mealler.org",
+          "sourceTopicId": "1036",
+          "sourceTopicName": "Allah hakkında yalan uydurmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2047",
+      "name": "Allah'ın yarattığı ayetler",
+      "slug": "allah-n-yaratt-g-ayetler",
+      "mappings": [
+        {
+          "verseId": "3:190",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:191",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "30:22",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "35:28",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "41:37",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "41:53",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "51:20",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "51:21",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "86:5",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "86:6",
+          "source": "mealler.org",
+          "sourceTopicId": "2047",
+          "sourceTopicName": "Allah'ın yarattığı ayetler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2047",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2037",
+      "name": "Anne-Babaya hürmet",
+      "slug": "anne-babaya-hurmet",
+      "mappings": [
+        {
+          "verseId": "29:8",
+          "source": "mealler.org",
+          "sourceTopicId": "2037",
+          "sourceTopicName": "Anne-Babaya hürmet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "31:14",
+          "source": "mealler.org",
+          "sourceTopicId": "2037",
+          "sourceTopicName": "Anne-Babaya hürmet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "31:15",
+          "source": "mealler.org",
+          "sourceTopicId": "2037",
+          "sourceTopicName": "Anne-Babaya hürmet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "46:15",
+          "source": "mealler.org",
+          "sourceTopicId": "2037",
+          "sourceTopicName": "Anne-Babaya hürmet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1030",
+      "name": "Ayetlerin korunması",
+      "slug": "ayetlerin-korunmas",
+      "mappings": [
+        {
+          "verseId": "2:106",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:34",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:115",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "15:9",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "18:27",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "56:78",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "85:22",
+          "source": "mealler.org",
+          "sourceTopicId": "1030",
+          "sourceTopicName": "Ayetlerin korunması",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1034",
+      "name": "Başkasının günahını üstlenme",
+      "slug": "baskas-n-n-gunah-n-ustlenme",
+      "mappings": [
+        {
+          "verseId": "6:164",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:15",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "29:12",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "34:25",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "35:18",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:7",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:38",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:39",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:40",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:41",
+          "source": "mealler.org",
+          "sourceTopicId": "1034",
+          "sourceTopicName": "Başkasının günahını üstlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1024",
+      "name": "Cami - Mescit",
+      "slug": "cami-mescit",
+      "mappings": [
+        {
+          "verseId": "2:114",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:29",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:31",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:18",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:108",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "72:18",
+          "source": "mealler.org",
+          "sourceTopicId": "1024",
+          "sourceTopicName": "Cami - Mescit",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1033",
+      "name": "Cenaze namazı",
+      "slug": "cenaze-namaz",
+      "mappings": [
+        {
+          "verseId": "9:84",
+          "source": "mealler.org",
+          "sourceTopicId": "1033",
+          "sourceTopicName": "Cenaze namazı",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "037",
+      "name": "Cennet",
+      "slug": "cennet",
+      "mappings": [
+        {
+          "verseId": "2:25",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:82",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:214",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:15",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:133",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:136",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:142",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:185",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:195",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:198",
+          "source": "mealler.org",
+          "sourceTopicId": "037",
+          "sourceTopicName": "Cennet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "026",
+      "name": "Cinsellik",
+      "slug": "cinsellik",
+      "mappings": [
+        {
+          "verseId": "2:222",
+          "source": "mealler.org",
+          "sourceTopicId": "026",
+          "sourceTopicName": "Cinsellik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:223",
+          "source": "mealler.org",
+          "sourceTopicId": "026",
+          "sourceTopicName": "Cinsellik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2057",
+      "name": "Din",
+      "slug": "din",
+      "mappings": [
+        {
+          "verseId": "3:19",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:11",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:36",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "12:40",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:78",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "30:30",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "30:43",
+          "source": "mealler.org",
+          "sourceTopicId": "2057",
+          "sourceTopicName": "Din",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2057",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1028",
+      "name": "Dinde zorlama",
+      "slug": "dinde-zorlama",
+      "mappings": [
+        {
+          "verseId": "2:256",
+          "source": "mealler.org",
+          "sourceTopicId": "1028",
+          "sourceTopicName": "Dinde zorlama",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "020",
+      "name": "Dinle eğlenme",
+      "slug": "dinle-eglenme",
+      "mappings": [
+        {
+          "verseId": "4:140",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:58",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:70",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:51",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:65",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "31:6",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "37:12",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "37:13",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "37:14",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "45:9",
+          "source": "mealler.org",
+          "sourceTopicId": "020",
+          "sourceTopicName": "Dinle eğlenme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=020",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "Dua",
+      "slug": "dua",
+      "mappings": [
+        {
+          "verseId": "1:5",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "1:6",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "1:7",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:32",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:128",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:137",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:201",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:250",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:255",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:258",
+          "source": "mealler.org",
+          "sourceTopicId": "023",
+          "sourceTopicName": "Dua",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=023",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2042",
+      "name": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+      "slug": "ehl-i-kitaba-yonelik-elestiriler-ve-bugunku-muslumanlar",
+      "mappings": [
+        {
+          "verseId": "2:40",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:41",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:42",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:43",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:44",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:45",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:46",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:47",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:48",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:49",
+          "source": "mealler.org",
+          "sourceTopicId": "2042",
+          "sourceTopicName": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2042",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1031",
+      "name": "Ehl-i kitabın iman edenleri",
+      "slug": "ehl-i-kitab-n-iman-edenleri",
+      "mappings": [
+        {
+          "verseId": "2:62",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:110",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:113",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:114",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:115",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:199",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:82",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:83",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:84",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:85",
+          "source": "mealler.org",
+          "sourceTopicId": "1031",
+          "sourceTopicName": "Ehl-i kitabın iman edenleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "027",
+      "name": "Evlilik",
+      "slug": "evlilik",
+      "mappings": [
+        {
+          "verseId": "2:221",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:226",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:227",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:228",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:229",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:230",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:231",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:232",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:234",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:235",
+          "source": "mealler.org",
+          "sourceTopicId": "027",
+          "sourceTopicName": "Evlilik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2044",
+      "name": "Evrenin ve Doğanın kanunları",
+      "slug": "evrenin-ve-dogan-n-kanunlar",
+      "mappings": [
+        {
+          "verseId": "2:117",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:259",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:120",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:125",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "13:2",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "15:22",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:68",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:69",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "21:30",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "21:32",
+          "source": "mealler.org",
+          "sourceTopicId": "2044",
+          "sourceTopicName": "Evrenin ve Doğanın kanunları",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2044",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "025",
+      "name": "Faiz",
+      "slug": "faiz",
+      "mappings": [
+        {
+          "verseId": "2:275",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:276",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:278",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:279",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:280",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:130",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "30:39",
+          "source": "mealler.org",
+          "sourceTopicId": "025",
+          "sourceTopicName": "Faiz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=025",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "024",
+      "name": "Fısıldaşma-Gizli Görüşme",
+      "slug": "f-s-ldasma-gizli-gorusme",
+      "mappings": [
+        {
+          "verseId": "4:114",
+          "source": "mealler.org",
+          "sourceTopicId": "024",
+          "sourceTopicName": "Fısıldaşma-Gizli Görüşme",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=024",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "016",
+      "name": "Hac",
+      "slug": "hac",
+      "mappings": [
+        {
+          "verseId": "2:158",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:189",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:196",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:197",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:198",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:199",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:200",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:201",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:203",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:97",
+          "source": "mealler.org",
+          "sourceTopicId": "016",
+          "sourceTopicName": "Hac",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=016",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "015",
+      "name": "Helal et",
+      "slug": "helal-et",
+      "mappings": [
+        {
+          "verseId": "2:168",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:172",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:173",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:1",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:3",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:4",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:5",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:96",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:118",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:119",
+          "source": "mealler.org",
+          "sourceTopicId": "015",
+          "sourceTopicName": "Helal et",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=015",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "İçki",
+      "slug": "icki",
+      "mappings": [
+        {
+          "verseId": "2:219",
+          "source": "mealler.org",
+          "sourceTopicId": "022",
+          "sourceTopicName": "İçki",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=022",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:90",
+          "source": "mealler.org",
+          "sourceTopicId": "022",
+          "sourceTopicName": "İçki",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=022",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:91",
+          "source": "mealler.org",
+          "sourceTopicId": "022",
+          "sourceTopicName": "İçki",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=022",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:67",
+          "source": "mealler.org",
+          "sourceTopicId": "022",
+          "sourceTopicName": "İçki",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=022",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "034",
+      "name": "İftira atmak",
+      "slug": "iftira-atmak",
+      "mappings": [
+        {
+          "verseId": "4:112",
+          "source": "mealler.org",
+          "sourceTopicId": "034",
+          "sourceTopicName": "İftira atmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:15",
+          "source": "mealler.org",
+          "sourceTopicId": "034",
+          "sourceTopicName": "İftira atmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=034",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1035",
+      "name": "İnançlara saygı",
+      "slug": "inanclara-sayg",
+      "mappings": [
+        {
+          "verseId": "6:108",
+          "source": "mealler.org",
+          "sourceTopicId": "1035",
+          "sourceTopicName": "İnançlara saygı",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1035",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2054",
+      "name": "Irkçılık",
+      "slug": "rkc-l-k",
+      "mappings": [
+        {
+          "verseId": "30:22",
+          "source": "mealler.org",
+          "sourceTopicId": "2054",
+          "sourceTopicName": "Irkçılık",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2054",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "49:13",
+          "source": "mealler.org",
+          "sourceTopicId": "2054",
+          "sourceTopicName": "Irkçılık",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2054",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2040",
+      "name": "İslama davet",
+      "slug": "islama-davet",
+      "mappings": [
+        {
+          "verseId": "6:69",
+          "source": "mealler.org",
+          "sourceTopicId": "2040",
+          "sourceTopicName": "İslama davet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2040",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "20:132",
+          "source": "mealler.org",
+          "sourceTopicId": "2040",
+          "sourceTopicName": "İslama davet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2040",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "41:33",
+          "source": "mealler.org",
+          "sourceTopicId": "2040",
+          "sourceTopicName": "İslama davet",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2040",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2059",
+      "name": "Isr",
+      "slug": "sr",
+      "mappings": [
+        {
+          "verseId": "2:286",
+          "source": "mealler.org",
+          "sourceTopicId": "2059",
+          "sourceTopicName": "Isr",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2059",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:81",
+          "source": "mealler.org",
+          "sourceTopicId": "2059",
+          "sourceTopicName": "Isr",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2059",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:157",
+          "source": "mealler.org",
+          "sourceTopicId": "2059",
+          "sourceTopicName": "Isr",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2059",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "017",
+      "name": "Kadir gecesi",
+      "slug": "kadir-gecesi",
+      "mappings": [
+        {
+          "verseId": "44:3",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "97:1",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "97:2",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "97:3",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "97:4",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "97:5",
+          "source": "mealler.org",
+          "sourceTopicId": "017",
+          "sourceTopicName": "Kadir gecesi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=017",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2036",
+      "name": "Kalbim temiz diyenler",
+      "slug": "kalbim-temiz-diyenler",
+      "mappings": [
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:158",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:19",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:21",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "29:2",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:32",
+          "source": "mealler.org",
+          "sourceTopicId": "2036",
+          "sourceTopicName": "Kalbim temiz diyenler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2036",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1029",
+      "name": "Kıble",
+      "slug": "k-ble",
+      "mappings": [
+        {
+          "verseId": "2:142",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:143",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:144",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:145",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:149",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:150",
+          "source": "mealler.org",
+          "sourceTopicId": "1029",
+          "sourceTopicName": "Kıble",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2039",
+      "name": "Kısas",
+      "slug": "k-sas",
+      "mappings": [
+        {
+          "verseId": "2:178",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:179",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:123",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:160",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:27",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:126",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:33",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:60",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "28:84",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "40:40",
+          "source": "mealler.org",
+          "sourceTopicId": "2039",
+          "sourceTopicName": "Kısas",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1026",
+      "name": "Kıyamet ne zaman kopacak?",
+      "slug": "k-yamet-ne-zaman-kopacak",
+      "mappings": [
+        {
+          "verseId": "7:187",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "18:47",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "31:34",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "33:63",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "40:47",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:58",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "67:26",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "75:7",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "75:8",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "75:9",
+          "source": "mealler.org",
+          "sourceTopicId": "1026",
+          "sourceTopicName": "Kıyamet ne zaman kopacak?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1026",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2051",
+      "name": "Kölelik",
+      "slug": "kolelik",
+      "mappings": [
+        {
+          "verseId": "8:67",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:60",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:32",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:33",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "47:4",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "90:13",
+          "source": "mealler.org",
+          "sourceTopicId": "2051",
+          "sourceTopicName": "Kölelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2051",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1027",
+      "name": "Kur'an dinlemek - okumak",
+      "slug": "kur-an-dinlemek-okumak",
+      "mappings": [
+        {
+          "verseId": "2:121",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:204",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:98",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:9",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:45",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:23",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "47:24",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "54:17",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "54:22",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "54:32",
+          "source": "mealler.org",
+          "sourceTopicId": "1027",
+          "sourceTopicName": "Kur'an dinlemek - okumak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1027",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2038",
+      "name": "Kur'an'ı-Ayetleri çarpıtmak",
+      "slug": "kur-an-ayetleri-carp-tmak",
+      "mappings": [
+        {
+          "verseId": "2:75",
+          "source": "mealler.org",
+          "sourceTopicId": "2038",
+          "sourceTopicName": "Kur'an'ı-Ayetleri çarpıtmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:78",
+          "source": "mealler.org",
+          "sourceTopicId": "2038",
+          "sourceTopicName": "Kur'an'ı-Ayetleri çarpıtmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:46",
+          "source": "mealler.org",
+          "sourceTopicId": "2038",
+          "sourceTopicName": "Kur'an'ı-Ayetleri çarpıtmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "41:40",
+          "source": "mealler.org",
+          "sourceTopicId": "2038",
+          "sourceTopicName": "Kur'an'ı-Ayetleri çarpıtmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2045",
+      "name": "Kuran'ın Özellikleri",
+      "slug": "kuran-n-ozellikleri",
+      "mappings": [
+        {
+          "verseId": "2:2",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:23",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:24",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:118",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:103",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:138",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:82",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:105",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:3",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:47",
+          "source": "mealler.org",
+          "sourceTopicId": "2045",
+          "sourceTopicName": "Kuran'ın Özellikleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2045",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "019",
+      "name": "Kurban",
+      "slug": "kurban",
+      "mappings": [
+        {
+          "verseId": "2:196",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:2",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:97",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:28",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:34",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:36",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:37",
+          "source": "mealler.org",
+          "sourceTopicId": "019",
+          "sourceTopicName": "Kurban",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=019",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2050",
+      "name": "Muhkem-Müteşabih",
+      "slug": "muhkem-mutesabih",
+      "mappings": [
+        {
+          "verseId": "3:7",
+          "source": "mealler.org",
+          "sourceTopicId": "2050",
+          "sourceTopicName": "Muhkem-Müteşabih",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2050",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "11:1",
+          "source": "mealler.org",
+          "sourceTopicId": "2050",
+          "sourceTopicName": "Muhkem-Müteşabih",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2050",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:23",
+          "source": "mealler.org",
+          "sourceTopicId": "2050",
+          "sourceTopicName": "Muhkem-Müteşabih",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2050",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "039",
+      "name": "Müminlerin görevleri",
+      "slug": "muminlerin-gorevleri",
+      "mappings": [
+        {
+          "verseId": "2:3",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:4",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:21",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:22",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:42",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:43",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:46",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:121",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:152",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:153",
+          "source": "mealler.org",
+          "sourceTopicId": "039",
+          "sourceTopicName": "Müminlerin görevleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=039",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2043",
+      "name": "Müslümanlarin hali niye kötü?",
+      "slug": "muslumanlarin-hali-niye-kotu",
+      "mappings": [
+        {
+          "verseId": "3:86",
+          "source": "mealler.org",
+          "sourceTopicId": "2043",
+          "sourceTopicName": "Müslümanlarin hali niye kötü?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2043",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "8:53",
+          "source": "mealler.org",
+          "sourceTopicId": "2043",
+          "sourceTopicName": "Müslümanlarin hali niye kötü?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2043",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:24",
+          "source": "mealler.org",
+          "sourceTopicId": "2043",
+          "sourceTopicName": "Müslümanlarin hali niye kötü?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2043",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:100",
+          "source": "mealler.org",
+          "sourceTopicId": "2043",
+          "sourceTopicName": "Müslümanlarin hali niye kötü?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2043",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "13:11",
+          "source": "mealler.org",
+          "sourceTopicId": "2043",
+          "sourceTopicName": "Müslümanlarin hali niye kötü?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2043",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Namaz",
+      "slug": "namaz",
+      "mappings": [
+        {
+          "verseId": "2:43",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:45",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:83",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:110",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:153",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:238",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:239",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:277",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:43",
+          "source": "mealler.org",
+          "sourceTopicId": "014",
+          "sourceTopicName": "Namaz",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=014",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2048",
+      "name": "Namaz vakitleri",
+      "slug": "namaz-vakitleri",
+      "mappings": [
+        {
+          "verseId": "11:114",
+          "source": "mealler.org",
+          "sourceTopicId": "2048",
+          "sourceTopicName": "Namaz vakitleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2048",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:78",
+          "source": "mealler.org",
+          "sourceTopicId": "2048",
+          "sourceTopicName": "Namaz vakitleri",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2048",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2060",
+      "name": "Nesih",
+      "slug": "nesih",
+      "mappings": [
+        {
+          "verseId": "2:106",
+          "source": "mealler.org",
+          "sourceTopicId": "2060",
+          "sourceTopicName": "Nesih",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2060",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:101",
+          "source": "mealler.org",
+          "sourceTopicId": "2060",
+          "sourceTopicName": "Nesih",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2060",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "028",
+      "name": "Öldürmek - Katil olmak",
+      "slug": "oldurmek-katil-olmak",
+      "mappings": [
+        {
+          "verseId": "2:178",
+          "source": "mealler.org",
+          "sourceTopicId": "028",
+          "sourceTopicName": "Öldürmek - Katil olmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:92",
+          "source": "mealler.org",
+          "sourceTopicId": "028",
+          "sourceTopicName": "Öldürmek - Katil olmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:93",
+          "source": "mealler.org",
+          "sourceTopicId": "028",
+          "sourceTopicName": "Öldürmek - Katil olmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:32",
+          "source": "mealler.org",
+          "sourceTopicId": "028",
+          "sourceTopicName": "Öldürmek - Katil olmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:33",
+          "source": "mealler.org",
+          "sourceTopicId": "028",
+          "sourceTopicName": "Öldürmek - Katil olmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=028",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1037",
+      "name": "Peygamberin görevi",
+      "slug": "peygamberin-gorevi",
+      "mappings": [
+        {
+          "verseId": "3:20",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:79",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:144",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:67",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:92",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:99",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:48",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:15",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "11:12",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "13:7",
+          "source": "mealler.org",
+          "sourceTopicId": "1037",
+          "sourceTopicName": "Peygamberin görevi",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1037",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "1032",
+      "name": "Peygamberler şefaat edebilir mi?",
+      "slug": "peygamberler-sefaat-edebilir-mi",
+      "mappings": [
+        {
+          "verseId": "2:48",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:123",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:255",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:3",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "19:87",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "20:109",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "32:4",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "34:23",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:19",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "40:18",
+          "source": "mealler.org",
+          "sourceTopicId": "1032",
+          "sourceTopicName": "Peygamberler şefaat edebilir mi?",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=1032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "018",
+      "name": "Ramazan'da oruç",
+      "slug": "ramazan-da-oruc",
+      "mappings": [
+        {
+          "verseId": "2:183",
+          "source": "mealler.org",
+          "sourceTopicId": "018",
+          "sourceTopicName": "Ramazan'da oruç",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=018",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:184",
+          "source": "mealler.org",
+          "sourceTopicId": "018",
+          "sourceTopicName": "Ramazan'da oruç",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=018",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:185",
+          "source": "mealler.org",
+          "sourceTopicId": "018",
+          "sourceTopicName": "Ramazan'da oruç",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=018",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:186",
+          "source": "mealler.org",
+          "sourceTopicId": "018",
+          "sourceTopicName": "Ramazan'da oruç",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=018",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:187",
+          "source": "mealler.org",
+          "sourceTopicId": "018",
+          "sourceTopicName": "Ramazan'da oruç",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=018",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "038",
+      "name": "Sabır",
+      "slug": "sab-r",
+      "mappings": [
+        {
+          "verseId": "2:45",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:153",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:155",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:156",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:17",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:120",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:146",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:200",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "8:46",
+          "source": "mealler.org",
+          "sourceTopicId": "038",
+          "sourceTopicName": "Sabır",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=038",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "029",
+      "name": "Savaşmak - Cihad",
+      "slug": "savasmak-cihad",
+      "mappings": [
+        {
+          "verseId": "2:190",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:191",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:192",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:193",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:194",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:216",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:217",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:244",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:13",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:71",
+          "source": "mealler.org",
+          "sourceTopicId": "029",
+          "sourceTopicName": "Savaşmak - Cihad",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=029",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "035",
+      "name": "Şehitlik - Allah yolunda ölmek",
+      "slug": "sehitlik-allah-yolunda-olmek",
+      "mappings": [
+        {
+          "verseId": "2:154",
+          "source": "mealler.org",
+          "sourceTopicId": "035",
+          "sourceTopicName": "Şehitlik - Allah yolunda ölmek",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=035",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:157",
+          "source": "mealler.org",
+          "sourceTopicId": "035",
+          "sourceTopicName": "Şehitlik - Allah yolunda ölmek",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=035",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:169",
+          "source": "mealler.org",
+          "sourceTopicId": "035",
+          "sourceTopicName": "Şehitlik - Allah yolunda ölmek",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=035",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:74",
+          "source": "mealler.org",
+          "sourceTopicId": "035",
+          "sourceTopicName": "Şehitlik - Allah yolunda ölmek",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=035",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2053",
+      "name": "Sünnetullah",
+      "slug": "sunnetullah",
+      "mappings": [
+        {
+          "verseId": "17:77",
+          "source": "mealler.org",
+          "sourceTopicId": "2053",
+          "sourceTopicName": "Sünnetullah",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2053",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "35:43",
+          "source": "mealler.org",
+          "sourceTopicId": "2053",
+          "sourceTopicName": "Sünnetullah",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2053",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "48:23",
+          "source": "mealler.org",
+          "sourceTopicId": "2053",
+          "sourceTopicName": "Sünnetullah",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2053",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "030",
+      "name": "Sütten kesme ve süt annelik",
+      "slug": "sutten-kesme-ve-sut-annelik",
+      "mappings": [
+        {
+          "verseId": "2:233",
+          "source": "mealler.org",
+          "sourceTopicId": "030",
+          "sourceTopicName": "Sütten kesme ve süt annelik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=030",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2041",
+      "name": "Tarikat-Mezhep-Alim peşinde koşmak",
+      "slug": "tarikat-mezhep-alim-pesinde-kosmak",
+      "mappings": [
+        {
+          "verseId": "2:159",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:165",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:103",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:105",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:159",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "7:3",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "29:41",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:2",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "39:3",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "42:13",
+          "source": "mealler.org",
+          "sourceTopicId": "2041",
+          "sourceTopicName": "Tarikat-Mezhep-Alim peşinde koşmak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2041",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2058",
+      "name": "Tasdik",
+      "slug": "tasdik",
+      "mappings": [
+        {
+          "verseId": "2:41",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:89",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:91",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:97",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:101",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:3",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:39",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:81",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:47",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:46",
+          "source": "mealler.org",
+          "sourceTopicId": "2058",
+          "sourceTopicName": "Tasdik",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2058",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2052",
+      "name": "Ulul-Emr",
+      "slug": "ulul-emr",
+      "mappings": [
+        {
+          "verseId": "4:59",
+          "source": "mealler.org",
+          "sourceTopicId": "2052",
+          "sourceTopicName": "Ulul-Emr",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2052",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:83",
+          "source": "mealler.org",
+          "sourceTopicId": "2052",
+          "sourceTopicName": "Ulul-Emr",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2052",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "name": "Vasiyet - Miras",
+      "slug": "vasiyet-miras",
+      "mappings": [
+        {
+          "verseId": "2:180",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:181",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:182",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:240",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:7",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:8",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:9",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:11",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:12",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:19",
+          "source": "mealler.org",
+          "sourceTopicId": "033",
+          "sourceTopicName": "Vasiyet - Miras",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=033",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "name": "Yardım - Sadaka",
+      "slug": "yard-m-sadaka",
+      "mappings": [
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:215",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:220",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:263",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:270",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:271",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:272",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:273",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:274",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:114",
+          "source": "mealler.org",
+          "sourceTopicId": "031",
+          "sourceTopicName": "Yardım - Sadaka",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=031",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2055",
+      "name": "Yazıcı Melekler",
+      "slug": "yaz-c-melekler",
+      "mappings": [
+        {
+          "verseId": "10:21",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "13:11",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "50:18",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "82:10",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "82:11",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "82:12",
+          "source": "mealler.org",
+          "sourceTopicId": "2055",
+          "sourceTopicName": "Yazıcı Melekler",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2055",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2056",
+      "name": "Yazıcı meleklerin yazdığı kitap",
+      "slug": "yaz-c-meleklerin-yazd-g-kitap",
+      "mappings": [
+        {
+          "verseId": "17:13",
+          "source": "mealler.org",
+          "sourceTopicId": "2056",
+          "sourceTopicName": "Yazıcı meleklerin yazdığı kitap",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2056",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:14",
+          "source": "mealler.org",
+          "sourceTopicId": "2056",
+          "sourceTopicName": "Yazıcı meleklerin yazdığı kitap",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2056",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "18:49",
+          "source": "mealler.org",
+          "sourceTopicId": "2056",
+          "sourceTopicName": "Yazıcı meleklerin yazdığı kitap",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2056",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "Yemin",
+      "slug": "yemin",
+      "mappings": [
+        {
+          "verseId": "2:224",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:225",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:76",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "3:77",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:33",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:89",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:91",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:92",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:94",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "16:95",
+          "source": "mealler.org",
+          "sourceTopicId": "021",
+          "sourceTopicName": "Yemin",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=021",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "2046",
+      "name": "Zanna-Çoğunluğa uymak",
+      "slug": "zanna-cogunluga-uymak",
+      "mappings": [
+        {
+          "verseId": "6:116",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "6:148",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:36",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "10:66",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "45:24",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "53:28",
+          "source": "mealler.org",
+          "sourceTopicId": "2046",
+          "sourceTopicName": "Zanna-Çoğunluğa uymak",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=2046",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "Zekât",
+      "slug": "zekat",
+      "mappings": [
+        {
+          "verseId": "2:43",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:110",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:177",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "2:277",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:162",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "5:55",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:60",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "9:71",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "22:78",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:56",
+          "source": "mealler.org",
+          "sourceTopicId": "013",
+          "sourceTopicName": "Zekât",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=013",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "name": "Zina - Fuhuş",
+      "slug": "zina-fuhus",
+      "mappings": [
+        {
+          "verseId": "4:15",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:16",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "4:24",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "17:32",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:2",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:3",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:4",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:5",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:6",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        },
+        {
+          "verseId": "24:7",
+          "source": "mealler.org",
+          "sourceTopicId": "032",
+          "sourceTopicName": "Zina - Fuhuş",
+          "sourcePage": 1,
+          "sourceUrl": "https://mealler.org/Konu.aspx?id=032",
+          "retrievedAt": "2026-09-17T20:02:29.845Z"
+        }
+      ]
+    }
+  ]
+}

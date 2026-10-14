@@ -1,0 +1,1411 @@
+{
+  "key": "5af055dcb289782c6ca9673fd2e4b323895505d4184daf707d254262e91a8f0c",
+  "status": "completed",
+  "checksum": "baa6370df775ed5575a48428fec29b22bb1149c114111b142dbcd25b7505ef84",
+  "result": {
+    "consideredVerseIds": [
+      "2:177",
+      "2:228",
+      "2:256",
+      "2:261",
+      "2:282",
+      "3:7",
+      "3:185",
+      "4:3",
+      "4:4",
+      "4:11"
+    ],
+    "consideredTopicIds": [
+      "tevhid",
+      "allah-rahmeti",
+      "allah-ilmi",
+      "allah-kudreti",
+      "allah-adaleti",
+      "allah-yalan",
+      "esma",
+      "iman",
+      "inkar",
+      "sirk",
+      "munafiklik",
+      "takva",
+      "hidayet",
+      "seytan",
+      "melekler",
+      "cinler",
+      "gayb",
+      "din",
+      "din-ozgurlugu",
+      "kisisel-sorumluluk",
+      "tevbe",
+      "vahiy",
+      "kuran-nitelikleri",
+      "kuran-okuma",
+      "kuran-anlama",
+      "vahyin-korunmasi",
+      "metin-carpitma",
+      "muhkem-mutesabih",
+      "nesih",
+      "tasdik",
+      "isr",
+      "dua",
+      "namaz",
+      "namaz-vakitleri",
+      "abdest",
+      "kible",
+      "mescit",
+      "oruc",
+      "hac",
+      "kurban",
+      "kadir",
+      "zikir",
+      "ibadet-ihlasi",
+      "cenaze-baglami",
+      "sabir",
+      "tevekkul",
+      "umit",
+      "korku",
+      "ofke",
+      "huzun",
+      "imtihan",
+      "huzur",
+      "sukur",
+      "dogruluk",
+      "merhamet",
+      "affetme",
+      "tevazu",
+      "kibir",
+      "emanet",
+      "sozlesme",
+      "riya",
+      "ahlaki-ozelestiri",
+      "israf",
+      "evlilik",
+      "ebeveyn",
+      "cocuk",
+      "emzirme",
+      "bosanma",
+      "mahremiyet",
+      "cinsellik",
+      "zina",
+      "akrabalik",
+      "yardimlasma",
+      "baris",
+      "giybet",
+      "alay",
+      "gizli-gorusme",
+      "haber-dogrulama",
+      "zan",
+      "esitlik",
+      "musavere",
+      "toplumsal-gorevler",
+      "din-otoritesi",
+      "yoksulluk",
+      "rizik",
+      "zekat",
+      "infak",
+      "faiz",
+      "ticaret",
+      "borc",
+      "miras",
+      "yetim-hakki",
+      "helal-gida",
+      "icki",
+      "kumar",
+      "adalet",
+      "zulum",
+      "taniklik",
+      "yemin",
+      "iftira",
+      "can-hakki",
+      "kisas",
+      "savas",
+      "ozgurlestirme",
+      "yonetim",
+      "olum",
+      "ahiret",
+      "dirilis",
+      "kiyamet",
+      "hesap",
+      "cennet",
+      "cehennem",
+      "sefaat",
+      "amel-kaydi",
+      "dunya-hayati",
+      "peygamberlik",
+      "teblig",
+      "peygamber-anlatilari",
+      "mucize",
+      "yaratilis",
+      "akil",
+      "bilgi",
+      "insan-yaratilisi",
+      "dogal-duzen",
+      "hayvanlar",
+      "ehli-kitap",
+      "topluluk-akibeti",
+      "sunnetullah",
+      "hicret",
+      "allah-yolunda-olum",
+      "sabir--musibet-karsisinda-sabir",
+      "sabir--sorumlulukta-sebat",
+      "sabir--haksizlik-karsisinda-sabir",
+      "dua--yardim-ve-bagislanma-dilemek",
+      "dua--peygamberlerin-dualari",
+      "dua--dua-ve-yakinlik",
+      "namaz--namaza-devam-etmek",
+      "namaz--namaz-ve-toplumsal-sorumluluk",
+      "oruc--ramazan-orucu",
+      "oruc--telafi-ve-kefaret-baglami",
+      "hac--hac-ve-umre",
+      "hac--hacda-sinirlar",
+      "evlilik--eslerin-karsilikli-haklari",
+      "evlilik--nikahin-sinirlari",
+      "bosanma--bekleme-suresi",
+      "bosanma--ayrilikta-adil-davranmak",
+      "infak--ihtiyac-sahibine-paylasim",
+      "infak--gosterissiz-yardim",
+      "miras--miras-paylari",
+      "miras--vasiyet-sorumlulugu",
+      "yetim-hakki--yetim-malinin-korunmasi",
+      "ticaret--olcu-ve-tarti",
+      "borc--borcun-kayda-alinmasi",
+      "savas--savasta-sinir-ve-baris",
+      "can-hakki--haksiz-yere-oldurme",
+      "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "kiyamet--son-saatin-bilinmezligi",
+      "hesap--eylemlerin-karsiligi",
+      "amel-kaydi--eylemleri-kaydeden-melekler",
+      "amel-kaydi--hesapta-sunulan-kayit",
+      "akil--yaratilis-uzerinde-dusunmek",
+      "akil--vahiy-uzerinde-dusunmek",
+      "teblig--elcinin-bildirme-gorevi",
+      "teblig--hikmetli-davet",
+      "merhamet--insanlara-sefkat"
+    ],
+    "mappings": [
+      {
+        "verseId": "2:177",
+        "topicId": "iman",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Birr, Allah’a, Ahiret Günü’ne, meleklere, kitaplara ve nebilere imanla açıkça tanımlanıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "tevhid",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Çevirmen notu, Allah’ı ibadete layık yegâne ilah kabul etmeyi ve kulluğu şirkten arındırmayı açıkça belirtiyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sirk",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Çevirmen notunda dua ve ibadetin şirkten arındırılması açık bir karşıt tutum olarak yer alıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "ahiret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Ahiret Günü’ne iman, birrin açık gereklerinden biri olarak sayılıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "melekler",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Meleklere iman açıkça sayılan inanç esasları arasındadır."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "vahiy",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:176",
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet kitaplara imanı sayıyor; önceki ayet kitabın Allah tarafından indirildiğini belirginleştiriyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "infak",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Sevilen malın çeşitli ihtiyaç sahiplerine verilmesi birrin merkezî unsurlarından biri olarak anlatılıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "infak--ihtiyac-sahibine-paylasim",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Malın yetimlere, yoksullara, yolda kalmışlara ve yardım isteyenlere verilmesi doğrudan bu alt bağlamı kuruyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "yoksulluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Yoksullar ve yardım isteyenler maddi paylaşımın açık hak sahipleri arasında sayılıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "yetim-hakki",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Yetimlere maldan pay vermek açık bir iyilik ve sorumluluk olarak belirtiliyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "yardimlasma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Maddi destek ve çevirmen notundaki yardımlaşmayı canlı tutma açıklaması insanlar arası yardımı doğrudan destekliyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "akrabalik",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Yakınlara mal vermek, akrabalık bağları içindeki maddi sorumluluğa anlamlı kanıt sağlıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "ozgurlestirme",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Köle ve esirlere maddi destek, tarihsel kölelik bağlamındaki hak gözetimini açıkça içeriyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "namaz",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Salâtı ikame etmek birrin açık gereklerinden biri olarak sayılıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "namaz--namaz-ve-toplumsal-sorumluluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Salât, ihtiyaç sahiplerine mal vermek ve sözleşme sorumluluğuyla aynı birr tanımı içinde birleştiriliyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "zekat",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Zekât vermek açık bir yükümlülük olarak zikrediliyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sozlesme",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Söz verildiğinde sözün yerine getirilmesi doğrudan ahit sorumluluğudur."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Zorluk, sıkıntı ve felaket durumunda sabır açıkça övülüyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sabir--musibet-karsisinda-sabir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Felakete uğrama durumunda sabretmek alt başlığın özel bağlamını doğrudan karşılıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sabir--sorumlulukta-sebat",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "İnanç, paylaşım, ibadet ve ahit görevleriyle birlikte sabrın sayılması sorumlulukta sebatı destekliyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "takva",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Bu tutumları gerçekleştirenler takva sahibi olarak niteleniyor; notta takva buyruklarla korunma bilinci olarak açıklanıyor."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Birr açıklamasında hak sahiplerini gözetme bulunuyor ve çevirmen notu birrin anlamları arasında adaleti de sayıyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "bosanma",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanan kadınların bekleme dönemi, yeniden evlilik ve tarafların hakları ayetin ana konusudur."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "bosanma--bekleme-suresi",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanan kadınlar için üç dönemlik bekleme süresi doğrudan düzenleniyor; not bunu üç ay hâli süresi olarak açıklıyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "bosanma--ayrilikta-adil-davranmak",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Bekleme döneminde gizlememe, yeniden evlenme ve karşılıklı meşru haklar ayrılık sürecinde hak gözetimini kuruyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşlerin yeniden evlenmesi ve karşılıklı hakları açıkça ele alınıyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "evlilik--eslerin-karsilikli-haklari",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadın ve erkeklerin birbirleri üzerindeki meşru haklarının denk olduğu açıkça bildiriliyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma ve yeniden evlenme bağlamında iki tarafın meşru hakları birlikte gözetiliyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "baris",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Bekleme döneminde eşlerin barışma ve yeniden evlenme isteği uzlaşma bağlamına katkı sağlıyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "iman",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’a ve Ahiret Günü’ne inanmak, rahimde yaratılanı gizlememe sorumluluğunun açık inanç zemini olarak sunuluyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "ahiret",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Ahiret Günü’ne inanç, boşanma sürecindeki dürüstlük yükümlülüğüyle doğrudan ilişkilendiriliyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Rahimlerde bulunanın Allah tarafından yaratıldığı açıkça ifade ediliyor."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Mutlak Üstün Olan ve En İyi Hüküm Veren sıfatlarıyla anılıyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "din-ozgurlugu",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Dinde zorlama bulunmadığı doğrudan ve merkezî bir hüküm olarak bildiriliyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "din",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Din ve inanç tercihi açıkça zorlama karşıtlığı üzerinden ele alınıyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "iman",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Tağutu reddedip Allah’a inanma açık bir inanç tutumu olarak sunuluyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "tevhid",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Tağutu reddetmek ile Allah’a inanmak birlikte veriliyor; not tağutun put ve Allah’ın buyruklarını tanımayan otoriteleri de kapsadığını açıklıyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "sirk",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Tağutun reddi, çevirmen notundaki put anlamıyla birlikte yaratılmış otoriteleri ilahlaştırmaya karşı bir tutum sağlıyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "hidayet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Doğrunun yanlıştan ayrılması ve sağlam kulpa tutunma doğru yönelişi açıkça anlatıyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın Her Şeyi Bilen olduğu açıkça belirtiliyor."
+      },
+      {
+        "verseId": "2:256",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:256"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Her Şeyi İşiten ve Her Şeyi Bilen sıfatlarıyla anılıyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "infak",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:261"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah yolunda mal harcayanların durumu ve bunun katlanan karşılığı ayetin ana konusudur."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "yardimlasma",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:261",
+          "2:262"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet Allah yolunda harcamayı anlatıyor; sonraki ayet ve not bunun ihtiyaç sahiplerine yardım olduğunu belirginleştiriyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "yoksulluk",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:261",
+          "2:262"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedefteki maddi harcamanın ihtiyaç sahiplerine yönelik olduğu sonraki ayetin çevirmen notuyla açıklanıyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "infak--ihtiyac-sahibine-paylasim",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:261",
+          "2:262"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah yolunda harcama hedef ayetin katkısıdır; ihtiyaç sahibine paylaşım ayrımı sonraki ayet ve notla kesinleşiyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "rizik",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:261"
+        ],
+        "decision": "candidate",
+        "rationale": "Maddi harcamanın karşılığının kat kat verilmesi, geçim ve maddi nimet bağlamına dolaylı kanıt sağlıyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:261"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın Her Şeyi Bilen olduğu açıkça belirtiliyor."
+      },
+      {
+        "verseId": "2:261",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:261"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Yardımı Çok Kapsamlı Olan ve Her Şeyi Bilen sıfatlarıyla anılıyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "borc",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Vadeli borcun yazılması, tarafların yükümlülükleri ve kayıt usulü ayetin ana konusudur."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "borc--borcun-kayda-alinmasi",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Borcun miktarı ve vadesiyle birlikte eksiksiz yazılması doğrudan emrediliyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "taniklik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Borç ve alışverişte tanık bulundurma, tanıkların sorumluluğu ve tanıklığın sağlamlığı ayrıntılı biçimde düzenleniyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Eksiksiz kayıt, tarafların korunması ve tanıklığın sağlamlaştırılması Allah katında en adil yöntem olarak niteleniyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "ticaret",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Peşin ticaret ve alışverişte kayıt ile tanık bulundurma açıkça ele alınıyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "dogruluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Yazanın tam yazması ve borçlunun hiçbir şeyi eksik bırakmaması söz ve kayıtta dürüstlük yükümlülüğüdür."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "takva",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Borçluya ve muhataplara Allah’a karşı takvalı olma çağrısı açıkça yöneltiliyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "bilgi",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın yazana öğretmesi, kaydın şüpheyi gidermesi ve tanığa hatırlatma bilgi sorumluluğunu destekliyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın öğrettiği ve Her Şeyi Bilen olduğu açıkça bildiriliyor."
+      },
+      {
+        "verseId": "2:282",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:282"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Her Şeyi Bilen sıfatıyla anılıyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "muhkem-mutesabih",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Kitabın muhkem ve müteşabih ayetleri, bunların nitelikleri ve yorum tutumu ayetin merkezî konusudur."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "vahiy",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Kitabın Allah tarafından elçiye indirildiği ve bütün ayetlerin Rab’den geldiği açıkça bildiriliyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "kuran-nitelikleri",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Kitabın muhkem ve müteşabih ayetlerden oluşması, açıklık ve yoruma açıklık nitelikleriyle birlikte anlatılıyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "kuran-anlama",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayetlerin yorumu, doğru anlama tutumu ve düşünüp öğüt alma doğrudan konu ediliyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "metin-carpitma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Kalbinde eğrilik bulunanların müteşabih ayetleri fitne ve kendi anlayışlarına uydurma amacıyla seçmeleri açıkça eleştiriliyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "akil",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Selim akıl sahiplerinin düşünüp öğüt alması açıkça belirtiliyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "akil--vahiy-uzerinde-dusunmek",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Düşünüp öğüt alma çağrısı doğrudan Kitabın ayetlerinin niteliği ve yorumu bağlamındadır."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "bilgi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "İlimde derinleşme, hakikati idrak etme ve vahyi doğru bilgi kaynağı kabul etme açıkça işleniyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Müteşabih ayetlerin hakikatini yalnız Allah’ın bildiği ifade ediliyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "gayb",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayetlerin hakikatinin yalnız Allah tarafından bilinmesi insan bilgisinin sınırlarına anlamlı kanıt sağlıyor."
+      },
+      {
+        "verseId": "3:7",
+        "topicId": "iman",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:7"
+        ],
+        "decision": "candidate",
+        "rationale": "İlimde derinleşenlerin bütün ayetlerin Rab’den geldiğine iman ettiklerini söylemeleri açık bir inanç tutumudur."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "olum",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Her nefsin ölümü tadacağı doğrudan bildirilerek insanın faniliği vurgulanıyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "ahiret",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölüm sonrası karşılık, Cennet ve Cehennem birlikte açık bir ahiret tablosu oluşturuyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "kiyamet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Yapılanların karşılığının Kıyamet Günü’nde verileceği açıkça belirtiliyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "hesap",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanların yaptıklarının karşılığının tam olarak verileceği bildiriliyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "hesap--eylemlerin-karsiligi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Kıyamet Günü’nde eylemlerin karşılığının eksiksiz verilmesi alt başlığı doğrudan karşılıyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "allah-adaleti",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Yapılanların karşılığının tam verilmesi adil ilahi karşılığı doğrudan anlatıyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "kisisel-sorumluluk",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Karşılığın insanların kendi yaptıklarına bağlanması kişisel eylem sorumluluğunu destekliyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "cehennem",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Cehennem’den uzaklaştırılmak kurtuluşun bir parçası olarak açıkça anılıyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "cennet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Cennet’e konulmak açıkça kurtuluş olarak niteleniyor."
+      },
+      {
+        "verseId": "3:185",
+        "topicId": "dunya-hayati",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "3:185"
+        ],
+        "decision": "candidate",
+        "rationale": "Dünya hayatı, ahiret karşısında aldatıcı ve geçici bir geçimlik olarak tanımlanıyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "yetim-hakki",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:2",
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet yetimler konusunda hakkaniyeti şart koşuyor; önceki ayet ve notlar yetimlerin mal ve himaye haklarını belirginleştiriyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "yetim-hakki--yetim-malinin-korunmasi",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:2",
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Hedef ayet yetimlere hakkaniyetle davranma yükümlülüğünü sürdürürken önceki ayet doğrudan yetim mallarının korunmasını anlatıyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "cocuk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Çevirmen notu ayetin ana bağlamını bakımı üstlenilen yetim çocukların ve dul kadınların himayesi olarak açıklıyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadınlarla nikâhlanma, hakkaniyet ve haksızlıktan kaçınma şartlarıyla doğrudan ele alınıyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "evlilik--nikahin-sinirlari",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Nikâh tercihi adaleti gözetebilme ve himaye sorumluluğu sınırları içinde anlatılıyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Yetimler ve nikâh bağlamında hakkaniyet ve adaleti gözetmek ayetin temel ölçüsüdür."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "zulum",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Düzenlemenin amacı açıkça haksızlık etmemek olarak belirtiliyor."
+      },
+      {
+        "verseId": "4:3",
+        "topicId": "toplumsal-gorevler",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:3"
+        ],
+        "decision": "candidate",
+        "rationale": "Yetim çocuklar ile dul kadınların himayesi ve haklarının gözetilmesi toplumsal sorumluluğa somut katkı sağlıyor."
+      },
+      {
+        "verseId": "4:4",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:4"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadınlara mehirlerinin verilmesi ve onların mal üzerindeki iradesi doğrudan evlilik hakkıdır."
+      },
+      {
+        "verseId": "4:4",
+        "topicId": "evlilik--eslerin-karsilikli-haklari",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:4"
+        ],
+        "decision": "candidate",
+        "rationale": "Mehir kadının hakkı olarak korunuyor; eşe ancak onun isteyerek verdiği kısmı kullanma izni tanınıyor."
+      },
+      {
+        "verseId": "4:4",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:4"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadının mehir hakkının eksiksiz teslimi ve gönüllü tasarrufunun korunması açık hak gözetimidir."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "miras",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Çocukların, anne-babanın ve kardeşlerin miras payları ile paylaşım sırası ayetin ana konusudur."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "miras--miras-paylari",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Hak sahiplerinin yarım, üçte iki, üçte bir ve altıda bir gibi payları ayrıntılı biçimde belirleniyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "miras--vasiyet-sorumlulugu",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Miras paylaşımının ölenin vasiyetinden sonra yapılacağı açıkça belirtiliyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "borc",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Mirasın, ölenin borçları ödendikten sonra paylaştırılması emrediliyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "cocuk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Çocukların mirastaki maddi hakları açık ve ayrıntılı biçimde düzenleniyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "ebeveyn",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Anne ve babanın mirastaki payları doğrudan belirlenerek ebeveyn hakları gözetiliyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "akrabalik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Çocuklar, anne-baba ve kardeşler arasındaki maddi hak ilişkileri açıkça düzenleniyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Mirasın belirli hak sahiplerine belirlenmiş paylarla dağıtılması insanlar arası hak gözetimini doğrudan içeriyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanların hangi yakının daha faydalı olduğunu bilemeyeceği, Allah’ın ise Her Şeyi Bilen olduğu belirtiliyor."
+      },
+      {
+        "verseId": "4:11",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:11"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, Her Şeyi Bilen ve En İyi Hüküm Veren sıfatlarıyla anılıyor."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": []
+  },
+  "usage": {
+    "inputTokens": 82198,
+    "outputTokens": 14483,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 6100,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_0ae41db5674fb821016aac36abf9c887d2aa0d2a3dbfab1240",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T18:54:29.054Z"
+}

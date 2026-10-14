@@ -1,0 +1,18 @@
+{
+  "key": "994df130a9c375767daa021c7f74b1f0c13a0aa347d28bffe4ebe7a8a21cc659",
+  "batchId": "verse-2",
+  "stage": "verse",
+  "attempt": 1,
+  "timestamp": "2026-09-17T18:54:29.067Z",
+  "status": "completed",
+  "usage": {
+    "inputTokens": 79389,
+    "outputTokens": 15264,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 8994,
+    "cacheWriteTokens": null
+  },
+  "httpStatus": 200,
+  "responseId": "resp_0a28fb9f46dbb49e016aac3765e5f487d2884e97a1f06f4340",
+  "servedModel": "gpt-5.6-sol"
+}

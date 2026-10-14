@@ -1,0 +1,3420 @@
+{
+  "generatedAt": "2026-09-17T20:02:29.845Z",
+  "execute": false,
+  "source": "mealler.org",
+  "sourceTopicCount": 66,
+  "recoveredTopicCount": 66,
+  "completeTopicCount": 54,
+  "incompleteTopicCount": 12,
+  "totalOldMappings": 445,
+  "totalRecoveredMappings": 445,
+  "totalAddedMappings": 0,
+  "topics": [
+    {
+      "id": "012",
+      "name": "Abdest",
+      "slug": "abdest",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "4:43",
+        "5:6"
+      ],
+      "versePages": {
+        "4:43": 1,
+        "5:6": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/012-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.847Z",
+      "finishedAt": "2026-09-17T20:02:29.850Z"
+    },
+    {
+      "id": "036",
+      "name": "Ahiret",
+      "slug": "ahiret",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 6,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:4",
+        "2:62",
+        "2:177",
+        "2:217",
+        "3:85",
+        "3:145",
+        "3:176",
+        "4:39",
+        "4:74",
+        "4:77"
+      ],
+      "versePages": {
+        "2:4": 1,
+        "2:62": 1,
+        "2:177": 1,
+        "2:217": 1,
+        "3:85": 1,
+        "3:145": 1,
+        "3:176": 1,
+        "4:39": 1,
+        "4:74": 1,
+        "4:77": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/036-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/036-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.850Z",
+      "finishedAt": "2026-09-17T20:02:29.856Z"
+    },
+    {
+      "id": "2049",
+      "name": "Aklını kullanmak",
+      "slug": "akl-n-kullanmak",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:44",
+        "2:76",
+        "3:65",
+        "6:32",
+        "7:169",
+        "8:22",
+        "10:100",
+        "10:109",
+        "11:51",
+        "21:10"
+      ],
+      "versePages": {
+        "2:44": 1,
+        "2:76": 1,
+        "3:65": 1,
+        "6:32": 1,
+        "7:169": 1,
+        "8:22": 1,
+        "10:100": 1,
+        "10:109": 1,
+        "11:51": 1,
+        "21:10": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2049-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2049-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.856Z",
+      "finishedAt": "2026-09-17T20:02:29.861Z"
+    },
+    {
+      "id": "1036",
+      "name": "Allah hakkında yalan uydurmak",
+      "slug": "allah-hakk-nda-yalan-uydurmak",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "3:94",
+        "4:50",
+        "6:21",
+        "6:93",
+        "6:144",
+        "6:157",
+        "7:37",
+        "10:17",
+        "10:60",
+        "10:69"
+      ],
+      "versePages": {
+        "3:94": 1,
+        "4:50": 1,
+        "6:21": 1,
+        "6:93": 1,
+        "6:144": 1,
+        "6:157": 1,
+        "7:37": 1,
+        "10:17": 1,
+        "10:60": 1,
+        "10:69": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1036-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1036-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.861Z",
+      "finishedAt": "2026-09-17T20:02:29.866Z"
+    },
+    {
+      "id": "2047",
+      "name": "Allah'ın yarattığı ayetler",
+      "slug": "allah-n-yaratt-g-ayetler",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "3:190",
+        "3:191",
+        "30:22",
+        "35:28",
+        "41:37",
+        "41:53",
+        "51:20",
+        "51:21",
+        "86:5",
+        "86:6"
+      ],
+      "versePages": {
+        "3:190": 1,
+        "3:191": 1,
+        "30:22": 1,
+        "35:28": 1,
+        "41:37": 1,
+        "41:53": 1,
+        "51:20": 1,
+        "51:21": 1,
+        "86:5": 1,
+        "86:6": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2047-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2047-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.866Z",
+      "finishedAt": "2026-09-17T20:02:29.871Z"
+    },
+    {
+      "id": "2037",
+      "name": "Anne-Babaya hürmet",
+      "slug": "anne-babaya-hurmet",
+      "oldCount": 4,
+      "newCount": 4,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 4,
+      "uniqueVerseReferences": [
+        "29:8",
+        "31:14",
+        "31:15",
+        "46:15"
+      ],
+      "versePages": {
+        "29:8": 1,
+        "31:14": 1,
+        "31:15": 1,
+        "46:15": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2037-1.html",
+          "fetched": false,
+          "rawReferences": 4
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.871Z",
+      "finishedAt": "2026-09-17T20:02:29.873Z"
+    },
+    {
+      "id": "1030",
+      "name": "Ayetlerin korunması",
+      "slug": "ayetlerin-korunmas",
+      "oldCount": 7,
+      "newCount": 7,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 7,
+      "uniqueVerseReferences": [
+        "2:106",
+        "6:34",
+        "6:115",
+        "15:9",
+        "18:27",
+        "56:78",
+        "85:22"
+      ],
+      "versePages": {
+        "2:106": 1,
+        "6:34": 1,
+        "6:115": 1,
+        "15:9": 1,
+        "18:27": 1,
+        "56:78": 1,
+        "85:22": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1030-1.html",
+          "fetched": false,
+          "rawReferences": 7
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.873Z",
+      "finishedAt": "2026-09-17T20:02:29.876Z"
+    },
+    {
+      "id": "1034",
+      "name": "Başkasının günahını üstlenme",
+      "slug": "baskas-n-n-gunah-n-ustlenme",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 10,
+      "uniqueVerseReferences": [
+        "6:164",
+        "17:15",
+        "29:12",
+        "34:25",
+        "35:18",
+        "39:7",
+        "53:38",
+        "53:39",
+        "53:40",
+        "53:41"
+      ],
+      "versePages": {
+        "6:164": 1,
+        "17:15": 1,
+        "29:12": 1,
+        "34:25": 1,
+        "35:18": 1,
+        "39:7": 1,
+        "53:38": 1,
+        "53:39": 1,
+        "53:40": 1,
+        "53:41": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1034-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.876Z",
+      "finishedAt": "2026-09-17T20:02:29.878Z"
+    },
+    {
+      "id": "1024",
+      "name": "Cami - Mescit",
+      "slug": "cami-mescit",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "2:114",
+        "7:29",
+        "7:31",
+        "9:18",
+        "9:108",
+        "72:18"
+      ],
+      "versePages": {
+        "2:114": 1,
+        "7:29": 1,
+        "7:31": 1,
+        "9:18": 1,
+        "9:108": 1,
+        "72:18": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1024-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.878Z",
+      "finishedAt": "2026-09-17T20:02:29.880Z"
+    },
+    {
+      "id": "1033",
+      "name": "Cenaze namazı",
+      "slug": "cenaze-namaz",
+      "oldCount": 1,
+      "newCount": 1,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 1,
+      "uniqueVerseReferences": [
+        "9:84"
+      ],
+      "versePages": {
+        "9:84": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1033-1.html",
+          "fetched": false,
+          "rawReferences": 1
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.881Z",
+      "finishedAt": "2026-09-17T20:02:29.883Z"
+    },
+    {
+      "id": "037",
+      "name": "Cennet",
+      "slug": "cennet",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 12,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:25",
+        "2:82",
+        "2:214",
+        "3:15",
+        "3:133",
+        "3:136",
+        "3:142",
+        "3:185",
+        "3:195",
+        "3:198"
+      ],
+      "versePages": {
+        "2:25": 1,
+        "2:82": 1,
+        "2:214": 1,
+        "3:15": 1,
+        "3:133": 1,
+        "3:136": 1,
+        "3:142": 1,
+        "3:185": 1,
+        "3:195": 1,
+        "3:198": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 7,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 8,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 9,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 10,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 11,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 12,
+          "error": "pagination target not found"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/037-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/037-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.883Z",
+      "finishedAt": "2026-09-17T20:02:29.889Z"
+    },
+    {
+      "id": "026",
+      "name": "Cinsellik",
+      "slug": "cinsellik",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "2:222",
+        "2:223"
+      ],
+      "versePages": {
+        "2:222": 1,
+        "2:223": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/026-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.889Z",
+      "finishedAt": "2026-09-17T20:02:29.891Z"
+    },
+    {
+      "id": "2057",
+      "name": "Din",
+      "slug": "din",
+      "oldCount": 7,
+      "newCount": 7,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 7,
+      "uniqueVerseReferences": [
+        "3:19",
+        "9:11",
+        "9:36",
+        "12:40",
+        "22:78",
+        "30:30",
+        "30:43"
+      ],
+      "versePages": {
+        "3:19": 1,
+        "9:11": 1,
+        "9:36": 1,
+        "12:40": 1,
+        "22:78": 1,
+        "30:30": 1,
+        "30:43": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2057-1.html",
+          "fetched": false,
+          "rawReferences": 7
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.891Z",
+      "finishedAt": "2026-09-17T20:02:29.893Z"
+    },
+    {
+      "id": "1028",
+      "name": "Dinde zorlama",
+      "slug": "dinde-zorlama",
+      "oldCount": 1,
+      "newCount": 1,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 1,
+      "uniqueVerseReferences": [
+        "2:256"
+      ],
+      "versePages": {
+        "2:256": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1028-1.html",
+          "fetched": false,
+          "rawReferences": 1
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.893Z",
+      "finishedAt": "2026-09-17T20:02:29.895Z"
+    },
+    {
+      "id": "020",
+      "name": "Dinle eğlenme",
+      "slug": "dinle-eglenme",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 10,
+      "uniqueVerseReferences": [
+        "4:140",
+        "5:58",
+        "6:70",
+        "7:51",
+        "9:65",
+        "31:6",
+        "37:12",
+        "37:13",
+        "37:14",
+        "45:9"
+      ],
+      "versePages": {
+        "4:140": 1,
+        "5:58": 1,
+        "6:70": 1,
+        "7:51": 1,
+        "9:65": 1,
+        "31:6": 1,
+        "37:12": 1,
+        "37:13": 1,
+        "37:14": 1,
+        "45:9": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/020-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.896Z",
+      "finishedAt": "2026-09-17T20:02:29.898Z"
+    },
+    {
+      "id": "023",
+      "name": "Dua",
+      "slug": "dua",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 9,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "1:5",
+        "1:6",
+        "1:7",
+        "2:32",
+        "2:128",
+        "2:137",
+        "2:201",
+        "2:250",
+        "2:255",
+        "2:258"
+      ],
+      "versePages": {
+        "1:5": 1,
+        "1:6": 1,
+        "1:7": 1,
+        "2:32": 1,
+        "2:128": 1,
+        "2:137": 1,
+        "2:201": 1,
+        "2:250": 1,
+        "2:255": 1,
+        "2:258": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 7,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 8,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 9,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/023-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/023-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.898Z",
+      "finishedAt": "2026-09-17T20:02:29.903Z"
+    },
+    {
+      "id": "2042",
+      "name": "Ehl-i kitaba yönelik eleştiriler (ve Bugünkü müslümanlar)",
+      "slug": "ehl-i-kitaba-yonelik-elestiriler-ve-bugunku-muslumanlar",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 13,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:40",
+        "2:41",
+        "2:42",
+        "2:43",
+        "2:44",
+        "2:45",
+        "2:46",
+        "2:47",
+        "2:48",
+        "2:49"
+      ],
+      "versePages": {
+        "2:40": 1,
+        "2:41": 1,
+        "2:42": 1,
+        "2:43": 1,
+        "2:44": 1,
+        "2:45": 1,
+        "2:46": 1,
+        "2:47": 1,
+        "2:48": 1,
+        "2:49": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 7,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 8,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 9,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 10,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 11,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 12,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 13,
+          "error": "pagination target not found"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2042-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2042-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.903Z",
+      "finishedAt": "2026-09-17T20:02:29.909Z"
+    },
+    {
+      "id": "1031",
+      "name": "Ehl-i kitabın iman edenleri",
+      "slug": "ehl-i-kitab-n-iman-edenleri",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:62",
+        "3:110",
+        "3:113",
+        "3:114",
+        "3:115",
+        "3:199",
+        "5:82",
+        "5:83",
+        "5:84",
+        "5:85"
+      ],
+      "versePages": {
+        "2:62": 1,
+        "3:110": 1,
+        "3:113": 1,
+        "3:114": 1,
+        "3:115": 1,
+        "3:199": 1,
+        "5:82": 1,
+        "5:83": 1,
+        "5:84": 1,
+        "5:85": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1031-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1031-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.909Z",
+      "finishedAt": "2026-09-17T20:02:29.914Z"
+    },
+    {
+      "id": "027",
+      "name": "Evlilik",
+      "slug": "evlilik",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 4,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:221",
+        "2:226",
+        "2:227",
+        "2:228",
+        "2:229",
+        "2:230",
+        "2:231",
+        "2:232",
+        "2:234",
+        "2:235"
+      ],
+      "versePages": {
+        "2:221": 1,
+        "2:226": 1,
+        "2:227": 1,
+        "2:228": 1,
+        "2:229": 1,
+        "2:230": 1,
+        "2:231": 1,
+        "2:232": 1,
+        "2:234": 1,
+        "2:235": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/027-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/027-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.914Z",
+      "finishedAt": "2026-09-17T20:02:29.919Z"
+    },
+    {
+      "id": "2044",
+      "name": "Evrenin ve Doğanın kanunları",
+      "slug": "evrenin-ve-dogan-n-kanunlar",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 6,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:117",
+        "2:259",
+        "5:120",
+        "6:125",
+        "13:2",
+        "15:22",
+        "16:68",
+        "16:69",
+        "21:30",
+        "21:32"
+      ],
+      "versePages": {
+        "2:117": 1,
+        "2:259": 1,
+        "5:120": 1,
+        "6:125": 1,
+        "13:2": 1,
+        "15:22": 1,
+        "16:68": 1,
+        "16:69": 1,
+        "21:30": 1,
+        "21:32": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2044-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2044-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.919Z",
+      "finishedAt": "2026-09-17T20:02:29.925Z"
+    },
+    {
+      "id": "025",
+      "name": "Faiz",
+      "slug": "faiz",
+      "oldCount": 7,
+      "newCount": 7,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 7,
+      "uniqueVerseReferences": [
+        "2:275",
+        "2:276",
+        "2:278",
+        "2:279",
+        "2:280",
+        "3:130",
+        "30:39"
+      ],
+      "versePages": {
+        "2:275": 1,
+        "2:276": 1,
+        "2:278": 1,
+        "2:279": 1,
+        "2:280": 1,
+        "3:130": 1,
+        "30:39": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/025-1.html",
+          "fetched": false,
+          "rawReferences": 7
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.925Z",
+      "finishedAt": "2026-09-17T20:02:29.927Z"
+    },
+    {
+      "id": "024",
+      "name": "Fısıldaşma-Gizli Görüşme",
+      "slug": "f-s-ldasma-gizli-gorusme",
+      "oldCount": 1,
+      "newCount": 1,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 1,
+      "uniqueVerseReferences": [
+        "4:114"
+      ],
+      "versePages": {
+        "4:114": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/024-1.html",
+          "fetched": false,
+          "rawReferences": 1
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.927Z",
+      "finishedAt": "2026-09-17T20:02:29.929Z"
+    },
+    {
+      "id": "016",
+      "name": "Hac",
+      "slug": "hac",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:158",
+        "2:189",
+        "2:196",
+        "2:197",
+        "2:198",
+        "2:199",
+        "2:200",
+        "2:201",
+        "2:203",
+        "3:97"
+      ],
+      "versePages": {
+        "2:158": 1,
+        "2:189": 1,
+        "2:196": 1,
+        "2:197": 1,
+        "2:198": 1,
+        "2:199": 1,
+        "2:200": 1,
+        "2:201": 1,
+        "2:203": 1,
+        "3:97": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/016-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/016-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.929Z",
+      "finishedAt": "2026-09-17T20:02:29.934Z"
+    },
+    {
+      "id": "015",
+      "name": "Helal et",
+      "slug": "helal-et",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:168",
+        "2:172",
+        "2:173",
+        "5:1",
+        "5:3",
+        "5:4",
+        "5:5",
+        "5:96",
+        "6:118",
+        "6:119"
+      ],
+      "versePages": {
+        "2:168": 1,
+        "2:172": 1,
+        "2:173": 1,
+        "5:1": 1,
+        "5:3": 1,
+        "5:4": 1,
+        "5:5": 1,
+        "5:96": 1,
+        "6:118": 1,
+        "6:119": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/015-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/015-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.934Z",
+      "finishedAt": "2026-09-17T20:02:29.942Z"
+    },
+    {
+      "id": "022",
+      "name": "İçki",
+      "slug": "icki",
+      "oldCount": 4,
+      "newCount": 4,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 4,
+      "uniqueVerseReferences": [
+        "2:219",
+        "5:90",
+        "5:91",
+        "16:67"
+      ],
+      "versePages": {
+        "2:219": 1,
+        "5:90": 1,
+        "5:91": 1,
+        "16:67": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/022-1.html",
+          "fetched": false,
+          "rawReferences": 4
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.942Z",
+      "finishedAt": "2026-09-17T20:02:29.944Z"
+    },
+    {
+      "id": "034",
+      "name": "İftira atmak",
+      "slug": "iftira-atmak",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "4:112",
+        "24:15"
+      ],
+      "versePages": {
+        "4:112": 1,
+        "24:15": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/034-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.944Z",
+      "finishedAt": "2026-09-17T20:02:29.946Z"
+    },
+    {
+      "id": "1035",
+      "name": "İnançlara saygı",
+      "slug": "inanclara-sayg",
+      "oldCount": 1,
+      "newCount": 1,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 1,
+      "uniqueVerseReferences": [
+        "6:108"
+      ],
+      "versePages": {
+        "6:108": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1035-1.html",
+          "fetched": false,
+          "rawReferences": 1
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.946Z",
+      "finishedAt": "2026-09-17T20:02:29.948Z"
+    },
+    {
+      "id": "2054",
+      "name": "Irkçılık",
+      "slug": "rkc-l-k",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "30:22",
+        "49:13"
+      ],
+      "versePages": {
+        "30:22": 1,
+        "49:13": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2054-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.948Z",
+      "finishedAt": "2026-09-17T20:02:29.950Z"
+    },
+    {
+      "id": "2040",
+      "name": "İslama davet",
+      "slug": "islama-davet",
+      "oldCount": 3,
+      "newCount": 3,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 3,
+      "uniqueVerseReferences": [
+        "6:69",
+        "20:132",
+        "41:33"
+      ],
+      "versePages": {
+        "6:69": 1,
+        "20:132": 1,
+        "41:33": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2040-1.html",
+          "fetched": false,
+          "rawReferences": 3
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.950Z",
+      "finishedAt": "2026-09-17T20:02:29.953Z"
+    },
+    {
+      "id": "2059",
+      "name": "Isr",
+      "slug": "sr",
+      "oldCount": 3,
+      "newCount": 3,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 3,
+      "uniqueVerseReferences": [
+        "2:286",
+        "3:81",
+        "7:157"
+      ],
+      "versePages": {
+        "2:286": 1,
+        "3:81": 1,
+        "7:157": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2059-1.html",
+          "fetched": false,
+          "rawReferences": 3
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.953Z",
+      "finishedAt": "2026-09-17T20:02:29.955Z"
+    },
+    {
+      "id": "017",
+      "name": "Kadir gecesi",
+      "slug": "kadir-gecesi",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "44:3",
+        "97:1",
+        "97:2",
+        "97:3",
+        "97:4",
+        "97:5"
+      ],
+      "versePages": {
+        "44:3": 1,
+        "97:1": 1,
+        "97:2": 1,
+        "97:3": 1,
+        "97:4": 1,
+        "97:5": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/017-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.955Z",
+      "finishedAt": "2026-09-17T20:02:29.957Z"
+    },
+    {
+      "id": "2036",
+      "name": "Kalbim temiz diyenler",
+      "slug": "kalbim-temiz-diyenler",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "2:177",
+        "6:158",
+        "9:19",
+        "24:21",
+        "29:2",
+        "53:32"
+      ],
+      "versePages": {
+        "2:177": 1,
+        "6:158": 1,
+        "9:19": 1,
+        "24:21": 1,
+        "29:2": 1,
+        "53:32": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2036-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.957Z",
+      "finishedAt": "2026-09-17T20:02:29.959Z"
+    },
+    {
+      "id": "1029",
+      "name": "Kıble",
+      "slug": "k-ble",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "2:142",
+        "2:143",
+        "2:144",
+        "2:145",
+        "2:149",
+        "2:150"
+      ],
+      "versePages": {
+        "2:142": 1,
+        "2:143": 1,
+        "2:144": 1,
+        "2:145": 1,
+        "2:149": 1,
+        "2:150": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1029-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.959Z",
+      "finishedAt": "2026-09-17T20:02:29.962Z"
+    },
+    {
+      "id": "2039",
+      "name": "Kısas",
+      "slug": "k-sas",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:178",
+        "2:179",
+        "4:123",
+        "6:160",
+        "10:27",
+        "16:126",
+        "17:33",
+        "22:60",
+        "28:84",
+        "40:40"
+      ],
+      "versePages": {
+        "2:178": 1,
+        "2:179": 1,
+        "4:123": 1,
+        "6:160": 1,
+        "10:27": 1,
+        "16:126": 1,
+        "17:33": 1,
+        "22:60": 1,
+        "28:84": 1,
+        "40:40": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2039-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2039-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.962Z",
+      "finishedAt": "2026-09-17T20:02:29.966Z"
+    },
+    {
+      "id": "1026",
+      "name": "Kıyamet ne zaman kopacak?",
+      "slug": "k-yamet-ne-zaman-kopacak",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "7:187",
+        "18:47",
+        "31:34",
+        "33:63",
+        "40:47",
+        "53:58",
+        "67:26",
+        "75:7",
+        "75:8",
+        "75:9"
+      ],
+      "versePages": {
+        "7:187": 1,
+        "18:47": 1,
+        "31:34": 1,
+        "33:63": 1,
+        "40:47": 1,
+        "53:58": 1,
+        "67:26": 1,
+        "75:7": 1,
+        "75:8": 1,
+        "75:9": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1026-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1026-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.966Z",
+      "finishedAt": "2026-09-17T20:02:29.971Z"
+    },
+    {
+      "id": "2051",
+      "name": "Kölelik",
+      "slug": "kolelik",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "8:67",
+        "9:60",
+        "24:32",
+        "24:33",
+        "47:4",
+        "90:13"
+      ],
+      "versePages": {
+        "8:67": 1,
+        "9:60": 1,
+        "24:32": 1,
+        "24:33": 1,
+        "47:4": 1,
+        "90:13": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2051-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.971Z",
+      "finishedAt": "2026-09-17T20:02:29.974Z"
+    },
+    {
+      "id": "1027",
+      "name": "Kur'an dinlemek - okumak",
+      "slug": "kur-an-dinlemek-okumak",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:121",
+        "7:204",
+        "16:98",
+        "17:9",
+        "17:45",
+        "39:23",
+        "47:24",
+        "54:17",
+        "54:22",
+        "54:32"
+      ],
+      "versePages": {
+        "2:121": 1,
+        "7:204": 1,
+        "16:98": 1,
+        "17:9": 1,
+        "17:45": 1,
+        "39:23": 1,
+        "47:24": 1,
+        "54:17": 1,
+        "54:22": 1,
+        "54:32": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1027-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1027-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.974Z",
+      "finishedAt": "2026-09-17T20:02:29.978Z"
+    },
+    {
+      "id": "2038",
+      "name": "Kur'an'ı-Ayetleri çarpıtmak",
+      "slug": "kur-an-ayetleri-carp-tmak",
+      "oldCount": 4,
+      "newCount": 4,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 4,
+      "uniqueVerseReferences": [
+        "2:75",
+        "3:78",
+        "4:46",
+        "41:40"
+      ],
+      "versePages": {
+        "2:75": 1,
+        "3:78": 1,
+        "4:46": 1,
+        "41:40": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2038-1.html",
+          "fetched": false,
+          "rawReferences": 4
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.978Z",
+      "finishedAt": "2026-09-17T20:02:29.981Z"
+    },
+    {
+      "id": "2045",
+      "name": "Kuran'ın Özellikleri",
+      "slug": "kuran-n-ozellikleri",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 7,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:2",
+        "2:23",
+        "2:24",
+        "2:118",
+        "3:103",
+        "3:138",
+        "4:82",
+        "4:105",
+        "5:3",
+        "5:47"
+      ],
+      "versePages": {
+        "2:2": 1,
+        "2:23": 1,
+        "2:24": 1,
+        "2:118": 1,
+        "3:103": 1,
+        "3:138": 1,
+        "4:82": 1,
+        "4:105": 1,
+        "5:3": 1,
+        "5:47": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 7,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2045-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2045-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.981Z",
+      "finishedAt": "2026-09-17T20:02:29.986Z"
+    },
+    {
+      "id": "019",
+      "name": "Kurban",
+      "slug": "kurban",
+      "oldCount": 7,
+      "newCount": 7,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 7,
+      "uniqueVerseReferences": [
+        "2:196",
+        "5:2",
+        "5:97",
+        "22:28",
+        "22:34",
+        "22:36",
+        "22:37"
+      ],
+      "versePages": {
+        "2:196": 1,
+        "5:2": 1,
+        "5:97": 1,
+        "22:28": 1,
+        "22:34": 1,
+        "22:36": 1,
+        "22:37": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/019-1.html",
+          "fetched": false,
+          "rawReferences": 7
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.986Z",
+      "finishedAt": "2026-09-17T20:02:29.988Z"
+    },
+    {
+      "id": "2050",
+      "name": "Muhkem-Müteşabih",
+      "slug": "muhkem-mutesabih",
+      "oldCount": 3,
+      "newCount": 3,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 3,
+      "uniqueVerseReferences": [
+        "3:7",
+        "11:1",
+        "39:23"
+      ],
+      "versePages": {
+        "3:7": 1,
+        "11:1": 1,
+        "39:23": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2050-1.html",
+          "fetched": false,
+          "rawReferences": 3
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.988Z",
+      "finishedAt": "2026-09-17T20:02:29.990Z"
+    },
+    {
+      "id": "039",
+      "name": "Müminlerin görevleri",
+      "slug": "muminlerin-gorevleri",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 25,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:3",
+        "2:4",
+        "2:21",
+        "2:22",
+        "2:42",
+        "2:43",
+        "2:46",
+        "2:121",
+        "2:152",
+        "2:153"
+      ],
+      "versePages": {
+        "2:3": 1,
+        "2:4": 1,
+        "2:21": 1,
+        "2:22": 1,
+        "2:42": 1,
+        "2:43": 1,
+        "2:46": 1,
+        "2:121": 1,
+        "2:152": 1,
+        "2:153": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 7,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 8,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 9,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 10,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 11,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 12,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 13,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 14,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 15,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 16,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 17,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 18,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 19,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 20,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 21,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 22,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 23,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 24,
+          "error": "pagination target not found"
+        },
+        {
+          "page": 25,
+          "error": "pagination target not found"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/039-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/039-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.990Z",
+      "finishedAt": "2026-09-17T20:02:29.997Z"
+    },
+    {
+      "id": "2043",
+      "name": "Müslümanlarin hali niye kötü?",
+      "slug": "muslumanlarin-hali-niye-kotu",
+      "oldCount": 5,
+      "newCount": 5,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 5,
+      "uniqueVerseReferences": [
+        "3:86",
+        "8:53",
+        "9:24",
+        "10:100",
+        "13:11"
+      ],
+      "versePages": {
+        "3:86": 1,
+        "8:53": 1,
+        "9:24": 1,
+        "10:100": 1,
+        "13:11": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2043-1.html",
+          "fetched": false,
+          "rawReferences": 5
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.997Z",
+      "finishedAt": "2026-09-17T20:02:29.999Z"
+    },
+    {
+      "id": "014",
+      "name": "Namaz",
+      "slug": "namaz",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 6,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:43",
+        "2:45",
+        "2:83",
+        "2:110",
+        "2:153",
+        "2:177",
+        "2:238",
+        "2:239",
+        "2:277",
+        "4:43"
+      ],
+      "versePages": {
+        "2:43": 1,
+        "2:45": 1,
+        "2:83": 1,
+        "2:110": 1,
+        "2:153": 1,
+        "2:177": 1,
+        "2:238": 1,
+        "2:239": 1,
+        "2:277": 1,
+        "4:43": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 5,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 6,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/014-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/014-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:29.999Z",
+      "finishedAt": "2026-09-17T20:02:30.004Z"
+    },
+    {
+      "id": "2048",
+      "name": "Namaz vakitleri",
+      "slug": "namaz-vakitleri",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "11:114",
+        "17:78"
+      ],
+      "versePages": {
+        "11:114": 1,
+        "17:78": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2048-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.004Z",
+      "finishedAt": "2026-09-17T20:02:30.006Z"
+    },
+    {
+      "id": "2060",
+      "name": "Nesih",
+      "slug": "nesih",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "2:106",
+        "16:101"
+      ],
+      "versePages": {
+        "2:106": 1,
+        "16:101": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2060-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.006Z",
+      "finishedAt": "2026-09-17T20:02:30.008Z"
+    },
+    {
+      "id": "028",
+      "name": "Öldürmek - Katil olmak",
+      "slug": "oldurmek-katil-olmak",
+      "oldCount": 5,
+      "newCount": 5,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 5,
+      "uniqueVerseReferences": [
+        "2:178",
+        "4:92",
+        "4:93",
+        "5:32",
+        "17:33"
+      ],
+      "versePages": {
+        "2:178": 1,
+        "4:92": 1,
+        "4:93": 1,
+        "5:32": 1,
+        "17:33": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/028-1.html",
+          "fetched": false,
+          "rawReferences": 5
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.008Z",
+      "finishedAt": "2026-09-17T20:02:30.011Z"
+    },
+    {
+      "id": "1037",
+      "name": "Peygamberin görevi",
+      "slug": "peygamberin-gorevi",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 4,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "3:20",
+        "3:79",
+        "3:144",
+        "5:67",
+        "5:92",
+        "5:99",
+        "6:48",
+        "10:15",
+        "11:12",
+        "13:7"
+      ],
+      "versePages": {
+        "3:20": 1,
+        "3:79": 1,
+        "3:144": 1,
+        "5:67": 1,
+        "5:92": 1,
+        "5:99": 1,
+        "6:48": 1,
+        "10:15": 1,
+        "11:12": 1,
+        "13:7": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1037-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1037-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.011Z",
+      "finishedAt": "2026-09-17T20:02:30.016Z"
+    },
+    {
+      "id": "1032",
+      "name": "Peygamberler şefaat edebilir mi?",
+      "slug": "peygamberler-sefaat-edebilir-mi",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:48",
+        "2:123",
+        "2:255",
+        "10:3",
+        "19:87",
+        "20:109",
+        "32:4",
+        "34:23",
+        "39:19",
+        "40:18"
+      ],
+      "versePages": {
+        "2:48": 1,
+        "2:123": 1,
+        "2:255": 1,
+        "10:3": 1,
+        "19:87": 1,
+        "20:109": 1,
+        "32:4": 1,
+        "34:23": 1,
+        "39:19": 1,
+        "40:18": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/1032-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/1032-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.016Z",
+      "finishedAt": "2026-09-17T20:02:30.021Z"
+    },
+    {
+      "id": "018",
+      "name": "Ramazan'da oruç",
+      "slug": "ramazan-da-oruc",
+      "oldCount": 5,
+      "newCount": 5,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 5,
+      "uniqueVerseReferences": [
+        "2:183",
+        "2:184",
+        "2:185",
+        "2:186",
+        "2:187"
+      ],
+      "versePages": {
+        "2:183": 1,
+        "2:184": 1,
+        "2:185": 1,
+        "2:186": 1,
+        "2:187": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/018-1.html",
+          "fetched": false,
+          "rawReferences": 5
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.021Z",
+      "finishedAt": "2026-09-17T20:02:30.023Z"
+    },
+    {
+      "id": "038",
+      "name": "Sabır",
+      "slug": "sab-r",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 3,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:45",
+        "2:153",
+        "2:155",
+        "2:156",
+        "2:177",
+        "3:17",
+        "3:120",
+        "3:146",
+        "3:200",
+        "8:46"
+      ],
+      "versePages": {
+        "2:45": 1,
+        "2:153": 1,
+        "2:155": 1,
+        "2:156": 1,
+        "2:177": 1,
+        "3:17": 1,
+        "3:120": 1,
+        "3:146": 1,
+        "3:200": 1,
+        "8:46": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/038-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/038-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.023Z",
+      "finishedAt": "2026-09-17T20:02:30.028Z"
+    },
+    {
+      "id": "029",
+      "name": "Savaşmak - Cihad",
+      "slug": "savasmak-cihad",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 4,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:190",
+        "2:191",
+        "2:192",
+        "2:193",
+        "2:194",
+        "2:216",
+        "2:217",
+        "2:244",
+        "3:13",
+        "4:71"
+      ],
+      "versePages": {
+        "2:190": 1,
+        "2:191": 1,
+        "2:192": 1,
+        "2:193": 1,
+        "2:194": 1,
+        "2:216": 1,
+        "2:217": 1,
+        "2:244": 1,
+        "3:13": 1,
+        "4:71": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [
+        {
+          "page": 3,
+          "error": "not fetched; rerun with --execute"
+        },
+        {
+          "page": 4,
+          "error": "not fetched; rerun with --execute"
+        }
+      ],
+      "paginationComplete": false,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/029-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/029-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.028Z",
+      "finishedAt": "2026-09-17T20:02:30.033Z"
+    },
+    {
+      "id": "035",
+      "name": "Şehitlik - Allah yolunda ölmek",
+      "slug": "sehitlik-allah-yolunda-olmek",
+      "oldCount": 4,
+      "newCount": 4,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 4,
+      "uniqueVerseReferences": [
+        "2:154",
+        "3:157",
+        "3:169",
+        "4:74"
+      ],
+      "versePages": {
+        "2:154": 1,
+        "3:157": 1,
+        "3:169": 1,
+        "4:74": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/035-1.html",
+          "fetched": false,
+          "rawReferences": 4
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.033Z",
+      "finishedAt": "2026-09-17T20:02:30.035Z"
+    },
+    {
+      "id": "2053",
+      "name": "Sünnetullah",
+      "slug": "sunnetullah",
+      "oldCount": 3,
+      "newCount": 3,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 3,
+      "uniqueVerseReferences": [
+        "17:77",
+        "35:43",
+        "48:23"
+      ],
+      "versePages": {
+        "17:77": 1,
+        "35:43": 1,
+        "48:23": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2053-1.html",
+          "fetched": false,
+          "rawReferences": 3
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.035Z",
+      "finishedAt": "2026-09-17T20:02:30.037Z"
+    },
+    {
+      "id": "030",
+      "name": "Sütten kesme ve süt annelik",
+      "slug": "sutten-kesme-ve-sut-annelik",
+      "oldCount": 1,
+      "newCount": 1,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 1,
+      "uniqueVerseReferences": [
+        "2:233"
+      ],
+      "versePages": {
+        "2:233": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/030-1.html",
+          "fetched": false,
+          "rawReferences": 1
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.037Z",
+      "finishedAt": "2026-09-17T20:02:30.039Z"
+    },
+    {
+      "id": "2041",
+      "name": "Tarikat-Mezhep-Alim peşinde koşmak",
+      "slug": "tarikat-mezhep-alim-pesinde-kosmak",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:159",
+        "2:165",
+        "3:103",
+        "3:105",
+        "6:159",
+        "7:3",
+        "29:41",
+        "39:2",
+        "39:3",
+        "42:13"
+      ],
+      "versePages": {
+        "2:159": 1,
+        "2:165": 1,
+        "3:103": 1,
+        "3:105": 1,
+        "6:159": 1,
+        "7:3": 1,
+        "29:41": 1,
+        "39:2": 1,
+        "39:3": 1,
+        "42:13": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2041-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2041-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.039Z",
+      "finishedAt": "2026-09-17T20:02:30.044Z"
+    },
+    {
+      "id": "2058",
+      "name": "Tasdik",
+      "slug": "tasdik",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:41",
+        "2:89",
+        "2:91",
+        "2:97",
+        "2:101",
+        "3:3",
+        "3:39",
+        "3:81",
+        "4:47",
+        "5:46"
+      ],
+      "versePages": {
+        "2:41": 1,
+        "2:89": 1,
+        "2:91": 1,
+        "2:97": 1,
+        "2:101": 1,
+        "3:3": 1,
+        "3:39": 1,
+        "3:81": 1,
+        "4:47": 1,
+        "5:46": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2058-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/2058-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.044Z",
+      "finishedAt": "2026-09-17T20:02:30.049Z"
+    },
+    {
+      "id": "2052",
+      "name": "Ulul-Emr",
+      "slug": "ulul-emr",
+      "oldCount": 2,
+      "newCount": 2,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 2,
+      "uniqueVerseReferences": [
+        "4:59",
+        "4:83"
+      ],
+      "versePages": {
+        "4:59": 1,
+        "4:83": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2052-1.html",
+          "fetched": false,
+          "rawReferences": 2
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.049Z",
+      "finishedAt": "2026-09-17T20:02:30.051Z"
+    },
+    {
+      "id": "033",
+      "name": "Vasiyet - Miras",
+      "slug": "vasiyet-miras",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:180",
+        "2:181",
+        "2:182",
+        "2:240",
+        "4:7",
+        "4:8",
+        "4:9",
+        "4:11",
+        "4:12",
+        "4:19"
+      ],
+      "versePages": {
+        "2:180": 1,
+        "2:181": 1,
+        "2:182": 1,
+        "2:240": 1,
+        "4:7": 1,
+        "4:8": 1,
+        "4:9": 1,
+        "4:11": 1,
+        "4:12": 1,
+        "4:19": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/033-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/033-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.051Z",
+      "finishedAt": "2026-09-17T20:02:30.056Z"
+    },
+    {
+      "id": "031",
+      "name": "Yardım - Sadaka",
+      "slug": "yard-m-sadaka",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:177",
+        "2:215",
+        "2:220",
+        "2:263",
+        "2:270",
+        "2:271",
+        "2:272",
+        "2:273",
+        "2:274",
+        "4:114"
+      ],
+      "versePages": {
+        "2:177": 1,
+        "2:215": 1,
+        "2:220": 1,
+        "2:263": 1,
+        "2:270": 1,
+        "2:271": 1,
+        "2:272": 1,
+        "2:273": 1,
+        "2:274": 1,
+        "4:114": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/031-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/031-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.056Z",
+      "finishedAt": "2026-09-17T20:02:30.061Z"
+    },
+    {
+      "id": "2055",
+      "name": "Yazıcı Melekler",
+      "slug": "yaz-c-melekler",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "10:21",
+        "13:11",
+        "50:18",
+        "82:10",
+        "82:11",
+        "82:12"
+      ],
+      "versePages": {
+        "10:21": 1,
+        "13:11": 1,
+        "50:18": 1,
+        "82:10": 1,
+        "82:11": 1,
+        "82:12": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2055-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.061Z",
+      "finishedAt": "2026-09-17T20:02:30.063Z"
+    },
+    {
+      "id": "2056",
+      "name": "Yazıcı meleklerin yazdığı kitap",
+      "slug": "yaz-c-meleklerin-yazd-g-kitap",
+      "oldCount": 3,
+      "newCount": 3,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 3,
+      "uniqueVerseReferences": [
+        "17:13",
+        "17:14",
+        "18:49"
+      ],
+      "versePages": {
+        "17:13": 1,
+        "17:14": 1,
+        "18:49": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2056-1.html",
+          "fetched": false,
+          "rawReferences": 3
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.063Z",
+      "finishedAt": "2026-09-17T20:02:30.065Z"
+    },
+    {
+      "id": "021",
+      "name": "Yemin",
+      "slug": "yemin",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 10,
+      "uniqueVerseReferences": [
+        "2:224",
+        "2:225",
+        "3:76",
+        "3:77",
+        "4:33",
+        "5:89",
+        "16:91",
+        "16:92",
+        "16:94",
+        "16:95"
+      ],
+      "versePages": {
+        "2:224": 1,
+        "2:225": 1,
+        "3:76": 1,
+        "3:77": 1,
+        "4:33": 1,
+        "5:89": 1,
+        "16:91": 1,
+        "16:92": 1,
+        "16:94": 1,
+        "16:95": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/021-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.065Z",
+      "finishedAt": "2026-09-17T20:02:30.067Z"
+    },
+    {
+      "id": "2046",
+      "name": "Zanna-Çoğunluğa uymak",
+      "slug": "zanna-cogunluga-uymak",
+      "oldCount": 6,
+      "newCount": 6,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 1,
+      "pagesFetched": 1,
+      "rawReferencesFound": 6,
+      "uniqueVerseReferences": [
+        "6:116",
+        "6:148",
+        "10:36",
+        "10:66",
+        "45:24",
+        "53:28"
+      ],
+      "versePages": {
+        "6:116": 1,
+        "6:148": 1,
+        "10:36": 1,
+        "10:66": 1,
+        "45:24": 1,
+        "53:28": 1
+      },
+      "duplicatesRemoved": 0,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/2046-1.html",
+          "fetched": false,
+          "rawReferences": 6
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.067Z",
+      "finishedAt": "2026-09-17T20:02:30.070Z"
+    },
+    {
+      "id": "013",
+      "name": "Zekât",
+      "slug": "zekat",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "2:43",
+        "2:110",
+        "2:177",
+        "2:277",
+        "4:162",
+        "5:55",
+        "9:60",
+        "9:71",
+        "22:78",
+        "24:56"
+      ],
+      "versePages": {
+        "2:43": 1,
+        "2:110": 1,
+        "2:177": 1,
+        "2:277": 1,
+        "4:162": 1,
+        "5:55": 1,
+        "9:60": 1,
+        "9:71": 1,
+        "22:78": 1,
+        "24:56": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/013-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/013-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.070Z",
+      "finishedAt": "2026-09-17T20:02:30.074Z"
+    },
+    {
+      "id": "032",
+      "name": "Zina - Fuhuş",
+      "slug": "zina-fuhus",
+      "oldCount": 10,
+      "newCount": 10,
+      "addedMappings": [],
+      "removedMappings": [],
+      "pagesDiscovered": 2,
+      "pagesFetched": 2,
+      "rawReferencesFound": 20,
+      "uniqueVerseReferences": [
+        "4:15",
+        "4:16",
+        "4:24",
+        "17:32",
+        "24:2",
+        "24:3",
+        "24:4",
+        "24:5",
+        "24:6",
+        "24:7"
+      ],
+      "versePages": {
+        "4:15": 1,
+        "4:16": 1,
+        "4:24": 1,
+        "17:32": 1,
+        "24:2": 1,
+        "24:3": 1,
+        "24:4": 1,
+        "24:5": 1,
+        "24:6": 1,
+        "24:7": 1
+      },
+      "duplicatesRemoved": 10,
+      "failedPages": [],
+      "paginationComplete": true,
+      "invalidVerseIds": [],
+      "pages": [
+        {
+          "page": 1,
+          "file": "data/raw/mealler-topics-complete/032-1.html",
+          "fetched": false,
+          "rawReferences": 10
+        },
+        {
+          "page": 2,
+          "file": "data/raw/mealler-topics-complete/032-2.html",
+          "fetched": false,
+          "rawReferences": 10
+        }
+      ],
+      "startedAt": "2026-09-17T20:02:30.074Z",
+      "finishedAt": "2026-09-17T20:02:30.079Z"
+    }
+  ],
+  "zekat": {
+    "id": "013",
+    "name": "Zekât",
+    "slug": "zekat",
+    "oldCount": 10,
+    "newCount": 10,
+    "addedMappings": [],
+    "removedMappings": [],
+    "pagesDiscovered": 2,
+    "pagesFetched": 2,
+    "rawReferencesFound": 20,
+    "uniqueVerseReferences": [
+      "2:43",
+      "2:110",
+      "2:177",
+      "2:277",
+      "4:162",
+      "5:55",
+      "9:60",
+      "9:71",
+      "22:78",
+      "24:56"
+    ],
+    "versePages": {
+      "2:43": 1,
+      "2:110": 1,
+      "2:177": 1,
+      "2:277": 1,
+      "4:162": 1,
+      "5:55": 1,
+      "9:60": 1,
+      "9:71": 1,
+      "22:78": 1,
+      "24:56": 1
+    },
+    "duplicatesRemoved": 10,
+    "failedPages": [],
+    "paginationComplete": true,
+    "invalidVerseIds": [],
+    "pages": [
+      {
+        "page": 1,
+        "file": "data/raw/mealler-topics-complete/013-1.html",
+        "fetched": false,
+        "rawReferences": 10
+      },
+      {
+        "page": 2,
+        "file": "data/raw/mealler-topics-complete/013-2.html",
+        "fetched": false,
+        "rawReferences": 10
+      }
+    ],
+    "startedAt": "2026-09-17T20:02:30.070Z",
+    "finishedAt": "2026-09-17T20:02:30.074Z"
+  }
+}

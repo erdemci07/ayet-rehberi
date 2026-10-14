@@ -1,0 +1,48 @@
+{
+  "name": "kuran-rehberi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "ingest:erhan": "node scripts/fetch-erhan-aktas.mjs",
+    "ingest:topics": "node scripts/fetch-topics.mjs",
+    "validate:data": "node scripts/validate-quran-data.mjs",
+    "propose:enrichment": "node scripts/propose-topic-enrichment.mjs",
+    "topics:discover": "node scripts/topic-intelligence.mjs discover",
+    "topics:review-report": "node scripts/topic-intelligence.mjs review-report",
+    "topics:validate": "node scripts/validate-enriched-topics.mjs"
+    ,"topics:classify": "node scripts/run-topic-analysis.mjs"
+    ,"topics:source-audit": "node scripts/fetch-source-topics-complete.mjs"
+    ,"ontology:prepare": "node scripts/prepare-ontology-v2.mjs"
+    ,"ontology:validate": "node scripts/validate-foundation-v2.mjs"
+    ,"classification:v2:plan": "node scripts/plan-classification-v2.mjs"
+    ,"classification:v2:calibrate": "node --env-file-if-exists=.env scripts/classify-calibration-v2.mjs"
+    ,"classification:v2:calibrate:validate": "node scripts/validate-calibration-v2.mjs"
+    ,"classification:v2:test": "node --test scripts/tests/classification-responses.test.mjs scripts/tests/deep-classification-v2.test.mjs"
+    ,"classification:v2:run": "node --env-file-if-exists=.env scripts/classify-quran-v2.mjs"
+    ,"classification:v2:validate": "node scripts/validate-classification-v2.mjs"
+    ,"source-topics:recover": "node scripts/recover-mealler-topic-pagination.mjs"
+    ,"source-topics:recover:execute": "node scripts/recover-mealler-topic-pagination.mjs --execute"
+    ,"source-topics:recover:validate": "node scripts/validate-mealler-topic-recovery.mjs"
+    ,"esma:create": "node scripts/create-esma-dataset.mjs"
+    ,"esma:validate": "node scripts/validate-esma.mjs"
+  },
+  "dependencies": {
+    "next": "16.3.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

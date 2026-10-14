@@ -1,0 +1,1027 @@
+{
+  "key": "0f2306f02898aa8c423cbd7a85d0d3bdd5bd0a51ce8203371269b30d94390120",
+  "status": "completed",
+  "checksum": "bc90194afd0ce09855ff21f3f40223d3730b93ebc2da51f841a77be1f50dd97b",
+  "result": {
+    "consideredVerseIds": [
+      "4:58",
+      "4:135",
+      "5:8",
+      "5:55",
+      "6:95",
+      "7:54",
+      "9:60",
+      "12:18",
+      "12:23",
+      "12:28"
+    ],
+    "consideredTopicIds": [
+      "tevhid",
+      "allah-rahmeti",
+      "allah-ilmi",
+      "allah-kudreti",
+      "allah-adaleti",
+      "allah-yalan",
+      "esma",
+      "iman",
+      "inkar",
+      "sirk",
+      "munafiklik",
+      "takva",
+      "hidayet",
+      "seytan",
+      "melekler",
+      "cinler",
+      "gayb",
+      "din",
+      "din-ozgurlugu",
+      "kisisel-sorumluluk",
+      "tevbe",
+      "vahiy",
+      "kuran-nitelikleri",
+      "kuran-okuma",
+      "kuran-anlama",
+      "vahyin-korunmasi",
+      "metin-carpitma",
+      "muhkem-mutesabih",
+      "nesih",
+      "tasdik",
+      "isr",
+      "dua",
+      "namaz",
+      "namaz-vakitleri",
+      "abdest",
+      "kible",
+      "mescit",
+      "oruc",
+      "hac",
+      "kurban",
+      "kadir",
+      "zikir",
+      "ibadet-ihlasi",
+      "cenaze-baglami",
+      "sabir",
+      "tevekkul",
+      "umit",
+      "korku",
+      "ofke",
+      "huzun",
+      "imtihan",
+      "huzur",
+      "sukur",
+      "dogruluk",
+      "merhamet",
+      "affetme",
+      "tevazu",
+      "kibir",
+      "emanet",
+      "sozlesme",
+      "riya",
+      "ahlaki-ozelestiri",
+      "israf",
+      "evlilik",
+      "ebeveyn",
+      "cocuk",
+      "emzirme",
+      "bosanma",
+      "mahremiyet",
+      "cinsellik",
+      "zina",
+      "akrabalik",
+      "yardimlasma",
+      "baris",
+      "giybet",
+      "alay",
+      "gizli-gorusme",
+      "haber-dogrulama",
+      "zan",
+      "esitlik",
+      "musavere",
+      "toplumsal-gorevler",
+      "din-otoritesi",
+      "yoksulluk",
+      "rizik",
+      "zekat",
+      "infak",
+      "faiz",
+      "ticaret",
+      "borc",
+      "miras",
+      "yetim-hakki",
+      "helal-gida",
+      "icki",
+      "kumar",
+      "adalet",
+      "zulum",
+      "taniklik",
+      "yemin",
+      "iftira",
+      "can-hakki",
+      "kisas",
+      "savas",
+      "ozgurlestirme",
+      "yonetim",
+      "olum",
+      "ahiret",
+      "dirilis",
+      "kiyamet",
+      "hesap",
+      "cennet",
+      "cehennem",
+      "sefaat",
+      "amel-kaydi",
+      "dunya-hayati",
+      "peygamberlik",
+      "teblig",
+      "peygamber-anlatilari",
+      "mucize",
+      "yaratilis",
+      "akil",
+      "bilgi",
+      "insan-yaratilisi",
+      "dogal-duzen",
+      "hayvanlar",
+      "ehli-kitap",
+      "topluluk-akibeti",
+      "sunnetullah",
+      "hicret",
+      "allah-yolunda-olum",
+      "sabir--musibet-karsisinda-sabir",
+      "sabir--sorumlulukta-sebat",
+      "sabir--haksizlik-karsisinda-sabir",
+      "dua--yardim-ve-bagislanma-dilemek",
+      "dua--peygamberlerin-dualari",
+      "dua--dua-ve-yakinlik",
+      "namaz--namaza-devam-etmek",
+      "namaz--namaz-ve-toplumsal-sorumluluk",
+      "oruc--ramazan-orucu",
+      "oruc--telafi-ve-kefaret-baglami",
+      "hac--hac-ve-umre",
+      "hac--hacda-sinirlar",
+      "evlilik--eslerin-karsilikli-haklari",
+      "evlilik--nikahin-sinirlari",
+      "bosanma--bekleme-suresi",
+      "bosanma--ayrilikta-adil-davranmak",
+      "infak--ihtiyac-sahibine-paylasim",
+      "infak--gosterissiz-yardim",
+      "miras--miras-paylari",
+      "miras--vasiyet-sorumlulugu",
+      "yetim-hakki--yetim-malinin-korunmasi",
+      "ticaret--olcu-ve-tarti",
+      "borc--borcun-kayda-alinmasi",
+      "savas--savasta-sinir-ve-baris",
+      "can-hakki--haksiz-yere-oldurme",
+      "ehli-kitap--ehl-i-kitap-icinde-inananlar",
+      "ehli-kitap--ehl-i-kitaba-yonelik-elestirilerin-baglami",
+      "kiyamet--son-saatin-bilinmezligi",
+      "hesap--eylemlerin-karsiligi",
+      "amel-kaydi--eylemleri-kaydeden-melekler",
+      "amel-kaydi--hesapta-sunulan-kayit",
+      "akil--yaratilis-uzerinde-dusunmek",
+      "akil--vahiy-uzerinde-dusunmek",
+      "teblig--elcinin-bildirme-gorevi",
+      "teblig--hikmetli-davet",
+      "merhamet--insanlara-sefkat"
+    ],
+    "mappings": [
+      {
+        "verseId": "4:58",
+        "topicId": "emanet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:58"
+        ],
+        "decision": "candidate",
+        "rationale": "“emaneti ehline vermenizi” ifadesi ve “Yetki, görev ve sorumluluğu.” dipnotu doğrudan uyumludur."
+      },
+      {
+        "verseId": "4:58",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:58"
+        ],
+        "decision": "candidate",
+        "rationale": "“insanlar arasında adaletle hükmetmenizi” buyruğu konunun merkezindedir."
+      },
+      {
+        "verseId": "4:58",
+        "topicId": "yonetim",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "4:58"
+        ],
+        "decision": "candidate",
+        "rationale": "Emanet dipnotunun “Yetki, görev ve sorumluluğu.” açıklaması, yetkinin ehline verilmesini yönetim konusuna bağlar."
+      },
+      {
+        "verseId": "4:58",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:58"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah açıkça “Her Şeyi Duyan” ve “Her Şeyi Gören” sıfatlarıyla anılır."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "“adaleti gerçek anlamıyla yerine getirin” buyruğu ayetin ana konusudur."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "taniklik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "“Allah için adil tanıklar” olunması ve tanıklığın taraflardan bağımsız tutulması doğrudan işlenir."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "dogruluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "“gerçeği çarpıtıp, yüz çevirirseniz” uyarısı tanıklıkta dürüstlüğü açıkça ilgilendirir."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "“Allah, bütün yaptıklarınızdan haberdardır” ifadesi ilahi bilgiyi açıkça bildirir."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "esma",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın bütün yapılanlardan haberdar oluşu açık bir ilahi sıfat olarak bildirilir."
+      },
+      {
+        "verseId": "4:135",
+        "topicId": "iman",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "4:135"
+        ],
+        "decision": "candidate",
+        "rationale": "“Ey iman edenler!” hitabının ardından adil tanıklık bir inanç sorumluluğu olarak verilir."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "Düşmanlığın adaletsizliğe yöneltmemesi ve “Adil olun” buyruğu ayetin merkezindedir."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "taniklik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "“Adil tanıklar olun!” buyruğu doğrudan tanıklık konusuna girer."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "takva",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "Adaletin “takvalı olmaya en uygun” olduğu belirtilir ve takva buyruğu tekrarlanır."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "dogruluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "“gerçeğe bağlı kalmada kararlı olun” buyruğu söz ve tutumda doğrulukla açıkça ilişkilidir."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "zulum",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "“adaletsizliğe yöneltmesin” uyarısı düşmanlık karşısında haksız davranmayı açıkça reddeder."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "“Allah, yaptığınız her şeyden haberdardır” ifadesi doğrudan ilahi bilgi bildirir."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "esma",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın yapılan her şeyden haberdar oluşu açık bir ilahi sıfattır."
+      },
+      {
+        "verseId": "5:8",
+        "topicId": "iman",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "5:8"
+        ],
+        "decision": "candidate",
+        "rationale": "“Ey iman edenler!” hitabıyla adalet, tanıklık ve takva inananların sorumluluğu olarak sunulur."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "yonetim",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "“veli” dipnotu sözcüğün siyasi bağlamda “yönetmeyi, korumayı, gözetilmeyi” ifade ettiğini açıklar."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "iman",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Ayet, “mü’minler”i salatı ikame ve zekât verme tutumuyla açıkça niteler."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "namaz",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "“salatı ikame edip” ifadesi doğrudandır; dipnot bunun bağlamsal kulluk anlamını ayrıca açıklar."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "zekat",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "“zekât veren” ifadesi açıktır; terkibin anlamına ilişkin kapsamlı dipnot nedeniyle bağlamsal ihtiyat gerekir."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "ibadet-ihlasi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnot, kulluğu “buyruklarına içtenlikle teslim olarak; arınmış, temizlenmiş bir benlikle yapmak” şeklinde açıklar."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "tevhid",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnotta “Şirkten arınmış bir bilinçle Allah’a yönelmek” açıklaması yer alır."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "sirk",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnot, ayetteki kulluk terkibini açıkça “Şirkten arınmış bir bilinçle” ilişkilendirir."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "namaz--namaz-ve-toplumsal-sorumluluk",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Salatı ikame eden müminlerin siyasi koruma ve gözetme bağlamındaki “veli” niteliğiyle birlikte anılması alt başlığa katkı sağlar."
+      },
+      {
+        "verseId": "5:55",
+        "topicId": "toplumsal-gorevler",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "5:55"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnotun siyasi koruma ve gözetme açıklaması, müminlerin toplumsal destek sorumluluğuna bağ kurar."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’ın tohumu ve çekirdeği yarması, ölüden diriyi ve diriden ölüyü çıkarması yaratma kudretini doğrudan konu eder."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "yaratilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "Tohum, çekirdek, diri ve ölü üzerinden yaratılışın doğal işaretleri doğrudan gösterilir."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "dogal-duzen",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "Tohumun ve çekirdeğin yarılması ile diri-ölü döngüsü doğadaki düzeni açıkça örnekler."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "tevhid",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "6:94",
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "6:94’teki ortak ve şefaatçi iddialarının ardından “İşte budur Allah. O halde nasıl çevriliyorsunuz?” denilmesi tevhid bağını kurar."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, “tohumu ve çekirdeği yaran” ve “Ölüden diriyi, diriden de ölüyü çıkaran” sıfatlarıyla açıkça anılır."
+      },
+      {
+        "verseId": "6:95",
+        "topicId": "akil",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "6:95"
+        ],
+        "decision": "candidate",
+        "rationale": "“O halde nasıl çevriliyorsunuz?” sorusu, verilen yaratılış işaretinden sonuç çıkarmaya çağrı niteliğindedir."
+      },
+      {
+        "verseId": "7:54",
+        "topicId": "allah-kudreti",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "7:54"
+        ],
+        "decision": "candidate",
+        "rationale": "Göklerin ve yerin yaratılması, gök cisimlerinin emre tabi kılınması ve egemenlik açıklaması ilahi kudreti merkezî biçimde bildirir."
+      },
+      {
+        "verseId": "7:54",
+        "topicId": "tevhid",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "7:54"
+        ],
+        "decision": "candidate",
+        "rationale": "“Yaratmak da emretmek de yalnız O’na özgüdür” ifadesi tevhidi doğrudan bildirir."
+      },
+      {
+        "verseId": "7:54",
+        "topicId": "yaratilis",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "7:54"
+        ],
+        "decision": "candidate",
+        "rationale": "Göklerin, yerin, gece-gündüzün, Güneş’in, Ay’ın ve yıldızların yaratılış düzeni ayetin ana anlatımıdır."
+      },
+      {
+        "verseId": "7:54",
+        "topicId": "dogal-duzen",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "7:54"
+        ],
+        "decision": "candidate",
+        "rationale": "Gece-gündüz takibi ile Güneş, Ay ve yıldızların emre tabi oluşu doğadaki düzeni açıkça konu eder."
+      },
+      {
+        "verseId": "7:54",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "7:54"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah, “Âlemlerin Rabb’i” ve “Şanı Çok Yüce” olarak açık ilahi sıfatlarla anılır."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "infak",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“Sadakalar”ın maddi hak ve yardım oluşu dipnotta açıklanır ve yararlanacak gruplar doğrudan sayılır."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "zekat",
+        "relationshipStrength": "primary",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“Sadakalar, Allah’tan bir farz olarak” denilmesi ve görevli dağıtım gruplarının belirtilmesi açık zorunlu maddi paylaşım bağlamı kurar."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "yoksulluk",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“yoksullara, düşkünlere” sadakalardan hak ayrılması ihtiyaç sahiplerinin maddi haklarını doğrudan konu eder."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "infak--ihtiyac-sahibine-paylasim",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Sadakaların yoksullar, düşkünler, borçlular ve yolda kalmışlara ait oluşu alt başlıkla doğrudan örtüşür."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "yardimlasma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnotlar sadakayı “Yardım etmek” olarak açıklar ve farklı ihtiyaç gruplarına yardım biçimlerini belirtir."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "ozgurlestirme",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“kölelere” ifadesinin dipnotu, kölenin özgürlüğüne kavuşması için ona yardım edilmesini açıkça belirtir."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "borc",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“borçlulara” sadakadan pay ayrılması maddi borç bağlamına anlamlı katkı sağlar."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "toplumsal-gorevler",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Maddi hakların belirli ihtiyaç gruplarına “Allah’tan bir farz olarak” ayrılması açık toplumsal sorumluluk düzenidir."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Sadaka dipnotundaki “Hak gözetirlik; sahip olunan mal üzerinde başkasının hakkını gözetmek.” açıklaması hak gözetimiyle doğrudan bağ kurar."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "allah-ilmi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah açıkça “Her Şeyi Bilen” olarak anılır."
+      },
+      {
+        "verseId": "9:60",
+        "topicId": "esma",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "9:60"
+        ],
+        "decision": "candidate",
+        "rationale": "“Her Şeyi Bilen” ve “En İyi Hüküm Veren” açık ilahi sıfatlardır."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "“güzelce sabredip” ifadesi yaşanan ağır olay karşısındaki tutumun merkezindedir."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "sabir--musibet-karsisinda-sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:17",
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "Yusuf’un kurt tarafından yenildiği iddiasına karşı “güzelce sabredip” denilmesi musibet bağlamını açıkça kurar."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "dua",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "“Allah’tan yardım istemektir” ifadesi doğrudan Allah’a yönelen yardım talebidir."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "dua--yardim-ve-bagislanma-dilemek",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’tan açıkça yardım istenmesi alt başlığın yardım boyutuyla doğrudan örtüşür."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "tevekkul",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "Sabırla birlikte “Allah’tan yardım istemek” zorluk karşısında Allah’a dayanma tutumunu açıkça gösterir."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "dogruluk",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:18"
+        ],
+        "decision": "candidate",
+        "rationale": "“Yalandan kan sürülmüş gömleğini getirdiler” ifadesi davranış ve sözde dürüstlüğün karşıtı olan bilinçli aldatmayı gösterir."
+      },
+      {
+        "verseId": "12:18",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:17",
+          "12:18",
+          "12:19"
+        ],
+        "decision": "candidate",
+        "rationale": "Yusuf’un gömleği etrafındaki aldatma, sabır ve yardım isteme, Yusuf anlatısının açık bir olay ve tema bölümüdür."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "dua",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:23"
+        ],
+        "decision": "candidate",
+        "rationale": "“Allah’a sığınırım” ifadesi Allah’a yönelen açık bir korunma talebidir."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "dua--yardim-ve-bagislanma-dilemek",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "12:23"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah’a sığınma, alt başlığın yardım ve korunma isteme boyutuna doğrudan girer."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "cinsellik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:23",
+          "12:24"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadının Yusuf’a “sahip olmak” istemesi ve onu yanına çağırması, 12:24’te “kadın Yusuf’u arzu etmişti” ifadesiyle açıklanır."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "zina",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:23",
+          "12:24"
+        ],
+        "decision": "candidate",
+        "rationale": "Kapıların kapatıldığı cinsel çağrı ve 12:24’teki “kötülüğü ve fuhşu” ifadesi cinsel sınır ihlali bağını kurar."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "emanet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:23"
+        ],
+        "decision": "candidate",
+        "rationale": "Dipnotta “çok iyiliğini gördüm, ona ihanet edemem” açıklaması güvenilirlik ve emaneti koruma tutumunu açıkça gösterir."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "zulum",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:23"
+        ],
+        "decision": "candidate",
+        "rationale": "“Haksızlık yapanlar kurtuluşa ermezler” ifadesi doğrudan haksızlığı konu eder; dipnot bunun efendiye ihanet bağlamını açıklar."
+      },
+      {
+        "verseId": "12:23",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:22",
+          "12:23",
+          "12:24"
+        ],
+        "decision": "candidate",
+        "rationale": "Yusuf’un çağrıyı reddetmesi ve Allah’a sığınması, Yusuf anlatısının açık ahlaki olay örgüsüdür."
+      },
+      {
+        "verseId": "12:28",
+        "topicId": "haber-dogrulama",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:27",
+          "12:28"
+        ],
+        "decision": "candidate",
+        "rationale": "12:27’de gömleğin yırtılış yönü doğrulama ölçütü yapılır; 12:28’de gömlek görülerek iddia hakkında sonuca varılır."
+      },
+      {
+        "verseId": "12:28",
+        "topicId": "bilgi",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:27",
+          "12:28"
+        ],
+        "decision": "candidate",
+        "rationale": "Gömleğin arkadan yırtılmış olduğunun görülmesi, iki karşıt iddia arasında somut delile dayanmayı gösterir."
+      },
+      {
+        "verseId": "12:28",
+        "topicId": "dogruluk",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:27",
+          "12:28"
+        ],
+        "decision": "candidate",
+        "rationale": "12:27’de “kadın yalan, Yusuf doğru söylemektedir” ölçütü kurulur; hedef ayet gözlem sonucunu bildirir."
+      },
+      {
+        "verseId": "12:28",
+        "topicId": "peygamber-anlatilari",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "12:27",
+          "12:28",
+          "12:29"
+        ],
+        "decision": "candidate",
+        "rationale": "Gömlek deliliyle oyunun ortaya çıkması, Yusuf anlatısının bağımsız ve belirgin bir olay bölümüdür."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": []
+  },
+  "usage": {
+    "inputTokens": 79389,
+    "outputTokens": 15264,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 8994,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_0a28fb9f46dbb49e016aac3765e5f487d2884e97a1f06f4340",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T18:57:59.108Z",
+  "importedFrom": {
+    "cacheKey": "994df130a9c375767daa021c7f74b1f0c13a0aa347d28bffe4ebe7a8a21cc659",
+    "responseId": "resp_0a28fb9f46dbb49e016aac3765e5f487d2884e97a1f06f4340",
+    "reason": "Same semantic inputs; original paid response independently passes stricter ID/cardinality/stage schema. No new API request."
+  }
+}

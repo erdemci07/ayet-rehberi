@@ -1,0 +1,1 @@
+export type EnrichedMapping={verseId:string;confidence:number;source:"ai-enriched"|"human-reviewed";status:"draft"|"reviewed";rationale?:string};export type EnrichedTopic={id:string;name:string;slug:string;aliases:string[];parentTopicId?:string;relatedTopicIds:string[];verseMappings:EnrichedMapping[];source:"enriched";status:"draft"|"reviewed"};

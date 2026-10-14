@@ -1,0 +1,18 @@
+{
+  "key": "7a5f090a9daa2478d5161f2ae5b449db90e9b9c5602562c805b30c34ee7bdc37",
+  "attempt": 1,
+  "state": "polling",
+  "responseId": "resp_03cdec7dd2f12177006aac3bbe110c87d2ba70b9998cea5770",
+  "receiptPath": "data\\generated\\topic-classification-v2\\deep-8b8d066fcd82d82a5b1b\\requests\\7a5f090a9daa2478d5161f2ae5b449db90e9b9c5602562c805b30c34ee7bdc37.46c5bba6-2321-414b-824c-c83ecb295932.json",
+  "response": {
+    "id": "resp_03cdec7dd2f12177006aac3bbe110c87d2ba70b9998cea5770",
+    "status": "failed",
+    "model": "gpt-5.6-sol",
+    "reasoning": {
+      "effort": "high"
+    },
+    "usage": null,
+    "output": [],
+    "errorCode": "credit_balance_exhausted"
+  }
+}

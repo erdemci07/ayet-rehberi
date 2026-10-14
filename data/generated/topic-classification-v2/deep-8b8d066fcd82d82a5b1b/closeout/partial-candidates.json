@@ -1,0 +1,3451 @@
+[
+  {
+    "verseId": "2:28",
+    "topicId": "dirilis",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:28"
+    ],
+    "decision": "candidate",
+    "rationale": "Ölümün ardından yeniden diriltilme açık ve merkezî biçimde bildirilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:30",
+    "topicId": "adalet",
+    "relationshipStrength": "contextual",
+    "confidence": "medium",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:30"
+    ],
+    "decision": "candidate",
+    "rationale": "Yönetim sorumluluğu, bozgunculuk ve kan dökme kaygısı adaletle bağ kurar; adil hüküm doğrudan açıklanmaz.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:43",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:43"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekâtın verilmesi açık bir yükümlülük olarak emredilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:45",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:45"
+    ],
+    "decision": "candidate",
+    "rationale": "Sabır, ağır gelen görev karşısında Allah’tan yardım istemenin doğrudan yolu olarak sunulur; dipnot sebat boyutunu açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:49",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:49"
+    ],
+    "decision": "candidate",
+    "rationale": "İşkence ve oğulların öldürülmesi, kişiler arası temel hakların ağır ihlalidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:61",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:61"
+    ],
+    "decision": "candidate",
+    "rationale": "Nebilerin haksız yere öldürülmesi, can ve hak gözetiminin açık ihlalidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:63",
+    "topicId": "sabir",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:63"
+    ],
+    "decision": "candidate",
+    "rationale": "Verilene kuvvetle sarılma ve onu sürekli gözetme, sorumlulukta sebatı destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:72",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:72"
+    ],
+    "decision": "candidate",
+    "rationale": "Öldürme ve olayın gizlenmesi anlatısı, adalet konusuna anlamlı fakat dolaylı delil sağlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:73",
+    "topicId": "dirilis",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:73"
+    ],
+    "decision": "candidate",
+    "rationale": "Ölülerin diriltilmesi açıkça gösterilir; anlatım belirli bir olay bağlamındadır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:83",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:83"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekâtın verilmesi kesin söz kapsamındaki açık yükümlülüklerdendir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:84",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:84"
+    ],
+    "decision": "candidate",
+    "rationale": "Kan dökmeme ve insanları yurtlarından çıkarmama yükümlülükleri doğrudan hak gözetimidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:85",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:85"
+    ],
+    "decision": "candidate",
+    "rationale": "Öldürme, sürgün, düşmanlıkta işbirliği ve kuralların seçmeci uygulanması merkezî hak ihlalleridir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:87",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:87"
+    ],
+    "decision": "candidate",
+    "rationale": "Elçilerin getirdikleri beğenilmediği için öldürülmeleri, can ve hak ihlaline açık örnektir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:91",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:91"
+    ],
+    "decision": "candidate",
+    "rationale": "Nebilerin öldürülmesi eleştirisi, kişiler arası hakların ihlalini destekleyici biçimde gösterir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:102",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:102"
+    ],
+    "decision": "candidate",
+    "rationale": "Karı ile kocanın arasını açmaya yönelik zarar, evlilik ilişkisinin korunmasıyla açıkça ilgilidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:109",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:109"
+    ],
+    "decision": "candidate",
+    "rationale": "İnançlarından döndürülme girişimi karşısında aldırış etmeme, affetme ve iyi geçinme sabırlı tutumu açıkça yansıtır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:110",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:110"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekâtın verilmesi doğrudan emredilir ve yapılan iyiliğin karşılığına bağlanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:114",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:114"
+    ],
+    "decision": "candidate",
+    "rationale": "İbadet yerlerini engellemek ve harap etmeye çalışmak açık bir hak ihlali olarak kınanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0f69c2ab8190b25b016aac358122c887d29a36bb35b1761a69",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:124",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:124"
+    ],
+    "decision": "candidate",
+    "rationale": "Sınanma sırasında verilen görevlerin yerine getirilmesi, sorumlulukta sebatla açık biçimde ilişkilidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:124",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:124"
+    ],
+    "decision": "candidate",
+    "rationale": "Zalimlerin önderlik ahdinin dışında tutulması, yönetimde hak gözetimini destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:132",
+    "topicId": "sabir",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:132"
+    ],
+    "decision": "candidate",
+    "rationale": "Ömür boyunca teslimiyet üzere kalma öğüdü, inanç sorumluluğunda sebatı destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:143",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:143"
+    ],
+    "decision": "candidate",
+    "rationale": "Ağır gelen bir yükümlülükte elçiye uyanlarla geri dönenlerin ayrılması, görevde sebat bağlamıdır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:143",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:143"
+    ],
+    "decision": "candidate",
+    "rationale": "Dengeli toplum niteliği ve insanlar karşısında gerçeğe tanıklık görevi adaleti destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:148",
+    "topicId": "dirilis",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:148"
+    ],
+    "decision": "candidate",
+    "rationale": "Bütün insanların Allah tarafından bir araya getirileceği bildirimi diriliş sonrası toplanmayı destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:153",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:153"
+    ],
+    "decision": "candidate",
+    "rationale": "Sabırla yardım dileme ve Allah'ın sabredenlerle beraberliği doğrudan merkezî konudur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:155",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:155"
+    ],
+    "decision": "candidate",
+    "rationale": "Korku, açlık ve kayıplarla sınanma karşısında sabredenler doğrudan öne çıkarılır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:156",
+    "topicId": "sabir",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:155",
+      "2:156"
+    ],
+    "decision": "candidate",
+    "rationale": "Önceki ayetteki sabredenlerin musibet anındaki tutumu açıklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:157",
+    "topicId": "sabir",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:155",
+      "2:156",
+      "2:157"
+    ],
+    "decision": "candidate",
+    "rationale": "Musibet karşısında sabredenlere bağışlama, rahmet ve hidayet verileceğini tamamlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:167",
+    "topicId": "dirilis",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:167"
+    ],
+    "decision": "candidate",
+    "rationale": "Azabı görenlerin dünyaya dönüş istemesi, ölüm sonrası durum ve yeniden hayat bağlamını dolaylı destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:177",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:177"
+    ],
+    "decision": "candidate",
+    "rationale": "Zorluk, sıkıntı ve felaket sırasında sabretmek iyiliğin açık unsurlarından biri olarak belirtilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:177",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:177"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekât vermek açıkça iyiliğin temel yükümlülükleri arasında sayılır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:178",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:178"
+    ],
+    "decision": "candidate",
+    "rationale": "Kısasta kişisel sorumluluk, bağışlama, diyet ve haddi aşmama hükümleri adil hak gözetiminin merkezindedir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:179",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:179"
+    ],
+    "decision": "candidate",
+    "rationale": "Kısasın canı koruyan amacı, yaptırım ile hakların korunması arasındaki ilişkiyi açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:180",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:180"
+    ],
+    "decision": "candidate",
+    "rationale": "Mal bırakılması durumunda anne, baba ve yakınların örfe uygun vasiyet hakkı düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:181",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:180",
+      "2:181"
+    ],
+    "decision": "candidate",
+    "rationale": "Vasiyeti değiştirenin sorumluluğu belirtilerek hak sahiplerinin korunması sağlanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:182",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:180",
+      "2:181",
+      "2:182"
+    ],
+    "decision": "candidate",
+    "rationale": "Hatalı veya günahlı vasiyet ihtimalinde taraflar arasında uzlaşma sağlanmasına izin verilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:187",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:187"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşlerin karşılıklı yakınlığı ve evlilik içi ilişkinin oruç dönemindeki sınırları doğrudan ele alınır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:188",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:188"
+    ],
+    "decision": "candidate",
+    "rationale": "Başkasının malına haksız yollarla veya hukuki hileyle el koymak açıkça yasaklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:190",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:190"
+    ],
+    "decision": "candidate",
+    "rationale": "Savaş yalnız savaşanlara karşı sınırlandırılır ve haddi aşmak yasaklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:191",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:190",
+      "2:191",
+      "2:192",
+      "2:193"
+    ],
+    "decision": "candidate",
+    "rationale": "Savaşın saldırı, çıkarılma ve baskı bağlamıyla sınırlandırılması güç kullanımında hak gözetimini gösterir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:192",
+    "topicId": "adalet",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:190",
+      "2:191",
+      "2:192",
+      "2:193"
+    ],
+    "decision": "candidate",
+    "rationale": "Karşı taraf vazgeçtiğinde çatışmanın sürdürülmemesi, savaş hükümlerindeki ölçülülüğü tamamlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:193",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:190",
+      "2:191",
+      "2:192",
+      "2:193"
+    ],
+    "decision": "candidate",
+    "rationale": "Baskı sona erince düşmanlığın yalnız zalimlerle sınırlandırılması adil güç kullanımına ilişkindir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:194",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:194"
+    ],
+    "decision": "candidate",
+    "rationale": "Saldırıya yalnız aynı ölçüde karşılık verilmesi açık bir orantılılık ilkesidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:203",
+    "topicId": "dirilis",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:203"
+    ],
+    "decision": "candidate",
+    "rationale": "Allah'ın huzurunda toplanma bildirimi, ölüm sonrası diriliş ve toplanma bağlamına açıkça katkı sağlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:213",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:213"
+    ],
+    "decision": "candidate",
+    "rationale": "İnsanların anlaşmazlıklarında hak ile hükmedilmesi doğrudan adil yargı konusudur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:214",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:214"
+    ],
+    "decision": "candidate",
+    "rationale": "Şiddetli sıkıntı ve sarsıntıya rağmen iman üzere kalma anlatısı zorluk karşısında sebatı gösterir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:216",
+    "topicId": "sabir",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:216"
+    ],
+    "decision": "candidate",
+    "rationale": "Hoşa gitmeyen ağır bir yükümlülüğün yerine getirilmesi, sorumlulukta sebatı destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:217",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:217"
+    ],
+    "decision": "candidate",
+    "rationale": "Savaş, ibadetten alıkoyma, halkı yurdundan çıkarma ve baskı arasında hak temelli bir değerlendirme yapılır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:220",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:220"
+    ],
+    "decision": "candidate",
+    "rationale": "Öksüzlerin hayatını düzene koyma ve onları sahipsiz bırakmama, korunmaları gereken haklara ilişkindir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:221",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:221"
+    ],
+    "decision": "candidate",
+    "rationale": "Kimlerle nikâh kurulamayacağına ilişkin açık evlilik sınırları belirlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:222",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:222"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşler arasındaki cinsel ilişkinin aybaşı dönemindeki sınırı düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:223",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:223"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşler arasındaki cinsel ilişki ve çocuk bağlamı evlilik ilişkisinin doğrudan bir yönüdür.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:224",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:224"
+    ],
+    "decision": "candidate",
+    "rationale": "İnsanların arasını düzeltmenin yeminlerle engellenmemesi, toplumsal uzlaşma ve hak gözetimini destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:226",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:226"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşe yaklaşmama yemini için süre ve geri dönüş imkânı düzenlenerek evlilik ilişkisi ele alınır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:227",
+    "topicId": "evlilik",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:226",
+      "2:227"
+    ],
+    "decision": "candidate",
+    "rationale": "Önceki ayetteki ayrılık sürecinin boşanma kararıyla sonuçlanabilecek yönünü tamamlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:228",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:228"
+    ],
+    "decision": "candidate",
+    "rationale": "Kadın ve erkeklerin karşılıklı meşru haklarının denkliği açıkça belirtilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:228",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:228"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanma sonrası bekleme, yeniden evlenme ve eşlerin karşılıklı hakları doğrudan düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:229",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:229"
+    ],
+    "decision": "candidate",
+    "rationale": "Evliliği sürdürme veya bitirmede meşruluk, iyilik, mal hakkı ve sınırları aşmama ilkeleri belirlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:229",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:229"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanmanın sınırları, evliliği sürdürme seçeneği ve ayrılıktaki karşılıklı haklar merkezî konudur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:230",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:230"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanma sonrasında eski eşlerin yeniden evlenebilme şartları açıklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:231",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:231"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanan kadının zarar vermek ve hakkını çiğnemek amacıyla tutulması açıkça yasaklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:231",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:231"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanma süresi sonunda evliliği meşru biçimde sürdürme veya sona erdirme seçenekleri düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:232",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:232"
+    ],
+    "decision": "candidate",
+    "rationale": "Kadınların meşru biçimde evlenme kararlarının engellenmemesi doğrudan hak gözetimidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:232",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:232"
+    ],
+    "decision": "candidate",
+    "rationale": "Bekleme süresinden sonra kadınların seçtikleri kişilerle evlenme hakkı açıkça korunur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:233",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:233"
+    ],
+    "decision": "candidate",
+    "rationale": "Anne, baba, çocuk ve mirasçının maddi sorumlulukları; güç sınırı, karşılıklı rıza ve zarar yasağıyla düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:234",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:234"
+    ],
+    "decision": "candidate",
+    "rationale": "Dul kadınların bekleme sonrasında kendi haklarında verecekleri meşru kararlar korunur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:234",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:234"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşi ölen kadınların bekleme süresi ve sonrasındaki evlilikle ilgili karar serbestliği düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:235",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:235"
+    ],
+    "decision": "candidate",
+    "rationale": "Bekleme süresindeki evlenme teklifi ve nikâh akdinin zaman sınırı doğrudan açıklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:236",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:236"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanma sonrasında kadına erkeğin imkânına göre meşru yarar sağlanması bir hak olarak belirlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:236",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:236"
+    ],
+    "decision": "candidate",
+    "rationale": "Birliktelik ve mehir belirlenmeden gerçekleşen boşanmanın maddi sonuçları düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:237",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:237"
+    ],
+    "decision": "candidate",
+    "rationale": "Birliktelik öncesi boşanmada belirlenen mehrin paylaşımı ve tarafların vazgeçme hakkı açıklanır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:237",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:237"
+    ],
+    "decision": "candidate",
+    "rationale": "Nikâh, mehir ve birliktelik öncesi boşanmanın mali hükümleri doğrudan ele alınır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:239",
+    "topicId": "sabir",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "2:238",
+      "2:239"
+    ],
+    "decision": "candidate",
+    "rationale": "Tehlike anında da ibadet sorumluluğunun sürdürülmesi, zor şartlarda görev sebatını destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:240",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:240"
+    ],
+    "decision": "candidate",
+    "rationale": "Dul eşin konut ve geçiminin korunması ile kendi meşru tercihine saygı gösterilmesi emredilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:240",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:240"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşin ölümünden sonra geride kalan eşin geçim ve barınma hakları düzenlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:241",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:241"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanmış kadınların geçiminin meşru biçimde sağlanması açık bir hak ve yükümlülük olarak belirtilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:241",
+    "topicId": "evlilik",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:241"
+    ],
+    "decision": "candidate",
+    "rationale": "Boşanma sonrasında eski eşe yönelik maddi sorumluluk doğrudan evlilik haklarıyla ilgilidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:243",
+    "topicId": "dirilis",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:243"
+    ],
+    "decision": "candidate",
+    "rationale": "Ölümün ardından yeniden hayat verilmesi açıkça anlatılır; olay anlatısı olması nedeniyle ahiret kapsamı temkinlidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:246",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:246"
+    ],
+    "decision": "candidate",
+    "rationale": "Haksızlığa uğradıktan sonra istenen savaş görevi verilince yüz çevrilmesi, sebat eksikliğinin açık örneğidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:246",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:246"
+    ],
+    "decision": "candidate",
+    "rationale": "Yurttan çıkarılma ve çocuklardan koparılma, karşı koyma talebinin dayandığı hak ihlalleridir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:247",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:247"
+    ],
+    "decision": "candidate",
+    "rationale": "Önderlikte servet yerine bilgi ve güç yeterliğinin öne çıkarılması, liyakat temelli hak gözetimini destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "2:249",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "2:249"
+    ],
+    "decision": "candidate",
+    "rationale": "İmtihan sırasında ölçülü davranma, azlık karşısında sebat ve Allah'ın sabredenlerle beraberliği doğrudan işlenir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:78",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "21:78"
+    ],
+    "decision": "candidate",
+    "rationale": "İnsanlar arasındaki bir zarar uyuşmazlığı hakkında hüküm verilmesi ayetin merkezindedir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:79",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "21:78",
+      "21:79"
+    ],
+    "decision": "candidate",
+    "rationale": "Önceki ayetteki uyuşmazlığın doğru kavranması ve hüküm bilgisi, adil yargılama bağlamını açıkça sürdürür.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:85",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "21:85"
+    ],
+    "decision": "candidate",
+    "rationale": "Anılan kişilerin doğrudan sabredenlerden oldukları belirtilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:90",
+    "topicId": "evlilik",
+    "relationshipStrength": "contextual",
+    "confidence": "medium",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "21:89",
+      "21:90"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşin doğuma engel durumunun giderilmesi, çocuk talebi bağlamında evlilik içindeki eş ilişkisine katkı sağlar; nikâh veya eş hakları merkezde değildir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:104",
+    "topicId": "dirilis",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "21:104"
+    ],
+    "decision": "candidate",
+    "rationale": "İlk yaratılışa benzer biçimde varlıkların yeniden yaratılması doğrudan bildirilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "21:112",
+    "topicId": "adalet",
+    "relationshipStrength": "supporting",
+    "confidence": "medium",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "21:112"
+    ],
+    "decision": "candidate",
+    "rationale": "Taraflar arasında hakka uygun hüküm talep edilir; hükmün ilahî olması insan yargısı tanımına uyumu sınırlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:5",
+    "topicId": "dirilis",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:5"
+    ],
+    "decision": "candidate",
+    "rationale": "Ölümden sonra yeniden dirilme kuşkusuna doğrudan cevap verilir; yaratılış aşamaları delil olarak sunulur.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:6",
+    "topicId": "dirilis",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:5",
+      "22:6",
+      "22:7"
+    ],
+    "decision": "candidate",
+    "rationale": "Ölüleri diriltme açıkça belirtilir ve komşu ayetler bunun ahiret dirilişi olduğunu kesinleştirir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:7",
+    "topicId": "dirilis",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:7"
+    ],
+    "decision": "candidate",
+    "rationale": "Kabirlerde bulunanların diriltileceği doğrudan bildirilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:11",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:11"
+    ],
+    "decision": "candidate",
+    "rationale": "Baskı ve sıkıntı karşısında kulluktan dönmek, zorlukta sebatın açık olumsuz karşıtıdır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:25",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:25"
+    ],
+    "decision": "candidate",
+    "rationale": "Yerleşik olanlarla dışarıdan gelenlerin eşit yararlanma hakkı ve bu hakkın zulümle ihlali ele alınır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:35",
+    "topicId": "sabir",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:35"
+    ],
+    "decision": "candidate",
+    "rationale": "Başa gelen zorluk karşısında yılmadan dayanma ve direnme doğrudan övülür.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:39",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:39"
+    ],
+    "decision": "candidate",
+    "rationale": "Zulme uğrayanlara kendilerini savunma izni verilmesi hak ve zarar gözetimiyle doğrudan ilişkilidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:40",
+    "topicId": "adalet",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:40"
+    ],
+    "decision": "candidate",
+    "rationale": "Haksız sürgün ve farklı toplulukların ibadet yerlerinin korunması, insan haklarının gözetilmesini somutlaştırır.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:41",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:41"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekât verme, güç ve sorumluluk verilenlerin açık yükümlülüklerinden biri olarak belirtilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:60",
+    "topicId": "adalet",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:60"
+    ],
+    "decision": "candidate",
+    "rationale": "Haksız saldırıya aynı oranda karşılık verilmesi, insanlar arası ölçülülük ve hak gözetiminin doğrudan örneğidir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:66",
+    "topicId": "dirilis",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": false,
+    "evidenceVerseIds": [
+      "22:66"
+    ],
+    "decision": "candidate",
+    "rationale": "Hayat, ölüm ve ardından diriltilme açık bir sıra içinde bildirilir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:78",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:78"
+    ],
+    "decision": "candidate",
+    "rationale": "Görevde bütün güçle çaba göstermek ve Allah'a sımsıkı bağlanmak sorumlulukta sebatı açıkça destekler.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "22:78",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "22:78"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekât verme doğrudan emir olarak yer alır; dipnot bunu yardımlaşmayı canlı tutma bağlamıyla açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:4",
+    "topicId": "zekat",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:4"
+    ],
+    "decision": "candidate",
+    "rationale": "Zekât için çalışmak müminlerin merkezî niteliği olarak belirtilir; dipnot buradaki anlamı benliğin arınması bağlamında açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:5",
+    "topicId": "evlilik",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:5",
+      "23:6",
+      "23:7"
+    ],
+    "decision": "candidate",
+    "rationale": "İffetin korunması, devamındaki eş ve nikâhlı ilişkinin sınırlarını hazırlayan bağımsız bir ilkedir.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:6",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:6"
+    ],
+    "decision": "candidate",
+    "rationale": "Eşlerle meşru ilişki doğrudan ele alınır; dipnot ilişkinin nikâh şartına bağlı olduğunu açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:7",
+    "topicId": "evlilik",
+    "relationshipStrength": "primary",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:6",
+      "23:7"
+    ],
+    "decision": "candidate",
+    "rationale": "Dipnot, yasaklanan sınır aşımını nikâhlı evliliğin dışındaki ilişki olarak açıklar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:9",
+    "topicId": "sabir",
+    "relationshipStrength": "strong",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:9"
+    ],
+    "decision": "candidate",
+    "rationale": "Kulluk ve Allah'a yönelme sorumluluğunun korunması, görevde devamlılık ve sebatı ifade eder.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  },
+  {
+    "verseId": "23:15",
+    "topicId": "dirilis",
+    "relationshipStrength": "contextual",
+    "confidence": "high",
+    "contextUsed": true,
+    "evidenceVerseIds": [
+      "23:15",
+      "23:16"
+    ],
+    "decision": "candidate",
+    "rationale": "Hedef ayet ölümü bildirir; sonraki ayet bunun ardından Kıyamet Günü diriltilmeyi açıkça tamamlar.",
+    "reviewStatus": "humanReviewRequired",
+    "classifierVersion": "semantic-calibration-v2.1",
+    "ontologyVersion": "2.0.0-proposed.1",
+    "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "runId": "deep-8b8d066fcd82d82a5b1b",
+    "sourceRunId": "calibration-cd560afff01774bcd697",
+    "stage": "retrieval",
+    "sourceResponseId": "resp_04be7691bb533026016aac3aaeb21087d2840a9989d172d244",
+    "reviewReasons": [
+      "partialRun",
+      "contextAdjudicationReverseAndGlobalQualityNotCompleted"
+    ],
+    "provenance": {
+      "source": "openai-semantic-classification",
+      "requestedModel": "gpt-5.6-sol",
+      "reasoningEffort": "high",
+      "production": false,
+      "partial": true
+    }
+  }
+]

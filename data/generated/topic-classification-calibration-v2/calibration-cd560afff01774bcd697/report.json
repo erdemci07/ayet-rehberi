@@ -1,0 +1,793 @@
+{
+  "runId": "calibration-cd560afff01774bcd697",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "reasoningEffort": "high",
+  "model": "gpt-5.6-sol",
+  "ontologyVersion": "2.0.0-proposed.1",
+  "ontologyHash": "357b65815ca87d5c75bd386a7457c3a77e33ef36452a323c742d57c8c20405ba",
+  "corpusVersion": "sha256:bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+  "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+  "ontologyReportHash": "2f28d2f20467d7d1a208c3fcc92add9f44805d84d3887a1a1bbf21996f011bf6",
+  "protectedHashes": {
+    "src/data/discovery.ts": "f30fe02f75a3c449ade6b267ff3c05f542903bc5947c12502e1e022e614b058a",
+    "src/data/enriched-topics-draft.json": "49b73ff4cb834e36d839e489374b414c1af1e8fbc57d1e13f7ba41ad06fe6d8f",
+    "src/data/enriched-topics-reviewed.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "src/data/esma/index.ts": "ab3ed9b7c862f30e7de3d4830fa18636453c2703ae49cced1b7199544c30246d",
+    "src/data/esma/proposed.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "src/data/esma/published.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "src/data/index.ts": "2632fda4f480499309d10e5560cd2d48b9f87bbedfeacb4d33e898e21eafdb92",
+    "src/data/mockTopics.ts": "d6abf1873b6d352829d0c461938ca8582caa3ba9af532f62fa2c4304e7993b6f",
+    "src/data/mockVerses.ts": "e926c1f91d939a91115d2b6a7bcd6e16519366f847ebbada591134a62e0fa7cc",
+    "src/data/ontology-v2/future-ai-mappings.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "src/data/ontology-v2/published-mappings.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "src/data/ontology-v2/published.json": "3a573c385f16c459756b7c13515d88f765b821803f687de0d48d73d97ef686cc",
+    "src/data/ontology-v2/reviewed.json": "3a573c385f16c459756b7c13515d88f765b821803f687de0d48d73d97ef686cc",
+    "src/data/quran.json": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "src/data/source-topics.json": "2d2bd8f662b39ae2de121f56f24464c4aca7ee47b2203ad275d7d827d87662f3",
+    "src/data/source.ts": "9cfcf73f0e4e0902c51a7ed92d69f8823d33468fe7c39cb9cabb021cc32ecfec",
+    "src/data/topics-reviewed.json": "2ba80e307852bca692552e41e5fa2bf85858a438534c077b6674fc9479b71d0b",
+    "src/data/topics.json": "2d2bd8f662b39ae2de121f56f24464c4aca7ee47b2203ad275d7d827d87662f3"
+  },
+  "settings": {
+    "retrievalBatchSize": 128,
+    "sampleBatchSize": 10,
+    "topicGroupSize": 5,
+    "contextRadius": 3,
+    "maxAttempts": 3
+  },
+  "calibrationTopicIds": [
+    "sabir",
+    "zekat",
+    "adalet",
+    "evlilik",
+    "dirilis"
+  ],
+  "sample": [
+    {
+      "verseId": "1:1",
+      "kind": "short-theological"
+    },
+    {
+      "verseId": "1:5",
+      "kind": "prayer"
+    },
+    {
+      "verseId": "2:26",
+      "kind": "parable"
+    },
+    {
+      "verseId": "2:43",
+      "kind": "explicit-duty"
+    },
+    {
+      "verseId": "2:45",
+      "kind": "explicit-patience"
+    },
+    {
+      "verseId": "2:102",
+      "kind": "complex-narrative"
+    },
+    {
+      "verseId": "2:153",
+      "kind": "explicit-patience"
+    },
+    {
+      "verseId": "2:155",
+      "kind": "trial-context"
+    },
+    {
+      "verseId": "2:156",
+      "kind": "pronoun-context"
+    },
+    {
+      "verseId": "2:157",
+      "kind": "pronoun-context"
+    },
+    {
+      "verseId": "2:177",
+      "kind": "many-principles"
+    },
+    {
+      "verseId": "2:228",
+      "kind": "family-law"
+    },
+    {
+      "verseId": "2:256",
+      "kind": "freedom"
+    },
+    {
+      "verseId": "2:261",
+      "kind": "charity-not-automatically-zekat"
+    },
+    {
+      "verseId": "2:282",
+      "kind": "long-legal"
+    },
+    {
+      "verseId": "3:7",
+      "kind": "interpretation"
+    },
+    {
+      "verseId": "3:185",
+      "kind": "death-and-afterlife"
+    },
+    {
+      "verseId": "4:3",
+      "kind": "marriage-and-justice"
+    },
+    {
+      "verseId": "4:4",
+      "kind": "marriage-rights"
+    },
+    {
+      "verseId": "4:11",
+      "kind": "inheritance"
+    },
+    {
+      "verseId": "4:58",
+      "kind": "explicit-justice"
+    },
+    {
+      "verseId": "4:135",
+      "kind": "explicit-justice"
+    },
+    {
+      "verseId": "5:8",
+      "kind": "explicit-justice"
+    },
+    {
+      "verseId": "5:55",
+      "kind": "explicit-duty"
+    },
+    {
+      "verseId": "6:95",
+      "kind": "life-not-automatically-resurrection"
+    },
+    {
+      "verseId": "7:54",
+      "kind": "creation"
+    },
+    {
+      "verseId": "9:60",
+      "kind": "charity-boundary"
+    },
+    {
+      "verseId": "12:18",
+      "kind": "quoted-narrative-patience"
+    },
+    {
+      "verseId": "12:23",
+      "kind": "quoted-narrative"
+    },
+    {
+      "verseId": "12:28",
+      "kind": "quoted-speaker-context"
+    },
+    {
+      "verseId": "12:83",
+      "kind": "narrative-patience"
+    },
+    {
+      "verseId": "13:3",
+      "kind": "pairs-not-marriage"
+    },
+    {
+      "verseId": "18:60",
+      "kind": "narrative"
+    },
+    {
+      "verseId": "18:65",
+      "kind": "pronoun-context"
+    },
+    {
+      "verseId": "18:82",
+      "kind": "explanatory-passage"
+    },
+    {
+      "verseId": "19:13",
+      "kind": "purity-zekat-boundary"
+    },
+    {
+      "verseId": "20:14",
+      "kind": "direct-worship"
+    },
+    {
+      "verseId": "24:32",
+      "kind": "explicit-marriage"
+    },
+    {
+      "verseId": "30:21",
+      "kind": "marriage"
+    },
+    {
+      "verseId": "36:78",
+      "kind": "quoted-resurrection-objection"
+    },
+    {
+      "verseId": "36:79",
+      "kind": "resurrection-answer"
+    },
+    {
+      "verseId": "39:53",
+      "kind": "hope-and-repentance"
+    },
+    {
+      "verseId": "49:12",
+      "kind": "social-ethics"
+    },
+    {
+      "verseId": "55:13",
+      "kind": "repeated-rhetorical"
+    },
+    {
+      "verseId": "57:20",
+      "kind": "worldly-life"
+    },
+    {
+      "verseId": "65:3",
+      "kind": "reliance"
+    },
+    {
+      "verseId": "75:3",
+      "kind": "resurrection-question"
+    },
+    {
+      "verseId": "97:1",
+      "kind": "revelation-context"
+    },
+    {
+      "verseId": "107:7",
+      "kind": "short-social-principle"
+    },
+    {
+      "verseId": "114:6",
+      "kind": "fallback-translator-context"
+    }
+  ],
+  "timestamp": "2026-09-17T18:35:48.246Z",
+  "lastUpdated": "2026-09-17T19:06:37.604Z",
+  "status": "incomplete",
+  "actualOpenAICallSucceeded": true,
+  "calibrationComplete": false,
+  "fullCorpusClassificationStarted": false,
+  "metrics": {
+    "requestCount": 11,
+    "successfulRequests": 6,
+    "failedRequests": 5,
+    "uncertainRequests": 0,
+    "retryCount": 4,
+    "jsonSchemaFailureCount": 5,
+    "inputTokens": 581594,
+    "outputTokens": 149687,
+    "cachedInputTokens": 109622,
+    "reasoningTokens": 83514,
+    "requestsWithoutUsage": 1,
+    "longContextRequests": 0,
+    "usageReceipts": [
+      {
+        "stage": "verse",
+        "usage": {
+          "inputTokens": 76769,
+          "outputTokens": 14103,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 8695,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "verse",
+        "usage": {
+          "inputTokens": 82198,
+          "outputTokens": 14483,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 6100,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "verse",
+        "usage": {
+          "inputTokens": 77983,
+          "outputTokens": 11736,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 7847,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "retrieval",
+        "usage": {
+          "inputTokens": 34655,
+          "outputTokens": 7264,
+          "cachedInputTokens": 34652,
+          "reasoningTokens": 5343,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "retrieval",
+        "usage": {
+          "inputTokens": 34655,
+          "outputTokens": 14105,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 7667,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "retrieval",
+        "usage": {
+          "inputTokens": 34655,
+          "outputTokens": 17035,
+          "cachedInputTokens": 34652,
+          "reasoningTokens": 10195,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "retrieval",
+        "usage": {
+          "inputTokens": 40321,
+          "outputTokens": 21833,
+          "cachedInputTokens": 40318,
+          "reasoningTokens": 9272,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "retrieval",
+        "usage": {
+          "inputTokens": 40321,
+          "outputTokens": 19465,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 10658,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "verse",
+        "usage": {
+          "inputTokens": 79389,
+          "outputTokens": 15264,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 8994,
+          "cacheWriteTokens": null
+        }
+      },
+      {
+        "stage": "verse",
+        "usage": {
+          "inputTokens": 80648,
+          "outputTokens": 14399,
+          "cachedInputTokens": 0,
+          "reasoningTokens": 8743,
+          "cacheWriteTokens": null
+        }
+      }
+    ],
+    "byStage": {
+      "verse": {
+        "requests": 5,
+        "inputTokens": 396987,
+        "outputTokens": 69985,
+        "cachedInputTokens": 0
+      },
+      "retrieval": {
+        "requests": 6,
+        "inputTokens": 184607,
+        "outputTokens": 79702,
+        "cachedInputTokens": 109622
+      }
+    },
+    "servedModels": [
+      "gpt-5.6-sol"
+    ]
+  },
+  "localCacheHitsThisInvocation": 0,
+  "cost": {
+    "usdBaseEstimate": 4.925476799999999,
+    "usdIfAllUncachedInputWereCacheWrites": 5.397448799999999,
+    "inputPerMillion": 4,
+    "cachedInputPerMillion": 0.4,
+    "outputPerMillion": 20,
+    "priceChecked": "2026-09-17",
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "caveats": [
+      "Estimate, not an invoice; absent usage from failed/uncertain calls may be billable.",
+      "Cache-write quantities may not be exposed; upper scenario applies 1.25x to all uncached input.",
+      "Requests >272K input tokens use 2x input and 1.5x output rates; check per-request receipts before extrapolation.",
+      "No Batch API discount assumed; standard service tier, no tools."
+    ]
+  },
+  "topics": [
+    {
+      "topicId": "sabir",
+      "name": "Sabır",
+      "sourceCount": 10,
+      "sourceCountMeaning": "Existing source layer only; not ground truth or a retrieval limit.",
+      "corpusTargetsExpected": 6236,
+      "corpusTargetsCompleted": 128,
+      "candidateCount": null,
+      "candidateVerseIds": null,
+      "acceptedAfterTopicAudit": null,
+      "reviewRequiredAfterTopicAudit": null,
+      "rejectedAfterTopicAudit": null
+    },
+    {
+      "topicId": "zekat",
+      "name": "Zekât",
+      "sourceCount": 10,
+      "sourceCountMeaning": "Existing source layer only; not ground truth or a retrieval limit.",
+      "corpusTargetsExpected": 6236,
+      "corpusTargetsCompleted": 128,
+      "candidateCount": null,
+      "candidateVerseIds": null,
+      "acceptedAfterTopicAudit": null,
+      "reviewRequiredAfterTopicAudit": null,
+      "rejectedAfterTopicAudit": null
+    },
+    {
+      "topicId": "adalet",
+      "name": "Adalet",
+      "sourceCount": 0,
+      "sourceCountMeaning": "Existing source layer only; not ground truth or a retrieval limit.",
+      "corpusTargetsExpected": 6236,
+      "corpusTargetsCompleted": 128,
+      "candidateCount": null,
+      "candidateVerseIds": null,
+      "acceptedAfterTopicAudit": null,
+      "reviewRequiredAfterTopicAudit": null,
+      "rejectedAfterTopicAudit": null
+    },
+    {
+      "topicId": "evlilik",
+      "name": "Evlilik",
+      "sourceCount": 10,
+      "sourceCountMeaning": "Existing source layer only; not ground truth or a retrieval limit.",
+      "corpusTargetsExpected": 6236,
+      "corpusTargetsCompleted": 128,
+      "candidateCount": null,
+      "candidateVerseIds": null,
+      "acceptedAfterTopicAudit": null,
+      "reviewRequiredAfterTopicAudit": null,
+      "rejectedAfterTopicAudit": null
+    },
+    {
+      "topicId": "dirilis",
+      "name": "Diriliş",
+      "sourceCount": 0,
+      "sourceCountMeaning": "Existing source layer only; not ground truth or a retrieval limit.",
+      "corpusTargetsExpected": 6236,
+      "corpusTargetsCompleted": 128,
+      "candidateCount": null,
+      "candidateVerseIds": null,
+      "acceptedAfterTopicAudit": null,
+      "reviewRequiredAfterTopicAudit": null,
+      "rejectedAfterTopicAudit": null
+    }
+  ],
+  "sampleSize": 50,
+  "sampleMappings": null,
+  "contextExamples": null,
+  "qualityFindings": null,
+  "potentialFalsePositiveExamples": null,
+  "potentialFalseNegativeExamples": null,
+  "diagnosticProbes": null,
+  "disagreements": null,
+  "falsePositiveNegativeLimit": "Diagnostic hypotheses and independent machine audits are not exhaustive human ground truth; no measured precision/recall claim.",
+  "resumeTest": {
+    "status": "NOT_EXECUTED",
+    "reason": "Real checkpoint replay awaits successful calibration."
+  },
+  "initialPlannedBatches": 54,
+  "totalPlannedBatches": 54,
+  "missingBatches": [
+    {
+      "id": "retrieval-001",
+      "status": "failed"
+    },
+    {
+      "id": "retrieval-002",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-003",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-004",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-005",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-006",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-007",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-008",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-009",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-010",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-011",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-012",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-013",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-014",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-015",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-016",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-017",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-018",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-019",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-020",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-021",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-022",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-023",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-024",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-025",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-026",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-027",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-028",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-029",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-030",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-031",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-032",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-033",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-034",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-035",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-036",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-037",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-038",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-039",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-040",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-041",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-042",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-043",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-044",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-045",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-046",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-047",
+      "status": "pending"
+    },
+    {
+      "id": "retrieval-048",
+      "status": "pending"
+    },
+    {
+      "id": "verse-0",
+      "status": "pending"
+    },
+    {
+      "id": "verse-1",
+      "status": "pending"
+    },
+    {
+      "id": "verse-2",
+      "status": "pending"
+    },
+    {
+      "id": "verse-3",
+      "status": "pending"
+    },
+    {
+      "id": "verse-4",
+      "status": "pending"
+    }
+  ],
+  "integrity": {
+    "allCanonicalDataUnchanged": true,
+    "corpusHash": "bef53e9693dd7b854c5810ef59d98f3272bd4a0365e8d50bb5988f8ccc5005b8",
+    "translators": {
+      "Erhan Aktaş": 6230,
+      "Yaşar Nuri Öztürk": 6
+    },
+    "fallbackReferences": [
+      "114:1",
+      "114:2",
+      "114:3",
+      "114:4",
+      "114:5",
+      "114:6"
+    ],
+    "protectedFiles": 18
+  },
+  "existingSourceFootnoteWarnings": {
+    "total": 64,
+    "footnoteWarningCount": 58,
+    "sourceWarningCount": 6,
+    "warningFile": "data/generated/erhan-report.json",
+    "unchanged": true,
+    "independentOfClassification": true
+  },
+  "projection": {
+    "fullRunExecuted": false,
+    "retrievalTopicVerseComparisons": 810680,
+    "deterministicRetrievalRequests": 1274,
+    "verseCentricRequests": 624,
+    "measuredStageProjections": [
+      {
+        "stage": "1-topic-retrieval",
+        "projectedRequests": 1274,
+        "projectedInputTokens": 4799782,
+        "projectedOutputTokens": 2072252,
+        "projectedCachedInputTokens": 2850172,
+        "scaleFactor": 26
+      },
+      {
+        "stage": "2-verse-centric",
+        "projectedRequests": 624,
+        "projectedInputTokens": 49512218.64,
+        "projectedOutputTokens": 8728529.2,
+        "projectedCachedInputTokens": 0,
+        "scaleFactor": 124.72
+      },
+      {
+        "stage": "3-context-validation",
+        "projectedRequests": 624,
+        "projectedInputTokens": null,
+        "projectedOutputTokens": null,
+        "projectedCachedInputTokens": null,
+        "scaleFactor": 124.72
+      },
+      {
+        "stage": "5-reverse-topic-audit",
+        "projectedRequests": 130,
+        "projectedInputTokens": null,
+        "projectedOutputTokens": null,
+        "projectedCachedInputTokens": null,
+        "scaleFactor": 26
+      },
+      {
+        "stage": "9-adversarial-quality",
+        "projectedRequests": 125,
+        "projectedInputTokens": null,
+        "projectedOutputTokens": null,
+        "projectedCachedInputTokens": null,
+        "scaleFactor": 124.72
+      }
+    ],
+    "requestSubtotal": 2777,
+    "fullNinePassCost": null,
+    "reason": "Passes 4/6/7/8, variable ambiguities, 8385 canonical topic pairs and expansion/consolidation calls require separate measurement. This subtotal is not a full-run quote or authorization.",
+    "assumptions": [
+      "Five topic contracts per retrieval call; 128 target verses; all topics individually considered.",
+      "Full ontology in each 10-target verse-centric/context call; final quality calls have 50 targets as in calibration.",
+      "Conservative scenario context-validates all verses; actual ambiguity rate may differ.",
+      "One complete-set reverse call per canonical topic; no arbitrary truncation.",
+      "Per-target/per-topic linear token extrapolation including observed retries/expansions; volume changes with topic density.",
+      "Calibration sample is diagnostic/curated, not statistically representative; density and output cost vary.",
+      "No default model substitution, no request initiated by this projection."
+    ],
+    "sampleMappingsObserved": null,
+    "measuredStageSubtotalCost": null
+  },
+  "blocker": "Run manifest job content changed; resume refused.",
+  "validation": "INCOMPLETE_NOT_A_SEMANTIC_RESULT",
+  "publication": {
+    "switchedToV2": false,
+    "productionMappingsChanged": false,
+    "deployment": false
+  }
+}

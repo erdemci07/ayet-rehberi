@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-09-17T19:15:09.799Z",
+  "method": "GET",
+  "billable": false,
+  "requests": 4,
+  "responses": [
+    {
+      "responseId": "resp_0ebdc48737ac34a8006aac3bbdf0e887d2a779743dff3186ab",
+      "httpStatus": 200,
+      "providerStatus": "failed",
+      "errorCode": "credit_balance_exhausted",
+      "usageReported": false
+    },
+    {
+      "responseId": "resp_07c42b1d6adc17cd006aac3bbdebcc87d2bc85f52c682a803c",
+      "httpStatus": 200,
+      "providerStatus": "failed",
+      "errorCode": "credit_balance_exhausted",
+      "usageReported": false
+    },
+    {
+      "responseId": "resp_03cdec7dd2f12177006aac3bbe110c87d2ba70b9998cea5770",
+      "httpStatus": 200,
+      "providerStatus": "failed",
+      "errorCode": "credit_balance_exhausted",
+      "usageReported": false
+    },
+    {
+      "responseId": "resp_01f22195d31736e4006aac3bbe60d087d297cd1d31749086e3",
+      "httpStatus": 200,
+      "providerStatus": "failed",
+      "errorCode": "credit_balance_exhausted",
+      "usageReported": false
+    }
+  ],
+  "apiKeyLogged": false
+}

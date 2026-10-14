@@ -1,0 +1,996 @@
+{
+  "key": "db4c12de50fa21442df503f4d019b866db95acb43025676ddeb8d0eea5fcd47a",
+  "status": "completed",
+  "checksum": "8369ac10b6882fede166fe48406e71cf71e370142186fd53b44cc74c1b3427c8",
+  "result": {
+    "consideredVerseIds": [
+      "2:122",
+      "2:123",
+      "2:124",
+      "2:125",
+      "2:126",
+      "2:127",
+      "2:128",
+      "2:129",
+      "2:130",
+      "2:131",
+      "2:132",
+      "2:133",
+      "2:134",
+      "2:135",
+      "2:136",
+      "2:137",
+      "2:138",
+      "2:139",
+      "2:140",
+      "2:141",
+      "2:142",
+      "2:143",
+      "2:144",
+      "2:145",
+      "2:146",
+      "2:147",
+      "2:148",
+      "2:149",
+      "2:150",
+      "2:151",
+      "2:152",
+      "2:153",
+      "2:154",
+      "2:155",
+      "2:156",
+      "2:157",
+      "2:158",
+      "2:159",
+      "2:160",
+      "2:161",
+      "2:162",
+      "2:163",
+      "2:164",
+      "2:165",
+      "2:166",
+      "2:167",
+      "2:168",
+      "2:169",
+      "2:170",
+      "2:171",
+      "2:172",
+      "2:173",
+      "2:174",
+      "2:175",
+      "2:176",
+      "2:177",
+      "2:178",
+      "2:179",
+      "2:180",
+      "2:181",
+      "2:182",
+      "2:183",
+      "2:184",
+      "2:185",
+      "2:186",
+      "2:187",
+      "2:188",
+      "2:189",
+      "2:190",
+      "2:191",
+      "2:192",
+      "2:193",
+      "2:194",
+      "2:195",
+      "2:196",
+      "2:197",
+      "2:198",
+      "2:199",
+      "2:200",
+      "2:201",
+      "2:202",
+      "2:203",
+      "2:204",
+      "2:205",
+      "2:206",
+      "2:207",
+      "2:208",
+      "2:209",
+      "2:210",
+      "2:211",
+      "2:212",
+      "2:213",
+      "2:214",
+      "2:215",
+      "2:216",
+      "2:217",
+      "2:218",
+      "2:219",
+      "2:220",
+      "2:221",
+      "2:222",
+      "2:223",
+      "2:224",
+      "2:225",
+      "2:226",
+      "2:227",
+      "2:228",
+      "2:229",
+      "2:230",
+      "2:231",
+      "2:232",
+      "2:233",
+      "2:234",
+      "2:235",
+      "2:236",
+      "2:237",
+      "2:238",
+      "2:239",
+      "2:240",
+      "2:241",
+      "2:242",
+      "2:243",
+      "2:244",
+      "2:245",
+      "2:246",
+      "2:247",
+      "2:248",
+      "2:249"
+    ],
+    "consideredTopicIds": [
+      "sabir",
+      "zekat",
+      "adalet",
+      "evlilik",
+      "dirilis"
+    ],
+    "mappings": [
+      {
+        "verseId": "2:124",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:124"
+        ],
+        "decision": "candidate",
+        "rationale": "Sınanma sırasında verilen görevlerin yerine getirilmesi, sorumlulukta sebatla açık biçimde ilişkilidir."
+      },
+      {
+        "verseId": "2:124",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:124"
+        ],
+        "decision": "candidate",
+        "rationale": "Zalimlerin önderlik ahdinin dışında tutulması, yönetimde hak gözetimini destekler."
+      },
+      {
+        "verseId": "2:132",
+        "topicId": "sabir",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:132"
+        ],
+        "decision": "candidate",
+        "rationale": "Ömür boyunca teslimiyet üzere kalma öğüdü, inanç sorumluluğunda sebatı destekler."
+      },
+      {
+        "verseId": "2:143",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:143"
+        ],
+        "decision": "candidate",
+        "rationale": "Ağır gelen bir yükümlülükte elçiye uyanlarla geri dönenlerin ayrılması, görevde sebat bağlamıdır."
+      },
+      {
+        "verseId": "2:143",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:143"
+        ],
+        "decision": "candidate",
+        "rationale": "Dengeli toplum niteliği ve insanlar karşısında gerçeğe tanıklık görevi adaleti destekler."
+      },
+      {
+        "verseId": "2:148",
+        "topicId": "dirilis",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:148"
+        ],
+        "decision": "candidate",
+        "rationale": "Bütün insanların Allah tarafından bir araya getirileceği bildirimi diriliş sonrası toplanmayı destekler."
+      },
+      {
+        "verseId": "2:153",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:153"
+        ],
+        "decision": "candidate",
+        "rationale": "Sabırla yardım dileme ve Allah'ın sabredenlerle beraberliği doğrudan merkezî konudur."
+      },
+      {
+        "verseId": "2:155",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:155"
+        ],
+        "decision": "candidate",
+        "rationale": "Korku, açlık ve kayıplarla sınanma karşısında sabredenler doğrudan öne çıkarılır."
+      },
+      {
+        "verseId": "2:156",
+        "topicId": "sabir",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:155",
+          "2:156"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayetteki sabredenlerin musibet anındaki tutumu açıklanır."
+      },
+      {
+        "verseId": "2:157",
+        "topicId": "sabir",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:155",
+          "2:156",
+          "2:157"
+        ],
+        "decision": "candidate",
+        "rationale": "Musibet karşısında sabredenlere bağışlama, rahmet ve hidayet verileceğini tamamlar."
+      },
+      {
+        "verseId": "2:167",
+        "topicId": "dirilis",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:167"
+        ],
+        "decision": "candidate",
+        "rationale": "Azabı görenlerin dünyaya dönüş istemesi, ölüm sonrası durum ve yeniden hayat bağlamını dolaylı destekler."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Zorluk, sıkıntı ve felaket sırasında sabretmek iyiliğin açık unsurlarından biri olarak belirtilir."
+      },
+      {
+        "verseId": "2:177",
+        "topicId": "zekat",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:177"
+        ],
+        "decision": "candidate",
+        "rationale": "Zekât vermek açıkça iyiliğin temel yükümlülükleri arasında sayılır."
+      },
+      {
+        "verseId": "2:178",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:178"
+        ],
+        "decision": "candidate",
+        "rationale": "Kısasta kişisel sorumluluk, bağışlama, diyet ve haddi aşmama hükümleri adil hak gözetiminin merkezindedir."
+      },
+      {
+        "verseId": "2:179",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:179"
+        ],
+        "decision": "candidate",
+        "rationale": "Kısasın canı koruyan amacı, yaptırım ile hakların korunması arasındaki ilişkiyi açıklar."
+      },
+      {
+        "verseId": "2:180",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:180"
+        ],
+        "decision": "candidate",
+        "rationale": "Mal bırakılması durumunda anne, baba ve yakınların örfe uygun vasiyet hakkı düzenlenir."
+      },
+      {
+        "verseId": "2:181",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:180",
+          "2:181"
+        ],
+        "decision": "candidate",
+        "rationale": "Vasiyeti değiştirenin sorumluluğu belirtilerek hak sahiplerinin korunması sağlanır."
+      },
+      {
+        "verseId": "2:182",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:180",
+          "2:181",
+          "2:182"
+        ],
+        "decision": "candidate",
+        "rationale": "Hatalı veya günahlı vasiyet ihtimalinde taraflar arasında uzlaşma sağlanmasına izin verilir."
+      },
+      {
+        "verseId": "2:187",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:187"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşlerin karşılıklı yakınlığı ve evlilik içi ilişkinin oruç dönemindeki sınırları doğrudan ele alınır."
+      },
+      {
+        "verseId": "2:188",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:188"
+        ],
+        "decision": "candidate",
+        "rationale": "Başkasının malına haksız yollarla veya hukuki hileyle el koymak açıkça yasaklanır."
+      },
+      {
+        "verseId": "2:190",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:190"
+        ],
+        "decision": "candidate",
+        "rationale": "Savaş yalnız savaşanlara karşı sınırlandırılır ve haddi aşmak yasaklanır."
+      },
+      {
+        "verseId": "2:191",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:190",
+          "2:191",
+          "2:192",
+          "2:193"
+        ],
+        "decision": "candidate",
+        "rationale": "Savaşın saldırı, çıkarılma ve baskı bağlamıyla sınırlandırılması güç kullanımında hak gözetimini gösterir."
+      },
+      {
+        "verseId": "2:192",
+        "topicId": "adalet",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:190",
+          "2:191",
+          "2:192",
+          "2:193"
+        ],
+        "decision": "candidate",
+        "rationale": "Karşı taraf vazgeçtiğinde çatışmanın sürdürülmemesi, savaş hükümlerindeki ölçülülüğü tamamlar."
+      },
+      {
+        "verseId": "2:193",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:190",
+          "2:191",
+          "2:192",
+          "2:193"
+        ],
+        "decision": "candidate",
+        "rationale": "Baskı sona erince düşmanlığın yalnız zalimlerle sınırlandırılması adil güç kullanımına ilişkindir."
+      },
+      {
+        "verseId": "2:194",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:194"
+        ],
+        "decision": "candidate",
+        "rationale": "Saldırıya yalnız aynı ölçüde karşılık verilmesi açık bir orantılılık ilkesidir."
+      },
+      {
+        "verseId": "2:203",
+        "topicId": "dirilis",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:203"
+        ],
+        "decision": "candidate",
+        "rationale": "Allah'ın huzurunda toplanma bildirimi, ölüm sonrası diriliş ve toplanma bağlamına açıkça katkı sağlar."
+      },
+      {
+        "verseId": "2:213",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:213"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanların anlaşmazlıklarında hak ile hükmedilmesi doğrudan adil yargı konusudur."
+      },
+      {
+        "verseId": "2:214",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:214"
+        ],
+        "decision": "candidate",
+        "rationale": "Şiddetli sıkıntı ve sarsıntıya rağmen iman üzere kalma anlatısı zorluk karşısında sebatı gösterir."
+      },
+      {
+        "verseId": "2:216",
+        "topicId": "sabir",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:216"
+        ],
+        "decision": "candidate",
+        "rationale": "Hoşa gitmeyen ağır bir yükümlülüğün yerine getirilmesi, sorumlulukta sebatı destekler."
+      },
+      {
+        "verseId": "2:217",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:217"
+        ],
+        "decision": "candidate",
+        "rationale": "Savaş, ibadetten alıkoyma, halkı yurdundan çıkarma ve baskı arasında hak temelli bir değerlendirme yapılır."
+      },
+      {
+        "verseId": "2:220",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:220"
+        ],
+        "decision": "candidate",
+        "rationale": "Öksüzlerin hayatını düzene koyma ve onları sahipsiz bırakmama, korunmaları gereken haklara ilişkindir."
+      },
+      {
+        "verseId": "2:221",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:221"
+        ],
+        "decision": "candidate",
+        "rationale": "Kimlerle nikâh kurulamayacağına ilişkin açık evlilik sınırları belirlenir."
+      },
+      {
+        "verseId": "2:222",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:222"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşler arasındaki cinsel ilişkinin aybaşı dönemindeki sınırı düzenlenir."
+      },
+      {
+        "verseId": "2:223",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:223"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşler arasındaki cinsel ilişki ve çocuk bağlamı evlilik ilişkisinin doğrudan bir yönüdür."
+      },
+      {
+        "verseId": "2:224",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:224"
+        ],
+        "decision": "candidate",
+        "rationale": "İnsanların arasını düzeltmenin yeminlerle engellenmemesi, toplumsal uzlaşma ve hak gözetimini destekler."
+      },
+      {
+        "verseId": "2:226",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:226"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşe yaklaşmama yemini için süre ve geri dönüş imkânı düzenlenerek evlilik ilişkisi ele alınır."
+      },
+      {
+        "verseId": "2:227",
+        "topicId": "evlilik",
+        "relationshipStrength": "contextual",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:226",
+          "2:227"
+        ],
+        "decision": "candidate",
+        "rationale": "Önceki ayetteki ayrılık sürecinin boşanma kararıyla sonuçlanabilecek yönünü tamamlar."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadın ve erkeklerin karşılıklı meşru haklarının denkliği açıkça belirtilir."
+      },
+      {
+        "verseId": "2:228",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:228"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma sonrası bekleme, yeniden evlenme ve eşlerin karşılıklı hakları doğrudan düzenlenir."
+      },
+      {
+        "verseId": "2:229",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:229"
+        ],
+        "decision": "candidate",
+        "rationale": "Evliliği sürdürme veya bitirmede meşruluk, iyilik, mal hakkı ve sınırları aşmama ilkeleri belirlenir."
+      },
+      {
+        "verseId": "2:229",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:229"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanmanın sınırları, evliliği sürdürme seçeneği ve ayrılıktaki karşılıklı haklar merkezî konudur."
+      },
+      {
+        "verseId": "2:230",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:230"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma sonrasında eski eşlerin yeniden evlenebilme şartları açıklanır."
+      },
+      {
+        "verseId": "2:231",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:231"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanan kadının zarar vermek ve hakkını çiğnemek amacıyla tutulması açıkça yasaklanır."
+      },
+      {
+        "verseId": "2:231",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:231"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma süresi sonunda evliliği meşru biçimde sürdürme veya sona erdirme seçenekleri düzenlenir."
+      },
+      {
+        "verseId": "2:232",
+        "topicId": "adalet",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:232"
+        ],
+        "decision": "candidate",
+        "rationale": "Kadınların meşru biçimde evlenme kararlarının engellenmemesi doğrudan hak gözetimidir."
+      },
+      {
+        "verseId": "2:232",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:232"
+        ],
+        "decision": "candidate",
+        "rationale": "Bekleme süresinden sonra kadınların seçtikleri kişilerle evlenme hakkı açıkça korunur."
+      },
+      {
+        "verseId": "2:233",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:233"
+        ],
+        "decision": "candidate",
+        "rationale": "Anne, baba, çocuk ve mirasçının maddi sorumlulukları; güç sınırı, karşılıklı rıza ve zarar yasağıyla düzenlenir."
+      },
+      {
+        "verseId": "2:234",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:234"
+        ],
+        "decision": "candidate",
+        "rationale": "Dul kadınların bekleme sonrasında kendi haklarında verecekleri meşru kararlar korunur."
+      },
+      {
+        "verseId": "2:234",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:234"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşi ölen kadınların bekleme süresi ve sonrasındaki evlilikle ilgili karar serbestliği düzenlenir."
+      },
+      {
+        "verseId": "2:235",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:235"
+        ],
+        "decision": "candidate",
+        "rationale": "Bekleme süresindeki evlenme teklifi ve nikâh akdinin zaman sınırı doğrudan açıklanır."
+      },
+      {
+        "verseId": "2:236",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:236"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma sonrasında kadına erkeğin imkânına göre meşru yarar sağlanması bir hak olarak belirlenir."
+      },
+      {
+        "verseId": "2:236",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:236"
+        ],
+        "decision": "candidate",
+        "rationale": "Birliktelik ve mehir belirlenmeden gerçekleşen boşanmanın maddi sonuçları düzenlenir."
+      },
+      {
+        "verseId": "2:237",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:237"
+        ],
+        "decision": "candidate",
+        "rationale": "Birliktelik öncesi boşanmada belirlenen mehrin paylaşımı ve tarafların vazgeçme hakkı açıklanır."
+      },
+      {
+        "verseId": "2:237",
+        "topicId": "evlilik",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:237"
+        ],
+        "decision": "candidate",
+        "rationale": "Nikâh, mehir ve birliktelik öncesi boşanmanın mali hükümleri doğrudan ele alınır."
+      },
+      {
+        "verseId": "2:239",
+        "topicId": "sabir",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": true,
+        "evidenceVerseIds": [
+          "2:238",
+          "2:239"
+        ],
+        "decision": "candidate",
+        "rationale": "Tehlike anında da ibadet sorumluluğunun sürdürülmesi, zor şartlarda görev sebatını destekler."
+      },
+      {
+        "verseId": "2:240",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:240"
+        ],
+        "decision": "candidate",
+        "rationale": "Dul eşin konut ve geçiminin korunması ile kendi meşru tercihine saygı gösterilmesi emredilir."
+      },
+      {
+        "verseId": "2:240",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:240"
+        ],
+        "decision": "candidate",
+        "rationale": "Eşin ölümünden sonra geride kalan eşin geçim ve barınma hakları düzenlenir."
+      },
+      {
+        "verseId": "2:241",
+        "topicId": "adalet",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:241"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanmış kadınların geçiminin meşru biçimde sağlanması açık bir hak ve yükümlülük olarak belirtilir."
+      },
+      {
+        "verseId": "2:241",
+        "topicId": "evlilik",
+        "relationshipStrength": "strong",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:241"
+        ],
+        "decision": "candidate",
+        "rationale": "Boşanma sonrasında eski eşe yönelik maddi sorumluluk doğrudan evlilik haklarıyla ilgilidir."
+      },
+      {
+        "verseId": "2:243",
+        "topicId": "dirilis",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:243"
+        ],
+        "decision": "candidate",
+        "rationale": "Ölümün ardından yeniden hayat verilmesi açıkça anlatılır; olay anlatısı olması nedeniyle ahiret kapsamı temkinlidir."
+      },
+      {
+        "verseId": "2:246",
+        "topicId": "sabir",
+        "relationshipStrength": "strong",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:246"
+        ],
+        "decision": "candidate",
+        "rationale": "Haksızlığa uğradıktan sonra istenen savaş görevi verilince yüz çevrilmesi, sebat eksikliğinin açık örneğidir."
+      },
+      {
+        "verseId": "2:246",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:246"
+        ],
+        "decision": "candidate",
+        "rationale": "Yurttan çıkarılma ve çocuklardan koparılma, karşı koyma talebinin dayandığı hak ihlalleridir."
+      },
+      {
+        "verseId": "2:247",
+        "topicId": "adalet",
+        "relationshipStrength": "supporting",
+        "confidence": "medium",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:247"
+        ],
+        "decision": "candidate",
+        "rationale": "Önderlikte servet yerine bilgi ve güç yeterliğinin öne çıkarılması, liyakat temelli hak gözetimini destekler."
+      },
+      {
+        "verseId": "2:249",
+        "topicId": "sabir",
+        "relationshipStrength": "primary",
+        "confidence": "high",
+        "contextUsed": false,
+        "evidenceVerseIds": [
+          "2:249"
+        ],
+        "decision": "candidate",
+        "rationale": "İmtihan sırasında ölçülü davranma, azlık karşısında sebat ve Allah'ın sabredenlerle beraberliği doğrudan işlenir."
+      }
+    ],
+    "needsMoreContextVerseIds": [],
+    "findings": [
+      {
+        "verseId": "2:154",
+        "topicId": "dirilis",
+        "kind": "definitionIssue",
+        "note": "Dipnot, buradaki diriliğin ölümden sonra yeniden dirilme değil, Allah yolunda ölmenin değer ve itibarı olduğunu açıklar."
+      },
+      {
+        "verseId": "2:164",
+        "topicId": "dirilis",
+        "kind": "definitionIssue",
+        "note": "Ölü toprağa hayat verilmesi doğa kanıtıdır; sözleşme bitkinin veya toprağın canlanmasını doğrudan diriliş eşlemesinden dışlar."
+      },
+      {
+        "verseId": "2:184",
+        "topicId": "zekat",
+        "kind": "definitionIssue",
+        "note": "Yoksulu doyurma yükümlülüğü burada oruç fidyesidir; açık zekât yükümlülüğü değildir."
+      },
+      {
+        "verseId": "2:195",
+        "topicId": "zekat",
+        "kind": "definitionIssue",
+        "note": "Ayetteki infak, dipnota göre savaş hazırlığı yardımıdır; genel infak zekâtla özdeşleştirilemez."
+      },
+      {
+        "verseId": "2:215",
+        "topicId": "zekat",
+        "kind": "definitionIssue",
+        "note": "Yakınlara ve ihtiyaç sahiplerine yapılan yardım genel infaktır; açık zekât hükmü bulunmaz."
+      },
+      {
+        "verseId": "2:219",
+        "topicId": "zekat",
+        "kind": "definitionIssue",
+        "note": "İhtiyaç fazlasından yardım etme infak kapsamındadır; zekât olarak adlandırılmaz."
+      },
+      {
+        "verseId": "2:226",
+        "topicId": "sabir",
+        "kind": "definitionIssue",
+        "note": "Dört aylık bekleme süresi evlilik hukukuna aittir; yalnız beklemek sabır sözleşmesini karşılamaz."
+      },
+      {
+        "verseId": "2:243",
+        "topicId": "dirilis",
+        "kind": "contextSensitive",
+        "note": "Ölümden sonra hayat verilmesi doğrudandır; ancak anlatı bunu evrensel ahiret dirilişi olarak açıkça nitelemez."
+      }
+    ]
+  },
+  "usage": {
+    "inputTokens": 41909,
+    "outputTokens": 11056,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 5432,
+    "cacheWriteTokens": null
+  },
+  "responseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+  "servedModel": "gpt-5.6-sol",
+  "requestedModel": "gpt-5.6-sol",
+  "reasoningEffort": "high",
+  "classifierVersion": "semantic-calibration-v2.1",
+  "promptVersion": "semantic-contract-v2.1",
+  "completedAt": "2026-09-17T19:09:43.776Z"
+}

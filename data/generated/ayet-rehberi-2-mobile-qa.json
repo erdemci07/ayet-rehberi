@@ -1,0 +1,2879 @@
+{
+  "findings": [
+    {
+      "path": "/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 320,
+      "theme": "light",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 320,
+      "theme": "dark",
+      "scrollWidth": 320,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 360,
+      "theme": "light",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 360,
+      "theme": "dark",
+      "scrollWidth": 360,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 375,
+      "theme": "light",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 375,
+      "theme": "dark",
+      "scrollWidth": 375,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 390,
+      "theme": "light",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 390,
+      "theme": "dark",
+      "scrollWidth": 390,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "⌂Bugün",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kesfet/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kuran/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/konu/sab-r/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "◌Keşfet",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 20,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/sure/2/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 286,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/ayet/2/282/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "☷Kur’an",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 1,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/esma/inceleme/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "✧Esmâ",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 430,
+      "theme": "light",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(251, 248, 241)",
+      "verseCount": 0,
+      "clippedText": false
+    },
+    {
+      "path": "/kitapligim/",
+      "width": 430,
+      "theme": "dark",
+      "scrollWidth": 430,
+      "navItems": 5,
+      "active": "▤Kitaplığım",
+      "bottomPadding": 120,
+      "navHeight": 69,
+      "background": "rgb(34, 41, 35)",
+      "verseCount": 0,
+      "clippedText": false
+    }
+  ],
+  "assertions": [
+    {
+      "name": "/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 320 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 320 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 320,
+        "scrollWidth": 320,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "footnote 320",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "text": "Allah’ın buyruklarına içtenlikle uyarak; o buyruklarla, kötü ve zararlı şeylere karşı kendilerini korumaya, güvenceye alan kimseler.",
+        "hit": 42,
+        "circle": 28,
+        "overflow": false,
+        "focused": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "footnote keyboard focus remains in dialog",
+      "passed": true
+    },
+    {
+      "name": "footnote Escape/focus 320",
+      "passed": true
+    },
+    {
+      "name": "long footnote 320 exact and scrollable",
+      "passed": true,
+      "detail": {
+        "length": 2371,
+        "scrollable": true
+      }
+    },
+    {
+      "name": "long share 320",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "overflow": false,
+        "themes": 4,
+        "buttons": [
+          "Görseli Paylaş",
+          "Metin olarak paylaş"
+        ],
+        "focused": true,
+        "text": "1125 chars"
+      }
+    },
+    {
+      "name": "share reverse keyboard focus wraps",
+      "passed": true
+    },
+    {
+      "name": "share keyboard focus wraps to close",
+      "passed": true
+    },
+    {
+      "name": "share theme 320",
+      "passed": true
+    },
+    {
+      "name": "long share canvas retains all text within reading area",
+      "passed": true,
+      "detail": {
+        "translationLines": 19,
+        "finalBaseline": 1000
+      }
+    },
+    {
+      "name": "share focus return 320",
+      "passed": true
+    },
+    {
+      "name": "/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 360 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 360 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 360,
+        "scrollWidth": 360,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "footnote 360",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "text": "Allah’ın buyruklarına içtenlikle uyarak; o buyruklarla, kötü ve zararlı şeylere karşı kendilerini korumaya, güvenceye alan kimseler.",
+        "hit": 42,
+        "circle": 28,
+        "overflow": false,
+        "focused": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "footnote Escape/focus 360",
+      "passed": true
+    },
+    {
+      "name": "long footnote 360 exact and scrollable",
+      "passed": true,
+      "detail": {
+        "length": 2371,
+        "scrollable": true
+      }
+    },
+    {
+      "name": "long share 360",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "overflow": false,
+        "themes": 4,
+        "buttons": [
+          "Görseli Paylaş",
+          "Metin olarak paylaş"
+        ],
+        "focused": true,
+        "text": "1125 chars"
+      }
+    },
+    {
+      "name": "share theme 360",
+      "passed": true
+    },
+    {
+      "name": "share focus return 360",
+      "passed": true
+    },
+    {
+      "name": "/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 375 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 375 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 375,
+        "scrollWidth": 375,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "footnote 375",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "text": "Allah’ın buyruklarına içtenlikle uyarak; o buyruklarla, kötü ve zararlı şeylere karşı kendilerini korumaya, güvenceye alan kimseler.",
+        "hit": 42,
+        "circle": 28,
+        "overflow": false,
+        "focused": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "footnote Escape/focus 375",
+      "passed": true
+    },
+    {
+      "name": "long footnote 375 exact and scrollable",
+      "passed": true,
+      "detail": {
+        "length": 2371,
+        "scrollable": true
+      }
+    },
+    {
+      "name": "long share 375",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "overflow": false,
+        "themes": 4,
+        "buttons": [
+          "Görseli Paylaş",
+          "Metin olarak paylaş"
+        ],
+        "focused": true,
+        "text": "1125 chars"
+      }
+    },
+    {
+      "name": "share theme 375",
+      "passed": true
+    },
+    {
+      "name": "share focus return 375",
+      "passed": true
+    },
+    {
+      "name": "/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 390 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 390 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scrollWidth": 390,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "footnote 390",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "text": "Allah’ın buyruklarına içtenlikle uyarak; o buyruklarla, kötü ve zararlı şeylere karşı kendilerini korumaya, güvenceye alan kimseler.",
+        "hit": 42,
+        "circle": 28,
+        "overflow": false,
+        "focused": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "footnote Escape/focus 390",
+      "passed": true
+    },
+    {
+      "name": "long footnote 390 exact and scrollable",
+      "passed": true,
+      "detail": {
+        "length": 2371,
+        "scrollable": true
+      }
+    },
+    {
+      "name": "long share 390",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "overflow": false,
+        "themes": 4,
+        "buttons": [
+          "Görseli Paylaş",
+          "Metin olarak paylaş"
+        ],
+        "focused": true,
+        "text": "1125 chars"
+      }
+    },
+    {
+      "name": "share theme 390",
+      "passed": true
+    },
+    {
+      "name": "share focus return 390",
+      "passed": true
+    },
+    {
+      "name": "/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "⌂Bugün",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kesfet/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kuran/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/konu/sab-r/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "◌Keşfet",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 20,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/sure/2/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 286,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/ayet/2/282/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "☷Kur’an",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 1,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/esma/inceleme/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "✧Esmâ",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 430 light viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(251, 248, 241)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "/kitapligim/ 430 dark viewport",
+      "passed": true,
+      "detail": {
+        "width": 430,
+        "scrollWidth": 430,
+        "navItems": 5,
+        "active": "▤Kitaplığım",
+        "bottomPadding": 120,
+        "navHeight": 69,
+        "background": "rgb(34, 41, 35)",
+        "verseCount": 0,
+        "clippedText": false
+      }
+    },
+    {
+      "name": "footnote 430",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "text": "Allah’ın buyruklarına içtenlikle uyarak; o buyruklarla, kötü ve zararlı şeylere karşı kendilerini korumaya, güvenceye alan kimseler.",
+        "hit": 42,
+        "circle": 28,
+        "overflow": false,
+        "focused": true,
+        "locked": true
+      }
+    },
+    {
+      "name": "footnote Escape/focus 430",
+      "passed": true
+    },
+    {
+      "name": "long footnote 430 exact and scrollable",
+      "passed": true,
+      "detail": {
+        "length": 2371,
+        "scrollable": true
+      }
+    },
+    {
+      "name": "long share 430",
+      "passed": true,
+      "detail": {
+        "open": true,
+        "overflow": false,
+        "themes": 4,
+        "buttons": [
+          "Görseli Paylaş",
+          "Metin olarak paylaş"
+        ],
+        "focused": true,
+        "text": "1125 chars"
+      }
+    },
+    {
+      "name": "share theme 430",
+      "passed": true
+    },
+    {
+      "name": "share focus return 430",
+      "passed": true
+    },
+    {
+      "name": "desktop footnote",
+      "passed": true
+    },
+    {
+      "name": "desktop share centered",
+      "passed": true
+    },
+    {
+      "name": "reduced motion disables sheet animation",
+      "passed": true
+    },
+    {
+      "name": "system dark reading theme",
+      "passed": true
+    },
+    {
+      "name": "fallback verse translator is visible",
+      "passed": true
+    },
+    {
+      "name": "saved verse and followed topic in library",
+      "passed": true,
+      "detail": {
+        "state": "{\"version\":1,\"verseIds\":[\"2:153\"],\"topicSlugs\":[\"sab-r\"]}",
+        "verses": [
+          "2:153"
+        ],
+        "topics": [
+          "/konu/sab-r/"
+        ],
+        "status": []
+      }
+    },
+    {
+      "name": "manual theme persistence",
+      "passed": true
+    },
+    {
+      "name": "manual theme restored before render",
+      "passed": true
+    },
+    {
+      "name": "v1 memory migration, batch and position restoration",
+      "passed": true,
+      "detail": {
+        "present": true,
+        "top": 18.25,
+        "count": 80
+      }
+    },
+    {
+      "name": "v2 memory persists observed topic position",
+      "passed": true
+    },
+    {
+      "name": "explicit verse anchor wins over memory",
+      "passed": true
+    },
+    {
+      "name": "progressive reading adds a batch",
+      "passed": true
+    },
+    {
+      "name": "alias search finds Sabır",
+      "passed": true
+    },
+    {
+      "name": "lazy canonical verse search",
+      "passed": true,
+      "detail": {
+        "query": "2:153",
+        "results": [
+          "Bakara · 153Ayet"
+        ],
+        "statuses": []
+      }
+    },
+    {
+      "name": "storage disabled reading/library survives",
+      "passed": true
+    },
+    {
+      "name": "storage disabled Quran renderer survives",
+      "passed": true
+    },
+    {
+      "name": "no uncaught runtime errors",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "runtimeErrors": [],
+  "result": "PASS"
+}

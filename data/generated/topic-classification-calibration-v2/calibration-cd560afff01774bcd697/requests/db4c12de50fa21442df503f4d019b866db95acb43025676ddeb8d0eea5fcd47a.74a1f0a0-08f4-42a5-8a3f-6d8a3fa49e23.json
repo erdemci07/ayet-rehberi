@@ -1,0 +1,18 @@
+{
+  "key": "db4c12de50fa21442df503f4d019b866db95acb43025676ddeb8d0eea5fcd47a",
+  "batchId": "retrieval-001",
+  "stage": "retrieval",
+  "attempt": 1,
+  "timestamp": "2026-09-17T19:07:00.054Z",
+  "status": "completed",
+  "usage": {
+    "inputTokens": 41909,
+    "outputTokens": 11056,
+    "cachedInputTokens": 0,
+    "reasoningTokens": 5432,
+    "cacheWriteTokens": null
+  },
+  "httpStatus": 200,
+  "responseId": "resp_0b63dc35c0b508e7016aac3a556db487d2b872c09b4e0d9767",
+  "servedModel": "gpt-5.6-sol"
+}

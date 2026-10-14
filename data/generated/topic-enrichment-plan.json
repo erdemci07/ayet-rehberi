@@ -1,0 +1,10 @@
+{
+  "provider": "unconfigured",
+  "model": null,
+  "verseCount": 6236,
+  "sourceTopicCount": 66,
+  "batchSize": 80,
+  "batches": 78,
+  "estimatedInputTokens": 192609,
+  "instructions": "Run only with an approved offline provider. Return conservative draft topics, aliases, related topics and confidence-scored verse mappings; never change Quran content."
+}

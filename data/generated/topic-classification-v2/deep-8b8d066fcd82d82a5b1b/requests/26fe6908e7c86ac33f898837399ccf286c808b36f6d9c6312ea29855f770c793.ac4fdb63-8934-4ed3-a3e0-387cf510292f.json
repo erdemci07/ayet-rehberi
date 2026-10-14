@@ -1,0 +1,17 @@
+{
+  "key": "26fe6908e7c86ac33f898837399ccf286c808b36f6d9c6312ea29855f770c793",
+  "batchId": "retrieval-direct-retrieval-002",
+  "stage": "retrieval",
+  "attempt": 1,
+  "timestamp": "2026-09-17T19:13:01.274Z",
+  "status": "failed",
+  "usage": null,
+  "pollingRequests": 1,
+  "transport": "background",
+  "httpStatus": 200,
+  "responseId": "resp_0ebdc48737ac34a8006aac3bbdf0e887d2a779743dff3186ab",
+  "servedModel": "gpt-5.6-sol",
+  "providerStatus": "failed",
+  "errorCode": "credit_balance_exhausted",
+  "error": "OpenAI API project credit balance exhausted; no new paid request until project credit is added."
+}
