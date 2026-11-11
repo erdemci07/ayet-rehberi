@@ -30,7 +30,7 @@ Amaç: uygulamanın üç veri katmanını Kur'an'ın tamamını okuyarak baştan
 
 ## İlerleme
 - 2026-11-11: taslak-01 (listeler + Bakara/Duha/Kevser bölümleme + "kaygili" havuzu). Sure taraması başladı.
-- 2026-11-11: sure 1-29 tamam (3409 ayet). Sıradaki: 30 Rûm.
+- 2026-11-11: sure 1-33 tamam (3606 ayet). Sıradaki: 34 Sebe.
 - Model notu: 1-16. sureler Fable 5.2, 17'den itibaren Opus 5.5 ile yapıldı. Başka model devam ederse bitmiş sure dosyalarını (özellikle 006, 010, 012) üslup örneği olarak okusun: bölüm başlıkları sade, özet tek cümle, etiketler cimri, hâl adayı ancak ayet tek başına teselli/yön veriyorsa. 'kitapehli' konusu eklendi (İnanç grubu).
 
 ## Tarama sırasında gözlemler
