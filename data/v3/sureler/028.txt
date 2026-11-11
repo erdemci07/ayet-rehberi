@@ -1,0 +1,71 @@
+# 28 Kasas
+=1-6 Ezilenlere verilen söz :: Halkı sınıflara ayırıp ezen Firavun ve güçsüz düşürülenleri önder kılma iradesi.
+1-3 vahiy musa
+4 kibir yonetim zayiflar
+5 zayiflar* umut | caresiz! haksizlik!
+6 musa yonetim
+=7-14 Nehre bırakılan bebek ve annesi :: Musa'nın annesine “korkma, üzülme” vahyi, sarayda büyüyen çocuk ve annesine geri dönüşü.
+7 annebaba* tevekkul musa | korku! kaygili! aile
+8-9 musa
+10 annebaba musa | kaygili
+11-12 musa akraba
+13 annebaba musa | kayip! aile
+14 bilgi karsilik musa
+=15-21 Kavga, pişmanlık ve kaçış :: Musa'nın istemeden birini öldürmesi, bağışlanma dileği ve şehirden korkuyla ayrılışı.
+15 musa ofke
+16 tovbe* musa | pisman!
+17 tovbe musa | toparlanmak!
+18-20 musa korku
+21 dua musa korku | korku
+=22-28 Medyen'de: “Rabbim, indireceğin her hayra muhtacım” :: Yol arayan Musa, sulamada yardım ettiği iki kadın, duası ve evlilik anlaşması.
+22 dua* musa | kararsiz! baslangic!
+23 musa zayiflar yardimlasma
+24 dua* musa yardimlasma | gecim! yalniz! caresiz
+25 musa korku | korku
+26 ticaret emanet* musa
+27-28 evlilik ticaret yemin musa
+=29-35 Kutlu vadide görevlendirme :: Ağaçtan gelen ses, “Korkma, güvendesin” sözü ve kardeşle güçlendirilen Musa.
+29-30 musa allah
+31 musa korku* | korku!
+32 musa
+33-34 musa korku | yetersiz
+35 musa yardimlasma | yetersiz yalniz
+=36-50 Firavun'un sonu ve rehber Kitap :: Kule kurduran Firavun'un batışı, Musa'ya verilen Kitap ve tutkusuna uyanın sapkınlığı.
+36-37 musa
+38-42 kibir helak musa
+43 vahiy musa
+44-47 elciler vahiy
+48-49 vahiy
+50 akil
+=51-61 Kötülüğü iyilikle savanlar ve kalıcı olan :: Kitap ehlinden inananlar, boş söze selamla karşılık, sevilenin hidayetinin Allah'a ait oluşu.
+51 vahiy
+52-53 kitapehli iman
+54 sabir* guzelsoz infak karsilik | ofkeli! kirgin
+55 guzelsoz* | kirgin! ofkeli
+56 iman merhamet | aile! uzgun
+57 rizik
+58-59 sukur helak
+60 dunya* akil | kiyas! anlam
+61 dunya karsilik
+=62-75 Hesap günü ve gece ile gündüzün rahmeti :: Ortakların kayboluşu, tövbe edene umut, seçimin Allah'a ait oluşu ve dinlenmek için gece.
+62-66 hesap tevhid
+67 tovbe | pisman
+68 tevekkul* allah | kararsiz! kayip
+69-70 allah* tevhid
+71-72 zaman yaratilis | tefekkur
+73 zaman* merhamet sukur | yorgun! gece
+74-75 hesap tevhid
+=76-84 Karun :: Hazinesiyle şımaran Karun, “dünyadan nasibini unutma” öğüdü, ona imrenenler ve yerin dibine geçiş.
+76 servet* kibir
+77 dunya* servet guzelsoz | anlam! iyilik
+78 servet kibir bilgi
+79 servet kiskanclik | kiyas
+80 bilgi sabir karsilik | kiyas!
+81 servet helak
+82 rizik* | kiyas gecim
+83 kibir* cennet | anlam
+84 karsilik | iyilik
+=85-88 Dönülecek yer ve yok olmayan Yüz :: Elçinin döndürüleceği yer ve O'nun yüzünden başka her şeyin yok olacağı.
+85 vahiy umut | umutlu
+86-87 vahiy
+88 olum* tevhid allah | kayip! anlam
