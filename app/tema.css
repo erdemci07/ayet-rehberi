@@ -1,0 +1,66 @@
+/* Ayet Rehberi tasarım sistemi: renk, yazı, aralık ve köşe değerleri.
+   Açık tema: krem zemin, koyu yeşil vurgu, adaçayı ve kum kartlar, ince altın çizgiler.
+   Koyu tema aynı rolleri korur. Bileşenler yalnızca bu değişkenleri kullanır. */
+
+:root {
+  color-scheme: light;
+  --zemin: #f7f2e8;
+  --yuzey: #fffdf8;
+  --yuzey-2: #efe7d7;
+  --cizgi: #e6dcc8;
+  --cizgi-guclu: #cfc7b6;
+  --murekkep: #1f2a24;
+  --soluk: #55615a;
+  --vurgu: #1f4a38;
+  --vurgu-uzeri: #ffffff;
+  --vurgu-acik: #dde6d8;
+  --vurgu-acik-yazi: #1f4a38;
+  --kum: #ead9bc;
+  --kum-yazi: #2a2418;
+  --kum-baslik: #5a4520;
+  --altin: #b8955a;
+  --altin-yazi: #7a5f2e;
+  --koyu-kart: #17332a;
+  --koyu-kart-yazi: #f4efe3;
+  --koyu-kart-soluk: #d9e3da;
+  --koyu-kart-altin: #c9a86a;
+  --tehlike: #9b2f27;
+  --golge: 0 10px 30px rgb(40 36 26 / 8%);
+
+  --yazi-arayuz: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --yazi-okuma: "Literata", Georgia, "Times New Roman", serif;
+  --yazi-arapca: "Amiri", "Noto Naskh Arabic", serif;
+
+  --okuma-boyut: 23px;
+  --okuma-satir: 1.6;
+  --kart-ayet-boyut: 25px;
+
+  --b1: 4px; --b2: 8px; --b3: 12px; --b4: 16px; --b5: 20px; --b6: 24px; --b8: 32px; --b10: 40px; --b12: 48px;
+  --kose-s: 12px; --kose: 16px; --kose-l: 20px; --kose-xl: 28px; --kose-tam: 999px;
+  --dokunma: 44px;
+  --menu-yukseklik: 72px;
+  --icerik-genislik: 560px;
+  --kenar: 20px;
+}
+
+:root[data-yazi="buyuk"] { --okuma-boyut: 26px; --kart-ayet-boyut: 28px; }
+:root[data-yazi="cokBuyuk"] { --okuma-boyut: 30px; --kart-ayet-boyut: 32px; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="acik"]) {
+    color-scheme: dark;
+    --zemin: #121815; --yuzey: #1b231f; --yuzey-2: #222c27; --cizgi: #2e3a34; --cizgi-guclu: #3d4a43;
+    --murekkep: #e9e4d8; --soluk: #a9b3ac; --vurgu: #9ccfb3; --vurgu-uzeri: #10251c;
+    --vurgu-acik: #24362d; --vurgu-acik-yazi: #b9dcc7; --kum: #3a3222; --kum-yazi: #efe3c8; --kum-baslik: #e3cb94;
+    --altin: #c9a86a; --altin-yazi: #d9bd85; --koyu-kart: #0d1f18; --koyu-kart-yazi: #f4efe3;
+    --koyu-kart-soluk: #c9d5cc; --koyu-kart-altin: #c9a86a; --tehlike: #f0a097; --golge: none;
+  }
+}
+:root[data-tema="koyu"] {
+  color-scheme: dark;
+  --zemin: #121815; --yuzey: #1b231f; --yuzey-2: #222c27; --cizgi: #2e3a34; --cizgi-guclu: #3d4a43;
+  --murekkep: #e9e4d8; --soluk: #a9b3ac; --vurgu: #9ccfb3; --vurgu-uzeri: #10251c;
+  --vurgu-acik: #24362d; --vurgu-acik-yazi: #b9dcc7; --kum: #3a3222; --kum-yazi: #efe3c8; --kum-baslik: #e3cb94;
+  --altin: #c9a86a; --altin-yazi: #d9bd85; --koyu-kart: #0d1f18; --koyu-kart-yazi: #f4efe3;
+  --koyu-kart-soluk: #c9d5cc; --koyu-kart-altin: #c9a86a; --tehlike: #f0a097; --golge: none;
+}
