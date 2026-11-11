@@ -30,9 +30,18 @@ Amaç: uygulamanın üç veri katmanını Kur'an'ın tamamını okuyarak baştan
 
 ## İlerleme
 - 2026-11-11: taslak-01 (listeler + Bakara/Duha/Kevser bölümleme + "kaygili" havuzu). Sure taraması başladı.
-- 2026-11-11: sure 1-89 tamam (6018 ayet). Sıradaki: 90 Beled.
-- Model notu: 1-16. sureler Fable 5.2, 17'den itibaren Opus 5.5 ile yapıldı. Başka model devam ederse bitmiş sure dosyalarını (özellikle 006, 010, 012) üslup örneği olarak okusun: bölüm başlıkları sade, özet tek cümle, etiketler cimri, hâl adayı ancak ayet tek başına teselli/yön veriyorsa. 'kitapehli' konusu eklendi (İnanç grubu).
+- 2026-11-11: TARAMA BİTTİ — 114 sure, 6236 ayet, 661 bölüm, denetim hatası 0. Sıradaki adım: hâl listesinin gözden geçirilmesi ve hâl havuzlarının seçimi.
+- Model notu: 1-16. sureler Fable 5.2, 17-114 Opus 5.5 ile yapıldı. Başka model devam ederse bitmiş sure dosyalarını (özellikle 006, 010, 012) üslup örneği olarak okusun: bölüm başlıkları sade, özet tek cümle, etiketler cimri, hâl adayı ancak ayet tek başına teselli/yön veriyorsa. 'kitapehli' konusu eklendi (İnanç grubu).
 
 ## Tarama sırasında gözlemler
 - Hüküm ağırlıklı surelerde (Bakara, Nisa) hâl adayı az: yaklaşık her 12 ayette bir.
 - Okuma çıktısı uzun olduğu için sure 70-100 ayetlik parçalarla, satır başına ~230 karakter kesilerek okunuyor; uzun ayetlerin sonu gerekirse `oku.py SURE A-B` ile tam okunur.
+
+- Tarama sonu sayımı (aday ayet / güçlü aday): tefekkür 253/47, kaygılı 105/41, haksızlık 104/26, anlam 101/21, pişman 76/33,
+  yalnız 68/29, şükür 68/25, geçim 53/24, kayıp 55/21, korku 55/21, gece 61/21. İnce kalanlar: umutlu 12/1, sevinçli 11/0,
+  huzurlu 44/5, sevgi 13/5, hasta 18/5, tereddüt 15/5, isteksiz 20/4, başlangıç 43/8, yorgun 39/8.
+- Hâl listesi için öneriler: "umutlu" ile "sevinçli" birleşebilir; "tereddüt" (inanç kuşkusu) ile "kararsız" (seçim yapamama)
+  ayrı kalmalı ama tereddüt havuzu küçük; "huzurlu" ve "şükür" havuzları birbirine yakın.
+- Medine dönemi hüküm surelerinde (Nisâ, Mâide, Ahzâb, Talâk) aday az; Mekke dönemi kısa sureleri ve kıssalar zengin.
+- Güçlü adayların önemli kısmı kıssa içi sözler (Musa'nın annesine “korkma, üzülme”, Musa'nın Medyen duası, Yunus'un karanlıktaki
+  duası) ve “De ki” ile başlayan ayetler; havuz onayında kullanıcıya ayrıca gösterilecek.
