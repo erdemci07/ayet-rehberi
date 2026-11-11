@@ -1,0 +1,3501 @@
+{
+ "surum": "taslak-02",
+ "havuzlar": {
+  "yorgun": {
+   "secilen": [
+    {
+     "sure": 84,
+     "bas": 6,
+     "son": 6,
+     "gerekce": "“Ey insan! Rabbine kavuşuncaya kadar didinip duracaksın ve O'na kavuşacaksın.” Yorgunluğun bir yönü olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 90,
+     "bas": 4,
+     "son": 4,
+     "gerekce": "“İnsanı zorluk içinde yarattık.” Yorulmanın insan olmanın parçası olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 4,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Allah'ın yükü hafifletmek istediği; insan zayıf yaratıldı.",
+     "not": "Yetersiz havuzunda da var"
+    },
+    {
+     "sure": 20,
+     "bas": 2,
+     "son": 2,
+     "gerekce": "“Bu Kur'an'ı sana zorluk çekesin diye indirmedik.”",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 73,
+     "son": 73,
+     "gerekce": "Gece ile gündüzün rahmet olduğu: dinlenmek için gece.",
+     "not": ""
+    },
+    {
+     "sure": 30,
+     "bas": 23,
+     "son": 23,
+     "gerekce": "Gece uyumanız ve gündüz rızık aramanız O'nun işaretlerinden.",
+     "not": ""
+    },
+    {
+     "sure": 73,
+     "bas": 7,
+     "son": 8,
+     "gerekce": "“Gündüz uzun uğraşların var; Rabbinin adını an, bütünüyle O'na yönel.”",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 19,
+     "bas": 25,
+     "son": 26,
+     "gerekce": "Doğum sancısından yorgun düşen Meryem'e: “Hurmayı silkele, ye, iç, gözün aydın olsun.” Kendine bakmanın izni.",
+     "not": "Kıssa"
+    },
+    {
+     "sure": 35,
+     "bas": 34,
+     "son": 35,
+     "gerekce": "Hüznü gideren ve yorgunluğun dokunmadığı yurt.",
+     "not": "Üzgünüm havuzunda 35:34 da var"
+    },
+    {
+     "sure": 50,
+     "bas": 38,
+     "son": 38,
+     "gerekce": "Gökleri ve yeri yaratırken O'na hiçbir yorgunluk dokunmadı. Yorulan insanın, yorulmayana dayanması.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "78:9-11",
+     "neden": "Gece havuzunda."
+    },
+    {
+     "ref": "25:47",
+     "neden": "Gece havuzunda."
+    },
+    {
+     "ref": "19:4",
+     "neden": "Umudum azaldı havuzunda."
+    }
+   ]
+  },
+  "bunalmis": {
+   "secilen": [
+    {
+     "sure": 94,
+     "bas": 1,
+     "son": 8,
+     "gerekce": "İnşirah suresinin tamamı: göğsün açılması, yükün kaldırılması, iki kez kolaylık müjdesi ve yeniden işe koyulma.",
+     "not": ""
+    },
+    {
+     "sure": 15,
+     "bas": 97,
+     "son": 98,
+     "gerekce": "“Göğsünün daraldığını biliyoruz.” Ardından: hamd et, secde edenlerden ol.",
+     "not": "Üzgünüm havuzunda da var"
+    },
+    {
+     "sure": 20,
+     "bas": 25,
+     "son": 25,
+     "gerekce": "Tek cümlelik dua: “Rabbim, göğsümü genişlet.”",
+     "not": "Musa'nın duası"
+    },
+    {
+     "sure": 29,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "“Ey inanan kullarım, Benim yeryüzüm geniştir.” Sıkıştığın yer, dünyanın tamamı değil.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 45,
+     "son": 45,
+     "gerekce": "Sabır ve namazla yardım isteyin.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 2,
+     "son": 2,
+     "gerekce": "“Bu Kur'an'ı sana zorluk çekesin diye indirmedik.”",
+     "not": "Yorgunum havuzunda da var"
+    },
+    {
+     "sure": 51,
+     "bas": 50,
+     "son": 50,
+     "gerekce": "“O hâlde Allah'a koşun.” Her şeyin üst üste geldiği anda kaçılacak yer.",
+     "not": ""
+    },
+    {
+     "sure": 57,
+     "bas": 9,
+     "son": 9,
+     "gerekce": "Sizi karanlıklardan aydınlığa çıkarmak için indirilen açık ayetler.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 87,
+     "son": 88,
+     "gerekce": "Karanlıklar içinden yükselen dua ve kurtuluş.",
+     "not": "Çaresizim havuzunda da var"
+    },
+    {
+     "sure": 27,
+     "bas": 62,
+     "son": 62,
+     "gerekce": "Darda kalanın çağrısına cevap veren.",
+     "not": "Çaresizim havuzunda da var"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "9:118",
+     "neden": "“Yeryüzü bütün genişliğine rağmen dar geldi” tam bunalmışlığı anlatıyor, ama Tebük'te geri kalan üç kişiye özel ve uzun."
+    },
+    {
+     "ref": "22:78",
+     "neden": "“Dinde zorluk yüklemedi” uygun, ama ayet “cihad edin” ile başlıyor."
+    },
+    {
+     "ref": "20:124",
+     "neden": "Zikirden yüz çevirenin sıkıntılı hayatı; teselli değil uyarı."
+    }
+   ]
+  },
+  "kaygili": {
+   "secilen": [
+    {
+     "sure": 94,
+     "bas": 5,
+     "son": 6,
+     "gerekce": "Zorluğun yalnız gelmediğini art arda iki kez söyler. Kısa, doğrudan, tek başına anlaşılır.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 286,
+     "son": 286,
+     "gerekce": "Kaygının çoğu “kaldıramayacağım” korkusudur. Ayet yükün güce göre olduğunu söyler ve bir duayla biter.",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 13,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Kalbin nerede yatışacağını söyler; kaygının tam karşılığı.",
+     "not": ""
+    },
+    {
+     "sure": 33,
+     "bas": 3,
+     "son": 3,
+     "gerekce": "İki kısa cümle: dayan ve yeter. Belirsizlikte tutunacak bir söz.",
+     "not": ""
+    },
+    {
+     "sure": 9,
+     "bas": 51,
+     "son": 51,
+     "gerekce": "Başa gelenin bir ölçüsü olduğunu ve sahipsiz olmadığımızı hatırlatır.",
+     "not": ""
+    },
+    {
+     "sure": 64,
+     "bas": 11,
+     "son": 11,
+     "gerekce": "Hiçbir şeyin başıboş olmadığını ve inanan kalbe yön verileceğini söyler.",
+     "not": ""
+    },
+    {
+     "sure": 10,
+     "bas": 107,
+     "son": 107,
+     "gerekce": "Sıkıntıyı kimin gidereceğini ve hayrın engellenemeyeceğini birlikte söyler.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 155,
+     "son": 157,
+     "gerekce": "Korku ve kaybın hayatın parçası olduğunu açıkça söyler, sonra sabredene müjde verir. Kaygıyı yok saymaz, yerine oturtur.",
+     "not": "Üçü birlikte gösterilir"
+    },
+    {
+     "sure": 48,
+     "bas": 4,
+     "son": 4,
+     "gerekce": "Sükûnetin kalbe indirilen bir şey olduğunu söyler.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 186,
+     "son": 186,
+     "gerekce": "Yakınlık ve duaya karşılık vaadi; “kimse duymuyor” hissine cevap.",
+     "not": ""
+    },
+    {
+     "sure": 11,
+     "bas": 123,
+     "son": 123,
+     "gerekce": "Bilinmeyenin sahibi bellidir ve bütün işler O'na döner; gelecek kaygısına doğrudan dokunur.",
+     "not": ""
+    },
+    {
+     "sure": 46,
+     "bas": 13,
+     "son": 13,
+     "gerekce": "Korkunun ve üzüntünün kalkacağını vaat eder; kısa ve net.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "“Ben sizinle birlikteyim, işitir ve görürüm.” Kıssada Musa ile Harun'a söylenir, anlamı geneldir.",
+     "not": "Kıssa içi söz — karar sende"
+    },
+    {
+     "sure": 3,
+     "bas": 173,
+     "son": 173,
+     "gerekce": "Tehdit karşısında söylenen söz: “Allah bize yeter, O ne güzel vekildir.”",
+     "not": "Bağlamı tehdit altındaki inananlar — karar sende"
+    },
+    {
+     "sure": 35,
+     "bas": 2,
+     "son": 2,
+     "gerekce": "Açılan rahmeti kimsenin tutamayacağını söyler; “ya engellenirse” korkusuna doğrudan cevap.",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 59,
+     "son": 59,
+     "gerekce": "Düşen yaprağı bile bilen bir bilgi; kontrol edemediklerimizin sahipsiz olmadığını gösterir.",
+     "not": ""
+    },
+    {
+     "sure": 9,
+     "bas": 129,
+     "son": 129,
+     "gerekce": "“Allah bana yeter, O'na dayandım.” Kısa ve tekrarlanabilir bir söz.",
+     "not": "“Yüz çevirirlerse” diye başlıyor ama anlamı genel"
+    },
+    {
+     "sure": 114,
+     "bas": 1,
+     "son": 6,
+     "gerekce": "Nâs suresinin tamamı: içe sızan kuruntu ve vesveseden sığınma. Susmayan kaygılı düşünceye birebir.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "2:216",
+     "neden": "İkinci cümlesi çok uygun, ama ayet savaş hükmüyle başlıyor. Ayeti kesip göstermiyoruz."
+    },
+    {
+     "ref": "65:2-3",
+     "neden": "Çıkış yolu ve tevekkül vaadi güçlü, ama 65:2 boşanma hükmünün devamı; 65:3 ise tek başına “ona” diye başlıyor."
+    },
+    {
+     "ref": "39:36",
+     "neden": "“Allah kuluna yeterli değil mi?” diye başlıyor, fakat devamı sapkınlıktan söz ediyor; teselli arayana ağır gelir."
+    },
+    {
+     "ref": "28:7",
+     "neden": "Musa'nın annesine özel bir durum; genellemek zor."
+    },
+    {
+     "ref": "8:10",
+     "neden": "Savaş bağlamı."
+    },
+    {
+     "ref": "3:139",
+     "neden": "Kaygıdan çok moral bozukluğuna hitap ediyor. “Umudum azaldı” hâline aday."
+    },
+    {
+     "ref": "11:6",
+     "neden": "Rızık kaygısı. “Geçim derdindeyim” hâline aday."
+    },
+    {
+     "ref": "57:22-23",
+     "neden": "Kayıp üzerine. “Bir kaybım var” hâline aday."
+    },
+    {
+     "ref": "2:214",
+     "neden": "“Allah'ın yardımı yakındır.” “Sabrım tükeniyor” hâline aday."
+    },
+    {
+     "ref": "31:34",
+     "neden": "Yarının bilinmezliğini güzel anlatıyor, ama aynı cümlede ölüm yeri de geçiyor; kaygılı birine ağır gelebilir."
+    },
+    {
+     "ref": "113:1-2",
+     "neden": "“Korkuyorum” havuzuna daha uygun."
+    }
+   ]
+  },
+  "korku": {
+   "secilen": [
+    {
+     "sure": 113,
+     "bas": 1,
+     "son": 5,
+     "gerekce": "Felak suresinin tamamı: karanlığın, kıskançlığın, bilinen bilinmeyen her şerrin karşısında sığınılacak yer.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 255,
+     "son": 255,
+     "gerekce": "Âyetü'l-Kürsî: uyuklamayan, koruyup gözeten ve koruması kendisini yormayan Allah. Korkunun en bilinen ilacı.",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 10,
+     "bas": 62,
+     "son": 62,
+     "gerekce": "Tek cümle: Allah'ın dostlarına korku da üzüntü de yoktur.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "“Çekinmeyin, Ben sizinle birlikteyim; işitir ve görürüm.”",
+     "not": "Kıssa içi söz (Musa ve Harun)"
+    },
+    {
+     "sure": 20,
+     "bas": 67,
+     "son": 68,
+     "gerekce": "Korkunun peygamberin bile içine düştüğünü söyler, ardından “Korkma” cevabı gelir. Korkmayı ayıplamaz.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 26,
+     "bas": 61,
+     "son": 62,
+     "gerekce": "“Yakalandık” diyenlere karşı: “Hayır, Rabbim benimle, bana yol gösterecek.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 28,
+     "bas": 31,
+     "son": 31,
+     "gerekce": "“Dön, korkma, güvende olanlardansın.” Kaçarken geri çağrılmak.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 21,
+     "bas": 69,
+     "son": 69,
+     "gerekce": "“Ey ateş, serin ve esenlik ol.” Korkulan şeyin bile emir altında olduğunu gösterir.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 11,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "Hiçbir canlının O'nun denetimi dışında olmadığını söyler; insanlardan gelen korkuya cevap.",
+     "not": "Hud'un sözü"
+    },
+    {
+     "sure": 4,
+     "bas": 45,
+     "son": 45,
+     "gerekce": "Düşmanı en iyi bilen O; dost ve yardımcı olarak O yeter.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 175,
+     "son": 175,
+     "gerekce": "Korkutmanın şeytanın işi olduğunu söyler: “Onlardan korkmayın.”",
+     "not": ""
+    },
+    {
+     "sure": 9,
+     "bas": 40,
+     "son": 40,
+     "gerekce": "Mağaradaki iki kişi: “Üzülme, Allah bizimle.”",
+     "not": "Bağlamı hicret; ayet uzun"
+    },
+    {
+     "sure": 41,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "“Rabbimiz Allah” deyip dosdoğru olanlara meleklerin sesi: “Korkmayın, üzülmeyin.”",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 82,
+     "son": 82,
+     "gerekce": "Güvenin, imanını zulümle karıştırmayanlara ait olduğunu söyler.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "39:36",
+     "neden": "İlk cümlesi çok güçlü, ama devamı sapkınlıktan söz ediyor."
+    },
+    {
+     "ref": "28:7",
+     "neden": "“Korkma, üzülme” çok güzel, ama Musa'nın annesine özel bir durum. “Ailemle zorlanıyorum” için ayrıca düşünülebilir."
+    },
+    {
+     "ref": "24:55",
+     "neden": "Topluma verilen iktidar vaadi; kişisel korkuya doğrudan dokunmuyor."
+    },
+    {
+     "ref": "106:4",
+     "neden": "“Onları” diye başlıyor; Kureyş suresinin tamamı “Geçim derdindeyim” havuzunda."
+    }
+   ]
+  },
+  "uzgun": {
+   "secilen": [
+    {
+     "sure": 93,
+     "bas": 3,
+     "son": 5,
+     "gerekce": "“Rabbin seni bırakmadı, sana darılmadı.” Gelecek olanın geçmişten hayırlı olacağı ve hoşnut olacağın müjdesi.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 86,
+     "son": 86,
+     "gerekce": "Yakub'un sözü: “Derdimi ve hüznümü yalnızca Allah'a açıyorum.” Hüznü saklamadan doğru yere taşımak.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 53,
+     "bas": 43,
+     "son": 43,
+     "gerekce": "Tek cümle: güldüren de ağlatan da O. Ağlamak da O'nun bildiği bir hâl.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 139,
+     "son": 139,
+     "gerekce": "“Gevşemeyin, üzülmeyin.” Kısa ve doğrudan.",
+     "not": "Bağlamı Uhud sonrası"
+    },
+    {
+     "sure": 15,
+     "bas": 97,
+     "son": 98,
+     "gerekce": "Göğsün daraldığının bilindiğini söyler ve ne yapılacağını gösterir: hamd ve secde.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 127,
+     "son": 127,
+     "gerekce": "“Sabret, onlar için üzülme, darlanma.” Üzüntünün başkalarından geldiği anlar için.",
+     "not": ""
+    },
+    {
+     "sure": 35,
+     "bas": 34,
+     "son": 34,
+     "gerekce": "“Hüznü bizden gideren Allah'a hamd olsun.” Hüznün kalıcı olmadığını hatırlatır.",
+     "not": ""
+    },
+    {
+     "sure": 10,
+     "bas": 57,
+     "son": 57,
+     "gerekce": "Göğüslerdekine şifa olan bir öğüdün geldiğini söyler.",
+     "not": ""
+    },
+    {
+     "sure": 13,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Kalplerin O'nu anmakla yatıştığını söyler.",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 41,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "“Korkmayın, üzülmeyin.” Dosdoğru olanlara meleklerin sesi.",
+     "not": "Korku havuzunda da var"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "19:24",
+     "neden": "“Üzülme” sesi çok güzel, ama devamı Meryem'in doğumuna özel; tek başına anlaşılmıyor."
+    },
+    {
+     "ref": "12:84",
+     "neden": "Yakub'un ağlayışı insani ama teselli içermiyor; 12:86 seçildi."
+    },
+    {
+     "ref": "57:23",
+     "neden": "“Bir kaybım var” havuzunda."
+    },
+    {
+     "ref": "28:56",
+     "neden": "“Ailemle zorlanıyorum” havuzunda."
+    },
+    {
+     "ref": "3:140",
+     "neden": "“Günleri insanlar arasında döndürürüz” çok uygun, ama ayetin devamı savaşa özel."
+    }
+   ]
+  },
+  "kayip": {
+   "secilen": [
+    {
+     "sure": 2,
+     "bas": 155,
+     "son": 157,
+     "gerekce": "Kaybın hayatın parçası olduğunu saklamaz; “Biz Allah'ınız ve O'na döneceğiz” diyenlere rahmet müjdesi.",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 57,
+     "bas": 22,
+     "son": 23,
+     "gerekce": "Başa gelenin önceden bilindiğini ve bunun, kaybedilene yıkılmamamız için söylendiğini anlatır.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 83,
+     "son": 83,
+     "gerekce": "Oğlunu kaybetmiş bir babanın sözü: “Bana düşen güzelce sabretmek; umarım Allah hepsini bana kavuşturur.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 52,
+     "bas": 21,
+     "son": 21,
+     "gerekce": "İman eden ailelerin soylarıyla yeniden bir araya getirileceği müjdesi. Yakınını kaybeden için.",
+     "not": ""
+    },
+    {
+     "sure": 89,
+     "bas": 27,
+     "son": 30,
+     "gerekce": "“Ey huzura ermiş nefis, razı olarak Rabbine dön.” Giden bir yakını uğurlarken okunacak sözler.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "Meleklerin iyileri “selam size” diyerek karşılaması.",
+     "not": ""
+    },
+    {
+     "sure": 29,
+     "bas": 57,
+     "son": 57,
+     "gerekce": "Her canlının ölümü tadacağını ve dönüşün O'na olduğunu iki cümleyle söyler.",
+     "not": ""
+    },
+    {
+     "sure": 55,
+     "bas": 26,
+     "son": 27,
+     "gerekce": "Her şey geçer, kalıcı olan celal ve ikram sahibi Rab'dir.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "Yanımızdakinin tükendiğini, Allah katındakinin tükenmediğini söyler; bir imkânı ya da dönemi kaybedene.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 45,
+     "son": 45,
+     "gerekce": "Yeşerip savrulan bitki örneği: dünyadaki her şeyin bir mevsimi var.",
+     "not": ""
+    },
+    {
+     "sure": 68,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "“Umarız Rabbimiz bize yerine daha hayırlısını verir.” Kaybedilen bir iş, fırsat ya da emek için.",
+     "not": "Kıssa içi söz (bahçe sahipleri)"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "3:169",
+     "neden": "Allah yolunda öldürülenlere özel; her kayba genellenemez."
+    },
+    {
+     "ref": "12:84",
+     "neden": "Yakub'un ağlayışı çok insani, ama teselli içermiyor."
+    },
+    {
+     "ref": "21:84",
+     "neden": "Eyyub'a ailesinin geri verilmesi; kayıp yaşayan birine yanlış bir beklenti verebilir."
+    },
+    {
+     "ref": "28:88",
+     "neden": "“O'nun yüzünden başka her şey yok olucudur” doğru ama yas tutan birine soğuk gelebilir; 55:26-27 seçildi."
+    },
+    {
+     "ref": "11:9",
+     "neden": "Rahmet geri alınınca umutsuzluğa düşen insanı eleştiriyor; teselli değil."
+    }
+   ]
+  },
+  "yalniz": {
+   "secilen": [
+    {
+     "sure": 50,
+     "bas": 16,
+     "son": 16,
+     "gerekce": "İnsanın içinden geçeni bilen ve ona şah damarından daha yakın olan Allah.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 186,
+     "son": 186,
+     "gerekce": "“Ben yakınım, dua edenin duasına karşılık veririm.”",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 58,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "Üç kişinin konuştuğu yerde dördüncüleri O'dur; kimse gerçekten tek başına değildir.",
+     "not": ""
+    },
+    {
+     "sure": 57,
+     "bas": 4,
+     "son": 4,
+     "gerekce": "“Nerede olursanız olun, O sizinle beraberdir.”",
+     "not": "Uzun ayet; anahtar cümle sonda"
+    },
+    {
+     "sure": 58,
+     "bas": 1,
+     "son": 1,
+     "gerekce": "Kimsenin dinlemediği bir kadının şikâyetini Allah'ın işittiğini söyler. Anlaşılmama duygusuna cevap.",
+     "not": ""
+    },
+    {
+     "sure": 26,
+     "bas": 218,
+     "son": 220,
+     "gerekce": "Gece kalktığında da secdede de seni gören Rab.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 35,
+     "son": 35,
+     "gerekce": "Kısa bir dua cümlesi: “Sen bizim her hâlimizi görüyorsun.”",
+     "not": "Musa'nın duasından"
+    },
+    {
+     "sure": 21,
+     "bas": 89,
+     "son": 89,
+     "gerekce": "“Rabbim, beni tek başıma bırakma.” Yalnızlığın doğrudan duası.",
+     "not": "Zekeriya'nın duası"
+    },
+    {
+     "sure": 19,
+     "bas": 64,
+     "son": 64,
+     "gerekce": "“Rabbin unutkan değildir.” Unutulmuşluk hissine.",
+     "not": "Ayet meleklerin sözüyle başlıyor"
+    },
+    {
+     "sure": 52,
+     "bas": 48,
+     "son": 48,
+     "gerekce": "“Sen gözümüzün önündesin.” Kimsenin görmediği emek için.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 24,
+     "son": 24,
+     "gerekce": "Yabancı bir yerde, gölgede oturan Musa'nın duası: “Rabbim, indireceğin her hayra muhtacım.”",
+     "not": "Kıssa içi söz; geçim havuzunda da var"
+    },
+    {
+     "sure": 19,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "İman edip iyilik yapanların arasına Rahman'ın sevgi koyacağı müjdesi.",
+     "not": ""
+    },
+    {
+     "sure": 85,
+     "bas": 14,
+     "son": 16,
+     "gerekce": "Çok bağışlayan ve çok seven (Vedûd) Allah.",
+     "not": ""
+    },
+    {
+     "sure": 40,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "Arşı taşıyan meleklerin, inananlar için bağışlanma dilediğini söyler: kimse dua etmiyor sanıldığında bile.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Yalnızlıkta bir yön: sabah akşam Rabbine yönelenlerle birlikte olmayı seçmek.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "39:36",
+     "neden": "İlk cümlesi güçlü, devamı sapkınlıktan söz ediyor."
+    },
+    {
+     "ref": "9:40",
+     "neden": "Korku havuzunda."
+    },
+    {
+     "ref": "47:11",
+     "neden": "İlk cümlesi uygun, ikinci cümlesi inkârcılara yöneliyor."
+    }
+   ]
+  },
+  "kirgin": {
+   "secilen": [
+    {
+     "sure": 10,
+     "bas": 65,
+     "son": 65,
+     "gerekce": "“Onların sözleri seni üzmesin; izzet bütünüyle Allah'ındır.” Değerin başkalarının sözüne bağlı değil.",
+     "not": ""
+    },
+    {
+     "sure": 36,
+     "bas": 76,
+     "son": 76,
+     "gerekce": "“Sözleri seni üzmesin; gizlediklerini de açıkladıklarını da biliyoruz.”",
+     "not": ""
+    },
+    {
+     "sure": 15,
+     "bas": 95,
+     "son": 95,
+     "gerekce": "Tek cümle: “Alay edenlere karşı Biz sana yeteriz.”",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 186,
+     "son": 186,
+     "gerekce": "İncitici sözler işitileceğini önceden söyler; sabır ve sakınmayı kararlılık sayar.",
+     "not": ""
+    },
+    {
+     "sure": 73,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "“Söylediklerine sabret ve onlardan güzellikle uzaklaş.” Kavga etmeden mesafe koymak.",
+     "not": ""
+    },
+    {
+     "sure": 25,
+     "bas": 63,
+     "son": 63,
+     "gerekce": "Laf atana “selam” deyip geçen Rahman'ın kulları.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 55,
+     "son": 55,
+     "gerekce": "Kırıcı söz karşısında: “Bizim işimiz bize, sizin işiniz size; selam size.”",
+     "not": ""
+    },
+    {
+     "sure": 41,
+     "bas": 34,
+     "son": 34,
+     "gerekce": "“Kötülüğü en güzel şekilde sav; bir bakmışsın düşmanın dost olmuş.”",
+     "not": ""
+    },
+    {
+     "sure": 23,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "Kısa öğüt: kötülüğe en güzeliyle karşılık ver; söylenenler biliniyor.",
+     "not": ""
+    },
+    {
+     "sure": 49,
+     "bas": 11,
+     "son": 11,
+     "gerekce": "Alay edilenin, alay edenden daha hayırlı olabileceğini söyler; küçümsenen birine.",
+     "not": ""
+    },
+    {
+     "sure": 60,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "Bugünkü düşmanlığın yarın sevgiye dönebileceği umudu.",
+     "not": ""
+    },
+    {
+     "sure": 59,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "“Rabbimiz, kalplerimizde kin bırakma.” Kırgınlığın kine dönmemesi için bir dua.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "12:92",
+     "neden": "“Affetmek istiyorum” havuzunda."
+    },
+    {
+     "ref": "7:199",
+     "neden": "“Affetmek istiyorum” havuzunda."
+    },
+    {
+     "ref": "43:89",
+     "neden": "25:63 ile aynı anlamı taşıyor; o seçildi."
+    },
+    {
+     "ref": "15:97",
+     "neden": "Üzgünüm havuzunda (15:97-98)."
+    }
+   ]
+  },
+  "ofkeli": {
+   "secilen": [
+    {
+     "sure": 3,
+     "bas": 134,
+     "son": 134,
+     "gerekce": "Öfkesini yutan ve insanların kusurunu bağışlayanları Allah'ın sevdiğini söyler.",
+     "not": ""
+    },
+    {
+     "sure": 42,
+     "bas": 37,
+     "son": 37,
+     "gerekce": "İnananların bir niteliği: öfkelendikleri zaman bağışlarlar.",
+     "not": ""
+    },
+    {
+     "sure": 7,
+     "bas": 200,
+     "son": 200,
+     "gerekce": "Öfkenin en sıcak anı için tek bir öğüt: şeytan dürttüğünde hemen Allah'a sığın.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 159,
+     "son": 159,
+     "gerekce": "Kabalığın insanları dağıttığını, yumuşaklığın rahmetten geldiğini söyler; sonra affet, danış, karar ver, dayan.",
+     "not": "Ayet elçiye hitap ediyor, anlamı genel"
+    },
+    {
+     "sure": 17,
+     "bas": 53,
+     "son": 53,
+     "gerekce": "“Sözün en güzelini söyleyin; şeytan aranızı bozar.” Öfkeyle söylenecek sözden önce.",
+     "not": ""
+    },
+    {
+     "sure": 31,
+     "bas": 19,
+     "son": 19,
+     "gerekce": "Lokman'ın öğüdü: yürüyüşünde ölçülü ol, sesini alçalt.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 20,
+     "bas": 44,
+     "son": 44,
+     "gerekce": "Firavun'a bile yumuşak söz söylenmesi emredilir.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 16,
+     "bas": 126,
+     "son": 126,
+     "gerekce": "Karşılık verilecekse ölçüyü aşmamak; sabretmenin daha hayırlı olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 41,
+     "bas": 34,
+     "son": 34,
+     "gerekce": "Kötülüğü iyilikle savmanın düşmanı dosta çevirebileceği.",
+     "not": "Kırgınım havuzunda da var"
+    },
+    {
+     "sure": 79,
+     "bas": 40,
+     "son": 41,
+     "gerekce": "Kendini tutkularından alıkoyanın varacağı yer.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "41:36",
+     "neden": "7:200 ile aynı anlam; biri yeterli."
+    },
+    {
+     "ref": "25:63",
+     "neden": "Kırgınım havuzunda."
+    }
+   ]
+  },
+  "haksizlik": {
+   "secilen": [
+    {
+     "sure": 14,
+     "bas": 42,
+     "son": 42,
+     "gerekce": "“Zalimlerin yaptıklarından Allah'ı habersiz sanma.” Görülmediğini düşünen birine.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 47,
+     "son": 47,
+     "gerekce": "Hardal tanesi kadar olsa da hiçbir şeyin hesapsız kalmayacağı adalet terazisi.",
+     "not": ""
+    },
+    {
+     "sure": 4,
+     "bas": 40,
+     "son": 40,
+     "gerekce": "Allah zerre kadar haksızlık yapmaz; iyiliği kat kat artırır.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 112,
+     "son": 112,
+     "gerekce": "İnanıp iyilik yapanın, hakkının yenmesinden korkmayacağı.",
+     "not": ""
+    },
+    {
+     "sure": 34,
+     "bas": 26,
+     "son": 26,
+     "gerekce": "“Rabbimiz hepimizi toplayacak, aramızda adaletle hükmedecek.”",
+     "not": ""
+    },
+    {
+     "sure": 39,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "Çekişmelerde hükmü Allah'a bırakan bir dua.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 112,
+     "son": 112,
+     "gerekce": "Kısa dua: “Rabbim, aramızda hak ile hükmet.”",
+     "not": ""
+    },
+    {
+     "sure": 66,
+     "bas": 11,
+     "son": 11,
+     "gerekce": "Zalim bir kocanın yanında yaşayan bir kadının duası: “Beni ondan ve yaptıklarından kurtar.”",
+     "not": "Firavun'un eşi"
+    },
+    {
+     "sure": 28,
+     "bas": 5,
+     "son": 5,
+     "gerekce": "Ezilenleri önder ve mirasçı kılmak istendiğini söyler.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 81,
+     "son": 81,
+     "gerekce": "“Hak geldi, batıl yok oldu; batıl zaten yok olmaya mahkûm.”",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 54,
+     "son": 54,
+     "gerekce": "Kurulan planlara karşı: Allah planların en iyisini kurandır.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "“Benimle sizin aranızda şahit olarak Allah yeter.”",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 18,
+     "son": 18,
+     "gerekce": "Yalanla suçlanan Yakub'un cevabı: “Bana düşen güzel bir sabır; yardımı Allah'tan isterim.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 4,
+     "bas": 148,
+     "son": 148,
+     "gerekce": "Haksızlığa uğrayanın sesini yükseltme hakkını tanır.",
+     "not": ""
+    },
+    {
+     "sure": 22,
+     "bas": 38,
+     "son": 38,
+     "gerekce": "Kısa ve net: Allah inananları savunur.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "22:39-40",
+     "neden": "Savaş izni bağlamında."
+    },
+    {
+     "ref": "8:30",
+     "neden": "Elçiye kurulan tuzağa özel."
+    },
+    {
+     "ref": "42:43",
+     "neden": "“Affetmek istiyorum” havuzunda."
+    }
+   ]
+  },
+  "caresiz": {
+   "secilen": [
+    {
+     "sure": 27,
+     "bas": 62,
+     "son": 62,
+     "gerekce": "“Darda kalanın çağrısına karşılık veren, sıkıntıyı gideren kim?” Çaresizliğin tam karşılığı.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 87,
+     "son": 88,
+     "gerekce": "Karanlıklar içindeki Yunus'un duası ve “inananları böyle kurtarırız” cevabı.",
+     "not": "Kıssa içi söz; ikisi birlikte gösterilir"
+    },
+    {
+     "sure": 54,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "Nuh'un en kısa duası: “Yenik düştüm, bana yardım et.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 36,
+     "bas": 82,
+     "son": 82,
+     "gerekce": "“Bir şeyin olmasını istediğinde ona sadece ‘Ol’ der.” İmkânsız görünen için.",
+     "not": ""
+    },
+    {
+     "sure": 19,
+     "bas": 9,
+     "son": 9,
+     "gerekce": "“Bu Bana kolaydır; seni de hiçbir şey değilken yarattım.”",
+     "not": "Zekeriya'ya söylenen söz"
+    },
+    {
+     "sure": 1,
+     "bas": 5,
+     "son": 5,
+     "gerekce": "“Yalnız Sana kulluk eder, yalnız Senden yardım dileriz.” Yardım istemenin en sade hâli.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 153,
+     "son": 153,
+     "gerekce": "Sabır ve salatla yardım isteyin; Allah sabredenlerle beraberdir.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 160,
+     "son": 160,
+     "gerekce": "Allah yardım ederse kimse üstün gelemez.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "Mağaraya sığınan gençlerin duası: “Katından rahmet ver, işimizde bize doğruyu hazırla.”",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 6,
+     "bas": 17,
+     "son": 17,
+     "gerekce": "Sıkıntıyı gidermenin de iyiliği vermenin de O'nun elinde olduğu.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "40:60",
+     "neden": "“Bana dua edin, karşılık vereyim” çok güçlü, ama ikinci cümlesi büyüklenenlerin cezası; teselli arayana ağır gelir."
+    },
+    {
+     "ref": "65:3",
+     "neden": "“Kim Allah'a dayanırsa O ona yeter” çok güçlü, ama ayet boşanma hükmünün ortasında “ona” diye başlıyor."
+    },
+    {
+     "ref": "10:107",
+     "neden": "Kaygılıyım havuzunda; 6:17 aynı anlamı taşıyor."
+    }
+   ]
+  },
+  "umutsuz": {
+   "secilen": [
+    {
+     "sure": 94,
+     "bas": 5,
+     "son": 6,
+     "gerekce": "“Zorlukla beraber kolaylık vardır” iki kez. Umudun en kısa ve en bilinen cümlesi.",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 12,
+     "bas": 87,
+     "son": 87,
+     "gerekce": "Yıllardır oğlunu bekleyen bir babanın sözü: “Allah'ın rahmetinden umut kesmeyin.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 15,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "İbrahim, yaşlılıkta gelen müjde karşısında: “Rabbinin rahmetinden kim umut keser?”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 42,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "İnsanlar umudu kestikten sonra yağmuru indiren ve rahmetini yayan.",
+     "not": ""
+    },
+    {
+     "sure": 30,
+     "bas": 50,
+     "son": 50,
+     "gerekce": "Ölü toprağın dirilişine bakma çağrısı: rahmetin izleri.",
+     "not": ""
+    },
+    {
+     "sure": 41,
+     "bas": 39,
+     "son": 39,
+     "gerekce": "Kupkuru görünen toprağın suyla kıpırdayıp kabarması.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 110,
+     "son": 110,
+     "gerekce": "Elçilerin bile umudu tükenecek gibi olduğu anda yardımın gelmesi.",
+     "not": ""
+    },
+    {
+     "sure": 33,
+     "bas": 43,
+     "son": 43,
+     "gerekce": "Allah ve melekleri sizi karanlıktan aydınlığa çıkarmak için rahmet ediyor.",
+     "not": ""
+    },
+    {
+     "sure": 19,
+     "bas": 4,
+     "son": 4,
+     "gerekce": "Güçten kesilmiş Zekeriya'nın duası: “Rabbim, Sana ettiğim dualar hiç karşılıksız kalmadı.”",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 39,
+     "bas": 53,
+     "son": 53,
+     "gerekce": "“Allah'ın rahmetinden umut kesmeyin.”",
+     "not": "Asıl yeri “Pişmanım” havuzu"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "30:3-4",
+     "neden": "Yenilgiden sonra zafer haberi, ama Rumlara özel bir olay."
+    },
+    {
+     "ref": "57:17",
+     "neden": "30:50 ile aynı anlam."
+    },
+    {
+     "ref": "11:9",
+     "neden": "Umutsuzluğa düşen insanı eleştiriyor."
+    }
+   ]
+  },
+  "pisman": {
+   "secilen": [
+    {
+     "sure": 39,
+     "bas": 53,
+     "son": 53,
+     "gerekce": "“Ey kendine karşı aşırı giden kullarım! Allah'ın rahmetinden umut kesmeyin; Allah bütün günahları bağışlar.” Pişmanlığın ilk ayeti.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 135,
+     "son": 135,
+     "gerekce": "Kötü bir şey yaptıktan sonra Allah'ı hatırlayıp bağışlanma dileyenler. Hatanın sonu değil, dönüş noktası.",
+     "not": ""
+    },
+    {
+     "sure": 4,
+     "bas": 110,
+     "son": 110,
+     "gerekce": "Kim bağışlanma dilerse Allah'ı bağışlayıcı ve merhametli bulur.",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 54,
+     "son": 54,
+     "gerekce": "“Rabbiniz rahmeti kendi üzerine yazdı”; bilmeden kötülük yapıp düzelene bağış.",
+     "not": ""
+    },
+    {
+     "sure": 7,
+     "bas": 23,
+     "son": 23,
+     "gerekce": "Âdem ile eşinin duası: “Rabbimiz, kendimize zulmettik.” İlk pişmanlığın dili.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 28,
+     "bas": 16,
+     "son": 16,
+     "gerekce": "Musa'nın duası: “Rabbim, kendime haksızlık ettim, beni bağışla.” Ve bağışlandı.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 25,
+     "bas": 70,
+     "son": 70,
+     "gerekce": "Tövbe edenin kötülüklerinin iyiliğe çevrileceği.",
+     "not": "“Ancak” ile başlıyor; anlamı tek başına açık"
+    },
+    {
+     "sure": 11,
+     "bas": 114,
+     "son": 114,
+     "gerekce": "“İyilikler kötülükleri giderir.” Pişmanlığı işe dönüştürmek için.",
+     "not": ""
+    },
+    {
+     "sure": 15,
+     "bas": 49,
+     "son": 49,
+     "gerekce": "Tek cümle: “Kullarıma haber ver: Ben çok bağışlayanım, çok merhametliyim.”",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 82,
+     "son": 82,
+     "gerekce": "“Tövbe eden, iman edip iyilik yapanı kesinlikle bağışlarım.”",
+     "not": ""
+    },
+    {
+     "sure": 42,
+     "bas": 25,
+     "son": 25,
+     "gerekce": "Kullarının tövbesini kabul eden ve kötülükleri bağışlayan.",
+     "not": ""
+    },
+    {
+     "sure": 53,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "Bağışlaması geniş Rab ve “kendinizi temize çıkarmayın”; mükemmel olmak zorunda olmadığımızı söyler.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 53,
+     "son": 53,
+     "gerekce": "“Ben kendimi temize çıkarmıyorum.” Kusurunu kabul etmenin dürüstlüğü.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 23,
+     "bas": 118,
+     "son": 118,
+     "gerekce": "Kısa dua: “Rabbim, bağışla ve merhamet et.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "9:118",
+     "neden": "Geri kalan üç kişinin tövbesi çok etkileyici, ama Tebük olayına bağlı ve uzun."
+    },
+    {
+     "ref": "4:17",
+     "neden": "Tövbenin şartını hukuki bir dille anlatıyor; teselli arayana ağır."
+    },
+    {
+     "ref": "2:37",
+     "neden": "7:23 ile aynı olay; dua hâli daha uygun."
+    },
+    {
+     "ref": "66:8",
+     "neden": "“Kendimi toparlamak istiyorum” havuzunda."
+    }
+   ]
+  },
+  "yetersiz": {
+   "secilen": [
+    {
+     "sure": 95,
+     "bas": 4,
+     "son": 4,
+     "gerekce": "Tek cümle: “İnsanı en güzel biçimde yarattık.”",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 70,
+     "son": 70,
+     "gerekce": "“İnsanoğlunu onurlu kıldık.” Değerin kazanılmadan önce verildiği.",
+     "not": ""
+    },
+    {
+     "sure": 82,
+     "bas": 7,
+     "son": 8,
+     "gerekce": "Seni yaratan, biçim veren ve dengeli kılan Rab.",
+     "not": ""
+    },
+    {
+     "sure": 23,
+     "bas": 62,
+     "son": 62,
+     "gerekce": "Kimse gücünün üstünde sorumlu tutulmaz; hiçbir emek haksızlığa uğramaz.",
+     "not": ""
+    },
+    {
+     "sure": 4,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "İnsanın zayıf yaratıldığını ve Allah'ın yükü hafifletmek istediğini söyler. Zayıflığı ayıp saymaz.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "İyi bir iş yapanın emeği karşılıksız bırakılmaz.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 94,
+     "son": 94,
+     "gerekce": "Her çabanın yazıldığını ve inkâr edilmeyeceğini söyler.",
+     "not": ""
+    },
+    {
+     "sure": 99,
+     "bas": 7,
+     "son": 8,
+     "gerekce": "Zerre kadar iyiliğin bile görüleceği. Küçük görülen işlerin değeri.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 20,
+     "bas": 25,
+     "son": 28,
+     "gerekce": "Musa'nın duası: göğsümü aç, işimi kolaylaştır, dilimdeki düğümü çöz. Kendine güvenemeyen biri için.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 35,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "Kitap'ın mirasçıları arasında kendine zulmedeni, orta yolda olanı ve öne geçeni birlikte sayar. Mükemmel olmayanlar da dahil.",
+     "not": ""
+    },
+    {
+     "sure": 32,
+     "bas": 17,
+     "son": 17,
+     "gerekce": "Yapılan iyiliğin karşılığında seni bekleyen sevinci kimse bilemez.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "64:3",
+     "neden": "95:4 ile aynı anlam."
+    },
+    {
+     "ref": "28:35",
+     "neden": "Musa'ya kardeşiyle güç verilmesi; kıssaya özel."
+    },
+    {
+     "ref": "49:13",
+     "neden": "“Kendimi başkalarıyla kıyaslıyorum” havuzunda."
+    }
+   ]
+  },
+  "kiyas": {
+   "secilen": [
+    {
+     "sure": 4,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "“Başkasına verilen üstünlüğü arzu etmeyin; Allah'tan lütfunu isteyin.” Kıyasın doğrudan ilacı.",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 131,
+     "son": 131,
+     "gerekce": "Başkalarına verilen dünya süsüne gözünü dikme; Rabbinin rızkı daha hayırlı ve kalıcı.",
+     "not": ""
+    },
+    {
+     "sure": 15,
+     "bas": 88,
+     "son": 88,
+     "gerekce": "İmrenme, üzülme; inananlara kol kanat ger.",
+     "not": ""
+    },
+    {
+     "sure": 25,
+     "bas": 20,
+     "son": 20,
+     "gerekce": "“Bir kısmınızı bir kısmınız için sınav yaptık; sabredecek misiniz?” Kıyasın kendisinin bir sınav olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 43,
+     "bas": 32,
+     "son": 32,
+     "gerekce": "Geçimin Allah tarafından paylaştırıldığı ve rahmetin biriktirilenlerden hayırlı olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 49,
+     "bas": 13,
+     "son": 13,
+     "gerekce": "Allah katında en değerli olanın en çok sakınan olduğu; soy ve servet ölçü değil.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 79,
+     "son": 80,
+     "gerekce": "Karun'a imrenenler ve ilim sahiplerinin cevabı: “Allah'ın vereceği ödül daha hayırlıdır.”",
+     "not": "Kıssa; iki ayet birlikte"
+    },
+    {
+     "sure": 18,
+     "bas": 39,
+     "son": 39,
+     "gerekce": "“Beni malca ve evlatça eksik görüyorsan da…” Kendini eksik görülmüş hissedene.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 57,
+     "bas": 20,
+     "son": 20,
+     "gerekce": "Dünya hayatının oyun, övünme ve çokluk yarışı olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 102,
+     "bas": 1,
+     "son": 2,
+     "gerekce": "“Çoğaltma yarışı sizi oyaladı.”",
+     "not": ""
+    },
+    {
+     "sure": 42,
+     "bas": 27,
+     "son": 27,
+     "gerekce": "Rızkın ölçüyle verilmesinin bir hikmeti olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 10,
+     "bas": 58,
+     "son": 58,
+     "gerekce": "“Allah'ın lütfu ve rahmetiyle sevinsinler; bu biriktirdiklerinden daha hayırlıdır.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "28:79",
+     "neden": "Tek başına imrenmeyi anlatıyor; 28:80 ile birlikte seçildi."
+    },
+    {
+     "ref": "6:165",
+     "neden": "25:20 ile aynı anlam."
+    },
+    {
+     "ref": "3:14",
+     "neden": "Dünya tutkularını sıralıyor; teselli değil tespit."
+    }
+   ]
+  },
+  "sabirsiz": {
+   "secilen": [
+    {
+     "sure": 70,
+     "bas": 5,
+     "son": 5,
+     "gerekce": "Tek cümle: “Güzel bir sabırla sabret.”",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 214,
+     "son": 214,
+     "gerekce": "Öncekilerin de “yardım ne zaman?” dediği anlar ve cevabı: “Allah'ın yardımı yakındır.”",
+     "not": ""
+    },
+    {
+     "sure": 11,
+     "bas": 115,
+     "son": 115,
+     "gerekce": "“Sabret; Allah iyilik yapanların karşılığını kaybetmez.”",
+     "not": ""
+    },
+    {
+     "sure": 39,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "Allah'ın arzının geniş olduğu ve sabredenlere ödülün hesapsız verileceği.",
+     "not": ""
+    },
+    {
+     "sure": 40,
+     "bas": 55,
+     "son": 55,
+     "gerekce": "“Sabret, Allah'ın sözü gerçektir”; bağışlanma dile ve sabah akşam an.",
+     "not": ""
+    },
+    {
+     "sure": 46,
+     "bas": 35,
+     "son": 35,
+     "gerekce": "Kararlı elçilerin sabrı örnek gösterilir: “Aceleci olma.”",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 200,
+     "son": 200,
+     "gerekce": "Sabredin, direnin, bağlı kalın. Kısa bir yol haritası.",
+     "not": ""
+    },
+    {
+     "sure": 13,
+     "bas": 24,
+     "son": 24,
+     "gerekce": "Sabredenleri karşılayan söz: “Sabrettiğiniz için size selam olsun.”",
+     "not": ""
+    },
+    {
+     "sure": 7,
+     "bas": 128,
+     "son": 128,
+     "gerekce": "Musa'nın halkına öğüdü: “Allah'tan yardım isteyin ve sabredin; sonuç sakınanlarındır.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 20,
+     "bas": 114,
+     "son": 114,
+     "gerekce": "Acele etme ve “Rabbim, bilgimi artır” de.",
+     "not": ""
+    },
+    {
+     "sure": 21,
+     "bas": 37,
+     "son": 37,
+     "gerekce": "“İnsan aceleden yaratılmıştır.” Sabırsızlığın insani olduğunu kabul eder.",
+     "not": "İkinci cümle inkârcılara yönelik"
+    },
+    {
+     "sure": 74,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "En kısa öğüt: “Rabbin için sabret.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "30:60",
+     "neden": "40:55 ile aynı anlam."
+    },
+    {
+     "ref": "52:48",
+     "neden": "“Yalnız hissediyorum” havuzunda."
+    },
+    {
+     "ref": "18:67-68",
+     "neden": "Musa ile Hızır kıssasında sabredemeyen Musa; bağlamı olmadan anlaşılmıyor."
+    }
+   ]
+  },
+  "kararsiz": {
+   "secilen": [
+    {
+     "sure": 3,
+     "bas": 159,
+     "son": 159,
+     "gerekce": "Karar anının üç adımı: danış, karar ver, sonra Allah'a dayan.",
+     "not": "Öfkeliyim havuzunda da var"
+    },
+    {
+     "sure": 42,
+     "bas": 38,
+     "son": 38,
+     "gerekce": "İşlerini aralarında danışarak yapanlar.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 23,
+     "son": 24,
+     "gerekce": "“Yarın kesin yapacağım deme; ‘Allah dilerse’ de ve ‘Umarım Rabbim beni daha doğrusuna iletir’ de.”",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 17,
+     "bas": 80,
+     "son": 80,
+     "gerekce": "“Rabbim, beni doğru bir girişle girdir, doğru bir çıkışla çıkar.” Her yeni kapının duası.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 22,
+     "son": 22,
+     "gerekce": "Bilinmeyen bir yöne giderken Musa: “Umarım Rabbim bana doğru yolu gösterir.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 37,
+     "bas": 99,
+     "son": 99,
+     "gerekce": "İbrahim: “Rabbime gidiyorum, O bana yol gösterecek.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 1,
+     "bas": 6,
+     "son": 7,
+     "gerekce": "Her gün okunan yön duası: doğru yola, nimet verilenlerin yoluna ilet.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 68,
+     "son": 68,
+     "gerekce": "Hayırlı olanı seçenin O olduğu; seçimin yükünü hafifletir.",
+     "not": ""
+    },
+    {
+     "sure": 29,
+     "bas": 69,
+     "son": 69,
+     "gerekce": "O'nun yolunda çaba gösterenlere yolların gösterileceği sözü.",
+     "not": ""
+    },
+    {
+     "sure": 93,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "“Seni yolunu arar bulup yol göstermedi mi?”",
+     "not": ""
+    },
+    {
+     "sure": 34,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "Tek başına ve biriyle birlikte sakince düşünme çağrısı.",
+     "not": ""
+    },
+    {
+     "sure": 39,
+     "bas": 18,
+     "son": 18,
+     "gerekce": "Sözü dinleyip en güzeline uyanlar.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "18:10",
+     "neden": "“Çaresizim” havuzunda."
+    },
+    {
+     "ref": "46:9",
+     "neden": "“Bana ne yapılacağını bilmiyorum” cümlesi dürüst, ama ayet tartışma bağlamında."
+    }
+   ]
+  },
+  "isteksiz": {
+   "secilen": [
+    {
+     "sure": 94,
+     "bas": 7,
+     "son": 8,
+     "gerekce": "“Bir işi bitirince diğerine koyul ve yalnız Rabbine yönel.” Durgunluktan çıkmak için küçük bir adım.",
+     "not": ""
+    },
+    {
+     "sure": 8,
+     "bas": 24,
+     "son": 24,
+     "gerekce": "“Size hayat verecek şeye çağırdığında karşılık verin.” Allah'ın kişiyle kalbi arasında olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 57,
+     "bas": 16,
+     "son": 16,
+     "gerekce": "“Kalplerin yumuşama vakti gelmedi mi?” Uzun süre katılaşmış bir kalbe nazik bir soru.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 97,
+     "son": 97,
+     "gerekce": "İnanıp iyilik yapan kadın ve erkeğe hoş ve temiz bir hayat sözü. Boşluk hissine anlam.",
+     "not": ""
+    },
+    {
+     "sure": 53,
+     "bas": 39,
+     "son": 41,
+     "gerekce": "İnsan için çalıştığından başkası yok; emek görülecek ve karşılığı tam verilecek.",
+     "not": ""
+    },
+    {
+     "sure": 74,
+     "bas": 1,
+     "son": 2,
+     "gerekce": "“Ey örtüsüne bürünen! Kalk.” Battaniyenin altından çıkmanın ayeti.",
+     "not": "İlk vahiylerden; elçiye hitap"
+    },
+    {
+     "sure": 3,
+     "bas": 139,
+     "son": 139,
+     "gerekce": "“Gevşemeyin, üzülmeyin.”",
+     "not": "Üzgünüm havuzunda da var"
+    },
+    {
+     "sure": 57,
+     "bas": 21,
+     "son": 21,
+     "gerekce": "Bağışlanmaya ve gökler genişliğindeki cennete doğru yarışma çağrısı.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 19,
+     "son": 19,
+     "gerekce": "Ahireti isteyip çalışanların emeğinin karşılık bulacağı.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "9:105",
+     "neden": "“Ne yaparsanız yapın” çevirisi tehdit gibi okunuyor; teşvik yerine yanlış anlaşılabilir."
+    },
+    {
+     "ref": "47:35",
+     "neden": "“Gevşemeyin” bağlamı savaş."
+    }
+   ]
+  },
+  "gecim": {
+   "secilen": [
+    {
+     "sure": 11,
+     "bas": 6,
+     "son": 6,
+     "gerekce": "Yeryüzündeki her canlının rızkını üstlenen Allah.",
+     "not": ""
+    },
+    {
+     "sure": 29,
+     "bas": 60,
+     "son": 60,
+     "gerekce": "Rızkını taşıyamayan nice canlı var; onları da sizi de Allah rızıklandırıyor.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 268,
+     "son": 268,
+     "gerekce": "Yoksullukla korkutan şeytan, bağış ve bolluk vaat eden Allah. Para kaygısının iki sesi.",
+     "not": ""
+    },
+    {
+     "sure": 51,
+     "bas": 22,
+     "son": 23,
+     "gerekce": "Rızkınız göktedir; bu, konuşmanız kadar gerçektir.",
+     "not": ""
+    },
+    {
+     "sure": 15,
+     "bas": 21,
+     "son": 21,
+     "gerekce": "Her şeyin hazinesi O'nun yanındadır ve belli bir ölçüyle iner.",
+     "not": ""
+    },
+    {
+     "sure": 53,
+     "bas": 48,
+     "son": 48,
+     "gerekce": "Zengin eden de yetinen kılan da O.",
+     "not": ""
+    },
+    {
+     "sure": 62,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "Namazdan sonra yeryüzüne dağılın ve Allah'ın lütfundan rızkınızı arayın. Çalışmanın da ibadet gibi bir yönü olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 67,
+     "bas": 15,
+     "son": 15,
+     "gerekce": "Yeryüzü size boyun eğdirildi; üzerinde dolaşın ve rızkından yiyin.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 24,
+     "son": 24,
+     "gerekce": "İşsiz, yurtsuz Musa'nın duası: “Rabbim, indireceğin her hayra muhtacım.”",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 93,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "“Seni muhtaç bulup zengin etmedi mi?”",
+     "not": ""
+    },
+    {
+     "sure": 106,
+     "bas": 1,
+     "son": 4,
+     "gerekce": "Kureyş suresinin tamamı: açlıktan doyuran, korkudan güvene kavuşturan Rab.",
+     "not": ""
+    },
+    {
+     "sure": 34,
+     "bas": 39,
+     "son": 39,
+     "gerekce": "Rızkı genişleten ve ölçen O; verdiğinizin karşılığını O verir.",
+     "not": ""
+    },
+    {
+     "sure": 71,
+     "bas": 10,
+     "son": 12,
+     "gerekce": "Bağışlanma dilemenin yağmur, mal ve evlatla karşılık bulacağı.",
+     "not": "Nuh'un sözü; üç ayet birlikte"
+    },
+    {
+     "sure": 20,
+     "bas": 132,
+     "son": 132,
+     "gerekce": "“Senden rızık istemiyoruz; seni Biz rızıklandırıyoruz.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "65:3",
+     "neden": "“Ummadığı yerden rızık” çok güçlü, ama ayet boşanma hükmünün ortasında “ona” diye başlıyor."
+    },
+    {
+     "ref": "65:7",
+     "neden": "“Allah zorluktan sonra kolaylık verecek” cümlesi çok uygun, ama ayet nafaka hükmü."
+    },
+    {
+     "ref": "31:34",
+     "neden": "“Kimse yarın ne kazanacağını bilmez” uygun, ama aynı cümlede ölüm yeri geçiyor."
+    }
+   ]
+  },
+  "hasta": {
+   "secilen": [
+    {
+     "sure": 26,
+     "bas": 80,
+     "son": 80,
+     "gerekce": "İbrahim'in sözü: “Hastalandığımda bana şifa veren O'dur.”",
+     "not": "Kıssa içi söz; anlamı genel"
+    },
+    {
+     "sure": 21,
+     "bas": 83,
+     "son": 84,
+     "gerekce": "Eyyub'un duası: “Bana dert dokundu, Sen merhametlilerin en merhametlisisin.” Ve karşılık.",
+     "not": "Kıssa; iki ayet birlikte"
+    },
+    {
+     "sure": 38,
+     "bas": 41,
+     "son": 42,
+     "gerekce": "Eyyub'a gösterilen serin su ve şifa.",
+     "not": "Kıssa; iki ayet birlikte"
+    },
+    {
+     "sure": 17,
+     "bas": 82,
+     "son": 82,
+     "gerekce": "Kur'an'dan inenin inananlar için şifa ve rahmet oluşu.",
+     "not": ""
+    },
+    {
+     "sure": 10,
+     "bas": 57,
+     "son": 57,
+     "gerekce": "Göğüslerdekine şifa olan öğüt.",
+     "not": "Üzgünüm havuzunda da var"
+    },
+    {
+     "sure": 16,
+     "bas": 68,
+     "son": 69,
+     "gerekce": "Arıya yapılan vahiy ve balda insanlar için şifa. Tabiattaki şifaya bakmak.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 9,
+     "bas": 91,
+     "son": 91,
+     "gerekce": "Hastalara ve güçsüzlere sorumluluk yüklenmediği; “yapamıyorum” suçluluğunu hafifletir.",
+     "not": "Bağlamı savaşa katılamayanlar"
+    },
+    {
+     "sure": 37,
+     "bas": 145,
+     "son": 146,
+     "gerekce": "Bitkin hâlde kıyıya atılan Yunus'un üzerine gölge veren bir bitki bitirilmesi; iyileşme sürecindeki ilgi.",
+     "not": "Kıssa; iki ayet birlikte"
+    },
+    {
+     "sure": 2,
+     "bas": 286,
+     "son": 286,
+     "gerekce": "Kimseye gücünün üstünde yük yüklenmez.",
+     "not": "Kaygılı havuzunda da var"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "48:17",
+     "neden": "Hastalara sorumluluk olmadığı söyleniyor, ama ayet tamamen savaşla ilgili."
+    },
+    {
+     "ref": "2:185",
+     "neden": "“Allah kolaylık ister” cümlesi uygun, ama ayet oruç hükmü."
+    }
+   ]
+  },
+  "gece": {
+   "secilen": [
+    {
+     "sure": 2,
+     "bas": 255,
+     "son": 255,
+     "gerekce": "Âyetü'l-Kürsî: “O'nu ne uyuklama ne uyku tutar.” Uyuyamadığın gece seni gözeten.",
+     "not": "Korku havuzunda da var; uzun ayet"
+    },
+    {
+     "sure": 10,
+     "bas": 67,
+     "son": 67,
+     "gerekce": "Geceyi dinlenesiniz diye karanlık yapan O.",
+     "not": ""
+    },
+    {
+     "sure": 25,
+     "bas": 47,
+     "son": 47,
+     "gerekce": "Geceyi örtü, uykuyu dinlenme yapan.",
+     "not": ""
+    },
+    {
+     "sure": 78,
+     "bas": 9,
+     "son": 11,
+     "gerekce": "Uyku dinlenme, gece elbise, gündüz geçim zamanı.",
+     "not": "Üç kısa ayet birlikte"
+    },
+    {
+     "sure": 32,
+     "bas": 16,
+     "son": 16,
+     "gerekce": "Yataklarından kalkıp korku ve umutla Rablerine dua edenler. Uykusuzluğu duaya çevirmek.",
+     "not": ""
+    },
+    {
+     "sure": 51,
+     "bas": 17,
+     "son": 18,
+     "gerekce": "Gecenin az uyunan saatleri ve seherde bağışlanma dilemek.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 79,
+     "son": 79,
+     "gerekce": "Gecenin bir kısmında kalkıp namaz kılmak; övülmüş bir makam umudu.",
+     "not": ""
+    },
+    {
+     "sure": 73,
+     "bas": 6,
+     "son": 6,
+     "gerekce": "Gece kalkışının kalbe daha derin işlediği.",
+     "not": ""
+    },
+    {
+     "sure": 76,
+     "bas": 25,
+     "son": 26,
+     "gerekce": "Sabah akşam anmak, gecenin bir bölümünde secde ve uzun tesbih.",
+     "not": ""
+    },
+    {
+     "sure": 39,
+     "bas": 9,
+     "son": 9,
+     "gerekce": "Gece secde edip ayakta duran ve Rabbinin rahmetini uman kişi.",
+     "not": ""
+    },
+    {
+     "sure": 52,
+     "bas": 49,
+     "son": 49,
+     "gerekce": "Yıldızlar sönerken O'nu tesbih etmek.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "39:42",
+     "neden": "Uykuda nefislerin alınışı derin bir ayet, ama uyuyamayan birine ölüm düşüncesi ağır gelebilir."
+    },
+    {
+     "ref": "93:1-2",
+     "neden": "Tek başına yemin cümlesi; Duhâ'nın devamı “Üzgünüm” havuzunda."
+    },
+    {
+     "ref": "21:87",
+     "neden": "“Çaresizim” havuzunda."
+    }
+   ]
+  },
+  "daginik": {
+   "secilen": [
+    {
+     "sure": 39,
+     "bas": 29,
+     "son": 29,
+     "gerekce": "Birbiriyle çekişen birçok efendiye bağlı bir kişi ile tek bir efendiye bağlı kişi örneği. Dağınıklığın en net resmi.",
+     "not": ""
+    },
+    {
+     "sure": 13,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Kalplerin ancak Allah'ı anmakla yatıştığı.",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 73,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "“Rabbinin adını an ve bütün benliğinle yalnız O'na yönel.”",
+     "not": ""
+    },
+    {
+     "sure": 33,
+     "bas": 41,
+     "son": 42,
+     "gerekce": "Allah'ı çokça anmak, sabah akşam tesbih etmek.",
+     "not": "İki kısa ayet birlikte"
+    },
+    {
+     "sure": 7,
+     "bas": 205,
+     "son": 205,
+     "gerekce": "İçinden, sessizce, sabah akşam anmak; gafillerden olmamak.",
+     "not": ""
+    },
+    {
+     "sure": 29,
+     "bas": 45,
+     "son": 45,
+     "gerekce": "Salatın insanı kötülükten alıkoyduğu ve Allah'ı anmanın her şeyden büyük olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 63,
+     "bas": 9,
+     "son": 9,
+     "gerekce": "Mal ve çocukların Allah'ı anmaktan alıkoymaması.",
+     "not": ""
+    },
+    {
+     "sure": 24,
+     "bas": 37,
+     "son": 37,
+     "gerekce": "Ne ticaretin ne alışverişin Allah'ı anmaktan alıkoyduğu insanlar.",
+     "not": ""
+    },
+    {
+     "sure": 23,
+     "bas": 1,
+     "son": 3,
+     "gerekce": "Kurtuluşa erenlerin üç hâli: inanmak, namazda huşu, boş şeylerden yüz çevirmek.",
+     "not": "Üç kısa ayet birlikte"
+    },
+    {
+     "sure": 25,
+     "bas": 72,
+     "son": 72,
+     "gerekce": "Boş ve anlamsız bir şeyle karşılaşınca onurla oradan geçip gitmek.",
+     "not": ""
+    },
+    {
+     "sure": 103,
+     "bas": 1,
+     "son": 3,
+     "gerekce": "Asr suresinin tamamı: zaman akıp giderken insanın kaybı ve kaybetmeyenlerin dört özelliği.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "102:1-2",
+     "neden": "“Kıyaslıyorum” havuzunda."
+    },
+    {
+     "ref": "18:24",
+     "neden": "“Kararsızım” havuzunda (18:23-24)."
+    },
+    {
+     "ref": "114:4-6",
+     "neden": "Nâs'ın tamamı “Kaygılıyım” havuzunda."
+    }
+   ]
+  },
+  "aile": {
+   "secilen": [
+    {
+     "sure": 30,
+     "bas": 21,
+     "son": 21,
+     "gerekce": "Eşler arasına sevgi ve merhamet konduğu, eşte dinginlik bulunduğu.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 23,
+     "son": 24,
+     "gerekce": "Yaşlanan anne babaya “öf” bile dememek, kol kanat germek ve “Rabbim, onlar beni küçükken nasıl büyüttüyse onlara öyle merhamet et” duası.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 31,
+     "bas": 14,
+     "son": 14,
+     "gerekce": "Annenin zorluk üstüne zorlukla taşıyışı; anne babaya şükür.",
+     "not": ""
+    },
+    {
+     "sure": 46,
+     "bas": 15,
+     "son": 15,
+     "gerekce": "Anne babaya iyilik ve olgunluk çağında edilen dua: şükür, salih amel ve soyun iyiliği.",
+     "not": ""
+    },
+    {
+     "sure": 25,
+     "bas": 74,
+     "son": 74,
+     "gerekce": "“Rabbimiz, eşlerimizden ve çocuklarımızdan bize göz aydınlığı ver.”",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "“Sevdiğini sen doğru yola iletemezsin.” Bir çocuğu ya da yakını için çırpınan birine hem yük hafifletir hem dua yolu açar.",
+     "not": ""
+    },
+    {
+     "sure": 64,
+     "bas": 14,
+     "son": 14,
+     "gerekce": "Eş ve çocuklardan gelen incinmeye karşı affetmek ve görmezden gelmek.",
+     "not": "Affetmek havuzunda da var"
+    },
+    {
+     "sure": 4,
+     "bas": 128,
+     "son": 128,
+     "gerekce": "Eşler arasında geçimsizlik endişesinde barışmanın hayırlı oluşu ve “nefisler bencilliğe yatkındır” tespiti.",
+     "not": "Aile hukuku bağlamında, ama anlamı açık"
+    },
+    {
+     "sure": 29,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "Anne babaya iyilik, ama yanlışa zorladıklarında itaat etmemek: sınırı olan saygı.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 100,
+     "son": 100,
+     "gerekce": "Yıllar sonra kavuşan aile: “Şeytan benimle kardeşlerimin arasını açtıktan sonra…”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 14,
+     "bas": 40,
+     "son": 41,
+     "gerekce": "İbrahim'in duası: soyum için, annem babam için bağışlanma.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 49,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "“İnananlar kardeştir; kardeşlerinizin arasını düzeltin.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "4:35",
+     "neden": "Hakem tayini hukuki bir düzenleme; teselliden çok prosedür."
+    },
+    {
+     "ref": "71:28",
+     "neden": "14:41 ile aynı dua."
+    },
+    {
+     "ref": "16:72",
+     "neden": "“Sevdiklerimi düşünüyorum” havuzunda."
+    }
+   ]
+  },
+  "yuk": {
+   "secilen": [
+    {
+     "sure": 2,
+     "bas": 286,
+     "son": 286,
+     "gerekce": "Kimseye gücünün üstünde yük yüklenmez; sonunda yükü hafifletme duası.",
+     "not": "Kaygılı havuzunda da var"
+    },
+    {
+     "sure": 94,
+     "bas": 1,
+     "son": 4,
+     "gerekce": "Göğsün açılması, beli büken yükün kaldırılması. İnşirah'ın ilk dört ayeti.",
+     "not": ""
+    },
+    {
+     "sure": 23,
+     "bas": 62,
+     "son": 62,
+     "gerekce": "Kimse gücünün üstünde sorumlu tutulmaz.",
+     "not": "Yetersiz havuzunda da var"
+    },
+    {
+     "sure": 64,
+     "bas": 16,
+     "son": 16,
+     "gerekce": "“Gücünüz yettiğince.” Mükemmel değil, elden gelen istenir.",
+     "not": ""
+    },
+    {
+     "sure": 73,
+     "bas": 20,
+     "son": 20,
+     "gerekce": "Gece ibadetinin hafifletilmesi; hastanın, rızık için yolda olanın ve zorda olanın bilinmesi; “kolayınıza geleni.”",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 87,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "“Seni en kolay olana kolayca ulaştıracağız.”",
+     "not": ""
+    },
+    {
+     "sure": 31,
+     "bas": 17,
+     "son": 17,
+     "gerekce": "Lokman'ın öğüdü: başına gelene sabret; bu kararlılık işidir.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 39,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "Sabredenlere ödülleri hesapsız verilir.",
+     "not": "Sabırsız havuzunda da var"
+    },
+    {
+     "sure": 29,
+     "bas": 2,
+     "son": 3,
+     "gerekce": "Ağır dönemlerin bir sınav olduğu ve öncekilerin de sınandığı. Yükü anlamlandırır.",
+     "not": "İki ayet birlikte"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "22:78",
+     "neden": "“Dinde size zorluk yüklemedi” çok uygun, ama ayet “cihad edin” ile başlıyor."
+    },
+    {
+     "ref": "65:7",
+     "neden": "“Kimseye verdiğinden fazlası yüklenmez” uygun, ama nafaka hükmü."
+    },
+    {
+     "ref": "7:42",
+     "neden": "Aynı anlam ara cümle içinde; 23:62 daha açık."
+    }
+   ]
+  },
+  "tereddut": {
+   "secilen": [
+    {
+     "sure": 2,
+     "bas": 260,
+     "son": 260,
+     "gerekce": "İbrahim'in sorusu: “Ölüleri nasıl dirilttiğini göster.” “İnanmıyor musun?” “İnanıyorum, ama kalbim yatışsın istiyorum.” Soru sormanın meşruluğu.",
+     "not": "Kıssa; uzun ayet"
+    },
+    {
+     "sure": 6,
+     "bas": 76,
+     "son": 79,
+     "gerekce": "Yıldıza, aya, güneşe bakıp “batanları sevmem” diyen İbrahim'in arayışı.",
+     "not": "Kıssa; dört ayet birlikte"
+    },
+    {
+     "sure": 2,
+     "bas": 256,
+     "son": 256,
+     "gerekce": "Dinde zorlama yoktur; doğru yanlıştan ayrılmıştır ve sağlam bir kulp vardır.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 43,
+     "son": 43,
+     "gerekce": "“Bilmiyorsanız, bilenlere sorun.”",
+     "not": ""
+    },
+    {
+     "sure": 34,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "Allah için tek başına ya da biriyle sakince düşünme çağrısı.",
+     "not": "Kararsızım havuzunda da var"
+    },
+    {
+     "sure": 41,
+     "bas": 53,
+     "son": 53,
+     "gerekce": "Ufuklarda ve insanın kendisinde gösterilecek işaretler, gerçek açıkça belli olsun diye.",
+     "not": ""
+    },
+    {
+     "sure": 22,
+     "bas": 54,
+     "son": 54,
+     "gerekce": "İlim verilenlerin hakkı tanıyıp kalplerinin yatışması.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "“Rabbimiz, bizi doğru yola ilettikten sonra kalplerimizi kaydırma.” Kuşkuda tutunacak dua.",
+     "not": ""
+    },
+    {
+     "sure": 31,
+     "bas": 22,
+     "son": 22,
+     "gerekce": "Kendini Allah'a yönelten iyilik sahibinin en sağlam tutamağa tutunması.",
+     "not": ""
+    },
+    {
+     "sure": 47,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "Allah'a yardım edenin ayaklarının sabit kılınması.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "10:94",
+     "neden": "“Şüphe ediyorsan sor” cümlesi değerli, ama “şüphecilerden olma” uyarısıyla bitiyor ve elçiye hitap."
+    },
+    {
+     "ref": "2:147",
+     "neden": "“Kuşku duyanlardan olma” kısa bir uyarı; soru soran birine azar gibi gelebilir."
+    }
+   ]
+  },
+  "sukur": {
+   "secilen": [
+    {
+     "sure": 14,
+     "bas": 7,
+     "son": 7,
+     "gerekce": "“Şükrederseniz artırırım.” Şükrün bir karşılığı olduğu.",
+     "not": ""
+    },
+    {
+     "sure": 27,
+     "bas": 19,
+     "son": 19,
+     "gerekce": "Süleyman'ın duası: “Rabbim, bana ve anne babama verdiğin nimete şükretmemi ilham et.”",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 16,
+     "bas": 18,
+     "son": 18,
+     "gerekce": "Allah'ın nimetini saymaya kalksanız sayamazsınız.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 152,
+     "son": 152,
+     "gerekce": "“Beni anın ki Ben de sizi anayım; Bana şükredin.”",
+     "not": ""
+    },
+    {
+     "sure": 31,
+     "bas": 20,
+     "son": 20,
+     "gerekce": "Görünen ve görünmeyen nimetlerin bolca verildiği.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 78,
+     "son": 78,
+     "gerekce": "Hiçbir şey bilmezken işitme, görme ve gönül verilmesi; şükredesiniz diye.",
+     "not": ""
+    },
+    {
+     "sure": 93,
+     "bas": 11,
+     "son": 11,
+     "gerekce": "“Rabbinin nimetini anlat.” Şükrü paylaşmak.",
+     "not": ""
+    },
+    {
+     "sure": 108,
+     "bas": 1,
+     "son": 2,
+     "gerekce": "“Sana bolca iyilik verdik; o hâlde Rabbin için namaz kıl.”",
+     "not": "Kevser'in ilk iki ayeti"
+    },
+    {
+     "sure": 80,
+     "bas": 24,
+     "son": 32,
+     "gerekce": "İnsan yiyeceğine bir baksın: yağmurdan sofraya uzanan yol.",
+     "not": "Dokuz kısa ayet birlikte"
+    },
+    {
+     "sure": 55,
+     "bas": 10,
+     "son": 13,
+     "gerekce": "Yeryüzü, meyveler, salkımlar, kokulu bitkiler ve “Rabbinizin hangi nimetini yalanlarsınız?”",
+     "not": "Dört ayet birlikte"
+    },
+    {
+     "sure": 12,
+     "bas": 101,
+     "son": 101,
+     "gerekce": "Yusuf'un hayatına dönüp baktığı dua: “Rabbim, bana verdin, öğrettin; beni Müslüman olarak öldür.”",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 14,
+     "bas": 39,
+     "son": 39,
+     "gerekce": "Yaşlılıkta gelen çocuklar için İbrahim'in hamdi.",
+     "not": "Kıssa içi söz"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "14:34",
+     "neden": "Nimetin sayılamayacağı güzel, ama “insan çok zalim, çok nankör” diye bitiyor; 16:18 seçildi."
+    },
+    {
+     "ref": "46:15",
+     "neden": "“Ailemle zorlanıyorum” havuzunda."
+    }
+   ]
+  },
+  "huzurlu": {
+   "secilen": [
+    {
+     "sure": 89,
+     "bas": 27,
+     "son": 30,
+     "gerekce": "“Ey huzura ermiş nefis!” Huzurun gideceği yer.",
+     "not": "Kayıp havuzunda da var"
+    },
+    {
+     "sure": 10,
+     "bas": 25,
+     "son": 25,
+     "gerekce": "Allah'ın esenlik yurduna çağırdığı.",
+     "not": ""
+    },
+    {
+     "sure": 39,
+     "bas": 23,
+     "son": 23,
+     "gerekce": "Sözün en güzeli: önce tüyler ürperir, sonra kalpler yumuşar.",
+     "not": ""
+    },
+    {
+     "sure": 97,
+     "bas": 1,
+     "son": 5,
+     "gerekce": "Kadir suresinin tamamı: sabaha kadar süren esenlik.",
+     "not": ""
+    },
+    {
+     "sure": 24,
+     "bas": 35,
+     "son": 35,
+     "gerekce": "Nur ayeti: göklerin ve yerin ışığı, kandil, cam ve yıldız. Dingin bir zihinle okunacak bir örnek.",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 16,
+     "bas": 80,
+     "son": 80,
+     "gerekce": "Evlerin huzur ve dinlenme yeri kılınması.",
+     "not": ""
+    },
+    {
+     "sure": 36,
+     "bas": 58,
+     "son": 58,
+     "gerekce": "Merhametli Rabb'den bir söz: “Selam.”",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "Sabahı yarıp çıkaran, geceyi dinginlik kılan.",
+     "not": ""
+    },
+    {
+     "sure": 30,
+     "bas": 17,
+     "son": 18,
+     "gerekce": "Akşama ve sabaha girerken, öğle ve ikindide hamd ve tesbih.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 7,
+     "bas": 43,
+     "son": 43,
+     "gerekce": "Göğüslerden bütün kırgınlıkların çıkarıldığı yurt ve “Bizi buraya ulaştıran Allah'a hamd olsun.”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "13:28",
+     "neden": "Kaygılı ve Dağınık havuzlarında."
+    },
+    {
+     "ref": "48:4",
+     "neden": "Kaygılı havuzunda."
+    }
+   ]
+  },
+  "umutlu": {
+   "secilen": [
+    {
+     "sure": 10,
+     "bas": 58,
+     "son": 58,
+     "gerekce": "“Allah'ın lütfu ve rahmetiyle sevinsinler.” Sevincin doğru adresi.",
+     "not": "Kıyaslıyorum havuzunda da var"
+    },
+    {
+     "sure": 93,
+     "bas": 5,
+     "son": 5,
+     "gerekce": "“Rabbin sana verecek, sen de hoşnut olacaksın.”",
+     "not": ""
+    },
+    {
+     "sure": 20,
+     "bas": 36,
+     "son": 36,
+     "gerekce": "“Ey Musa, istediğin sana verildi.” Duası kabul olmuş birinin sevinci.",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 21,
+     "bas": 90,
+     "son": 90,
+     "gerekce": "Zekeriya'ya verilen müjde ve umarak, korkarak dua edip hayırlarda yarışanlar.",
+     "not": "Kıssa"
+    },
+    {
+     "sure": 110,
+     "bas": 1,
+     "son": 3,
+     "gerekce": "Nasr suresinin tamamı: yardım ve zafer geldiğinde hamd ve bağışlanma dilemek. Sevinci şükre çevirmek.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 201,
+     "son": 201,
+     "gerekce": "“Rabbimiz, bize dünyada da iyilik, ahirette de iyilik ver.”",
+     "not": ""
+    },
+    {
+     "sure": 7,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "Korkuyla ve umutla dua; rahmetin iyilik yapanlara yakın oluşu.",
+     "not": ""
+    },
+    {
+     "sure": 16,
+     "bas": 97,
+     "son": 97,
+     "gerekce": "İnanıp iyilik yapan kadın ve erkeğe hoş bir hayat sözü.",
+     "not": "İçimden bir şey gelmiyor havuzunda da var"
+    },
+    {
+     "sure": 84,
+     "bas": 7,
+     "son": 9,
+     "gerekce": "Kitabı sağdan verilenin sevinçle ailesine dönmesi.",
+     "not": "Üç kısa ayet birlikte"
+    },
+    {
+     "sure": 80,
+     "bas": 38,
+     "son": 39,
+     "gerekce": "Pırıl pırıl, gülen ve sevinen yüzler.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "30:4-5",
+     "neden": "“Müminler sevinecek” ifadesi Rumların zaferi bağlamında."
+    },
+    {
+     "ref": "3:170",
+     "neden": "Şehitlerin sevinci; genele uygulanamaz."
+    }
+   ]
+  },
+  "baslangic": {
+   "secilen": [
+    {
+     "sure": 17,
+     "bas": 80,
+     "son": 80,
+     "gerekce": "“Rabbim, beni doğru bir girişle girdir, doğru bir çıkışla çıkar.” Yeni bir kapıdan geçerken.",
+     "not": "Kararsızım havuzunda da var"
+    },
+    {
+     "sure": 23,
+     "bas": 29,
+     "son": 29,
+     "gerekce": "Nuh'un duası: “Rabbim, beni bereketli bir yere indir.” Taşınma ve yerleşme için.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 20,
+     "bas": 25,
+     "son": 26,
+     "gerekce": "“Rabbim, göğsümü aç, işimi kolaylaştır.” Yeni bir işin ilk günü.",
+     "not": "Musa'nın duası"
+    },
+    {
+     "sure": 18,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "“Katından rahmet ver, işimizde bize doğruyu hazırla.”",
+     "not": "Çaresizim havuzunda da var"
+    },
+    {
+     "sure": 29,
+     "bas": 26,
+     "son": 26,
+     "gerekce": "“Ben Rabbim için yola çıkıyorum.” Bir yerden ayrılıp yeniye gidenin sözü.",
+     "not": "Lut'un sözü"
+    },
+    {
+     "sure": 25,
+     "bas": 74,
+     "son": 74,
+     "gerekce": "“Eşlerimizden ve çocuklarımızdan bize göz aydınlığı ver.” Evlilik ve aile kuruluşu için.",
+     "not": "Aile havuzunda da var"
+    },
+    {
+     "sure": 26,
+     "bas": 83,
+     "son": 85,
+     "gerekce": "İbrahim'in duası: hikmet, iyilerle beraberlik, ardından güzel bir iz.",
+     "not": "Kıssa içi dua"
+    },
+    {
+     "sure": 43,
+     "bas": 13,
+     "son": 14,
+     "gerekce": "Bineğe binerken okunacak dua. Yolculuğun ve yeni bir aracın başlangıcı.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 2,
+     "bas": 148,
+     "son": 148,
+     "gerekce": "Herkesin bir yönü vardır; siz iyilikte yarışın.",
+     "not": ""
+    },
+    {
+     "sure": 96,
+     "bas": 1,
+     "son": 5,
+     "gerekce": "İlk inen ayetler: “Oku! Yaratan Rabbinin adıyla.” Her başlangıcın besmelesi.",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "4:100",
+     "neden": "Hicret edene genişlik vaadi güzel, ama aynı ayette yolda ölüm ihtimali geçiyor."
+    },
+    {
+     "ref": "37:99",
+     "neden": "Kararsızım havuzunda."
+    },
+    {
+     "ref": "94:7-8",
+     "neden": "İçimden bir şey gelmiyor havuzunda."
+    }
+   ]
+  },
+  "sevgi": {
+   "secilen": [
+    {
+     "sure": 30,
+     "bas": 21,
+     "son": 21,
+     "gerekce": "Eşler arasına konan sevgi ve merhamet.",
+     "not": "Aile havuzunda da var"
+    },
+    {
+     "sure": 16,
+     "bas": 72,
+     "son": 72,
+     "gerekce": "Eşler, çocuklar ve torunlar; temiz rızıkla birlikte verilmiş nimetler.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 24,
+     "son": 24,
+     "gerekce": "“Rabbim, onlar beni küçükken nasıl büyüttüyse sen de onlara öyle merhamet et.”",
+     "not": "Aile havuzunda (17:23-24) da var"
+    },
+    {
+     "sure": 13,
+     "bas": 23,
+     "son": 23,
+     "gerekce": "Cennete anne babaları, eşleri ve çocuklarından iyi olanlarla birlikte girmek.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 103,
+     "son": 103,
+     "gerekce": "Düşmanken kalplerin kaynaştırılıp kardeş olunması.",
+     "not": ""
+    },
+    {
+     "sure": 9,
+     "bas": 71,
+     "son": 71,
+     "gerekce": "İnanan kadın ve erkeklerin birbirinin dostu olması.",
+     "not": ""
+    },
+    {
+     "sure": 85,
+     "bas": 14,
+     "son": 16,
+     "gerekce": "Çok seven (Vedûd) Allah.",
+     "not": "Yalnız havuzunda da var"
+    },
+    {
+     "sure": 19,
+     "bas": 96,
+     "son": 96,
+     "gerekce": "İman edip iyilik yapanlar için Rahman'ın koyacağı sevgi.",
+     "not": "Yalnız havuzunda da var"
+    },
+    {
+     "sure": 20,
+     "bas": 39,
+     "son": 39,
+     "gerekce": "“Senin üzerine Kendimden bir sevgi bıraktım.” Sevilmenin kaynağı.",
+     "not": "Musa'ya söylenen söz"
+    },
+    {
+     "sure": 11,
+     "bas": 73,
+     "son": 73,
+     "gerekce": "“Allah'ın rahmeti ve bereketi üzerinizde, ey ev halkı.”",
+     "not": "Kıssa içi söz (İbrahim'in ev halkına)"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "25:74",
+     "neden": "Aile ve Başlangıç havuzlarında."
+    },
+    {
+     "ref": "52:21",
+     "neden": "Kayıp havuzunda."
+    }
+   ]
+  },
+  "tefekkur": {
+   "secilen": [
+    {
+     "sure": 3,
+     "bas": 190,
+     "son": 191,
+     "gerekce": "Göklerin ve yerin yaratılışını, ayakta, oturarak, yatarken düşünenler: “Rabbimiz, bunu boşuna yaratmadın.”",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 2,
+     "bas": 164,
+     "son": 164,
+     "gerekce": "Gökler, yer, gece-gündüz, gemiler, yağmur, rüzgârlar ve bulutlar: düşünen akıl için işaretler.",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 6,
+     "bas": 99,
+     "son": 99,
+     "gerekce": "Yağmurla çıkan taneler, salkımlar, zeytin ve nar; “meyve verdiğinde ve olgunlaştığında bakın.”",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 44,
+     "son": 44,
+     "gerekce": "Yedi gök, yer ve içlerindeki her şeyin tesbihi; anlamadığımız bir dil.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 109,
+     "son": 109,
+     "gerekce": "Denizler mürekkep olsa Rabbimin kelimeleri bitmeden denizler biterdi.",
+     "not": ""
+    },
+    {
+     "sure": 31,
+     "bas": 27,
+     "son": 27,
+     "gerekce": "Ağaçlar kalem, denizler mürekkep olsa da tükenmeyen kelimeler.",
+     "not": "18:109'un eşi; ikisinden biri seçilebilir"
+    },
+    {
+     "sure": 21,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "Bitişikken ayrılan gökler ve yer; her canlının sudan yaratılışı.",
+     "not": ""
+    },
+    {
+     "sure": 23,
+     "bas": 12,
+     "son": 14,
+     "gerekce": "Çamurun özünden insanın ana rahmindeki evreleri; “yaratanların en güzeli.”",
+     "not": "Üç ayet birlikte"
+    },
+    {
+     "sure": 25,
+     "bas": 45,
+     "son": 46,
+     "gerekce": "Uzayıp kısalan gölge. Gün içinde fark edilmeyen bir mucize.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 27,
+     "bas": 88,
+     "son": 88,
+     "gerekce": "Duruyor sandığın dağların bulut gibi geçip gitmesi; her şeyi sağlam yapan.",
+     "not": ""
+    },
+    {
+     "sure": 30,
+     "bas": 22,
+     "son": 22,
+     "gerekce": "Dillerinizin ve renklerinizin farklılığı O'nun işaretlerinden.",
+     "not": ""
+    },
+    {
+     "sure": 35,
+     "bas": 27,
+     "son": 28,
+     "gerekce": "Rengârenk meyveler, beyaz, kırmızı ve siyah dağ katmanları, renk renk insanlar ve hayvanlar.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 36,
+     "bas": 38,
+     "son": 40,
+     "gerekce": "Yörüngesinde akan güneş, evreleri olan ay; her biri kendi yörüngesinde yüzer.",
+     "not": "Üç ayet birlikte"
+    },
+    {
+     "sure": 51,
+     "bas": 20,
+     "son": 21,
+     "gerekce": "Yeryüzünde işaretler var; “ve kendinizde, görmüyor musunuz?”",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 67,
+     "bas": 3,
+     "son": 4,
+     "gerekce": "Rahman'ın yaratmasında bir çatlak bulabilir misin? Tekrar tekrar bak.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 67,
+     "bas": 19,
+     "son": 19,
+     "gerekce": "Kanat çırpıp süzülen kuşları havada tutan Rahman.",
+     "not": ""
+    },
+    {
+     "sure": 88,
+     "bas": 17,
+     "son": 20,
+     "gerekce": "Deveye, göğe, dağlara ve yeryüzüne bakmak.",
+     "not": "Dört kısa ayet birlikte"
+    },
+    {
+     "sure": 59,
+     "bas": 22,
+     "son": 24,
+     "gerekce": "Haşr'in son ayetleri: Allah'ın en güzel isimleri. Bir isim üzerinde durup düşünmek için.",
+     "not": "Üç ayet birlikte"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "6:59",
+     "neden": "Kaygılı havuzunda."
+    },
+    {
+     "ref": "16:68-69",
+     "neden": "Hasta havuzunda."
+    },
+    {
+     "ref": "24:35",
+     "neden": "Huzurlu havuzunda."
+    },
+    {
+     "ref": "41:53",
+     "neden": "İnancımda sorularım var havuzunda."
+    },
+    {
+     "ref": "13:3",
+     "neden": "6:99 ve 35:27-28 ile aynı tema; havuz zaten geniş."
+    }
+   ]
+  },
+  "affetmek": {
+   "secilen": [
+    {
+     "sure": 24,
+     "bas": 22,
+     "son": 22,
+     "gerekce": "“Bağışlasınlar, hoş görsünler. Allah'ın sizi bağışlamasını sevmez misiniz?” Affetmenin en güçlü gerekçesi.",
+     "not": ""
+    },
+    {
+     "sure": 12,
+     "bas": 92,
+     "son": 92,
+     "gerekce": "Kendisini kuyuya atan kardeşlerine Yusuf: “Bugün size kınama yok.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 42,
+     "bas": 40,
+     "son": 40,
+     "gerekce": "Karşılığın hak olduğunu kabul eder, ama bağışlayıp düzelteni ödülü Allah'a bırakır. Affetmeyi zorlamaz, yüceltir.",
+     "not": ""
+    },
+    {
+     "sure": 42,
+     "bas": 43,
+     "son": 43,
+     "gerekce": "Haksızlığa uğrayıp sabreden ve bağışlayanın büyük bir iş yaptığını söyler.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 134,
+     "son": 134,
+     "gerekce": "Öfkeyi yutmak ve insanları bağışlamak: Allah'ın sevdiği iyilik.",
+     "not": "Öfkeliyim havuzunda da var"
+    },
+    {
+     "sure": 4,
+     "bas": 149,
+     "son": 149,
+     "gerekce": "Bir kötülüğü bağışlayana: Allah da çok affedicidir.",
+     "not": ""
+    },
+    {
+     "sure": 7,
+     "bas": 199,
+     "son": 199,
+     "gerekce": "Üç kısa buyruk: affı benimse, iyiliği söyle, cahillerden yüz çevir.",
+     "not": ""
+    },
+    {
+     "sure": 64,
+     "bas": 14,
+     "son": 14,
+     "gerekce": "Aile içindeki kırgınlıklar için: affeder, görmezden gelir ve bağışlarsanız Allah da bağışlayandır.",
+     "not": ""
+    },
+    {
+     "sure": 19,
+     "bas": 47,
+     "son": 47,
+     "gerekce": "Kendisini taşlamakla tehdit eden babasına İbrahim: “Sana selam olsun, senin için bağışlanma dileyeceğim.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 59,
+     "bas": 10,
+     "son": 10,
+     "gerekce": "“Kalplerimizde kin bırakma.” Affedemeyen kalbin duası.",
+     "not": "Kırgınım havuzunda da var"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "45:14",
+     "neden": "Bağışlama çağrısı inanmayanlara yönelik; kişisel affetmeye doğrudan uymuyor."
+    },
+    {
+     "ref": "2:237",
+     "neden": "“Affetmek takvaya daha yakındır” cümlesi çok uygun, ama ayet boşanma hükmünün içinde."
+    }
+   ]
+  },
+  "toparlanmak": {
+   "secilen": [
+    {
+     "sure": 13,
+     "bas": 11,
+     "son": 11,
+     "gerekce": "“Bir toplum kendi durumunu değiştirmedikçe Allah onların durumunu değiştirmez.”",
+     "not": "Ayetin sonunda ceza cümlesi var — karar sende"
+    },
+    {
+     "sure": 66,
+     "bas": 8,
+     "son": 8,
+     "gerekce": "İçten bir tövbe ile yeniden başlamak.",
+     "not": ""
+    },
+    {
+     "sure": 59,
+     "bas": 18,
+     "son": 18,
+     "gerekce": "Herkes yarın için ne hazırladığına baksın.",
+     "not": ""
+    },
+    {
+     "sure": 91,
+     "bas": 9,
+     "son": 10,
+     "gerekce": "Nefsini arındıran kurtuldu, onu kirleten kaybetti.",
+     "not": ""
+    },
+    {
+     "sure": 87,
+     "bas": 14,
+     "son": 15,
+     "gerekce": "Arınan, Rabbinin adını anan ve namaz kılan kurtuldu.",
+     "not": ""
+    },
+    {
+     "sure": 33,
+     "bas": 70,
+     "son": 71,
+     "gerekce": "Doğru söz söyleyin ki işleriniz düzelsin, günahlarınız bağışlansın.",
+     "not": ""
+    },
+    {
+     "sure": 28,
+     "bas": 17,
+     "son": 17,
+     "gerekce": "Musa'nın kararı: “Bana verdiğin nimet hakkı için bundan sonra suçlulara arka çıkmayacağım.”",
+     "not": "Kıssa içi söz"
+    },
+    {
+     "sure": 47,
+     "bas": 2,
+     "son": 2,
+     "gerekce": "İnanıp iyilik yapanların kötülüklerinin örtülüp hâllerinin düzeltilmesi.",
+     "not": ""
+    },
+    {
+     "sure": 3,
+     "bas": 133,
+     "son": 133,
+     "gerekce": "Bağışlanmaya ve gökler genişliğindeki cennete koşun.",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 122,
+     "son": 122,
+     "gerekce": "Ölüyken diriltilen ve insanlar arasında yürüyeceği bir ışık verilen kişi.",
+     "not": ""
+    },
+    {
+     "sure": 68,
+     "bas": 49,
+     "son": 50,
+     "gerekce": "Hata yapan Yunus'un yeniden seçilip iyilerden kılınması.",
+     "not": "Kıssa"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "8:53",
+     "neden": "13:11 ile aynı anlam; “Çünkü” ile başlıyor."
+    },
+    {
+     "ref": "61:2-3",
+     "neden": "Söz ile iş tutarlılığı, ama kınama tonunda."
+    },
+    {
+     "ref": "57:16",
+     "neden": "İçimden bir şey gelmiyor havuzunda."
+    }
+   ]
+  },
+  "iyilik": {
+   "secilen": [
+    {
+     "sure": 16,
+     "bas": 90,
+     "son": 90,
+     "gerekce": "Allah'ın adaleti, iyiliği ve yakınlara vermeyi emretmesi. Hutbelerde okunan iyilik ayeti.",
+     "not": ""
+    },
+    {
+     "sure": 59,
+     "bas": 9,
+     "son": 9,
+     "gerekce": "Kendileri muhtaçken bile kardeşlerini kendilerine tercih edenler; nefsin cimriliğinden korunanlar.",
+     "not": ""
+    },
+    {
+     "sure": 76,
+     "bas": 8,
+     "son": 9,
+     "gerekce": "Yoksula, yetime ve esire yedirip “Sizden ne karşılık ne teşekkür bekliyoruz” diyenler.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 3,
+     "bas": 92,
+     "son": 92,
+     "gerekce": "Sevdiğiniz şeylerden vermedikçe iyiliğe eremezsiniz.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 177,
+     "son": 177,
+     "gerekce": "İyiliğin ne olduğu: inanç, yakınlara ve muhtaçlara verme, söze bağlılık ve darlıkta sabır.",
+     "not": "Uzun ayet"
+    },
+    {
+     "sure": 90,
+     "bas": 11,
+     "son": 16,
+     "gerekce": "Sarp yokuş: köle azat etmek, açlık gününde yetimi ve yoksulu doyurmak.",
+     "not": "Kısa ayetler birlikte"
+    },
+    {
+     "sure": 92,
+     "bas": 18,
+     "son": 21,
+     "gerekce": "Malını arınmak için veren, karşılık beklemeyen ve sonunda hoşnut olacak kişi.",
+     "not": "Dört kısa ayet birlikte"
+    },
+    {
+     "sure": 4,
+     "bas": 36,
+     "son": 36,
+     "gerekce": "Anne baba, akraba, yetim, yoksul, yakın ve uzak komşu, yol arkadaşı: iyiliğin halkaları.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 263,
+     "son": 263,
+     "gerekce": "Güzel bir söz ve bağışlama, ardından incitme gelen sadakadan daha hayırlıdır.",
+     "not": ""
+    },
+    {
+     "sure": 17,
+     "bas": 28,
+     "son": 28,
+     "gerekce": "Verecek bir şeyin yoksa en azından gönlünü alacak yumuşak bir söz söyle.",
+     "not": ""
+    },
+    {
+     "sure": 14,
+     "bas": 24,
+     "son": 25,
+     "gerekce": "Güzel söz; kökü sağlam, dalları gökte, her zaman meyve veren bir ağaç gibidir.",
+     "not": ""
+    },
+    {
+     "sure": 55,
+     "bas": 60,
+     "son": 60,
+     "gerekce": "“İyiliğin karşılığı iyilikten başka mıdır?”",
+     "not": ""
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "99:7-8",
+     "neden": "Yetersiz havuzunda."
+    },
+    {
+     "ref": "2:274",
+     "neden": "Aynı anlam 2:177 ve 92:18-21'de var."
+    }
+   ]
+  },
+  "anlam": {
+   "secilen": [
+    {
+     "sure": 23,
+     "bas": 115,
+     "son": 115,
+     "gerekce": "“Sizi boş yere yarattığımızı mı sandınız?”",
+     "not": ""
+    },
+    {
+     "sure": 51,
+     "bas": 56,
+     "son": 56,
+     "gerekce": "İnsanın ve cinnin yaratılış amacı: kulluk.",
+     "not": ""
+    },
+    {
+     "sure": 67,
+     "bas": 2,
+     "son": 2,
+     "gerekce": "Ölümün ve hayatın, kimin daha güzel iş yapacağını sınamak için yaratılması.",
+     "not": ""
+    },
+    {
+     "sure": 6,
+     "bas": 162,
+     "son": 163,
+     "gerekce": "“Namazım, ibadetim, hayatım ve ölümüm âlemlerin Rabbi içindir.”",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 30,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "İnsanın üzerine yaratıldığı fıtrat ve ona yönelmek.",
+     "not": ""
+    },
+    {
+     "sure": 2,
+     "bas": 30,
+     "son": 30,
+     "gerekce": "Yeryüzüne halife yaratılması ve “Ben sizin bilmediğinizi bilirim.”",
+     "not": ""
+    },
+    {
+     "sure": 33,
+     "bas": 72,
+     "son": 72,
+     "gerekce": "Göklerin, yerin ve dağların yüklenmekten çekindiği emaneti insanın yüklenmesi.",
+     "not": "Ayet insanı “çok zalim, çok cahil” diye niteliyor"
+    },
+    {
+     "sure": 28,
+     "bas": 77,
+     "son": 77,
+     "gerekce": "Ahiret yurdunu ara, dünyadan da nasibini unutma, iyilik yap.",
+     "not": ""
+    },
+    {
+     "sure": 18,
+     "bas": 46,
+     "son": 46,
+     "gerekce": "Mal ve çocuklar dünya süsü, kalıcı iyi işler daha hayırlı.",
+     "not": ""
+    },
+    {
+     "sure": 29,
+     "bas": 64,
+     "son": 64,
+     "gerekce": "Dünya hayatı oyun ve eğlence; asıl hayat ahiret yurdu.",
+     "not": ""
+    },
+    {
+     "sure": 44,
+     "bas": 38,
+     "son": 39,
+     "gerekce": "Gökler ve yer oyun için değil, hak ile yaratıldı.",
+     "not": "İki ayet birlikte"
+    },
+    {
+     "sure": 18,
+     "bas": 82,
+     "son": 82,
+     "gerekce": "Hızır'ın açıklaması: anlayamadığımız olayların ardındaki gizli rahmet.",
+     "not": "Kıssa içi söz"
+    }
+   ],
+   "elenen": [
+    {
+     "ref": "3:190-191",
+     "neden": "Durup düşünmek istiyorum havuzunda."
+    },
+    {
+     "ref": "38:27",
+     "neden": "“Boşuna yaratmadık” ama devamı inkârcıları anlatıyor."
+    },
+    {
+     "ref": "75:36",
+     "neden": "23:115 ile aynı anlam."
+    }
+   ]
+  }
+ }
+}

@@ -31,6 +31,8 @@ Amaç: uygulamanın üç veri katmanını Kur'an'ın tamamını okuyarak baştan
 ## İlerleme
 - 2026-11-11: taslak-01 (listeler + Bakara/Duha/Kevser bölümleme + "kaygili" havuzu). Sure taraması başladı.
 - 2026-11-11: TARAMA BİTTİ — 114 sure, 6236 ayet, 661 bölüm, denetim hatası 0. Sıradaki adım: hâl listesinin gözden geçirilmesi ve hâl havuzlarının seçimi.
+- 2026-11-11: 'sevincli' hâli 'umutlu' ile birleştirildi (kullanıcı onayı), 35 hâl kaldı. 35 havuz hazırlandı: data/v3/havuzlar/HAL.txt (+ seçilen, - elenen), `python3 scripts/v3/havuz.py --yaz` ile denetlenip data/v3/havuzlar.json üretiliyor. 406 ayet grubu. Kullanıcı onayı bekleniyor.
+- Aday listesi: `python3 scripts/v3/aday.py HAL [--hepsi]`.
 - Model notu: 1-16. sureler Fable 5.2, 17-114 Opus 5.5 ile yapıldı. Başka model devam ederse bitmiş sure dosyalarını (özellikle 006, 010, 012) üslup örneği olarak okusun: bölüm başlıkları sade, özet tek cümle, etiketler cimri, hâl adayı ancak ayet tek başına teselli/yön veriyorsa. 'kitapehli' konusu eklendi (İnanç grubu).
 
 ## Tarama sırasında gözlemler

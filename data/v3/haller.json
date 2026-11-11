@@ -1,5 +1,5 @@
 {
-  "surum": "taslak-01",
+  "surum": "taslak-02",
   "gruplar": [
     {
       "grup": "Zor anlar",
@@ -146,13 +146,8 @@
         },
         {
           "id": "umutlu",
-          "etiket": "Umutluyum",
-          "aciklama": "Güzel bir beklenti içinde olmak"
-        },
-        {
-          "id": "sevincli",
-          "etiket": "Sevinçliyim",
-          "aciklama": "Güzel bir haber, bir başarı"
+          "etiket": "Umutlu ve sevinçliyim",
+          "aciklama": "Güzel bir haber, bir beklenti, içi açık bir gün"
         },
         {
           "id": "baslangic",
