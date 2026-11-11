@@ -1,0 +1,161 @@
+# 2 Bakara
+# DEVAM: ayet etiketleri 141'e kadar yazıldı; 142'den sürecek. Bölüm sınırları 142 sonrası için okurken gözden geçirilecek.
+=1-5 İnananların özellikleri :: Kitabın kimlere yol gösterdiği ve onların nitelikleri.
+2 vahiy iman
+3 iman salat infak
+4 iman vahiy
+5 iman
+=6-7 Gerçeğe kapanan kalpler :: Uyarıya kulak vermeyenlerin durumu.
+6-7 iman
+=8-20 İnanmış görünenler ve iki benzetme :: İnanmadığı halde inandığını söyleyenlerin tavrı; ateş ve sağanak benzetmeleri.
+8 ikiyuzluluk*
+9-20 ikiyuzluluk
+=21-25 Kulluğa çağrı ve Kur'an'ın meydan okuması :: Yaratana kulluk çağrısı, benzerini getirme çağrısı ve inananlara müjde.
+21 tevhid | anlam
+22 yaratilis tevhid rizik | sukur tefekkur
+23-24 vahiy
+25 cennet
+=26-29 Benzetmeler ve yaratılışı düşünmek :: Örneklerin kimi yola ilettiği; hayat, ölüm ve yeryüzünün insana sunuluşu.
+26 vahiy
+27 emanet
+28 olum kiyamet yaratilis | anlam
+29 yaratilis | tefekkur
+=30-39 Âdem: insanın yeryüzündeki görevi :: İnsanın yeryüzüne yerleştirilmesi, İblis'in büyüklenmesi, yanılgı ve tövbe.
+30 adem* melekler | anlam
+31-33 adem bilgi melekler
+34 adem seytan kibir
+35 adem
+36 adem seytan
+37 adem tovbe | pisman!
+38 adem iman
+39 cehennem
+=40-48 İsrailoğullarına çağrı: sözünüzü tutun :: Verilen nimetleri hatırlama, sözü tutma ve gerçeği gizlememe çağrısı.
+40 israil emanet
+41 israil vahiy
+42 dogruluk* israil
+43 salat zekat
+44 ictenlik akil
+45 sabir salat dua | bunalmis! caresiz
+46 kiyamet
+47 israil
+48 hesap sefaat*
+=49-61 Kurtuluş, nimetler ve nankörlük :: Firavun'dan kurtuluş, çölde verilen nimetler ve bunlara karşı takınılan tavır.
+49 israil musa sinav
+50 israil musa
+51 israil
+52 israil af sukur
+53 musa vahiy
+54 israil tovbe
+55-56 israil
+57 israil rizik
+58-59 israil
+60 israil musa rizik
+61 israil sukur
+=62-66 Kimler kurtulur; verilen söz ve çiğneyenler :: İnanıp iyilik yapan herkese güvence; alınan söz ve cumartesi yasağını çiğneyenler.
+62 iman birlikte karsilik | kaygili
+63 israil emanet
+64 israil merhamet
+65 israil ceza
+66 israil
+=67-74 Sığır kıssası ve katılaşan kalpler :: Basit bir buyruğun sorularla zorlaştırılması ve kalplerin katılaşması.
+67-71 israil musa
+72-73 israil kiyamet
+74 israil
+=75-82 Kitabı çarpıtanlar ve boş kuruntular :: Sözü bile bile değiştirenler, kuruntuya dayananlar ve gerçek ölçü.
+75 israil vahiy
+76 ikiyuzluluk israil
+77 allah
+78 bilgi zan
+79 vahiy dogruluk
+80 israil
+81 cehennem karsilik
+82 cennet iman
+=83-86 Verilen sözün çiğnenmesi :: Kulluk, iyilik ve güzel söz üzerine alınan söz ile bu sözün bozuluşu.
+83 israil annebaba* yetim guzelsoz* salat zekat emanet
+84 israil emanet
+85 israil
+86 dunya
+=87-96 Elçilere karşı tutum :: Hoşa gitmeyeni getiren elçilerin yalanlanması ve dünyaya düşkünlük.
+87 elciler musa isa kibir
+88 iman
+89 israil vahiy
+90 kiskanclik* israil
+91 israil vahiy
+92 israil musa
+93 israil
+94-95 israil olum
+96 dunya olum zaman
+=97-103 Cibrîl'e düşmanlık, Süleyman ve sihir :: Vahyi getirene düşmanlık; Süleyman hakkında uydurulanlar ve büyü.
+97 melekler vahiy
+98 melekler
+99 vahiy
+100 emanet israil
+101 israil
+102 davud seytan
+103 iman
+=104-110 İnananlara uyarılar :: Söz seçimi, ayetlerin değişmesi, kıskançlığa karşı af ve iyilikte süreklilik.
+104 guzelsoz
+105 kiskanclik merhamet
+106 vahiy
+107 allah
+108 elciler iman
+109 kiskanclik af* birlikte | kirgin affetmek
+110 salat zekat karsilik | iyilik
+=111-121 “Cennet yalnız bizim” iddiası :: Kurtuluşu bir gruba ait sayanlara cevap ve Allah'ın her yerde oluşu.
+111 birlikte
+112 iman ictenlik karsilik | kaygili! korku
+113 birlikte hesap
+114 zikir
+115 allah* | yalniz! daginik
+116 tevhid
+117 yaratilis allah
+118 vahiy iman
+119 elciler
+120 birlikte vahiy
+121 vahiy iman
+=122-129 İbrahim'in sınanması ve Kâbe :: İbrahim'in önder kılınması, Beyt'in kuruluşu ve İbrahim ile İsmail'in duası.
+122 israil
+123 hesap sefaat
+124 ibrahim* sinav yonetim adalet
+125 ibrahim hac
+126 ibrahim dua rizik
+127 ibrahim dua hac
+128 ibrahim dua tovbe
+129 ibrahim dua elciler
+=130-141 İbrahim'in yolu :: İbrahim'in teslimiyeti, çocuklarına vasiyeti ve herkesin kendi yaptığından sorumlu oluşu.
+130 ibrahim
+131 ibrahim iman
+132 ibrahim cocuk olum
+133 cocuk tevhid
+134 sorumluluk*
+135 ibrahim tevhid
+136 iman elciler vahiy
+137 iman tevekkul
+138 ictenlik
+139 ictenlik birlikte
+140 ibrahim dogruluk
+141 sorumluluk
+=142-152 Kıblenin değişmesi :: Yönün değişmesi, bunun bir sınav oluşu ve hayırda yarışma çağrısı.
+=153-157 Sabır ve sınanma :: Sabırla yardım dileme; korku, açlık ve kayıpla sınanma ve sabredenlere müjde.
+=158-162 Safa ile Merve; gerçeği gizleyenler :: Haccın nişaneleri ve indirileni gizleyenlerin durumu.
+=163-167 Tek ilah, evrendeki işaretler ve körü körüne bağlananlar :: Evrendeki düzenin gösterdikleri ve uyulanların uyanlardan uzaklaşacağı gün.
+=168-176 Helal ve temiz yiyecekler :: Temiz olandan yeme, ataları körü körüne izlememe ve yasaklanan yiyecekler.
+=177-177 Gerçek iyilik nedir? :: İyiliğin yön değil; iman, paylaşma, söze bağlılık ve sabır olduğu.
+=178-182 Kısas ve vasiyet :: Öldürmede karşılık ve af; ölüm yaklaşınca vasiyet.
+=183-188 Oruç ve haksız kazanç :: Orucun hükümleri, duaya yakınlık ve başkasının malını haksız yememe.
+=189-195 Ay evreleri ve savaşın sınırları :: Savaşın yalnızca saldırana karşı ve sınırlar içinde olması.
+=196-203 Hac :: Hac ve umrenin kuralları, Allah'ı anma ve dünya ile ahiret için dua.
+=204-214 İki insan tipi; sınanmadan kurtuluş yok :: Sözü hoşa giden bozguncu ile kendini adayan insan; öncekilerin çektikleri.
+=215-220 Sorular: paylaşmak, savaş, içki ve kumar, yetimler :: Sorulan konulara verilen kısa cevaplar.
+=221-232 Evlilik ve boşanma :: Evlilikte ölçüler, boşanmanın kuralları ve kadınların hakları.
+=233-237 Emzirme, dulluk ve mehir :: Çocuğun bakımı, eşi ölen kadının durumu ve mehir.
+=238-242 Salâtı korumak; dul ve boşanmışların hakkı :: Salâtın korunması ve geride kalan eşlerin geçimi.
+=243-252 Tâlût ve Câlût :: Ölüm korkusu, Tâlût'un önderliği, sınanan ordu ve azın çoğa üstün gelişi.
+=253-254 Elçiler ve paylaşma çağrısı :: Elçilerin farklı lütufları ve o gün gelmeden paylaşma çağrısı.
+=255-255 Âyetü'l-Kürsî :: Allah'ın diriliği, bilgisi ve egemenliği.
+=256-257 Dinde zorlama yoktur :: Doğrunun yanlıştan ayrıldığı ve inananların karanlıktan aydınlığa çıkarıldığı.
+=258-260 İbrahim ve dirilişin kanıtları :: Üç kıssa: hükümdarla tartışma, yıkık kent ve kuşlar.
+=261-274 Paylaşmanın bereketi :: Başa kakmadan, gösterişsiz ve temiz olandan vermek.
+=275-281 Faiz :: Faizin yasaklanışı, borçluya süre tanıma ve hesap günü.
+=282-283 Borç ve tanıklık :: Borcun yazılması, tanıklar ve emanet.
+=284-286 Kapanış: iman ve dua :: Her şeyin Allah'a ait oluşu, elçinin ve inananların imanı ve yük duası.

@@ -1,0 +1,391 @@
+{
+  "surum": "taslak-01",
+  "gruplar": [
+    {
+      "grup": "İç dünya",
+      "konular": [
+        {
+          "id": "sabir",
+          "ad": "Sabır"
+        },
+        {
+          "id": "umut",
+          "ad": "Umut"
+        },
+        {
+          "id": "tevekkul",
+          "ad": "Güven ve teslimiyet (tevekkül)"
+        },
+        {
+          "id": "sukur",
+          "ad": "Şükür"
+        },
+        {
+          "id": "tovbe",
+          "ad": "Pişmanlık ve tövbe"
+        },
+        {
+          "id": "ofke",
+          "ad": "Öfke ve kendine hâkim olmak"
+        },
+        {
+          "id": "kibir",
+          "ad": "Kibir ve alçakgönüllülük"
+        },
+        {
+          "id": "kiskanclik",
+          "ad": "Kıskançlık ve yetinmek"
+        },
+        {
+          "id": "korku",
+          "ad": "Korku ve güvende olmak"
+        },
+        {
+          "id": "teselli",
+          "ad": "Üzüntü ve teselli"
+        },
+        {
+          "id": "huzur",
+          "ad": "Kalbin huzuru"
+        },
+        {
+          "id": "ictenlik",
+          "ad": "İçtenlik"
+        }
+      ]
+    },
+    {
+      "grup": "İnsanlarla ilişkiler",
+      "konular": [
+        {
+          "id": "af",
+          "ad": "Affetmek"
+        },
+        {
+          "id": "merhamet",
+          "ad": "Merhamet ve şefkat"
+        },
+        {
+          "id": "adalet",
+          "ad": "Adalet"
+        },
+        {
+          "id": "dogruluk",
+          "ad": "Doğru sözlülük"
+        },
+        {
+          "id": "emanet",
+          "ad": "Sözünde durmak ve emanet"
+        },
+        {
+          "id": "guzelsoz",
+          "ad": "Güzel söz ve nezaket"
+        },
+        {
+          "id": "zan",
+          "ad": "Dedikodu, zan ve alay"
+        },
+        {
+          "id": "yardimlasma",
+          "ad": "İyilikte yardımlaşmak"
+        },
+        {
+          "id": "baris",
+          "ad": "Ara bulmak ve barış"
+        },
+        {
+          "id": "dostluk",
+          "ad": "Dostluk ve çevre seçimi"
+        },
+        {
+          "id": "birlikte",
+          "ad": "Farklı inançlarla birlikte yaşamak"
+        }
+      ]
+    },
+    {
+      "grup": "Aile",
+      "konular": [
+        {
+          "id": "annebaba",
+          "ad": "Anne ve baba"
+        },
+        {
+          "id": "evlilik",
+          "ad": "Evlilik ve eşler"
+        },
+        {
+          "id": "cocuk",
+          "ad": "Çocuklar"
+        },
+        {
+          "id": "bosanma",
+          "ad": "Boşanma"
+        },
+        {
+          "id": "akraba",
+          "ad": "Akrabalar ve komşular"
+        },
+        {
+          "id": "yetim",
+          "ad": "Yetimler ve kimsesizler"
+        },
+        {
+          "id": "miras",
+          "ad": "Miras ve vasiyet"
+        }
+      ]
+    },
+    {
+      "grup": "Geçim ve mal",
+      "konular": [
+        {
+          "id": "rizik",
+          "ad": "Rızık"
+        },
+        {
+          "id": "infak",
+          "ad": "Paylaşmak (infak, sadaka)"
+        },
+        {
+          "id": "israf",
+          "ad": "Savurganlık ve cimrilik"
+        },
+        {
+          "id": "ticaret",
+          "ad": "Ticarette dürüstlük"
+        },
+        {
+          "id": "faiz",
+          "ad": "Faiz ve borç"
+        },
+        {
+          "id": "dunya",
+          "ad": "Dünya hayatının geçiciliği"
+        },
+        {
+          "id": "servet",
+          "ad": "Zenginlik ve yoksullukla sınanmak"
+        }
+      ]
+    },
+    {
+      "grup": "İnanç",
+      "konular": [
+        {
+          "id": "allah",
+          "ad": "Allah'ı tanımak"
+        },
+        {
+          "id": "tevhid",
+          "ad": "Tek ilah, ortak koşmamak"
+        },
+        {
+          "id": "yaratilis",
+          "ad": "Yaratılış ve evrendeki işaretler"
+        },
+        {
+          "id": "vahiy",
+          "ad": "Vahiy ve Kur'an"
+        },
+        {
+          "id": "elciler",
+          "ad": "Elçiler"
+        },
+        {
+          "id": "melekler",
+          "ad": "Melekler"
+        },
+        {
+          "id": "iman",
+          "ad": "İman ve inkâr"
+        },
+        {
+          "id": "ikiyuzluluk",
+          "ad": "İkiyüzlülük"
+        },
+        {
+          "id": "seytan",
+          "ad": "Şeytan ve vesvese"
+        },
+        {
+          "id": "akil",
+          "ad": "Akıl ve düşünmek"
+        }
+      ]
+    },
+    {
+      "grup": "Kulluk",
+      "konular": [
+        {
+          "id": "dua",
+          "ad": "Dua"
+        },
+        {
+          "id": "salat",
+          "ad": "Salât (namaz)"
+        },
+        {
+          "id": "oruc",
+          "ad": "Oruç"
+        },
+        {
+          "id": "hac",
+          "ad": "Hac"
+        },
+        {
+          "id": "zekat",
+          "ad": "Zekât"
+        },
+        {
+          "id": "zikir",
+          "ad": "Allah'ı anmak (zikir)"
+        },
+        {
+          "id": "helal",
+          "ad": "Helal ve haram"
+        },
+        {
+          "id": "yemin",
+          "ad": "Yemin ve adak"
+        }
+      ]
+    },
+    {
+      "grup": "Hayat sınavı",
+      "konular": [
+        {
+          "id": "sinav",
+          "ad": "Sınanmak ve zorluk"
+        },
+        {
+          "id": "olum",
+          "ad": "Ölüm"
+        },
+        {
+          "id": "hastalik",
+          "ad": "Hastalık ve şifa"
+        },
+        {
+          "id": "zaman",
+          "ad": "Zaman ve ömür"
+        },
+        {
+          "id": "sorumluluk",
+          "ad": "Sorumluluk ve özgür seçim"
+        },
+        {
+          "id": "karsilik",
+          "ad": "İyiliğin ve kötülüğün karşılığı"
+        },
+        {
+          "id": "bilgi",
+          "ad": "Bilgi ve öğrenmek"
+        }
+      ]
+    },
+    {
+      "grup": "Ahiret",
+      "konular": [
+        {
+          "id": "kiyamet",
+          "ad": "Kıyamet ve diriliş"
+        },
+        {
+          "id": "hesap",
+          "ad": "Hesap"
+        },
+        {
+          "id": "cennet",
+          "ad": "Cennet"
+        },
+        {
+          "id": "cehennem",
+          "ad": "Cehennem"
+        },
+        {
+          "id": "sefaat",
+          "ad": "Şefaat"
+        }
+      ]
+    },
+    {
+      "grup": "Toplum",
+      "konular": [
+        {
+          "id": "yonetim",
+          "ad": "Adaletli yönetim ve danışma"
+        },
+        {
+          "id": "direnis",
+          "ad": "Haksızlığa karşı durmak"
+        },
+        {
+          "id": "savas",
+          "ad": "Savaş ve barış kuralları"
+        },
+        {
+          "id": "ceza",
+          "ad": "Suç ve ceza"
+        },
+        {
+          "id": "kadinerkek",
+          "ad": "Kadın ve erkek hakları"
+        },
+        {
+          "id": "zayiflar",
+          "ad": "Zayıfların korunması"
+        }
+      ]
+    },
+    {
+      "grup": "Kıssalar",
+      "konular": [
+        {
+          "id": "adem",
+          "ad": "Âdem"
+        },
+        {
+          "id": "nuh",
+          "ad": "Nuh"
+        },
+        {
+          "id": "ibrahim",
+          "ad": "İbrahim"
+        },
+        {
+          "id": "yusuf",
+          "ad": "Yusuf"
+        },
+        {
+          "id": "musa",
+          "ad": "Musa ve Firavun"
+        },
+        {
+          "id": "israil",
+          "ad": "İsrailoğulları"
+        },
+        {
+          "id": "davud",
+          "ad": "Davud ve Süleyman"
+        },
+        {
+          "id": "isa",
+          "ad": "Meryem ve İsa"
+        },
+        {
+          "id": "digerelciler",
+          "ad": "Diğer elçiler (Hud, Salih, Lut, Şuayb, Yunus, Eyyub…)"
+        },
+        {
+          "id": "helak",
+          "ad": "Geçmiş toplumların sonu"
+        },
+        {
+          "id": "digerkissa",
+          "ad": "Diğer kıssalar (Mağara arkadaşları, Zülkarneyn, Lokman…)"
+        }
+      ]
+    }
+  ]
+}

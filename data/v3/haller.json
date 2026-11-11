@@ -1,0 +1,200 @@
+{
+  "surum": "taslak-01",
+  "gruplar": [
+    {
+      "grup": "Zor anlar",
+      "haller": [
+        {
+          "id": "yorgun",
+          "etiket": "Yorgunum",
+          "aciklama": "Bedenen ya da ruhen tükenmiş hissetmek"
+        },
+        {
+          "id": "bunalmis",
+          "etiket": "Bunaldım",
+          "aciklama": "Her şeyin üst üste geldiği anlar"
+        },
+        {
+          "id": "kaygili",
+          "etiket": "Kaygılıyım",
+          "aciklama": "Gelecek, belirsizlik, 'ya olmazsa' düşüncesi"
+        },
+        {
+          "id": "korku",
+          "etiket": "Korkuyorum",
+          "aciklama": "Somut bir tehlikeden ya da adını koyamadığın bir şeyden korkmak"
+        },
+        {
+          "id": "uzgun",
+          "etiket": "Üzgünüm",
+          "aciklama": "Sebebi belli ya da belirsiz hüzün"
+        },
+        {
+          "id": "kayip",
+          "etiket": "Bir kaybım var",
+          "aciklama": "Yas; bir yakını, bir imkânı, bir dönemi kaybetmek"
+        },
+        {
+          "id": "yalniz",
+          "etiket": "Yalnız hissediyorum",
+          "aciklama": "Anlaşılmamak, kimsesizlik"
+        },
+        {
+          "id": "kirgin",
+          "etiket": "Kırgınım",
+          "aciklama": "Birinin sözüne ya da davranışına incinmek"
+        },
+        {
+          "id": "ofkeli",
+          "etiket": "Öfkeliyim",
+          "aciklama": "Öfkeyi yatıştırmak istemek"
+        },
+        {
+          "id": "haksizlik",
+          "etiket": "Haksızlığa uğradım",
+          "aciklama": "Hakkı yenmiş olmak, adalet beklemek"
+        },
+        {
+          "id": "caresiz",
+          "etiket": "Çaresizim",
+          "aciklama": "Elinden bir şey gelmediğini hissetmek"
+        },
+        {
+          "id": "umutsuz",
+          "etiket": "Umudum azaldı",
+          "aciklama": "Düzelmeyeceğini düşünmek"
+        },
+        {
+          "id": "pisman",
+          "etiket": "Pişmanım",
+          "aciklama": "Yaptığı bir şeyin yükünü taşımak"
+        },
+        {
+          "id": "yetersiz",
+          "etiket": "Kendimi yetersiz hissediyorum",
+          "aciklama": "Değersizlik, başaramama duygusu"
+        },
+        {
+          "id": "kiyas",
+          "etiket": "Kendimi başkalarıyla kıyaslıyorum",
+          "aciklama": "Kıskançlık, eksik kalmışlık"
+        },
+        {
+          "id": "sabirsiz",
+          "etiket": "Sabrım tükeniyor",
+          "aciklama": "Beklemek, sonuç alamamak"
+        },
+        {
+          "id": "kararsiz",
+          "etiket": "Kararsızım",
+          "aciklama": "Bir karar arifesinde olmak"
+        },
+        {
+          "id": "isteksiz",
+          "etiket": "İçimden bir şey gelmiyor",
+          "aciklama": "Boşluk, anlamsızlık, erteleme"
+        },
+        {
+          "id": "gecim",
+          "etiket": "Geçim derdindeyim",
+          "aciklama": "Para, iş, borç sıkıntısı"
+        },
+        {
+          "id": "hasta",
+          "etiket": "Hastalıkla uğraşıyorum",
+          "aciklama": "Kendi ya da bir yakınının hastalığı"
+        },
+        {
+          "id": "gece",
+          "etiket": "Gece, aklım dolu",
+          "aciklama": "Uykusuzluk, susmayan düşünceler"
+        },
+        {
+          "id": "daginik",
+          "etiket": "Kafam çok dağınık",
+          "aciklama": "Gürültüden, koşturmadan uzaklaşmak istemek"
+        },
+        {
+          "id": "aile",
+          "etiket": "Ailemle zorlanıyorum",
+          "aciklama": "Eş, anne-baba, çocuk, akraba ilişkileri"
+        },
+        {
+          "id": "yuk",
+          "etiket": "Üzerimde ağır bir sorumluluk var",
+          "aciklama": "Bakım, iş, karar yükü"
+        },
+        {
+          "id": "tereddut",
+          "etiket": "İnancımda sorularım var",
+          "aciklama": "Sorgulamak, emin olamamak"
+        }
+      ]
+    },
+    {
+      "grup": "İyi anlar",
+      "haller": [
+        {
+          "id": "sukur",
+          "etiket": "Şükür doluyum",
+          "aciklama": "Elindekinin kıymetini hissetmek"
+        },
+        {
+          "id": "huzurlu",
+          "etiket": "Huzurluyum",
+          "aciklama": "Bu hâli derinleştirmek istemek"
+        },
+        {
+          "id": "umutlu",
+          "etiket": "Umutluyum",
+          "aciklama": "Güzel bir beklenti içinde olmak"
+        },
+        {
+          "id": "sevincli",
+          "etiket": "Sevinçliyim",
+          "aciklama": "Güzel bir haber, bir başarı"
+        },
+        {
+          "id": "baslangic",
+          "etiket": "Yeni bir başlangıçtayım",
+          "aciklama": "Yeni iş, evlilik, taşınma, karar"
+        },
+        {
+          "id": "sevgi",
+          "etiket": "Sevdiklerimi düşünüyorum",
+          "aciklama": "Aile, dost, sevgi ve vefa"
+        },
+        {
+          "id": "tefekkur",
+          "etiket": "Durup düşünmek istiyorum",
+          "aciklama": "Evrene, hayata, kendine bakmak"
+        }
+      ]
+    },
+    {
+      "grup": "Yön ararken",
+      "haller": [
+        {
+          "id": "affetmek",
+          "etiket": "Affetmek istiyorum",
+          "aciklama": "Ama zor geliyor"
+        },
+        {
+          "id": "toparlanmak",
+          "etiket": "Kendimi toparlamak istiyorum",
+          "aciklama": "Kötü bir alışkanlığı bırakmak, yeniden başlamak"
+        },
+        {
+          "id": "iyilik",
+          "etiket": "Birine iyilik yapmak istiyorum",
+          "aciklama": "Paylaşmak, yardım etmek"
+        },
+        {
+          "id": "anlam",
+          "etiket": "Hayatın anlamını düşünüyorum",
+          "aciklama": "Niçin buradayım sorusu"
+        }
+      ]
+    }
+  ]
+}
