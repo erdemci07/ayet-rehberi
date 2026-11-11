@@ -1,0 +1,54 @@
+# 14 İbrâhîm
+=1-4 Karanlıklardan aydınlığa çıkaran Kitap :: Kitabın amacı ve her elçinin kendi halkının diliyle gönderilişi.
+1 vahiy*
+2 allah cehennem
+3 dunya
+4 elciler vahiy
+=5-8 Musa: nimeti hatırlayın, şükrederseniz artar :: Musa'nın halkına hatırlatması ve şükrün nimeti artıracağı.
+5 musa sabir sukur
+6 musa israil sukur
+7 sukur* | sukur!
+8 musa allah
+=9-17 Elçiler ve halkları: güven ve sabır :: Elçilere “siz de bizim gibi insansınız” diyenler ve elçilerin Allah'a güvenip sabretmesi.
+9 elciler helak
+10 elciler tevhid
+11 elciler tevekkul
+12 tevekkul* sabir elciler | haksizlik! kaygili
+13 elciler direnis
+14 elciler umut
+15 helak
+16-17 cehennem
+=18-23 Savrulan kül; şeytanın itirafı :: Nankörlerin yaptıklarının kül gibi savrulması ve şeytanın “beni değil kendinizi kınayın” demesi.
+18 karsilik iman
+19-20 allah yaratilis
+21 hesap kibir
+22 seytan* sorumluluk hesap
+23 cennet
+=24-27 Güzel söz ve kötü söz :: Kökü sağlam, dalları gökte ağaç gibi olan güzel söz ile kökünden kopmuş ağaç gibi olan kötü söz.
+24-25 guzelsoz* | iyilik
+26 guzelsoz
+27 iman
+=28-34 Sayılamayan nimetler :: Nimeti nankörlüğe çevirenler ve insanın hizmetine verilen gökler, yer, gece ve gündüz.
+28-30 sukur cehennem tevhid
+31 salat infak kiyamet
+32 yaratilis rizik | sukur tefekkur
+33 yaratilis
+34 sukur* rizik | sukur!
+=35-41 İbrahim'in duası :: Güvenli şehir, salâtı ikame eden bir nesil ve anne babası için bağışlanma dileği.
+35 ibrahim dua tevhid cocuk
+36 ibrahim merhamet
+37 ibrahim dua cocuk rizik hac | aile
+38 ibrahim allah dua
+39 ibrahim sukur cocuk dua | sukur sevincli
+40 ibrahim dua* salat cocuk | aile
+41 ibrahim dua annebaba | aile sevgi
+=42-52 Zalimlere tanınan süre ve o gün :: Allah'ın zalimlerden habersiz olmayışı, ertelenen hesap ve yeryüzünün değişeceği gün.
+42 adalet* zaman hesap | haksizlik!
+43 hesap
+44 hesap zaman
+45 helak
+46-47 allah elciler
+48 kiyamet
+49-50 cehennem
+51 karsilik hesap
+52 vahiy tevhid akil
