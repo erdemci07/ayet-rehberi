@@ -1,0 +1,709 @@
+{
+  "surum": "taslak-01",
+  "tarih": "2026-11-11",
+  "haller": [
+    {
+      "grup": "Zor anlar",
+      "haller": [
+        {
+          "id": "yorgun",
+          "etiket": "Yorgunum",
+          "aciklama": "Bedenen ya da ruhen tükenmiş hissetmek"
+        },
+        {
+          "id": "bunalmis",
+          "etiket": "Bunaldım",
+          "aciklama": "Her şeyin üst üste geldiği anlar"
+        },
+        {
+          "id": "kaygili",
+          "etiket": "Kaygılıyım",
+          "aciklama": "Gelecek, belirsizlik, 'ya olmazsa' düşüncesi"
+        },
+        {
+          "id": "korku",
+          "etiket": "Korkuyorum",
+          "aciklama": "Somut bir şeyden korkmak"
+        },
+        {
+          "id": "uzgun",
+          "etiket": "Üzgünüm",
+          "aciklama": "Sebebi belli ya da belirsiz hüzün"
+        },
+        {
+          "id": "kayip",
+          "etiket": "Bir kaybım var",
+          "aciklama": "Yas; bir yakını, bir imkânı, bir dönemi kaybetmek"
+        },
+        {
+          "id": "yalniz",
+          "etiket": "Yalnız hissediyorum",
+          "aciklama": "Anlaşılmamak, kimsesizlik"
+        },
+        {
+          "id": "kirgin",
+          "etiket": "Kırgınım",
+          "aciklama": "Birinin sözüne ya da davranışına incinmek"
+        },
+        {
+          "id": "ofkeli",
+          "etiket": "Öfkeliyim",
+          "aciklama": "Öfkeyi yatıştırmak istemek"
+        },
+        {
+          "id": "haksizlik",
+          "etiket": "Haksızlığa uğradım",
+          "aciklama": "Hakkı yenmiş olmak, adalet beklemek"
+        },
+        {
+          "id": "caresiz",
+          "etiket": "Çaresizim",
+          "aciklama": "Elinden bir şey gelmediğini hissetmek"
+        },
+        {
+          "id": "umutsuz",
+          "etiket": "Umudum azaldı",
+          "aciklama": "Düzelmeyeceğini düşünmek"
+        },
+        {
+          "id": "pisman",
+          "etiket": "Pişmanım",
+          "aciklama": "Yaptığı bir şeyin yükünü taşımak"
+        },
+        {
+          "id": "yetersiz",
+          "etiket": "Kendimi yetersiz hissediyorum",
+          "aciklama": "Değersizlik, başaramama duygusu"
+        },
+        {
+          "id": "kiyas",
+          "etiket": "Kendimi başkalarıyla kıyaslıyorum",
+          "aciklama": "Kıskançlık, eksik kalmışlık"
+        },
+        {
+          "id": "sabirsiz",
+          "etiket": "Sabrım tükeniyor",
+          "aciklama": "Beklemek, sonuç alamamak"
+        },
+        {
+          "id": "kararsiz",
+          "etiket": "Kararsızım",
+          "aciklama": "Bir karar arifesinde olmak"
+        },
+        {
+          "id": "isteksiz",
+          "etiket": "İçimden bir şey gelmiyor",
+          "aciklama": "Boşluk, anlamsızlık, erteleme"
+        },
+        {
+          "id": "gecim",
+          "etiket": "Geçim derdindeyim",
+          "aciklama": "Para, iş, borç sıkıntısı"
+        },
+        {
+          "id": "hasta",
+          "etiket": "Hastalıkla uğraşıyorum",
+          "aciklama": "Kendi ya da bir yakınının hastalığı"
+        },
+        {
+          "id": "gece",
+          "etiket": "Gece, aklım dolu",
+          "aciklama": "Uykusuzluk, susmayan düşünceler"
+        },
+        {
+          "id": "daginik",
+          "etiket": "Kafam çok dağınık",
+          "aciklama": "Gürültüden, koşturmadan uzaklaşmak istemek"
+        },
+        {
+          "id": "aile",
+          "etiket": "Ailemle zorlanıyorum",
+          "aciklama": "Eş, anne-baba, çocuk, akraba ilişkileri"
+        },
+        {
+          "id": "yuk",
+          "etiket": "Üzerimde ağır bir sorumluluk var",
+          "aciklama": "Bakım, iş, karar yükü"
+        },
+        {
+          "id": "tereddut",
+          "etiket": "İnancımda sorularım var",
+          "aciklama": "Sorgulamak, emin olamamak"
+        }
+      ]
+    },
+    {
+      "grup": "İyi anlar",
+      "haller": [
+        {
+          "id": "sukur",
+          "etiket": "Şükür doluyum",
+          "aciklama": "Elindekinin kıymetini hissetmek"
+        },
+        {
+          "id": "huzurlu",
+          "etiket": "Huzurluyum",
+          "aciklama": "Bu hâli derinleştirmek istemek"
+        },
+        {
+          "id": "umutlu",
+          "etiket": "Umutluyum",
+          "aciklama": "Güzel bir beklenti içinde olmak"
+        },
+        {
+          "id": "sevincli",
+          "etiket": "Sevinçliyim",
+          "aciklama": "Güzel bir haber, bir başarı"
+        },
+        {
+          "id": "baslangic",
+          "etiket": "Yeni bir başlangıçtayım",
+          "aciklama": "Yeni iş, evlilik, taşınma, karar"
+        },
+        {
+          "id": "sevgi",
+          "etiket": "Sevdiklerimi düşünüyorum",
+          "aciklama": "Aile, dost, sevgi ve vefa"
+        },
+        {
+          "id": "tefekkur",
+          "etiket": "Durup düşünmek istiyorum",
+          "aciklama": "Evrene, hayata, kendine bakmak"
+        }
+      ]
+    },
+    {
+      "grup": "Yön ararken",
+      "haller": [
+        {
+          "id": "affetmek",
+          "etiket": "Affetmek istiyorum",
+          "aciklama": "Ama zor geliyor"
+        },
+        {
+          "id": "toparlanmak",
+          "etiket": "Kendimi toparlamak istiyorum",
+          "aciklama": "Kötü bir alışkanlığı bırakmak, yeniden başlamak"
+        },
+        {
+          "id": "iyilik",
+          "etiket": "Birine iyilik yapmak istiyorum",
+          "aciklama": "Paylaşmak, yardım etmek"
+        },
+        {
+          "id": "anlam",
+          "etiket": "Hayatın anlamını düşünüyorum",
+          "aciklama": "Niçin buradayım sorusu"
+        }
+      ]
+    }
+  ],
+  "konular": [
+    {
+      "grup": "İç dünya",
+      "konular": [
+        "Sabır",
+        "Umut",
+        "Güven ve teslimiyet (tevekkül)",
+        "Şükür",
+        "Pişmanlık ve tövbe",
+        "Öfke ve kendine hâkim olmak",
+        "Kibir ve alçakgönüllülük",
+        "Kıskançlık ve yetinmek",
+        "Korku ve güvende olmak",
+        "Üzüntü ve teselli",
+        "Kalbin huzuru",
+        "İçtenlik"
+      ]
+    },
+    {
+      "grup": "İnsanlarla ilişkiler",
+      "konular": [
+        "Affetmek",
+        "Merhamet ve şefkat",
+        "Adalet",
+        "Doğru sözlülük",
+        "Sözünde durmak ve emanet",
+        "Güzel söz ve nezaket",
+        "Dedikodu, zan ve alay",
+        "İyilikte yardımlaşmak",
+        "Ara bulmak ve barış",
+        "Dostluk ve çevre seçimi",
+        "Farklı inançlarla birlikte yaşamak"
+      ]
+    },
+    {
+      "grup": "Aile",
+      "konular": [
+        "Anne ve baba",
+        "Evlilik ve eşler",
+        "Çocuklar",
+        "Boşanma",
+        "Akrabalar ve komşular",
+        "Yetimler ve kimsesizler",
+        "Miras ve vasiyet"
+      ]
+    },
+    {
+      "grup": "Geçim ve mal",
+      "konular": [
+        "Rızık",
+        "Paylaşmak (infak, sadaka)",
+        "Savurganlık ve cimrilik",
+        "Ticarette dürüstlük",
+        "Faiz ve borç",
+        "Dünya hayatının geçiciliği",
+        "Zenginlik ve yoksullukla sınanmak"
+      ]
+    },
+    {
+      "grup": "İnanç",
+      "konular": [
+        "Allah'ı tanımak",
+        "Tek ilah, ortak koşmamak",
+        "Yaratılış ve evrendeki işaretler",
+        "Vahiy ve Kur'an",
+        "Elçiler",
+        "Melekler",
+        "İman ve inkâr",
+        "İkiyüzlülük",
+        "Şeytan ve vesvese",
+        "Akıl ve düşünmek"
+      ]
+    },
+    {
+      "grup": "Kulluk",
+      "konular": [
+        "Dua",
+        "Salât (namaz)",
+        "Oruç",
+        "Hac",
+        "Zekât",
+        "Allah'ı anmak (zikir)",
+        "Helal ve haram",
+        "Yemin ve adak"
+      ]
+    },
+    {
+      "grup": "Hayat sınavı",
+      "konular": [
+        "Sınanmak ve zorluk",
+        "Ölüm",
+        "Hastalık ve şifa",
+        "Zaman ve ömür",
+        "Sorumluluk ve özgür seçim",
+        "İyiliğin ve kötülüğün karşılığı",
+        "Bilgi ve öğrenmek"
+      ]
+    },
+    {
+      "grup": "Ahiret",
+      "konular": [
+        "Kıyamet ve diriliş",
+        "Hesap",
+        "Cennet",
+        "Cehennem",
+        "Şefaat"
+      ]
+    },
+    {
+      "grup": "Toplum",
+      "konular": [
+        "Adaletli yönetim ve danışma",
+        "Haksızlığa karşı durmak",
+        "Savaş ve barış kuralları",
+        "Suç ve ceza",
+        "Kadın ve erkek hakları",
+        "Zayıfların korunması"
+      ]
+    },
+    {
+      "grup": "Kıssalar",
+      "konular": [
+        "Âdem",
+        "Nuh",
+        "İbrahim",
+        "Yusuf",
+        "Musa ve Firavun",
+        "İsrailoğulları",
+        "Davud ve Süleyman",
+        "Meryem ve İsa",
+        "Diğer elçiler (Hud, Salih, Lut, Şuayb, Yunus, Eyyub…)",
+        "Geçmiş toplumların sonu",
+        "Diğer kıssalar (Mağara arkadaşları, Zülkarneyn, Lokman…)"
+      ]
+    }
+  ],
+  "bolum_ornekleri": {
+    "2": [
+      {
+        "bas": 1,
+        "son": 5,
+        "baslik": "İnananların özellikleri"
+      },
+      {
+        "bas": 6,
+        "son": 7,
+        "baslik": "Gerçeğe kapanan kalpler"
+      },
+      {
+        "bas": 8,
+        "son": 20,
+        "baslik": "İnanmış görünenler ve iki benzetme"
+      },
+      {
+        "bas": 21,
+        "son": 25,
+        "baslik": "Kulluğa çağrı ve Kur'an'ın meydan okuması"
+      },
+      {
+        "bas": 26,
+        "son": 29,
+        "baslik": "Benzetmeler ve yaratılışı düşünmek"
+      },
+      {
+        "bas": 30,
+        "son": 39,
+        "baslik": "Âdem: insanın yeryüzündeki görevi"
+      },
+      {
+        "bas": 40,
+        "son": 48,
+        "baslik": "İsrailoğullarına çağrı: sözünüzü tutun"
+      },
+      {
+        "bas": 49,
+        "son": 61,
+        "baslik": "Kurtuluş, nimetler ve nankörlük"
+      },
+      {
+        "bas": 62,
+        "son": 66,
+        "baslik": "Kimler kurtulur; verilen söz ve çiğneyenler"
+      },
+      {
+        "bas": 67,
+        "son": 74,
+        "baslik": "Sığır kıssası ve katılaşan kalpler"
+      },
+      {
+        "bas": 75,
+        "son": 82,
+        "baslik": "Kitabı çarpıtanlar ve boş kuruntular"
+      },
+      {
+        "bas": 83,
+        "son": 86,
+        "baslik": "Verilen sözün çiğnenmesi"
+      },
+      {
+        "bas": 87,
+        "son": 96,
+        "baslik": "Elçilere karşı tutum"
+      },
+      {
+        "bas": 97,
+        "son": 103,
+        "baslik": "Cibrîl'e düşmanlık, Süleyman ve sihir"
+      },
+      {
+        "bas": 104,
+        "son": 110,
+        "baslik": "İnananlara uyarılar"
+      },
+      {
+        "bas": 111,
+        "son": 121,
+        "baslik": "“Cennet yalnız bizim” iddiası"
+      },
+      {
+        "bas": 122,
+        "son": 129,
+        "baslik": "İbrahim'in sınanması ve Kâbe"
+      },
+      {
+        "bas": 130,
+        "son": 141,
+        "baslik": "İbrahim'in yolu"
+      },
+      {
+        "bas": 142,
+        "son": 152,
+        "baslik": "Kıblenin değişmesi"
+      },
+      {
+        "bas": 153,
+        "son": 157,
+        "baslik": "Sabır ve sınanma"
+      },
+      {
+        "bas": 158,
+        "son": 162,
+        "baslik": "Safa ile Merve; gerçeği gizleyenler"
+      },
+      {
+        "bas": 163,
+        "son": 167,
+        "baslik": "Tek ilah, evrendeki işaretler ve körü körüne bağlananlar"
+      },
+      {
+        "bas": 168,
+        "son": 176,
+        "baslik": "Helal ve temiz yiyecekler"
+      },
+      {
+        "bas": 177,
+        "son": 177,
+        "baslik": "Gerçek iyilik nedir?"
+      },
+      {
+        "bas": 178,
+        "son": 182,
+        "baslik": "Kısas ve vasiyet"
+      },
+      {
+        "bas": 183,
+        "son": 188,
+        "baslik": "Oruç ve haksız kazanç"
+      },
+      {
+        "bas": 189,
+        "son": 195,
+        "baslik": "Ay evreleri ve savaşın sınırları"
+      },
+      {
+        "bas": 196,
+        "son": 203,
+        "baslik": "Hac"
+      },
+      {
+        "bas": 204,
+        "son": 214,
+        "baslik": "İki insan tipi; sınanmadan kurtuluş yok"
+      },
+      {
+        "bas": 215,
+        "son": 220,
+        "baslik": "Sorular: paylaşmak, savaş, içki ve kumar, yetimler"
+      },
+      {
+        "bas": 221,
+        "son": 232,
+        "baslik": "Evlilik ve boşanma"
+      },
+      {
+        "bas": 233,
+        "son": 237,
+        "baslik": "Emzirme, dulluk ve mehir"
+      },
+      {
+        "bas": 238,
+        "son": 242,
+        "baslik": "Salâtı korumak; dul ve boşanmışların hakkı"
+      },
+      {
+        "bas": 243,
+        "son": 252,
+        "baslik": "Tâlût ve Câlût"
+      },
+      {
+        "bas": 253,
+        "son": 254,
+        "baslik": "Elçiler ve paylaşma çağrısı"
+      },
+      {
+        "bas": 255,
+        "son": 255,
+        "baslik": "Âyetü'l-Kürsî"
+      },
+      {
+        "bas": 256,
+        "son": 257,
+        "baslik": "Dinde zorlama yoktur"
+      },
+      {
+        "bas": 258,
+        "son": 260,
+        "baslik": "İbrahim ve dirilişin kanıtları"
+      },
+      {
+        "bas": 261,
+        "son": 274,
+        "baslik": "Paylaşmanın bereketi"
+      },
+      {
+        "bas": 275,
+        "son": 281,
+        "baslik": "Faiz"
+      },
+      {
+        "bas": 282,
+        "son": 283,
+        "baslik": "Borç ve tanıklık"
+      },
+      {
+        "bas": 284,
+        "son": 286,
+        "baslik": "Kapanış: iman ve dua"
+      }
+    ],
+    "93": [
+      {
+        "bas": 1,
+        "son": 11,
+        "baslik": "Rabb'in seni bırakmadı"
+      }
+    ],
+    "108": [
+      {
+        "bas": 1,
+        "son": 3,
+        "baslik": "Bolca verilen iyilik"
+      }
+    ]
+  },
+  "hal_havuzu_ornegi": {
+    "hal": "kaygili",
+    "secilen": [
+      {
+        "ayetler": [
+          "94:5",
+          "94:6"
+        ],
+        "gerekce": "Zorluğun yalnız gelmediğini art arda iki kez söyler. Kısa, doğrudan, tek başına anlaşılır.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "2:286"
+        ],
+        "gerekce": "Kaygının çoğu “kaldıramayacağım” korkusudur. Ayet yükün güce göre olduğunu söyler ve bir duayla biter.",
+        "not": "Uzun ayet"
+      },
+      {
+        "ayetler": [
+          "13:28"
+        ],
+        "gerekce": "Kalbin nerede yatışacağını söyler; kaygının tam karşılığı.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "33:3"
+        ],
+        "gerekce": "İki kısa cümle: dayan ve yeter. Belirsizlikte tutunacak bir söz.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "9:51"
+        ],
+        "gerekce": "Başa gelenin bir ölçüsü olduğunu ve sahipsiz olmadığımızı hatırlatır.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "64:11"
+        ],
+        "gerekce": "Hiçbir şeyin başıboş olmadığını ve inanan kalbe yön verileceğini söyler.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "10:107"
+        ],
+        "gerekce": "Sıkıntıyı kimin gidereceğini ve hayrın engellenemeyeceğini birlikte söyler.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "2:155",
+          "2:156",
+          "2:157"
+        ],
+        "gerekce": "Korku ve kaybın hayatın parçası olduğunu açıkça söyler, sonra sabredene müjde verir. Kaygıyı yok saymaz, yerine oturtur.",
+        "not": "Üçü birlikte gösterilir"
+      },
+      {
+        "ayetler": [
+          "48:4"
+        ],
+        "gerekce": "Sükûnetin kalbe indirilen bir şey olduğunu söyler.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "2:186"
+        ],
+        "gerekce": "Yakınlık ve duaya karşılık vaadi; “kimse duymuyor” hissine cevap.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "11:123"
+        ],
+        "gerekce": "Bilinmeyenin sahibi bellidir ve bütün işler O'na döner; gelecek kaygısına doğrudan dokunur.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "46:13"
+        ],
+        "gerekce": "Korkunun ve üzüntünün kalkacağını vaat eder; kısa ve net.",
+        "not": ""
+      },
+      {
+        "ayetler": [
+          "20:46"
+        ],
+        "gerekce": "“Ben sizinle birlikteyim, işitir ve görürüm.” Kıssada Musa ile Harun'a söylenir, anlamı geneldir.",
+        "not": "Kıssa içi söz — karar sende"
+      },
+      {
+        "ayetler": [
+          "3:173"
+        ],
+        "gerekce": "Tehdit karşısında söylenen söz: “Allah bize yeter, O ne güzel vekildir.”",
+        "not": "Bağlamı tehdit altındaki inananlar — karar sende"
+      }
+    ],
+    "elenen": [
+      {
+        "ayet": "2:216",
+        "neden": "İkinci cümlesi çok uygun, ama ayet savaş hükmüyle başlıyor. Ayeti kesip göstermiyoruz."
+      },
+      {
+        "ayet": "65:2–3",
+        "neden": "Çıkış yolu ve tevekkül vaadi güçlü, ama 65:2 boşanma hükmünün devamı; 65:3 ise tek başına “ona” diye başlıyor."
+      },
+      {
+        "ayet": "39:36",
+        "neden": "“Allah kuluna yeterli değil mi?” diye başlıyor, fakat devamı sapkınlıktan söz ediyor; teselli arayana ağır gelir."
+      },
+      {
+        "ayet": "28:7",
+        "neden": "Musa'nın annesine özel bir durum; genellemek zor."
+      },
+      {
+        "ayet": "8:10",
+        "neden": "Savaş bağlamı."
+      },
+      {
+        "ayet": "3:139",
+        "neden": "Kaygıdan çok moral bozukluğuna hitap ediyor. “Umudum azaldı” hâline aday."
+      },
+      {
+        "ayet": "11:6",
+        "neden": "Rızık kaygısı. “Geçim derdindeyim” hâline aday."
+      },
+      {
+        "ayet": "57:22–23",
+        "neden": "Kayıp üzerine. “Bir kaybım var” hâline aday."
+      },
+      {
+        "ayet": "2:214",
+        "neden": "“Allah'ın yardımı yakındır.” “Sabrım tükeniyor” hâline aday."
+      }
+    ]
+  }
+}
