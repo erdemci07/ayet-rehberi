@@ -47,3 +47,8 @@ Amaç: uygulamanın üç veri katmanını Kur'an'ın tamamını okuyarak baştan
 - Medine dönemi hüküm surelerinde (Nisâ, Mâide, Ahzâb, Talâk) aday az; Mekke dönemi kısa sureleri ve kıssalar zengin.
 - Güçlü adayların önemli kısmı kıssa içi sözler (Musa'nın annesine “korkma, üzülme”, Musa'nın Medyen duası, Yunus'un karanlıktaki
   duası) ve “De ki” ile başlayan ayetler; havuz onayında kullanıcıya ayrıca gösterilecek.
+
+- 2026-11-11: Kullanıcı havuzları ve üç kuralı onayladı (ayet kesilmez, kıssa içi sözler kalır, ayet birden çok hâlde olabilir).
+  Uygulama verisi: `python3 scripts/v3/disa_aktar.py` → data/v3/uygulama/{bolumler,konular,haller}.json. Aşama 1 bitti.
+- Kullanıcı kararı (tasarım): hâl ya da konu seçilince ayetler liste olarak verilmez; tek ayet kartı, önceki/sonraki,
+  her ayet üzerinde durulsun. Kod aşamasında meal notlarındaki 57 bölünmüş parça birleştirilecek.
