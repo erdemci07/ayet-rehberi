@@ -30,3 +30,8 @@ Amaç: uygulamanın üç veri katmanını Kur'an'ın tamamını okuyarak baştan
 
 ## İlerleme
 - 2026-11-11: taslak-01 (listeler + Bakara/Duha/Kevser bölümleme + "kaygili" havuzu). Sure taraması başladı.
+- 2026-11-11: sure 1-4 tamam (669 ayet). Sıradaki: 5 Mâide. 'kitapehli' konusu eklendi (İnanç grubu).
+
+## Tarama sırasında gözlemler
+- Hüküm ağırlıklı surelerde (Bakara, Nisa) hâl adayı az: yaklaşık her 12 ayette bir.
+- Okuma çıktısı uzun olduğu için sure 70-100 ayetlik parçalarla, satır başına ~230 karakter kesilerek okunuyor; uzun ayetlerin sonu gerekirse `oku.py SURE A-B` ile tam okunur.

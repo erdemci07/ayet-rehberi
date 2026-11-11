@@ -1,0 +1,158 @@
+# 4 Nisâ
+=1-6 Tek candan yaratılış ve yetimlerin hakkı :: İnsanların ortak kökeni, akrabalık bağı ve yetim mallarının korunması.
+1 yaratilis akraba* kadinerkek
+2 yetim*
+3 yetim evlilik adalet
+4 evlilik
+5-6 yetim
+=7-14 Miras payları :: Kadın ve erkeğin mirastaki payı ve bu sınırlara uymanın karşılığı.
+7 miras* kadinerkek
+8 miras guzelsoz yetim
+9 cocuk yetim
+10 yetim cehennem
+11-12 miras
+13 cennet
+14 cehennem
+=15-18 Çirkin fiiller ve tövbenin zamanı :: Tanıklık şartı ve kabul edilen tövbenin ölçüsü.
+15-16 ceza
+17 tovbe* | pisman
+18 tovbe olum
+=19-28 Kadınlara iyi davranmak; evlenilmesi yasak olanlar :: Kadının malına ve hakkına saygı, evlilik yasakları ve Allah'ın yükü hafifletmek istemesi.
+19 evlilik kadinerkek*
+20-21 bosanma evlilik
+22-25 evlilik
+26-27 tovbe allah
+28 allah merhamet | yetersiz! yuk yorgun
+=29-33 Haksız kazanç ve başkasındakine göz dikmemek :: Malı haksız yememe, büyük yasaklardan kaçınma ve herkesin kendi payı.
+29 ticaret* merhamet
+30 cehennem
+31 tovbe karsilik | pisman
+32 kiskanclik* kadinerkek | kiyas!
+33 miras
+=34-35 Aile içi geçimsizlik ve hakem :: Eşler arasındaki sorumluluk ve ayrılık korkusunda iki aileden hakem.
+34 evlilik kadinerkek
+35 evlilik baris* | aile
+=36-43 İyilik edilecekler; cimrilik ve gösteriş :: Anne babadan komşuya iyilik, cimrilik ve gösterişin kınanması, salâta hazırlık.
+36 tevhid annebaba akraba* yetim zayiflar kibir | iyilik
+37 israf
+38 ictenlik infak seytan
+39 infak
+40 adalet karsilik allah | haksizlik
+41-42 hesap
+43 salat
+=44-57 Kitap verilenlerden bazılarının tutumu :: Sözü çarpıtma, kendini temize çıkarma, kıskançlık ve iki farklı son.
+44 kitapehli
+45 allah tevekkul | korku
+46-47 kitapehli
+48 tevhid*
+49 kibir
+50 dogruluk
+51-53 kitapehli
+54 kiskanclik kitapehli ibrahim
+55-56 cehennem
+57 cennet
+=58-70 Emanet, adalet ve elçiye başvurmak :: Emaneti ehline verme, adaletle hükmetme ve anlaşmazlıkta Allah'a ve elçiye dönme.
+58 emanet* adalet* yonetim
+59 yonetim* elciler
+60-63 ikiyuzluluk
+64 elciler tovbe
+65 elciler iman
+66-68 iman
+69 elciler dostluk cennet
+70 allah
+=71-78 Ezilenler için savaşmak; ölümden kaçılmaz :: Tedbir, geride kalanlar, ezilenlerin çağrısı ve ölümün her yerde bulacağı.
+71 savas
+72-73 ikiyuzluluk
+74 savas
+75 savas zayiflar* direnis
+76 savas seytan
+77 savas korku dunya
+78 olum* sinav
+=79-87 İyilik ve kötülüğün kaynağı; haber, aracılık ve selam :: Kişinin başına gelenin kaynağı, Kur'an üzerinde düşünme, duyulanı yaymama ve selama karşılık.
+79 sorumluluk* elciler
+80 elciler
+81 ikiyuzluluk tevekkul
+82 vahiy* akil
+83 zan yonetim
+84 savas sorumluluk
+85 yardimlasma sefaat
+86 guzelsoz*
+87 kiyamet tevhid
+=88-94 İkiyüzlülere karşı tutum; öldürmenin hükmü :: İki gruba ayrılma, antlaşmalılar, yanlışlıkla ve kasten öldürme, araştırmadan hüküm vermeme.
+88-91 ikiyuzluluk savas
+92-93 ceza
+94 savas zan adalet
+=95-104 Geri kalanlar, hicret ve korku anında salât :: Çaba gösterenle oturanın farkı, zulüm altında kalanlar ve tehlikede salât.
+95-96 savas karsilik
+97-99 zayiflar direnis
+100 direnis karsilik | baslangic
+101-102 salat savas korku
+103 salat zikir
+104 savas umut
+=105-115 Hainleri savunmamak; günah ve iftira :: Adaletle hükmetme, günahın sahibine ait oluşu, suçu başkasına atma ve gizli görüşmeler.
+105 adalet* vahiy
+106 tovbe
+107 adalet
+108 allah
+109 hesap
+110 tovbe* merhamet | pisman!
+111 sorumluluk
+112 dogruluk zan
+113 elciler vahiy
+114 baris* guzelsoz infak
+115 elciler cehennem
+=116-126 Ortak koşmak, şeytanın vaatleri ve İbrahim'in yolu :: Şirkin ağırlığı, şeytanın kuruntuları ve kuruntuya değil yapılana bakılacağı.
+116 tevhid
+117-119 seytan
+120 seytan*
+121 cehennem
+122 cennet
+123 karsilik
+124 kadinerkek iman cennet
+125 ibrahim iman
+126 allah
+=127-135 Kadınlar ve yetimler; uzlaşma ve adalet tanıklığı :: Yetim kadınların hakkı, eşler arasında uzlaşma ve kendi aleyhine de olsa adalet.
+127 yetim kadinerkek
+128 evlilik baris | aile
+129 evlilik adalet
+130 bosanma rizik
+131 allah
+132 allah tevekkul
+133 allah
+134 dunya karsilik
+135 adalet* dogruluk akraba
+=136-147 İman çağrısı ve ikiyüzlülerin hâlleri :: İmanın kapsamı, iki arada bocalayanlar ve tövbe edenlerin durumu.
+136-137 iman
+138 ikiyuzluluk
+139 ikiyuzluluk dostluk
+140 dostluk
+141-143 ikiyuzluluk
+144 dostluk
+145 ikiyuzluluk cehennem
+146 tovbe ictenlik
+147 sukur allah | sukur
+=148-152 Kötü söz, af ve elçiler arasında ayrım :: Kötü sözü yaymama, kötülüğü bağışlama ve elçilerin tamamına inanma.
+148 guzelsoz adalet | haksizlik
+149 af | affetmek!
+150-152 iman elciler
+=153-162 Kitap Ehli'nin sözü bozması; İsa öldürülmedi :: Alınan sözlerin çiğnenmesi, Meryem'e iftira ve İsa'nın öldürülmediği.
+153-155 kitapehli israil
+156 isa
+157-158 isa*
+159 isa kitapehli
+160-161 kitapehli helal faiz
+162 kitapehli bilgi iman
+=163-170 Vahiy ve elçiler zinciri :: Nuh'tan itibaren bütün elçilere vahyedildiği ve elçilerin gönderiliş amacı.
+163 elciler* vahiy
+164 elciler musa
+165 elciler
+166 vahiy
+167-169 iman cehennem
+170 elciler iman
+=171-176 İsa hakkında aşırıya gitmemek; son miras hükmü :: İsa'nın Allah'ın elçisi ve kulu oluşu, gelen kanıt ve kardeş mirası.
+171 isa* kitapehli tevhid
+172 isa kibir melekler
+173 karsilik kibir
+174 vahiy
+175 iman
+176 miras
