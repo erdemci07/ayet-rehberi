@@ -1,5 +1,4 @@
 # 2 Bakara
-# DEVAM: ayet etiketleri 141'e kadar yazıldı; 142'den sürecek. Bölüm sınırları 142 sonrası için okurken gözden geçirilecek.
 =1-5 İnananların özellikleri :: Kitabın kimlere yol gösterdiği ve onların nitelikleri.
 2 vahiy iman
 3 iman salat infak
@@ -136,26 +135,155 @@
 140 ibrahim dogruluk
 141 sorumluluk
 =142-152 Kıblenin değişmesi :: Yönün değişmesi, bunun bir sınav oluşu ve hayırda yarışma çağrısı.
+142 salat
+143 salat sinav
+144 salat
+145 birlikte
+146 dogruluk vahiy
+147 vahiy | tereddut
+148 yardimlasma | iyilik baslangic
+149-150 salat
+151 elciler vahiy bilgi
+152 zikir* sukur | sukur! yalniz
 =153-157 Sabır ve sınanma :: Sabırla yardım dileme; korku, açlık ve kayıpla sınanma ve sabredenlere müjde.
+153 sabir* dua salat | bunalmis! sabirsiz! caresiz
+154 olum | kayip
+155 sinav* sabir korku | kaygili! kayip
+156 sinav sabir olum | kayip!
+157 merhamet sabir | kayip
 =158-162 Safa ile Merve; gerçeği gizleyenler :: Haccın nişaneleri ve indirileni gizleyenlerin durumu.
+158 hac karsilik
+159 dogruluk vahiy
+160 tovbe | pisman
+161-162 cehennem iman
 =163-167 Tek ilah, evrendeki işaretler ve körü körüne bağlananlar :: Evrendeki düzenin gösterdikleri ve uyulanların uyanlardan uzaklaşacağı gün.
+163 tevhid* allah
+164 yaratilis* akil | tefekkur!
+165 tevhid
+166-167 hesap
 =168-176 Helal ve temiz yiyecekler :: Temiz olandan yeme, ataları körü körüne izlememe ve yasaklanan yiyecekler.
+168 helal* seytan
+169 seytan
+170 akil*
+171 akil iman
+172 helal sukur rizik
+173 helal
+174 vahiy dogruluk
+175-176 vahiy
 =177-177 Gerçek iyilik nedir? :: İyiliğin yön değil; iman, paylaşma, söze bağlılık ve sabır olduğu.
+177 iman infak* emanet sabir yetim | iyilik anlam
 =178-182 Kısas ve vasiyet :: Öldürmede karşılık ve af; ölüm yaklaşınca vasiyet.
+178 ceza* af
+179 ceza
+180 miras* annebaba olum
+181 miras
+182 miras baris
 =183-188 Oruç ve haksız kazanç :: Orucun hükümleri, duaya yakınlık ve başkasının malını haksız yememe.
+183 oruc*
+184 oruc hastalik
+185 oruc vahiy
+186 dua* allah | yalniz! kaygili! caresiz
+187 oruc evlilik
+188 ticaret adalet
 =189-195 Ay evreleri ve savaşın sınırları :: Savaşın yalnızca saldırana karşı ve sınırlar içinde olması.
+189 hac zaman
+190 savas*
+191-194 savas
+195 infak | iyilik
 =196-203 Hac :: Hac ve umrenin kuralları, Allah'ı anma ve dünya ile ahiret için dua.
+196 hac*
+197 hac
+198 hac zikir
+199 hac tovbe
+200 hac zikir dunya
+201 dua* | umutlu baslangic
+202 karsilik hesap
+203 hac zikir
 =204-214 İki insan tipi; sınanmadan kurtuluş yok :: Sözü hoşa giden bozguncu ile kendini adayan insan; öncekilerin çektikleri.
+204-205 ikiyuzluluk
+206 ikiyuzluluk kibir
+207 ictenlik
+208 iman seytan
+209 iman
+210 kiyamet
+211 israil
+212 dunya
+213 elciler vahiy
+214 sinav* sabir | sabirsiz! bunalmis umutsuz
 =215-220 Sorular: paylaşmak, savaş, içki ve kumar, yetimler :: Sorulan konulara verilen kısa cevaplar.
+215 infak annebaba akraba yetim
+216-217 savas
+218 iman
+219 helal infak
+220 yetim*
 =221-232 Evlilik ve boşanma :: Evlilikte ölçüler, boşanmanın kuralları ve kadınların hakları.
+221 evlilik*
+222-223 evlilik
+224-225 yemin*
+226-227 bosanma evlilik
+228 bosanma* kadinerkek
+229-230 bosanma
+231 bosanma kadinerkek
+232 bosanma
 =233-237 Emzirme, dulluk ve mehir :: Çocuğun bakımı, eşi ölen kadının durumu ve mehir.
+233 cocuk* evlilik
+234-235 evlilik
+236 bosanma evlilik
+237 bosanma evlilik af
 =238-242 Salâtı korumak; dul ve boşanmışların hakkı :: Salâtın korunması ve geride kalan eşlerin geçimi.
+238 salat*
+239 salat zikir korku
+240 miras evlilik
+241 bosanma
+242 akil
 =243-252 Tâlût ve Câlût :: Ölüm korkusu, Tâlût'un önderliği, sınanan ordu ve azın çoğa üstün gelişi.
+243 olum korku sukur
+244 savas
+245 infak* rizik
+246 israil savas
+247 israil yonetim
+248 israil
+249 israil sinav sabir
+250 israil dua sabir
+251 davud israil savas
+252 vahiy elciler
 =253-254 Elçiler ve paylaşma çağrısı :: Elçilerin farklı lütufları ve o gün gelmeden paylaşma çağrısı.
+253 elciler* isa
+254 infak kiyamet
 =255-255 Âyetü'l-Kürsî :: Allah'ın diriliği, bilgisi ve egemenliği.
+255 allah* tevhid sefaat | korku! gece! tefekkur
 =256-257 Dinde zorlama yoktur :: Doğrunun yanlıştan ayrıldığı ve inananların karanlıktan aydınlığa çıkarıldığı.
+256 birlikte* iman
+257 iman allah
 =258-260 İbrahim ve dirilişin kanıtları :: Üç kıssa: hükümdarla tartışma, yıkık kent ve kuşlar.
+258 ibrahim tevhid
+259 kiyamet digerkissa
+260 ibrahim kiyamet huzur | tereddut!
 =261-274 Paylaşmanın bereketi :: Başa kakmadan, gösterişsiz ve temiz olandan vermek.
+261 infak*
+262 infak | iyilik
+263 guzelsoz infak af | iyilik
+264-265 infak ictenlik
+266 dunya infak
+267 infak
+268 seytan rizik infak | gecim! kaygili
+269 bilgi akil | tefekkur
+270 infak yemin
+271 infak ictenlik
+272 infak karsilik
+273 infak zayiflar
+274 infak | iyilik
 =275-281 Faiz :: Faizin yasaklanışı, borçluya süre tanıma ve hesap günü.
+275 faiz* ticaret
+276 faiz infak
+277 iman salat zekat
+278-279 faiz
+280 faiz merhamet
+281 hesap*
 =282-283 Borç ve tanıklık :: Borcun yazılması, tanıklar ve emanet.
+282 faiz ticaret adalet
+283 emanet dogruluk faiz
 =284-286 Kapanış: iman ve dua :: Her şeyin Allah'a ait oluşu, elçinin ve inananların imanı ve yük duası.
+284 allah hesap
+285 iman elciler dua
+286 sorumluluk* dua merhamet | yuk! kaygili! bunalmis! yorgun
