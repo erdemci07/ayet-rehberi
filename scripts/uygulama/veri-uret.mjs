@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Uygulamanın çalışırken okuduğu veriyi üretir: public/veri/**.json
 // Kaynaklar: src/data/quran.json (meal + notlar), data/v3/uygulama/*.json (bölüm, konu, hâl),
-//            src/data/esma/published.json (isimler; açıklama metinleri yeniden yazılacak).
+//            src/data/esma/published.json (isimler ve Arapça yazım),
+//            data/v3/metinler/neden.txt ("Neden bu ayet?"), data/v3/metinler/esma.txt (Esmâ açıklamaları).
 // Çalıştırma: node scripts/uygulama/veri-uret.mjs   (npm run veri; build öncesi otomatik çalışır)
 import { readFileSync, writeFileSync, mkdirSync, rmSync } from "node:fs";
 import { join } from "node:path";
@@ -20,6 +21,37 @@ const haller = oku("data/v3/uygulama/haller.json");
 const esma = oku("src/data/esma/published.json");
 
 const hatalar = [];
+const metinOku = p => readFileSync(join(kok, p), "utf8").split(/\r?\n/);
+
+// "Neden bu ayet?" metinleri: "# hal" başlığı altında "SURE:BAS[-SON] | metin"
+const nedenler = new Map();
+{
+  let hal = null;
+  for (const satir of metinOku("data/v3/metinler/neden.txt")) {
+    const baslik = satir.match(/^# ([a-z]+)$/);
+    if (baslik) { hal = baslik[1]; continue; }
+    if (!satir.trim() || satir.startsWith("#")) continue;
+    const m = satir.match(/^(\d+:\d+(?:-\d+)?) \| (.+)$/);
+    if (!m || !hal) { hatalar.push(`neden.txt okunamayan satır: ${satir.slice(0, 60)}`); continue; }
+    const k = `${hal}|${m[1]}`;
+    if (nedenler.has(k)) hatalar.push(`neden.txt yinelenen: ${k}`);
+    nedenler.set(k, m[2].trim());
+  }
+}
+
+// Esmâ metinleri: "## slug" başlığı altında kisa/sana/dene/ayet satırları
+const esmaMetin = new Map();
+{
+  let slug = null;
+  for (const satir of metinOku("data/v3/metinler/esma.txt")) {
+    const baslik = satir.match(/^## (\S+)$/);
+    if (baslik) { slug = baslik[1]; esmaMetin.set(slug, {}); continue; }
+    if (!slug || !satir.trim() || satir.startsWith("#")) continue;
+    const m = satir.match(/^(kisa|sana|dene|ayet): (.+)$/);
+    if (!m) { hatalar.push(`esma.txt okunamayan satır (${slug}): ${satir.slice(0, 60)}`); continue; }
+    esmaMetin.get(slug)[m[1]] = m[2].trim();
+  }
+}
 
 // --- Ayet biçimi: { n, m (düz metin), p (parçalar: metin ya da not sırası), not: [metin], yedek? }
 // Kaynakta bazı notlar "… 16/Nahl, 102 ayette …" gibi yerlerde yanlışlıkla bölünmüş; bölünen parça
@@ -85,6 +117,7 @@ for (let s = 1; s <= 114; s++) {
 }
 yaz("sureler.json", sureListe);
 
+const kullanilanNeden = new Set();
 // --- Hâller: havuz ayetleri metinleriyle birlikte (Bugün ekranı ağdan bağımsız açılsın diye)
 const halCikti = haller.map(g => ({
   grup: g.grup,
@@ -96,11 +129,16 @@ const halCikti = haller.map(g => ({
         const a = ayetBul(x.sure, n);
         if (!a) hatalar.push(`hâl ${h.id}: ${x.sure}:${n} yok`); else ay.push(a);
       }
-      return { s: x.sure, b: x.bas, e: x.son, neden: x.neden, ayetler: ay };
+      const adres = x.bas === x.son ? `${x.sure}:${x.bas}` : `${x.sure}:${x.bas}-${x.son}`;
+      const neden = nedenler.get(`${h.id}|${adres}`);
+      if (!neden) hatalar.push(`hâl ${h.id}: ${adres} için "Neden bu ayet?" metni yok`);
+      kullanilanNeden.add(`${h.id}|${adres}`);
+      return { s: x.sure, b: x.bas, e: x.son, neden: neden ?? "", ayetler: ay };
     }),
   })),
 }));
 yaz("haller.json", halCikti);
+for (const k of nedenler.keys()) if (!kullanilanNeden.has(k)) hatalar.push(`neden.txt: ${k} havuzda yok`);
 
 // --- Konular: yalnız referanslar; metin, okunurken ilgili sure dosyasından gelir
 const konuCikti = konular.map(g => ({
@@ -116,11 +154,24 @@ const konuCikti = konular.map(g => ({
 }));
 yaz("konular.json", konuCikti);
 
-// --- Esmâ: yalnız ad, Arapça yazım ve kısa anlam. Uzun açıklamalar yeniden yazılana kadar yayımlanmaz.
+// --- Esmâ: ad ve Arapça yazım kaynaktan; anlam, açıklama ve ayetler data/v3/metinler/esma.txt'den
 const esmaCikti = esma
   .slice()
   .sort((a, b) => a.order - b.order)
-  .map(e => ({ sira: e.order, slug: e.slug, ad: e.name, arapca: e.arabic, kisa: e.shortMeaning, sanaNe: "", bugunDene: "", ayetler: [] }));
+  .map(e => {
+    const t = esmaMetin.get(e.slug);
+    if (!t) { hatalar.push(`esma ${e.slug}: metin yok`); return null; }
+    for (const k of ["kisa", "sana", "dene", "ayet"]) if (!t[k]) hatalar.push(`esma ${e.slug}: ${k} boş`);
+    const ayetler = (t.ayet ?? "").split(/\s+/).filter(Boolean);
+    for (const r of ayetler) {
+      const m = r.match(/^(\d+):(\d+)(?:-(\d+))?$/);
+      if (!m) { hatalar.push(`esma ${e.slug}: adres bozuk ${r}`); continue; }
+      for (let n = +m[2]; n <= +(m[3] ?? m[2]); n++) if (!ayetBul(+m[1], n)) hatalar.push(`esma ${e.slug}: ${m[1]}:${n} yok`);
+    }
+    return { sira: e.order, slug: e.slug, ad: e.name, arapca: e.arabic, kisa: t.kisa ?? e.shortMeaning, sanaNe: t.sana ?? "", bugunDene: t.dene ?? "", ayetler };
+  })
+  .filter(Boolean);
+for (const slug of esmaMetin.keys()) if (!esma.some(e => e.slug === slug)) hatalar.push(`esma.txt: ${slug} listede yok`);
 yaz("esma.json", esmaCikti);
 
 const surum = { uretildi: new Date().toISOString().slice(0, 10), sure: sureListe.length, hal: halCikti.reduce((t, g) => t + g.haller.length, 0), konu: konuCikti.reduce((t, g) => t + g.konular.length, 0), esma: esmaCikti.length };

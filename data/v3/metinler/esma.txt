@@ -1,0 +1,601 @@
+# Esmâ-ül Hüsnâ metinleri — kullanıcıya görünen açıklamalar.
+# Biçim: "## slug" başlığı altında
+#   kisa: kısa anlam (tek satır)
+#   sana: "Sana ne söyler?" (2-4 cümle)
+#   dene: "Bugün dene" (1-2 cümle, somut ve küçük bir adım)
+#   ayet: ismin ya da anlamının geçtiği ayetler (boşlukla ayrılmış SURE:AYET[-SON])
+# İlke: ismin anlamı geleneksel kaynaklarla (TDV İslâm Ansiklopedisi, Diyanet) uyumlu; ayetler meal metninde kontrol edildi.
+
+## er-rahman
+kisa: Rahmeti bütün varlığı kuşatan.
+sana: Er-Rahmân, rahmetini hiçbir ayrım yapmadan her şeye yayan demektir. Güneşin doğması, nefes alman, sana öğretilen dil; hepsi bu rahmetin izleri. Sen O’na dönmeden önce de rahmeti seninle birlikteydi.
+dene: Bugün sana hiçbir şey karşılığı olmadan verilmiş üç şeyi say. Sonra bir canlıya, karşılık beklemeden küçük bir iyilik yap.
+ayet: 55:1-4 7:156
+
+## er-rahim
+kisa: Merhameti ve bağışı sürekli olan.
+sana: Er-Rahîm, merhameti kesintisiz ve özellikle O’na yönelenlere karşı derin olan demektir. Rahmân bütün varlığı kuşatan rahmeti anlatırken, Rahîm sana dönük, süren ve tamamlanan bir şefkati anlatır. Düştüğünde de kalktığında da bu merhamet seni bırakmaz.
+dene: Kendine karşı da merhametli ol: bugün kendine söylediğin sert bir sözü, bir dostuna söyleyeceğin yumuşaklıkla değiştir.
+ayet: 33:43 15:49
+
+## el-melik
+kisa: Mülkün ve hükümranlığın sahibi.
+sana: El-Melik, her şeyin gerçek sahibi ve yöneteni demektir. Elinde tuttuğun şeyler sana emanet; asıl sahibi O. Bu, kaybetme korkusunu hafifletir: hiçbir şey sahipsiz değil.
+dene: Sahip olduğun bir şeye, bir eşyaya, zamanına, yeteneğine “bu bana emanet” gözüyle bak ve onu bugün iyi bir yerde kullan.
+ayet: 59:23 20:114 114:1-3
+
+## el-kuddus
+kisa: Her türlü eksiklikten uzak ve tertemiz.
+sana: El-Kuddûs, her türlü kusurdan, eksiklikten ve yakışmayan her şeyden arınmış demektir. Göklerde ve yerde olan her şey O’nu tesbih eder. Bu isim, insana da arınma isteği verir: kalbini, sözünü ve niyetini temiz tutmak.
+dene: Bugün dilinden çıkan sözlere dikkat et; birini kırabilecek bir sözü söylemeden önce bir an dur.
+ayet: 59:23 62:1
+
+## es-selam
+kisa: Esenliğin kaynağı, kusurdan uzak olan.
+sana: Es-Selâm, her türlü kusurdan uzak olan ve esenliği veren demektir. O seni “selam yurdu”na çağırıyor. Verdiğin her selam, bu ismin dünyadaki küçük bir yansıması.
+dene: Bugün karşılaştığın insanlara içten bir selam ver; özellikle selam vermeyi unuttuğun birine.
+ayet: 59:23 10:25
+
+## el-mu-min
+kisa: Güven veren ve güvenliği sağlayan.
+sana: El-Mü’min, güven veren, korkuyu güvene çeviren demektir. Kureyş’i korkudan emin kılan O’ydu. Kalbindeki huzursuzluk ne olursa olsun, sığınabileceğin bir güven kaynağı var.
+dene: Bugün birine güven ver: verdiğin bir sözü tut ya da birinin sırrını sakla.
+ayet: 59:23 106:3-4
+
+## el-muheymin
+kisa: Her şeyi gözetip koruyan.
+sana: El-Müheymin, her şeyi gözeten, koruyan ve üzerinde şahit olan demektir. Hiçbir şey O’nun gözetiminin dışında değil. Bu isim, “kimse görmüyor” sandığın anlarda da yalnız olmadığını hatırlatır.
+dene: Bugün sorumluluğundaki bir şeyi, bir çocuğu, bir yaşlıyı, bir bitkiyi ya da bir işi biraz daha özenle gözet.
+ayet: 59:23
+
+## el-aziz
+kisa: Mutlak güç ve izzet sahibi.
+sana: El-Azîz, mağlup edilemeyen, izzeti ve onuru tam olan demektir. O’nun açtığı rahmet kapısını kimse kapatamaz. Senin değerin de bu izzetten pay alır; kimsenin seni küçümsemesi gerçek değerini değiştirmez.
+dene: Bugün kendini küçük düşüren bir alışkanlığı ya da sözü fark et ve ondan bir adım uzaklaş.
+ayet: 59:23 35:2
+
+## el-cebbar
+kisa: Dilediğini gerçekleştiren, eksikleri gideren.
+sana: El-Cebbâr, iradesini dilediği gibi yürüten demektir; ama kökü “kırığı sarmak, eksiği tamamlamak” anlamını da taşır. Kırılmış bir kalbi onaran, eksik kalanı tamamlayan da O. Güçlü olduğu kadar onarıcıdır.
+dene: Bugün kırık kalmış bir ilişkiyi ya da yarım kalmış bir işi düşün ve onu onarmak için küçük bir adım at.
+ayet: 59:23
+
+## el-mutekebbir
+kisa: Büyüklük ve ululukta eşsiz olan.
+sana: El-Mütekebbir, büyüklüğü gerçekten kendisine ait olan demektir. Göklerde ve yerde erişilmez büyüklük yalnızca O’nun. Bu yüzden büyüklenmek insana yakışmaz; insana yakışan alçakgönüllülüktür.
+dene: Bugün haklı olduğun bir konuda bile sesini yükseltmeden, alçakgönüllülükle konuş.
+ayet: 59:23 45:37
+
+## el-halik
+kisa: Her şeyi ölçü ve düzen içinde yaratan.
+sana: El-Hâlık, her şeyi yoktan, bir ölçü ve takdirle yaratan demektir. Senin varlığın da bu ölçünün içinde, tesadüf değil. Etrafındaki her şey, yaratanını hatırlatan bir işaret.
+dene: Bugün bir yaprağa, bir eline ya da gökyüzüne bir dakika boyunca dikkatle bak ve yaratılışındaki ölçüyü düşün.
+ayet: 59:24 13:16
+
+## el-bari
+kisa: Varlıkları uyum ve dengeyle meydana getiren.
+sana: El-Bâri’, yarattığını kusursuz, birbirine uyumlu ve dengeli bir biçimde var eden demektir. Hz. Musa halkına tövbe ederken “Bâri’nize dönün” dedi; yani sizi yaratana. Hata ettiğinde döneceğin yer, seni ilk var edendir.
+dene: Bugün hayatında dengesi bozulmuş bir alanı (uyku, yemek, ekran, iş) seç ve onu biraz dengelemeye çalış.
+ayet: 59:24 2:54
+
+## el-musavvir
+kisa: Varlıklara biçim ve özellik veren.
+sana: El-Musavvir, her varlığa kendine özgü bir şekil ve görünüş veren demektir. Seni annenin rahminde dilediği gibi şekillendiren ve biçimini güzel yapan O. Görünüşünle ilgili şikâyetlerin, O’nun özenle verdiği bir şekle bakıyor.
+dene: Aynaya baktığında kendini eleştirmek yerine bir kez “şeklimi güzel yapan Rabbime hamd olsun” de.
+ayet: 59:24 64:3 3:6
+
+## el-gaffar
+kisa: Günahları tekrar tekrar bağışlayan.
+sana: El-Gaffâr, bağışlamayı sürekli ve tekrar tekrar yapan demektir. Kaç kez düşersen düş, dönüş kapısı kapanmaz. Hz. Nuh halkına “Rabbinizden bağışlanma dileyin, O çok bağışlayandır” diyordu.
+dene: Bugün bir an ayırıp içtenlikle “Estağfirullah” de; aklına gelen bir hatanı düşünerek.
+ayet: 71:10 20:82 38:66
+
+## el-kahhar
+kisa: Her şeye üstün ve hükmeden.
+sana: El-Kahhâr, her şeye galip gelen ve hiçbir gücün karşı koyamadığı demektir. Seni korkutan, ezen ya da bunaltan güçler O’nun karşısında bir hiç. Bu isim zalim için bir uyarı, mazlum için bir güvencedir.
+dene: Seni yenen bir alışkanlığı ya da öfkeyi düşün; bugün bir kez ona “hayır” de ve bu gücü O’ndan iste.
+ayet: 13:16 40:16
+
+## el-vehhab
+kisa: Karşılık beklemeden bolca bağışlayan.
+sana: El-Vehhâb, karşılık beklemeden, hak edilmesini şart koşmadan bağışta bulunan demektir. Rahmet hazineleri O’nun yanında. Sahip olduğun yetenekler, sevdiğin insanlar ve imanın da bu bağışlardan.
+dene: Bugün birine karşılık beklemeden bir şey ver: bir hediye, bir yardım ya da zamanını.
+ayet: 3:8 38:9
+
+## er-rezzak
+kisa: Bütün canlıların rızkını veren.
+sana: Er-Rezzâk, bütün canlıların rızkını üstlenen ve sürekli veren demektir. Yeryüzündeki hiçbir canlı yok ki rızkı O’na ait olmasın. Rızık sadece para değil; sağlık, bilgi, sevgi ve huzur da rızıktır.
+dene: Bugün yemeğe başlamadan önce bir an dur ve bu lokmanın sana nasıl ulaştığını düşün.
+ayet: 51:58 11:6
+
+## el-fettah
+kisa: Kapıları açan ve hükmüyle gerçeği ortaya çıkaran.
+sana: El-Fettâh, kapalı kapıları açan, zorlukları çözen ve insanlar arasında adaletle hüküm veren demektir. O bir rahmet kapısı açarsa kimse onu kapatamaz. Kapanmış gibi görünen yollar için O’na yönelebilirsin.
+dene: Bugün çıkmaza girmiş bir işin için “Ya Fettâh” diyerek dua et, sonra o iş için atabileceğin bir adımı düşün.
+ayet: 34:26 35:2
+
+## el-alim
+kisa: Her şeyi eksiksiz bilen.
+sana: El-Alîm, gizliyi de açığı da, olmuşu da olacağı da eksiksiz bilen demektir. Düşen yaprağı bile bilen bir bilgi var. Kimseye anlatamadığın hâlin O’nun bilgisi içinde.
+dene: Bugün öğrenmek istediğin bir şeye on dakika ayır ve “Rabbim, ilmimi artır” diye dua et.
+ayet: 2:32 6:59
+
+## el-kabid
+kisa: Dilediğini daraltan ve ölçüyle tutan.
+sana: El-Kâbıd, dilediğinde rızkı, imkânı ya da gönlü daraltan demektir. Bu isim hep El-Bâsıt ile birlikte anılır: daraltan da genişleten de O. Darlık bir son değil, bir ölçü; ve dönüş O’na.
+dene: Darlık hissettiğin bir alanı düşün ve onu “bu da geçecek bir ölçü” diye karşılamayı dene; ardından şükredebileceğin bir şeyi bul.
+ayet: 2:245 13:26
+
+## el-basit
+kisa: Rızkı ve imkânları genişleten.
+sana: El-Bâsıt, rızkı, imkânı ve gönlü genişleten demektir. Daraltan da genişleten de O olduğu için, bugün dar olan yarın genişleyebilir. Genişlik geldiğinde onu paylaşmak, bu ismin hakkını vermektir.
+dene: Bugün sende bolca olan bir şeyi (vakit, bilgi, yiyecek) başkasıyla paylaş.
+ayet: 2:245 13:26
+
+## el-hafid
+kisa: Dilediğini alçaltan, ölçüyü belirleyen.
+sana: El-Hâfıd, büyüklenenleri ve zalimleri alçaltan demektir. Kıyamet günü bir “alçaltıcı ve yükseltici” gün olarak anlatılır; dünyadaki makamlar orada yer değiştirir. Bu isim, kibre karşı bir hatırlatma.
+dene: Bugün kendini birinden üstün gördüğün bir anı fark et ve o kişiyle ilgili güzel bir yönü düşün.
+ayet: 56:1-3 3:26
+
+## er-rafi
+kisa: Dereceleri yükselten.
+sana: Er-Râfi‘, inananların ve ilim verilenlerin derecelerini yükselten demektir. Gerçek yükseliş insanların alkışıyla değil, O’nun katındaki dereceyle olur. İlim ve iman, insanı yükselten iki merdiven.
+dene: Bugün seni gerçekten büyüten bir şeye, ilme ya da bir iyiliğe vakit ayır.
+ayet: 58:11 6:83
+
+## el-muizz
+kisa: İzzet ve değer veren.
+sana: El-Muizz, dilediğine izzet, onur ve değer veren demektir. İzzet ve onur insanların elinde değil, O’nun elinde. Seni değersiz hissettirenler karşısında, izzetin asıl kaynağını hatırla.
+dene: Bugün birinin onurunu gözet: onu başkalarının önünde övebilir ya da bir hatasını örtebilirsin.
+ayet: 3:26
+
+## el-muzill
+kisa: Dilediğini zillete düşüren.
+sana: El-Müzill, büyüklenen ve zulmedenleri zillete düşüren demektir. Dilediğini aziz, dilediğini zelil kılan O; ve hayır O’nun elinde. Bu isim, gücü elinde tutanlara ölçülü olmayı, ezilenlere de umudu hatırlatır.
+dene: Bugün sahip olduğun bir gücü (bir makam, bir bilgi, bir söz hakkı) kimseyi küçük düşürmeden kullan.
+ayet: 3:26
+
+## es-semi
+kisa: Her şeyi işiten.
+sana: Es-Semî‘, her sesi, her fısıltıyı ve içten geçeni işiten demektir. Kimsenin dinlemediği bir kadının şikâyetini işitip ona bir sure ile cevap veren O. Söylediğin her söz, ettiğin her dua işitiliyor.
+dene: Bugün kimseye anlatamadığın bir şeyi O’na anlat; sesli ya da içinden.
+ayet: 58:1 2:127
+
+## el-basir
+kisa: Her şeyi gören.
+sana: El-Basîr, gizli ve açık her şeyi gören demektir. Havada süzülen kuşu da, gece kalkıp secdeye kapanan kulu da görüyor. Kimsenin görmediği emeğin, O’nun gözünden kaçmıyor.
+dene: Bugün kimsenin görmeyeceği bir iyilik yap ve bunu kimseye söyleme.
+ayet: 67:19 57:4
+
+## el-hakem
+kisa: Mutlak hüküm veren.
+sana: El-Hakem, insanlar arasında hakkıyla hüküm veren ve son sözü söyleyen demektir. Hüküm verenlerin en iyisi O. Haklı olduğun hâlde anlatamadığın bir çekişmede, son hükmün O’na ait olduğunu bilmek içini rahatlatır.
+dene: Bugün birini yargılamak üzereyken hükmünü ertele ve onu bir de kendi yerinden görmeye çalış.
+ayet: 6:114 95:8
+
+## el-adl
+kisa: Mutlak adalet sahibi.
+sana: El-Adl, adaletin kendisi olan ve asla haksızlık etmeyen demektir. Hardal tanesi kadar bir şey bile hesapsız kalmaz. O adaleti emrettiği için, adil olmak senin için de bir sorumluluktur.
+dene: Bugün iki kişi arasında, iki çocuk arasında ya da kendinle başkası arasında adil davranmaya özen göster.
+ayet: 16:90 21:47
+
+## el-latif
+kisa: Lütfu ince ve bilgisi her şeyi kuşatan.
+sana: El-Latîf, en ince ayrıntıları bilen ve lütfunu fark edilmeyecek kadar incelikle ulaştıran demektir. Hz. Yusuf, kuyudan zindana, zindandan kavuşmaya uzanan hayatına bakıp “Rabbim dilediğine lütufkârdır” dedi. Bazen iyilik, ancak geriye bakınca fark edilir.
+dene: Geçmişte zor gelen ama sonradan hayra dönen bir olayı hatırla ve onun için şükret.
+ayet: 67:14 12:100
+
+## el-habir
+kisa: Her şeyin iç yüzünden haberdar olan.
+sana: El-Habîr, her şeyin yalnızca görünüşünü değil iç yüzünü de bilen demektir. Niyetlerin, gizli kalmış çabaların ve içinden geçenler O’nun bilgisinde. İnsanlar seni yanlış anlasa da O doğrusunu bilir.
+dene: Bugün yaptığın bir işin niyetini kontrol et: bunu kim için yapıyorum?
+ayet: 67:14 6:18
+
+## el-halim
+kisa: Ceza vermekte acele etmeyen.
+sana: El-Halîm, hataları görüp de hemen cezalandırmayan, yumuşak ve sabırlı olan demektir. Göklerin ve yerin tesbihini anlamadığımız hâlde O hoşgörülü. Sana tanınan bu süre, dönmen için bir fırsat.
+dene: Bugün seni sinirlendiren birine karşı hemen tepki verme; birkaç dakika bekle, sonra yumuşakça konuş.
+ayet: 2:225 17:44
+
+## el-azim
+kisa: Büyüklüğü sınırsız olan.
+sana: El-Azîm, büyüklüğü akla ve hayale sığmayan demektir. Yeri ve göğü korumak O’na ağır gelmez. Senin büyük gördüğün dertler, O’nun büyüklüğü yanında küçülür.
+dene: Bugün rükûda ya da bir an durup “Sübhâne Rabbiye’l-Azîm” derken bu büyüklüğü düşün.
+ayet: 2:255 56:96
+
+## el-gafur
+kisa: Bağışlaması bol olan.
+sana: El-Gafûr, bağışlaması geniş, kusurları örten ve affeden demektir. Kendilerine karşı aşırı gidenlere bile “Allah’ın rahmetinden umut kesmeyin” deniyor. Hiçbir hata O’nun bağışlamasından büyük değil.
+dene: Bugün birinin kusurunu örtmeyi dene: başkalarına anlatmak yerine sessiz kal.
+ayet: 39:53 15:49
+
+## es-sekur
+kisa: Az amele çok karşılık veren.
+sana: Eş-Şekûr, yapılan en küçük iyiliği bile karşılıksız bırakmayan ve onu kat kat artıran demektir. Kur’an O’nu “çok şükreden” olarak da anar: kulunun emeğini takdir eden. Küçük gördüğün iyiliklerin O’nun katında büyür.
+dene: Bugün birine, yaptığı küçük bir şey için içtenlikle teşekkür et.
+ayet: 35:30 35:34 64:17
+
+## el-aliyy
+kisa: Yüceliği ve üstünlüğü sınırsız olan.
+sana: El-Aliyy, her şeyin üstünde, yüceliği hiçbir şeyle kıyaslanamayan demektir. Göklerde ve yerde ne varsa O’nun. Bu isim, insanın bakışını yukarı kaldırır: küçük hesapların üstünde bir yücelik var.
+dene: Bugün secdeye vardığında ya da bir an durduğunda “Sübhâne Rabbiye’l-A‘lâ” de; en yücenin önünde eğilmenin huzurunu hisset.
+ayet: 2:255 42:4
+
+## el-kebir
+kisa: Büyüklüğü her şeyin üstünde olan.
+sana: El-Kebîr, zatında ve sıfatlarında her şeyden büyük olan demektir. “Allahu ekber” derken bunu söylersin: Allah her şeyden büyük. Seni bunaltan her şey O’ndan küçük.
+dene: Bugün bir şey seni bunalttığında içinden “Allahu ekber” de ve dertle aranda bir mesafe aç.
+ayet: 13:9 31:30
+
+## el-hafiz
+kisa: Koruyup gözeten.
+sana: El-Hafîz, her şeyi koruyan, kaybolmaktan ve dağılmaktan gözeten demektir. Oğullarına güvenemeyen Hz. Yakup “en iyi koruyucu Allah’tır” dedi. Sevdiklerini O’nun korumasına emanet edebilirsin.
+dene: Bugün sevdiğin birini, uzakta olan bir yakınını, dua ederek O’nun korumasına emanet et.
+ayet: 12:64 11:57
+
+## el-mukit
+kisa: Her canlıya gücüne uygun rızık veren.
+sana: El-Mukît, her canlıya ihtiyacı olan gıdayı ve gücü veren, her şeyi gözetip ayakta tutan demektir. Bedenin için gıda olduğu gibi ruhun için de gıda var. Her ikisini de veren O.
+dene: Bugün ruhunu besleyecek bir şeye vakit ayır: birkaç ayet oku, sevdiğin biriyle konuş ya da doğada yürü.
+ayet: 4:85
+
+## el-hasib
+kisa: Hesaba çeken ve kullarına yeten.
+sana: El-Hasîb, her şeyin hesabını tutan ve kuluna yeten demektir. Bir selamın karşılığını bile hesaba katan bir Rab var. Bu, hem dikkatli olmaya hem de “O bana yeter” demeye çağırır.
+dene: Bugün akşam, günün kısa bir hesabını yap: neyi iyi yaptın, neyi yarın daha iyi yapabilirsin?
+ayet: 4:86 33:39
+
+## el-celil
+kisa: Ululuk ve yücelik sahibi.
+sana: El-Celîl, ululuğu ve azameti tam olan demektir. Yeryüzündeki her şey yok olacak; kalıcı olan yalnızca celal ve ikram sahibi Rab. Bu ululuk, O’nun önünde edeple durmayı öğretir.
+dene: Bugün namaza ya da duaya başlamadan önce bir an sessizce dur ve kimin huzuruna çıktığını düşün.
+ayet: 55:27
+
+## el-kerim
+kisa: Cömertliği ve lütfu bol olan.
+sana: El-Kerîm, istenmeden veren, verdiğini başa kakmayan ve affederken cömert olan demektir. “Ey insan, seni kerim Rabbine karşı aldatan nedir?” sorusu, bu cömertliğin karşısında insanın gafletini hatırlatır.
+dene: Bugün cömert ol: birine beklediğinden fazlasını ver ya da birinin hatasını büyütmeden geç.
+ayet: 82:6 96:3
+
+## er-rakib
+kisa: Her şeyi gözetleyen.
+sana: Er-Rakîb, her şeyi an be an gözetleyen ve hiçbir şeyi gözden kaçırmayan demektir. Bu gözetim bir korku değil, bir şefkat: seni yaratan, seni gözetmeyi de üstlenmiş. Aynı zamanda insanı, yalnızken de doğru davranmaya çağırır.
+dene: Bugün kimsenin seni görmediği bir anda, biri bakıyormuş gibi değil, O bakıyor diye en güzel şekilde davran.
+ayet: 4:1
+
+## el-mucib
+kisa: Dualara karşılık veren.
+sana: El-Mücîb, dua edenin duasına karşılık veren demektir. “Rabbim çok yakın, isteklere cevap veren” diyordu Hz. Salih. Karşılık bazen istediğin gibi, bazen daha hayırlı bir şekilde, bazen de doğru zamanda gelir.
+dene: Bugün uzun zamandır ertelediğin bir duayı, sessiz bir anda açıkça dile getir.
+ayet: 11:61 2:186
+
+## el-vasi
+kisa: Rahmeti, bilgisi ve kudreti sınırsız olan.
+sana: El-Vâsi‘, rahmeti, bilgisi ve lütfu her şeyi kuşatacak kadar geniş olan demektir. Doğu da batı da O’nun; nereye yönelsen O oradadır. Bir taneden yedi başak, her başaktan yüz dane çıkaran genişlik.
+dene: Bugün dar düşündüğün bir konuda (bir insan, bir ihtimal) bakışını genişlet; başka bir açıklama olabilir mi diye düşün.
+ayet: 2:115 2:261
+
+## el-hakim
+kisa: Her işi hikmetli ve ölçülü olan.
+sana: El-Hakîm, her işini bir hikmet ve ölçüyle yapan, yerli yerine koyan demektir. Anlamadığın olaylarda bile bir hikmet olabilir. Bu isim, aceleyle hüküm vermek yerine sabırla anlamaya çalışmayı öğretir.
+dene: Bugün sana anlamsız gelen bir olayı düşün ve onun sana neler öğretmiş olabileceğini yaz.
+ayet: 59:24 3:6
+
+## el-vedud
+kisa: Kullarını seven ve sevilmeye layık olan.
+sana: El-Vedûd, kullarını seven ve sevgisini gösteren demektir. Kur’an bu ismi çoğu zaman bağışlamayla birlikte anar: çok bağışlayan, çok seven. Hata yaptığın anda bile sevilmekten vazgeçilmiş değilsin.
+dene: Bugün sevdiğin birine sevgini söze dök; uzun zamandır söylemediğin birine.
+ayet: 85:14 11:90
+
+## el-mecid
+kisa: Şanı ve şerefi yüce olan.
+sana: El-Mecîd, şanı yüce, iyiliği ve keremi bol olan demektir. Hz. İbrahim’in ev halkına “Allah’ın rahmeti ve bereketi üzerinizde” denirken O’nun bu ismi anıldı. Şerefi yüce olanın bereketi de geniştir.
+dene: Bugün evine ya da sevdiklerine “Allah’ın rahmeti ve bereketi üzerinize olsun” diye dua et.
+ayet: 11:73 85:15
+
+## el-bais
+kisa: Ölüleri dirilten ve elçiler gönderen.
+sana: El-Bâis, ölüleri dirilten ve insanlara yol göstermeleri için elçiler gönderen demektir. Bu isim, ölümün son olmadığını ve hayatın bir amaçla verildiğini hatırlatır. Uyuşmuş bir kalbi yeniden canlandırmak da O’nun elinde.
+dene: Bugün içinde sönmüş bir iyi alışkanlığı (bir dua, bir okuma, bir ziyaret) küçük bir adımla yeniden canlandır.
+ayet: 22:7 62:2
+
+## es-sehid
+kisa: Her şeye tanık olan.
+sana: Eş-Şehîd, her şeye şahit olan, hiçbir şeyin O’nun huzurundan gizli kalmadığı demektir. “Rabbinin her şeye tanık olması yetmez mi?” Kimse sana inanmasa da O biliyor.
+dene: Bugün doğruyu söylemenin zor geldiği bir anda, O’nun şahit olduğunu düşünerek doğruyu söyle.
+ayet: 41:53 22:17
+
+## el-hakk
+kisa: Varlığı ve hükmü gerçek olan.
+sana: El-Hakk, varlığı kesin, sözü ve hükmü gerçek olan demektir. Her şey değişir ve geçer; gerçek olan O’dur. Bu isim, hayatında gerçek olanla geçici olanı ayırt etmeye çağırır.
+dene: Bugün bir söylentiyi ya da doğrulamadığın bir haberi başkasına iletmeden önce doğru olup olmadığını araştır.
+ayet: 22:6 24:25
+
+## el-vekil
+kisa: Güvenilip dayanılan ve işleri yöneten.
+sana: El-Vekîl, kendisine güvenilen, işlerin teslim edildiği ve en güzel şekilde yürüten demektir. Tehdit karşısında inananlar “Allah bize yeter, O ne güzel vekildir” dedi. Elinden geleni yaptıktan sonra gerisini O’na bırakmak, tevekkülün özü.
+dene: Bugün seni kaygılandıran bir iş için elinden gelen bir adımı at, sonra “Hasbünallah ve ni‘mel vekîl” de ve O’na bırak.
+ayet: 3:173 33:3
+
+## el-kaviyy
+kisa: Gücü sınırsız olan.
+sana: El-Kaviyy, gücü hiç tükenmeyen, hiçbir şeyin aciz bırakamadığı demektir. O, kendisine yardım edene mutlaka yardım eder. Gücünün bittiği yerde, gücü hiç bitmeyene dayanabilirsin.
+dene: Bugün zor bir işe başlamadan önce “Lâ havle ve lâ kuvvete illâ billâh” de: güç ve kuvvet ancak O’ndandır.
+ayet: 22:40 42:19
+
+## el-metin
+kisa: Kudreti sağlam ve sarsılmaz olan.
+sana: El-Metîn, gücü sağlam, kararlı ve sarsılmaz olan demektir. Rızık veren, güçlü ve gücünde metin olan O. Sarsıldığın dönemlerde, hiç sarsılmayana tutunabilirsin.
+dene: Bugün yarım bıraktığın bir işi seç ve sarsılmadan, küçük ama kararlı bir adımla devam et.
+ayet: 51:58
+
+## el-veliyy
+kisa: Dost ve yardımcı olan.
+sana: El-Veliyy, inananların dostu, yardımcısı ve işlerini üstlenen demektir. O, dostlarını karanlıklardan aydınlığa çıkarır. Yalnız hissettiğinde, en yakın dostun O olabilir.
+dene: Bugün bir dostunu ara ya da ona yardım et; dostluk, Veliyy isminin insanlar arasındaki yansıması.
+ayet: 2:257 42:9
+
+## el-hamid
+kisa: Her türlü övgüye layık olan.
+sana: El-Hamîd, her hâliyle övülmeye layık olan demektir. Biz O’na muhtacız, O ise hiçbir şeye muhtaç değil ve yine de övgüye layık. “Elhamdülillah” derken bu ismi anarsın: her övgü O’na.
+dene: Bugün iyi giden her şeyde, ne kadar küçük olursa olsun, bir kez “Elhamdülillah” de.
+ayet: 35:15 14:1
+
+## el-muhsi
+kisa: Her şeyi bilgisiyle kuşatıp sayan.
+sana: El-Muhsî, her şeyi tek tek sayan, kayda geçiren ve bilgisiyle kuşatan demektir. Yaptığın ve geride bıraktığın her şey yazılıyor. Hiçbir iyilik unutulmuyor, hiçbir emek kaybolmuyor.
+dene: Bugün akşam, gün içinde yaptığın küçük iyilikleri say; unutulmadıklarını bilerek.
+ayet: 72:28 19:94 36:12
+
+## el-mubdi
+kisa: Varlıkları ilk defa yaratan.
+sana: El-Mübdi’, varlıkları örneksiz ve ilk kez yaratan demektir. Yaratmayı başlatan O. Her yeni başlangıç, ilk başlatana dayanır.
+dene: Bugün yeni bir başlangıç yap: küçük bir alışkanlığa “Bismillah” diyerek başla.
+ayet: 85:13 29:19
+
+## el-muid
+kisa: Yarattıklarını yeniden var eden.
+sana: El-Muîd, yarattığını yok ettikten sonra yeniden var eden demektir. İlk kez yaratan, tekrar yaratmaya da kadir. Kaybettiğini düşündüğün şeyler için de bir “yeniden” var.
+dene: Bugün kopmuş bir bağı ya da bırakılmış bir iyi alışkanlığı yeniden başlat.
+ayet: 85:13 10:4
+
+## el-muhyi
+kisa: Hayat veren.
+sana: El-Muhyî, ölüye ve ölü toprağa hayat veren demektir. Rahmetinin izlerine bak: ölü toprağı nasıl diriltiyor. Kurumuş bir umut, bir ilişki ya da bir kalp de yeniden canlanabilir.
+dene: Bugün bir bitkiyi sula ya da bir tohum ek; hayatın nasıl filizlendiğini izle.
+ayet: 30:50 57:2
+
+## el-mumit
+kisa: Ölümü yaratan.
+sana: El-Mümît, ölümü yaratan ve her canlının vaktini belirleyen demektir. Ölüm ve hayat, hanginizin daha güzel iş yapacağını sınamak için yaratıldı. Ölümü hatırlamak, hayatı daha anlamlı ve daha dikkatli yaşamaya çağırır.
+dene: Bugün “bugün son günüm olsaydı” diye düşün ve ertelediğin bir helalleşmeyi ya da iyiliği yap.
+ayet: 67:2 3:156
+
+## el-hayy
+kisa: Daima diri olan.
+sana: El-Hayy, hayatı kendinden olan, hiç ölmeyen ve her canlıya hayat veren demektir. Sen ölümlü olana değil, ölümsüz olana güvenip dayan. O’nu ne uyuklama ne uyku tutar.
+dene: Bugün sabah ya da akşam “Yâ Hayyu yâ Kayyûm, bi rahmetike esteğîs” (ey diri ve ayakta tutan, rahmetinle yardım dilerim) diye dua et.
+ayet: 2:255 25:58 3:2
+
+## el-kayyum
+kisa: Varlıkları ayakta tutan.
+sana: El-Kayyûm, her şeyi ayakta tutan, gözeten ve yöneten demektir. Gökler ve yer O’nun ayakta tutmasıyla duruyor. Ayakta durmakta zorlandığın gün, seni de ayakta tutan O.
+dene: Bugün ayakta durmakta zorlanan birine destek ol: bir telefon, bir yardım, bir dua.
+ayet: 2:255 20:111 3:2
+
+## el-vacid
+kisa: Hiçbir şeyden yoksun olmayan.
+sana: El-Vâcid, istediğini bulan, hiçbir şeyden yoksun olmayan ve hiçbir şeye muhtaç olmayan demektir. Kur’an’da bu kök şu güzel sorularda geçer: seni yetim bulup barındırmadı mı, yolunu kaybetmiş bulup yol göstermedi mi, muhtaç bulup zengin etmedi mi? O seni hep bulmuştu.
+dene: Bugün hayatında “bulunduğun” bir anı hatırla: kaybolmuşken yolunu bulduğun bir zamanı. Onun için şükret.
+ayet: 93:6-8
+
+## el-macid
+kisa: Şerefi ve keremi çok yüce olan.
+sana: El-Mâcid, şanı yüce ve cömertliği bol olan demektir. El-Mecîd ismiyle aynı kökten gelir; şeref ile cömertliğin bir arada olduğunu anlatır. Gerçek şeref, bol vermekle birliktedir.
+dene: Bugün cömertliğini şerefinle birleştir: bir iyiliği gösterişsiz ve başa kakmadan yap.
+ayet: 85:15 11:73
+
+## el-vahid
+kisa: Bir ve tek olan.
+sana: El-Vâhid, zatında, sıfatlarında ve işlerinde bir ve tek olan demektir. Sizin ilahınız bir tek ilahtır. Kalbin birçok yöne dağıldığında, tek bir yöne dönmek insanı toplar.
+dene: Bugün bir işi yaparken yalnızca o işe odaklan; telefonu kenara koy ve tek bir şeye bütünüyle yönel.
+ayet: 2:163 13:16 14:48
+
+## el-ehad
+kisa: Eşi ve benzeri olmayan tek.
+sana: El-Ehad, hiçbir şekilde bölünmeyen, eşi, benzeri ve dengi olmayan tek demektir. İhlâs suresi bu ismi anlatır: hiçbir şey O’nun dengi değildir. Kalbini O’na ortak edilecek şeylerden arındırmak, bu ismin çağrısı.
+dene: Bugün İhlâs suresini anlamını düşünerek üç kez yavaşça oku.
+ayet: 112:1-4
+
+## es-samed
+kisa: Her şeyin kendisine muhtaç olduğu.
+sana: Es-Samed, hiçbir şeye muhtaç olmayan ve her şeyin kendisine yöneldiği, her ihtiyacın kendisine götürüldüğü demektir. Kapı kapı dolaştığında, bütün kapıların sahibi O. İhtiyacını insanlardan önce O’na söylemek, bu ismi tanımaktır.
+dene: Bugün bir ihtiyacını birine söylemeden önce O’na söyle; sonra gerekli adımı at.
+ayet: 112:1-4
+
+## el-kadir
+kisa: Her şeye gücü yeten.
+sana: El-Kâdir, dilediğini dilediği gibi yapmaya gücü yeten demektir. Gökleri ve yeri yaratan, benzerlerini yaratmaya ve ölüleri diriltmeye de kadir. Senin imkânsız gördüğün, O’nun için zor değil.
+dene: Bugün “olmaz” dediğin bir şey için O’na dua et ve ardından bir deneme yap.
+ayet: 75:40 36:81
+
+## el-muktedir
+kisa: Kudreti mutlak olan.
+sana: El-Muktedir, kudretini dilediği her yerde eksiksiz uygulayan demektir. Dünya hayatı yeşerip kuruyan bir bitki gibi geçicidir; kalıcı olan, gücü her şeye yeten Rabbin hükmü. İyiler O’nun katında güvenli bir makamdadır.
+dene: Bugün elinde olmayan bir şey için endişelendiğinde, bunu kudreti mutlak olana bırak ve elindeki işe dön.
+ayet: 18:45 54:55
+
+## el-mukaddim
+kisa: Dilediğini öne alan.
+sana: El-Mukaddim, dilediğini öne geçiren, dilediğine öncelik veren demektir. Sizden öncekileri de sonrakileri de bilen O. Hayatında neyin öne geçeceğine O’nun takdiri yön verir; senin payına düşen ise iyiliği öne almak.
+dene: Bugün yapılacaklar listende iyiliği öne al: en önemli ama ertelediğin işi ilk sıraya koy.
+ayet: 15:24 50:28
+
+## el-muahhir
+kisa: Dilediğini geriye bırakan.
+sana: El-Muahhir, dilediğini geriye bırakan ve erteleyen demektir. İnsanları hatalarıyla hemen yakalamayıp belirli bir süreye kadar ertelemesi de bu isimdendir. Geciken şeylerde bir hikmet, tanınan sürede bir fırsat vardır.
+dene: Bugün geciktiği için sabırsızlandığın bir şeyi düşün ve bu bekleme süresini nasıl değerlendirebileceğini planla.
+ayet: 15:24 16:61
+
+## el-evvel
+kisa: Varlığının başlangıcı olmayan.
+sana: El-Evvel, her şeyden önce var olan, varlığının başlangıcı olmayan demektir. Senden önce de vardı, her şeyden önce de. Hikâyenin başında da O vardı.
+dene: Bugün bir işe başlarken O’nu ilk sıraya koy: “Bismillah” diyerek başla.
+ayet: 57:3
+
+## el-ahir
+kisa: Varlığının sonu olmayan.
+sana: El-Âhir, her şey sona erdikten sonra da var olan demektir. Her şey biter, O kalır. Bir şey bittiğinde, bitmeyen biri olduğunu hatırla.
+dene: Bugün bir işi bitirdiğinde “Elhamdülillah” diyerek O’nu son söz yap.
+ayet: 57:3
+
+## ez-zahir
+kisa: Varlığı açık ve üstün olan.
+sana: Ez-Zâhir, varlığı eserleriyle apaçık olan ve her şeyin üstünde bulunan demektir. Gökyüzüne, bir yaprağa, bir bebeğin gülüşüne bakan, O’nun eserlerini görür. Görmek istemeyene bile işaretler her yerde.
+dene: Bugün etrafında O’nun varlığını hatırlatan bir şeyi bilerek fark et ve bir an onun üzerine düşün.
+ayet: 57:3
+
+## el-batin
+kisa: Mahiyeti duyularla kavranamayan.
+sana: El-Bâtın, zatının mahiyeti gözle ve akılla kavranamayan, ama her şeyin içini bilen demektir. O hem açıktır hem gizli; görünmez ama her şeyin içindedir bilgisiyle. Kalbinin en gizli köşesi de O’ndan saklı değil.
+dene: Bugün sessiz bir an bul ve kalbinin içinden geçenleri kimseye söylemeden yalnızca O’na aç.
+ayet: 57:3
+
+## el-vali
+kisa: Kâinatı yöneten.
+sana: El-Vâlî, bütün varlığı yöneten, işlerini düzenleyen ve sahiplenen demektir. Bir toplum kendini değiştirmedikçe O onların durumunu değiştirmez; ve onlar için O’ndan başka bir yönetici yok. Değişim senin adımınla başlar, O’nun yönetimiyle tamamlanır.
+dene: Bugün değiştirmek istediğin bir durumda kendi payına düşen küçük adımı belirle ve at.
+ayet: 13:11
+
+## el-muteali
+kisa: Her türlü eksiklikten yüce olan.
+sana: El-Müteâlî, yaratılmışlara benzemekten ve her türlü eksiklikten çok yüce olan demektir. Görüneni de görünmeyeni de bilen, büyük ve yüce. Zihnindeki hiçbir hayal O’nu sınırlayamaz.
+dene: Bugün O’nu bir insan gibi düşündüğün bir anı fark et (kırgınlık, sabırsızlık) ve O’nun yüceliğini hatırla.
+ayet: 13:9
+
+## el-berr
+kisa: İyiliği ve lütfu bol olan.
+sana: El-Berr, iyiliği bol, kullarına karşı şefkatli ve sözünde duran demektir. Cennet ehli “iyi ki önceden O’na yalvarıyorduk; O iyilik yapan, merhameti kesintisiz olandır” der. İyilik O’nun bir ismi; iyilik yaptığında bu isme benzemeye çalışırsın.
+dene: Bugün anne babana ya da büyüklerinden birine özel bir iyilik yap.
+ayet: 52:28
+
+## et-tevvab
+kisa: Tövbeleri kabul eden.
+sana: Et-Tevvâb, tövbeleri tekrar tekrar kabul eden ve kulunu tövbeye muvaffak kılan demektir. Hz. Âdem’in ilk hatasından sonra ilk duyduğu, tövbesinin kabulü oldu. Dönmek için asla geç değil.
+dene: Bugün bir hatan için içtenlikle tövbe et ve mümkünse zarar verdiğin birinden helallik iste.
+ayet: 2:37 110:3 49:12
+
+## el-muntekim
+kisa: Zulme karşı adaletle karşılık veren.
+sana: El-Müntekim, zulüm ve haksızlıkta ısrar edenlere adaletle karşılık veren demektir. Bu isim, mazlum için bir güvence: zulüm karşılıksız kalmaz. Ayet aynı yerde şunu da söyler: inananlara yardım etmek O’nun üzerine bir haktır.
+dene: Bugün sana yapılan bir haksızlık için intikam düşünmek yerine, hakkını O’na bırak ve adil bir yol ara.
+ayet: 30:47 3:4
+
+## el-afuvv
+kisa: Günahları silip affeden.
+sana: El-Afüvv, günahı yalnızca örtmekle kalmayıp tamamen silen demektir. Kadir gecesinde öğretilen dua bu isimle başlar: Allah’ım, Sen affedicisin, affı seversin, beni affet. Affedilmeyi seven, affetmeyi de sever.
+dene: Bugün “Allahümme inneke afüvvün tuhibbü’l-afve fa‘fu annî” duasını oku ve kırgın olduğun birini affetmeyi dene.
+ayet: 4:149 22:60
+
+## er-rauf
+kisa: Şefkati ve merhameti çok olan.
+sana: Er-Raûf, şefkati çok ince ve derin olan, kullarının sıkıntısını istemeyen demektir. Seni karanlıklardan aydınlığa çıkarmak için ayetler indiren O. Kur’an’ın kendisi bu şefkatin bir eseri.
+dene: Bugün zorda olan birine şefkatle yaklaş: bir yaşlıya, bir hastaya ya da bir hayvana.
+ayet: 2:143 57:9
+
+## maliku-l-mulk
+kisa: Mülkün gerçek sahibi.
+sana: Mâlikü’l-Mülk, bütün mülkün gerçek ve tek sahibi demektir. Mülkü dilediğine verir, dilediğinden alır; hayır O’nun elinde. Sahip olduklarını sıkı sıkı tutmak yerine, asıl sahibine şükürle bakmak içi rahatlatır.
+dene: Bugün sahip olduğun bir şeyden, onu verenin O olduğunu düşünerek bir pay ayır ve ihtiyacı olana ver.
+ayet: 3:26
+
+## zu-l-celali-ve-l-ikram
+kisa: Ululuk ve ikram sahibi.
+sana: Zü’l-Celâli ve’l-İkrâm, hem ululuk hem de cömertlik sahibi demektir. Yeryüzündeki her şey yok olacak; kalıcı olan, celal ve ikram sahibi Rab. Ululuğu insanı edebe, ikramı ise ümide çağırır.
+dene: Bugün namazdan sonra ya da bir an “Tebârekte yâ ze’l-celâli ve’l-ikrâm” de ve misafirine ya da evdekilere bir ikramda bulun.
+ayet: 55:26-27 55:78
+
+## el-muksit
+kisa: Adaletle davranan.
+sana: El-Muksit, hükmünde ve işlerinde tam bir adaletle davranan, mazlumun hakkını zalimden alan demektir. Kıyamet günü hassas teraziler kurulacak ve kimse haksızlığa uğratılmayacak. Adaleti gözeten ilim sahipleri bu isme tanıklık eder.
+dene: Bugün ölçüyü ve tartıyı tam tut: işte, alışverişte ya da sözünde kimseyi eksik bırakma.
+ayet: 3:18 21:47
+
+## el-cami
+kisa: Dağılanları bir araya getiren.
+sana: El-Câmi‘, dağılmış olanları bir araya getiren, insanları hesap gününde toplayan demektir. Ayrı düşmüş ailelerin, dağılmış hayallerin ve parça parça olmuş bir kalbin toplanması da O’nun elinde.
+dene: Bugün ayrı düşmüş iki kişiyi, ailenden ya da dostlarından, bir araya getirmek için küçük bir adım at.
+ayet: 3:9 34:26
+
+## el-ganiyy
+kisa: Hiçbir şeye muhtaç olmayan.
+sana: El-Ganiyy, hiçbir şeye muhtaç olmayan, zenginliği kendinden olan demektir. Muhtaç olan biziz; O’nun bizim ibadetimize de ihtiyacı yok. Yaptığın her iyilik, aslında kendi iyiliğin içindir.
+dene: Bugün bir ibadeti ya da iyiliği “O’nun ihtiyacı için değil, benim ihtiyacım için” bilinciyle yap.
+ayet: 35:15 29:6
+
+## el-mugni
+kisa: Zenginlik ve yeterlilik veren.
+sana: El-Muğnî, dilediğini zengin eden ve kendine yeterli kılan demektir. Zengin eden de yetinen kılan da O. Gerçek zenginlik, kalbin yetinmesidir.
+dene: Bugün sahip olduklarının yettiğini düşündüğün bir alanı fark et ve “bu bana yeter” diyerek şükret.
+ayet: 53:48 93:8 4:130
+
+## el-mani
+kisa: Dilediğini engelleyen ve koruyan.
+sana: El-Mâni‘, dilediğini engelleyen ve zarardan koruyan demektir. O bir şeyi tutarsa kimse onu gönderemez; bazen olmayan şey, aslında seni koruyan bir engeldir. Olmayan bir duanın ardında da bir rahmet olabilir.
+dene: Bugün “neden olmadı” diye üzüldüğün bir şeyi düşün ve onun seni neyden korumuş olabileceğini sor.
+ayet: 35:2
+
+## ed-darr
+kisa: Zarar ve yarar üzerinde mutlak tasarruf sahibi.
+sana: Ed-Dârr, zararın da O’nun izni ve takdiriyle olduğunu anlatır; bu isim her zaman En-Nâfi‘ ile birlikte anılır. Sana bir sıkıntı dokunursa onu O’ndan başka giderecek yok. Bu, sıkıntıdan kurtulmak için kime yöneleceğini gösterir.
+dene: Bugün seni sıkan bir şey için, ondan kurtulmayı insanlardan önce O’ndan iste.
+ayet: 6:17 10:107
+
+## en-nafi
+kisa: Fayda veren.
+sana: En-Nâfi‘, fayda veren, iyiliği ve yararı ulaştıran demektir. O sana bir hayır dilerse, onu kimse geri çeviremez. Faydalı olmak, bu ismin insandaki en güzel yansıması.
+dene: Bugün birine gerçekten faydalı ol: bildiğin bir şeyi öğret ya da bir işine yardım et.
+ayet: 10:107 48:11
+
+## en-nur
+kisa: Gökleri ve yeri aydınlatan.
+sana: En-Nûr, göklerin ve yerin aydınlığı, her şeyi görünür kılan demektir. Nur ayetinde O’nun ışığı, cam içinde bir kandile benzetilir: aydınlık üstüne aydınlık. Kalbindeki karanlıkta da O’nun ışığını isteyebilirsin.
+dene: Bugün Nur suresinin 35. ayetini yavaşça oku ve “Allah’ım, kalbime nur ver” diye dua et.
+ayet: 24:35
+
+## el-hadi
+kisa: Doğru yolu gösteren.
+sana: El-Hâdî, doğru yolu gösteren ve o yolda yürümeyi kolaylaştıran demektir. Her gün Fatiha’da “bizi doğru yola ilet” diye istediğimiz O. Yol gösterici olarak Rabbin yeter.
+dene: Bugün kararsız kaldığın bir konuda “Rabbim, beni doğruya ilet” diye dua et ve sonra güvendiğin birine danış.
+ayet: 22:54 25:31
+
+## el-bedi
+kisa: Eşi ve örneği olmadan yaratan.
+sana: El-Bedî‘, eşsiz ve örneksiz yaratan, benzeri olmayanı var eden demektir. Gökleri ve yeri hiçbir örnek almadan yarattı; bir şeyin olmasını istediğinde yalnızca “ol” der. Her insan da benzersiz yaratıldı; sen de.
+dene: Bugün kendinde başkalarından farklı olan güzel bir yönü bul ve onu bir iyilik için kullan.
+ayet: 2:117 6:101
+
+## el-baki
+kisa: Varlığının sonu olmayan.
+sana: El-Bâkî, varlığı sürekli olan ve hiç sona ermeyen demektir. Yeryüzündeki her şey yok olacak; kalıcı olan yalnızca O. Sizin yanınızdakiler tükenir, O’nun yanındakiler tükenmez.
+dene: Bugün kalıcı bir iyilik yap: birine bir şey öğret, bir ağaç dik ya da devam edecek bir yardıma katkıda bulun.
+ayet: 55:26-27 28:88 16:96
+
+## el-varis
+kisa: Her şeyin sonunda gerçek sahibi kalan.
+sana: El-Vâris, her şey yok olduktan sonra kalan ve her şeyin gerçek sahibi olan demektir. Çocuğu olmayan Hz. Zekeriya “Sen varislerin en hayırlısısın” diye dua etti. Geride ne bırakacağını düşünmek, bu ismin bir çağrısı.
+dene: Bugün geride bırakmak istediğin bir iz düşün: bir iyilik, bir bilgi, bir güzel söz. Onun için küçük bir başlangıç yap.
+ayet: 15:23 21:89 19:40
+
+## er-resid
+kisa: Doğruyu gösteren ve işleri isabetli olan.
+sana: Er-Reşîd, her işi yerli yerinde ve isabetli olan, kullarını doğruya ve olgunluğa yönelten demektir. Mağaradaki gençler “işimizde bize doğruyu göster” diye dua etti. Kararsızlıkta istenecek şey, O’nun yönlendirmesi.
+dene: Bugün bir karar vermeden önce “Umulur ki Rabbim beni daha doğru olana yöneltir” de ve acele etme.
+ayet: 18:10 18:24
+
+## es-sabur
+kisa: Cezalandırmakta acele etmeyen.
+sana: Es-Sabûr, çok sabırlı olan, hataları hemen cezalandırmayıp süre tanıyan demektir. İnsanların yaptıklarının hesabını hemen görseydi yeryüzünde canlı kalmazdı; ama O süre tanıyor. Sana tanınan sabır, sana da sabrı öğretir.
+dene: Bugün sabırsızlandığın bir kişiye ya da duruma, O’nun sana gösterdiği sabrı hatırlayarak biraz daha sabır göster.
+ayet: 35:45 18:58

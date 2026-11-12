@@ -1,0 +1,479 @@
+# "Neden bu ayet?" metinleri — kullanıcıya görünen açıklamalar.
+# Biçim: "# hal-id" başlığı altında "SURE:BAS[-SON] | metin". Her havuz ayetinin bir metni olmalı.
+# Üslup: sen diliyle, 1-2 cümle, ayeti tekrar etmeden ayetin bu hâle neden iyi geldiğini söyler; kıssalarda kimin konuştuğunu belirtir; ayetin söylemediği bir şeyi vaat etmez.
+
+# yorgun
+84:6 | Didinmek insanın kaderinde var; ama bu yorgunluğun bir yönü ve bir varış yeri var. Yorulduğun her yol, sonunda O’na çıkıyor.
+90:4 | Yorulman bir eksiklik değil. İnsan zaten zorluğun içinde yaratıldı; bugün zorlanıyorsan, bu sadece insan olduğun anlamına geliyor.
+4:28 | Allah senden taşıyamayacağını istemiyor; yükünü hafifletmek istiyor. Zayıf düştüğün anlar, yaratılışının bilinen bir parçası.
+20:2 | Bu Kitap sana zorluk olsun diye gelmedi. Yorgunken onu ağır bir görev gibi değil, bir dinlenme yeri gibi açabilirsin.
+28:73 | Gece de dinlenmen için bir rahmet. Durmak, uyumak, ara vermek de O’nun düzeninin parçası; dinlenmek için suçluluk duymana gerek yok.
+30:23 | Uyuman da gündüz çalışman kadar O’nun işaretlerinden. Bu akşam erken uyumak da güzel bir iş olabilir.
+73:7-8 | Gündüz bitmek bilmeyen işler var; bunu O da biliyor. Koşturmanın ortasında bir an durup yalnızca O’nu anmak, insanı yeniden toplar.
+19:25-26 | Doğum sancısıyla yapayalnız kalan Meryem’e söylenen ilk söz bir emir değil, bir şefkat: ye, iç, gözün aydın olsun. Kendine bakmak da bir ibadet olabilir.
+35:34-35 | Yorgunluğun da usancın da dokunmadığı bir yurt anlatılıyor. Buradaki yorgunluğun kalıcı olmadığını hatırlamak, bugünü taşımayı kolaylaştırır.
+50:38 | Yeri ve göğü yaratmak O’nu hiç yormadı. Senin yorulduğun yerde, hiç yorulmayana dayanabilirsin.
+
+# bunalmis
+94:1-8 | Her şey üst üste geldiğinde okunacak sure: göğsün açılması, belini büken yükün kaldırılması ve iki kez tekrarlanan söz, zorlukla beraber kolaylık var. Sonra yavaşça yeniden işe koyulmak.
+15:97-98 | Göğsünün daraldığı biliniyor; bunu saklaman gerekmiyor. Ayet ne yapacağını da gösteriyor: hamd et, secdeye kapan, biraz yere yakın ol.
+20:25 | Hz. Musa, zorlu bir görevin başında tek cümlelik bu duayı etmişti. Sıkıştığında sen de aynısını söyleyebilirsin: Rabbim, göğsüme genişlik ver.
+29:56 | Sıkıştığın yer dünyanın tamamı değil. O’nun yeryüzü geniş; bugün dar gelen yer, yarın değişebilir.
+2:45 | Bunaldığında iki şeye tutunabilirsin: sabır ve namaz. İkisi de yükü bir anda kaldırmaz ama taşıyacak gücü verir.
+20:2 | Bu Kitap sana güçlük çekesin diye gelmedi. Bunaldığında onu açmak, yükünü artırmak için değil, hafifletmek içindir.
+51:50 | Her şey üst üste geldiğinde kaçılacak bir yer var: O’na sığınmak. Bazen tek yapman gereken, yönünü O’na çevirmek.
+57:9 | Ayetler seni karanlıklardan aydınlığa çıkarmak için indirildi. Bunaldığın bu karanlıkta, O’nun şefkatinin seni de kapsadığını hatırla.
+21:87-88 | Hz. Yunus balığın karnında, karanlıkların içinden seslendi ve kurtarıldı. Ayetin sonu sana da söyleniyor: inananları böyle kurtarırız.
+27:62 | Darda kalanın çağrısını duyan, kötülüğü gideren O. Bunaldığın anda O’na seslenmek için hiçbir şeyin düzelmesini beklemene gerek yok.
+
+# kaygili
+94:5-6 | Zorluğun yalnız gelmediği art arda iki kez söyleniyor. Kaygının fısıldadığı “ya olmazsa”ya karşı, kolaylığın zorlukla birlikte olduğunu hatırla.
+2:286 | Kaygının çoğu “kaldıramayacağım” korkusudur. Bu ayet, kimseye gücünün üstünde yük yüklenmediğini söylüyor ve sana söyleyebileceğin bir duayla bitiyor.
+13:28 | Kalbin yatışacağı yer belli: O’nu anmak. Düşünceler dönüp dururken O’nun adını anmak, kalbe bir sükûnet getirir.
+33:3 | İki kısa cümle: O’na dayan; O yeter. Belirsizliğin ortasında tutunabileceğin bir söz.
+9:51 | Başına gelecek olanın bir ölçüsü var ve sen sahipsiz değilsin. Mevla’n O; elinden geleni yaptıktan sonra gerisini O’na bırakabilirsin.
+64:11 | Hiçbir şey O’nun bilgisi dışında olmuyor. Ve O’na inanan kalbe yön veriliyor; kaygılıyken de kalbin yolsuz kalmaz.
+10:107 | Sıkıntıyı giderecek de, hayrı verecek de O. O’nun sana açtığı iyiliği kimse geri çeviremez; “ya engellenirse” korkusu buraya kadar.
+2:155-157 | Korku ve kayıp hayatın içinde var; ayet bunu gizlemiyor. Ama sabredenleri müjdeliyor ve söylenecek sözü öğretiyor: biz Allah içiniz ve O’na döneceğiz.
+48:4 | Sükûnet bazen içinden bulduğun değil, kalbine indirilen bir şeydir. O’ndan iste.
+2:186 | “Beni kimse duymuyor” diye düşündüğünde: O sana yakın ve dua edenin duasına karşılık veriyor.
+11:123 | Bilinmeyen her şey O’na ait ve bütün işler O’na dönüyor. Gelecek senin elinde değil ama O’nun elinde; bu yüzden O’na dayanabilirsin.
+46:13 | “Rabbimiz Allah” deyip o sözde duranlar için korku da üzüntü de yok. Kısa ve net bir güvence.
+20:46 | Bu söz Hz. Musa ile Hz. Harun’a, Firavun’un karşısına giderken söylendi: çekinmeyin, Ben sizinle birlikteyim. Seni kaygılandıran şeyin karşısına da yalnız gitmiyorsun.
+3:173 | Korkutmak isteyen sözler karşısında inananların cevabı: Allah bize yeter, O ne güzel vekildir. Kaygı yükseldiğinde tekrar edebileceğin bir cümle.
+35:2 | O bir rahmet kapısı açarsa onu kimse kapatamaz. “Ya önüme engel çıkarsa” düşüncesine doğrudan bir cevap.
+6:59 | Düşen bir yaprağı bile bilen bir bilgi var. Kontrol edemediğin şeyler sahipsiz değil.
+9:129 | Kısa ve tekrarlanabilir bir söz: Allah bana yeter, ben O’na dayandım. Kaygı başını kaldırınca söyleyebilirsin.
+114:1-6 | Susmayan, içe sızan kuruntulara karşı okunacak sure. Kaygılı düşünceler dönüp durduğunda, onlardan O’na sığınırsın.
+
+# korku
+113:1-5 | Karanlığın, kıskançlığın ve adını koyamadığın her kötülüğün karşısında sığınılacak yer. Korktuğunda okuyabileceğin kısa bir sure.
+2:255 | Âyetü’l-Kürsî: O ne uyuklar ne dalgınlaşır; yeri ve göğü korumak O’na ağır gelmez. Korkunun karşısında okunan en bilinen ayet.
+10:62 | Allah’ın dostları için korku da üzüntü de yok. Korkun yerini O’na yakınlığa bırakabilir.
+20:46 | Firavun’un karşısına gönderilen Hz. Musa ile Hz. Harun’a söylendi: çekinmeyin, Ben sizinle birlikteyim, işitir ve görürüm. Korktuğunda yalnız olmadığını hatırla.
+20:67-68 | Bir peygamberin bile içine korku düştü. Korkmak ayıp değil; ardından gelen ses önemli: korkma.
+26:61-62 | Önleri deniz, arkaları ordu; herkes “yakalandık” derken Hz. Musa “Rabbim benimle, bana yol gösterecek” dedi. Çıkış görünmezken de bir yol olabilir.
+28:31 | Korkup kaçan Hz. Musa geri çağrıldı: dön, korkma, güvendesin. Bazen korkudan kaçmak yerine dönüp bakmak gerekir.
+21:69 | Hz. İbrahim’i yakmak için yakılan ateşe emir verildi: serin ve esenlik ol. Korktuğun şey de O’nun emri altında.
+11:56 | Hiçbir canlı O’nun denetimi dışında değil. Senden güçlü görünen kimseler bile.
+4:45 | Seni kimin korkuttuğunu O senden iyi biliyor. Dost ve yardımcı olarak O yeter.
+3:175 | Korku salmak şeytanın işi. Ayet açıkça söylüyor: onlardan korkmayın.
+9:40 | Peşlerinde düşmanla mağarada saklanırken Peygamber arkadaşına “üzülme, Allah bizimle” dedi ve kalplerine dinginlik indi. Korkunun içinde de bu söz söylenebilir.
+41:30 | “Rabbimiz Allah” deyip dosdoğru kalanlara melekler gelip söylüyor: korkmayın, üzülmeyin.
+6:82 | Gerçek güven, imanını haksızlıkla karıştırmayanlara ait. Korktuğunda içini temiz tutmak, insana dayanacak bir zemin verir.
+
+# uzgun
+93:3-5 | Vahyin bir süre kesildiği günlerde Peygambere söylendi: Rabbin seni bırakmadı, sana darılmadı. Gelecek geçmişten hayırlı olacak.
+12:86 | Oğlunu kaybeden Hz. Yakup hüznünü saklamadı, yalnızca doğru yere taşıdı: derdimi ve kederimi yalnız Allah’a açıyorum. Sen de açabilirsin.
+53:43 | Güldüren de ağlatan da O. Ağlamak da O’nun bildiği bir hâl; hüznün için kendini suçlamana gerek yok.
+3:139 | Kısa ve doğrudan bir söz: gevşeme, üzülme. Hüzün geçerken içini bırakma.
+15:97-98 | Göğsünün daraldığı biliniyor. Ve ayet ne yapacağını da gösteriyor: O’nu an, secdeye kapan.
+16:127 | Üzüntü başkalarının sözünden ya da davranışından geliyorsa: sabret, onlar için üzülme, darlanma. Sabrın da O’nun yardımıyla.
+35:34 | Cennettekilerin ilk sözü: hüznü bizden gideren Allah’a hamd olsun. Hüzün kalıcı değil; gidereceği bir gün var.
+10:57 | Göğüslerde olana şifa olan bir öğüt geldi. Hüzünlüyken birkaç ayet okumak bu şifadan pay almaktır.
+13:28 | Kalpler O’nu anmakla yatışır. Hüzünlüyken bile, O’nun adını anmak kalbe bir yer açar.
+41:30 | Dosdoğru kalanlara meleklerin sözü: korkmayın, üzülmeyin. Ayet, hüznün yerini sevince bıraktığı bir müjdeyle bitiyor.
+
+# kayip
+2:155-157 | Kayıp hayatın içinde var; ayet bunu saklamıyor. Kaybın ardından söylenecek sözü de öğretiyor: biz Allah içiniz ve O’na döneceğiz. Söyleyenlere bağışlanma ve rahmet var.
+57:22-23 | Başına gelen önceden biliniyordu; bu sana kaybettiğin şey yüzünden yıkılmaman için söyleniyor. Hüzünlenmek insanca, ama içinde kaybolmak zorunda değilsin.
+12:83 | Oğlunu yıllarca göremeyen Hz. Yakup’un sözü: bana düşen güzelce sabretmek; umarım Allah hepsini bana kavuşturur. Yası umutla birlikte taşımak mümkün.
+52:21 | İnananların, iman eden yakınlarıyla yeniden bir araya getirileceği anlatılıyor. Ayrılık son söz değil.
+89:27-30 | Huzura ermiş bir ruha söylenen sözler: razı olarak Rabbine dön, kullarıma katıl. Gidenin ardından okuyabileceğin, yumuşak bir uğurlama.
+16:32 | İyilerin canlarını melekler en güzel şekilde alır ve onları selamla karşılar. Sevdiğin birini uğurlarken bunu düşünmek teselli verebilir.
+29:57 | İki kısa cümle: her can ölümü tadacak ve dönüş O’na. Kayıp, hepimizin yolunun bir parçası; ve o yol O’na çıkıyor.
+55:26-27 | Yeryüzündeki her şey geçici; kalıcı olan yalnızca celal ve ikram sahibi Rabbin. Kaybettiğinde, hiç kaybolmayana tutunabilirsin.
+16:96 | Senin elindekiler tükenir, Allah katındakiler tükenmez. Bir imkânı, bir dönemi kaybettiysen, sabrın da emeğin de kaybolmuyor.
+18:45 | Dünya hayatı yağmurla yeşerip sonra rüzgârla savrulan bir bitki gibi. Her şeyin bir mevsimi var; bitmesi, hiç olmadığı anlamına gelmiyor.
+68:32 | Bahçesi yok olan kardeşler sonunda şöyle dediler: umarız Rabbimiz bize yerine daha hayırlısını verir. Kaybettiğin bir iş ya da fırsat için sen de böyle umabilirsin.
+
+# yalniz
+50:16 | İçinden geçeni, kimseye söyleyemediğin şeyi O biliyor. Ve sana şah damarından daha yakın.
+2:186 | Yalnız hissettiğinde: O yakın. Seslendiğinde karşılık veriyor; dinleyen biri var.
+58:7 | Üç kişinin konuştuğu yerde dördüncüleri O’dur; az ya da çok, nerede olurlarsa olsunlar. Tek başına olduğunu sandığın yerde bile yalnız değilsin.
+57:4 | Nerede olursan ol, O seninle beraber. Kalabalığın içinde de odanın sessizliğinde de.
+58:1 | Kocasından yakınan bir kadının şikâyetini kimse ciddiye almazken Allah işitti ve bir sure onun sözüyle başladı. Anlaşılmadığını hissettiğinde, sözünü işiten biri var.
+26:218-220 | Gece kalktığında da secdeye kapandığında da O seni görüyor. Kimsenin görmediği anların bir şahidi var.
+20:35 | Hz. Musa’nın duasından kısa bir cümle: Sen bizim her hâlimizi görüyorsun. Kimse fark etmese de bu cümleyi söyleyebilirsin.
+21:89 | Yaşlı ve çocuksuz Hz. Zekeriya’nın duası: Rabbim, beni tek başıma bırakma. Yalnızlığın en dolaysız duası; sen de edebilirsin.
+19:64 | Rabbin unutkan değil. Unutulmuş gibi hissettiğin günlerde bunu hatırla.
+52:48 | Bu söz zor günlerinde Peygambere söylendi: sen gözümüzün önündesin. Kimsenin görmediği emeğin de görülüyor.
+28:24 | Hz. Musa yabancı bir ülkede, kimsesiz ve yorgun, iki kadının hayvanlarını suladıktan sonra gölgeye çekilip bu duayı etti: Rabbim, bana indireceğin her hayra muhtacım. Bundan hemen sonra yolu açıldı.
+19:96 | İman edip iyilik yapanlar için Rahman sevgi var edecek. Yalnızlık hissi kalıcı olmak zorunda değil.
+85:14-16 | O çok bağışlayan ve çok seven. Sevilmediğini düşündüğünde, O’nun adının Vedûd, yani çok seven olduğunu hatırla.
+40:7 | Arşı taşıyan melekler inananlar için bağışlanma diliyor. Sen kimsenin senin için dua etmediğini düşünürken bile.
+18:28 | Yalnızlığa bir yön: sabah akşam Rabbine yönelen insanların arasında olmayı seçmek. Doğru insanları aramak da bir ibadet.
+
+# kirgin
+10:65 | Söyledikleri seni üzmesin; değer ve izzet bütünüyle Allah’a ait. Senin değerin başkalarının sözüne bağlı değil.
+36:76 | Sözleri seni üzmesin; O, açıkça söylediklerini de içlerinde gizlediklerini de biliyor. Kırgınlığını anlatmak için kimseye bir şey kanıtlaman gerekmiyor.
+15:95 | Peygamber alaya alınırken söylendi: alay edenlere karşı Biz sana yeteriz. Seni küçümseyenlere karşı da O yeter.
+3:186 | İncitici sözler işiteceğin önceden söylenmiş. Bu acıyı yok saymıyor; sabretmeyi ve kendini korumayı güçlü bir kararlılık sayıyor.
+73:10 | Söylediklerine sabret ve onlardan güzellikle uzak dur. Kavga etmeden mesafe koymak da bir yol.
+25:63 | Rahman’ın kulları, laf atan cahillere “selam” deyip geçer. Her söze cevap vermek zorunda değilsin.
+28:55 | Kırıcı bir söz duyduklarında yüz çevirip şöyle derler: bizim işimiz bize, sizin işiniz size, selam olsun. İncinmeden geri çekilmenin sözü.
+41:34 | İyilik ile kötülük bir değil. Kötülüğü en güzel şekilde savarsan, seni kıranın bir gün dostun olduğunu görebilirsin.
+23:96 | Kötülüğe en güzeliyle karşılık ver; söylenen her şey zaten biliniyor. Hakkını savunmak için incitmek zorunda değilsin.
+49:11 | Alay edilenin, alay edenden daha hayırlı olması mümkün. Seni küçük düşürmeye çalışan söz, senin gerçek değerini belirlemez.
+60:7 | Bugün araları kötü olan insanlar arasında Allah bir gün sevgi var edebilir. Kırgınlığın son hâl olmayabilir.
+59:10 | Kalplerimizde kin bırakma diye dua edenler anlatılıyor. Kırgınlığın kine dönüşmemesi için sen de bu duayı edebilirsin.
+
+# ofkeli
+3:134 | Öfkesini yutan ve insanların kusurunu bağışlayanları Allah seviyor. Öfkeni tutmak zayıflık değil, sevilen bir iyilik.
+42:37 | İnananların bir niteliği: öfkelendiklerinde bağışlarlar. Öfke gelebilir; önemli olan ondan sonra ne yaptığın.
+7:200 | Öfkenin en sıcak anı için tek bir öğüt: içinden bir dürtü yükseldiğinde hemen Allah’a sığın. O işitiyor ve biliyor.
+3:159 | Peygambere söylendi: kaba ve katı olsaydın insanlar etrafından dağılırdı. Yumuşaklık rahmettendir; sonra affet, danış, karar ver ve O’na dayan.
+17:53 | Sözün en güzelini söyleyin; şeytan aranızı bozmak ister. Öfkeyle söyleyeceğin sözden önce bunu bir kez düşün.
+31:19 | Lokman’ın oğluna öğüdü: yürüyüşünde ölçülü ol, sesini alçalt. Öfke yükseldiğinde sesini alçaltmak bile insanı yatıştırır.
+20:44 | Hz. Musa ve Hz. Harun Firavun’a bile yumuşak söz söylemekle görevlendirildi. Öfkelendiğin kişi Firavun’dan daha zor değildir.
+16:126 | Karşılık vermen gerekirse ölçüyü aşma. Ama sabredersen, bu senin için daha hayırlı.
+41:34 | Kötülüğü en güzel şekilde savarsan, düşmanın bile dosta dönebilir. Öfkeye öfkeyle karşılık vermek zorunda değilsin.
+79:40-41 | Rabbinin huzurunda duracağını bilip kendini tutkularından alıkoyana barınak vaat ediliyor. Öfkeni dizginlemek, kendine yapabileceğin bir iyilik.
+
+# haksizlik
+14:42 | Zalimlerin yaptıklarından Allah habersiz değil; yalnızca onlara süre tanınıyor. Görülmediğini düşündüğün haksızlık görülüyor.
+21:47 | Hardal tanesi kadar olsa bile hiçbir şey hesapsız kalmayacak ve kimse haksızlığa uğratılmayacak. Adalet gecikebilir ama kaybolmaz.
+4:40 | Allah zerre kadar haksızlık yapmaz. Sana yapılan haksızlık O’nun katında karşılıksız kalmaz; senin iyiliğin ise kat kat artar.
+20:112 | İnanıp iyilik yapan kimse, O’nun huzurunda hakkının yeneceğinden korkmaz. İnsanlar hakkını yese de orada hiçbir hakkın kaybolmuyor.
+34:26 | Rabbimiz hepimizi bir araya toplayıp aramızda adaletle hükmedecek. Hakkını alamadığın yerde, son hükmün O’na ait olduğunu bil.
+39:46 | Çekişmelerde hükmü O’na bırakan bir dua. Haklı olduğun hâlde kimseye anlatamadığında bu duayı edebilirsin.
+21:112 | Kısa bir dua: Rabbim, aramızda hak ile hükmet. Hakkın yendiğinde, sözünü O’na söyleyebilirsin.
+66:11 | Firavun’un hanımı, zalim bir sarayın içinden şöyle dua etti: beni ondan ve yaptıklarından kurtar. Haksızlığın en yakınından geldiği durumlar için bir dua.
+28:5 | Yeryüzünde ezilenlere iyilik etmek ve onları önder kılmak istendiği söyleniyor. Bugünkü durumun son durum değil.
+17:81 | Hak geldiğinde batıl yok olur; batıl zaten yok olmaya mahkûm. Haksızlık güçlü görünse de kalıcı değil.
+3:54 | Onlar bir plan kurdu; Allah da kurdu. Ve O, plan kuranların en iyisi. Sana karşı kurulan hesaplar her şeyin sonu değil.
+17:96 | Benimle sizin aranızda şahit olarak Allah yeter. Kimse sana inanmasa da O biliyor.
+12:18 | Hz. Yakup, oğullarının kanlı gömlekle getirdiği yalanı anladı ve şöyle dedi: bana düşen güzelce sabretmek; yardımı Allah’tan isterim. Haksızlığa öfkeyle değil, sabır ve duayla karşılık vermek.
+4:148 | Haksızlığa uğrayan kişinin, kötülüğü açıkça dile getirmesine izin var. Yaşadığını anlatmak, hakkını aramak senin hakkın.
+22:38 | Kısa ve net: Allah inananları savunur. Haksızlığa uğradığında savunmasız değilsin.
+
+# caresiz
+27:62 | Darda kalanın çağrısına karşılık veren, sıkıntıyı gideren O. Elinden hiçbir şey gelmediğinde bile seslenmek elinden gelir.
+21:87-88 | Hz. Yunus balığın karnında, karanlıkların içinden seslendi ve kurtarıldı. Ayet bunun yalnız ona özel olmadığını söylüyor: inananları böyle kurtarırız.
+54:10 | Hz. Nuh yıllarca uğraştıktan sonra tek cümleyle dua etti: yenik düştüm, bana yardım et. Gücünün bittiğini söylemek de bir dua.
+36:82 | O bir şeyin olmasını istediğinde yalnızca “ol” der. Sana imkânsız görünen, O’na zor değil.
+19:9 | Yaşlı Hz. Zekeriya, çocuğu olacağını duyunca şaşırdı; cevap: bu Bana kolay, seni de hiçbir şey değilken yarattım. İmkânsız görünen kapı O’nun için kapalı değil.
+1:5 | Yalnız Sana kulluk eder, yalnız Senden yardım dileriz. Her gün okunan bu cümle, çaresizliğin en sade cevabı.
+2:153 | Sabır ve namazla yardım iste; Allah sabredenlerle beraber. Elin kolun bağlıyken bile yapabileceğin iki şey var.
+3:160 | O yardım ederse kimse sana üstün gelemez. Çaresiz hissettiğinde, yardımın asıl kaynağının O olduğunu hatırla.
+18:10 | Mağaraya sığınan gençler hiçbir çıkışları yokken böyle dua etti: katından bize rahmet ver, işimizde doğru olanı göster. Yol görünmediğinde edilecek bir dua.
+6:17 | Sıkıntıyı giderecek de iyiliği verecek de O. Elinden bir şey gelmediğinde, her şeye gücü yetene dönebilirsin.
+
+# umutsuz
+94:5-6 | Zorlukla beraber bir kolaylık var; ve bu art arda iki kez söyleniyor. Düzelmeyecek gibi gelen şeyle bile.
+12:87 | Oğullarını yıllardır bekleyen Hz. Yakup hâlâ şöyle diyordu: Allah’ın rahmetinden umut kesmeyin. O kadar uzun bir beklemeden sonra bile.
+15:56 | Yaşlılığında çocuk müjdesi alan Hz. İbrahim’in sözü: Rabbinin rahmetinden kim umut keser? Umut, akla gelmeyen yerden doğabilir.
+42:28 | O, insanlar umudu kestikten sonra yağmuru yağdıran. Rahmet bazen tam her şeyin bittiği sanıldığı anda gelir.
+30:50 | Rahmetinin izlerine bak: kurumuş toprağı nasıl yeniden diriltiyor. Kuruyan bir şey yeniden yeşerebilir.
+41:39 | Kupkuru görünen toprak, üzerine su inince kıpırdayıp kabarıyor. İçinde kurumuş gibi görünen şey için de bu mümkün.
+12:110 | Elçilerin bile umudu tükenecek gibi olduğu bir anda yardım ulaştı. Umudun en azaldığı an, yardımın en yakın olduğu an olabilir.
+33:43 | Allah ve melekleri seni karanlıklardan aydınlığa çıkarmak için rahmet ediyor. O inananlara karşı çok merhametli.
+19:4 | Güçten kesilmiş ve saçı ağarmış Hz. Zekeriya şöyle dedi: Rabbim, Sana ettiğim dualar hiç karşılıksız kalmadı. Geçmişte karşılık bulan dualarını hatırlamak, bugüne umut verir.
+39:53 | Kendine karşı aşırı gidenlere bile söyleniyor: Allah’ın rahmetinden umut kesmeyin. O’nun rahmeti senin umutsuzluğundan büyük.
+
+# pisman
+39:53 | Pişmanlığın ilk ayeti: kendine karşı aşırı gidenlere bile “umut kesmeyin” deniyor. O, bütün günahları bağışlayabilir.
+3:135 | Kötü bir şey yaptıktan sonra Allah’ı hatırlayıp bağışlanma dilemek, iyilerin bir niteliği olarak anlatılıyor. Hata bir son değil, dönüş noktası olabilir.
+4:110 | Kötülük yapan da kendine haksızlık eden de, bağışlanma dilediğinde Allah’ı bağışlayıcı ve merhametli bulur. Kapı, şu an çaldığında açılır.
+6:54 | Rabbin rahmet etmeyi kendi üzerine yazdı. Bilmeden yanlış yapıp sonra dönen ve kendini düzelten için bağışlanma var.
+7:23 | Hz. Âdem ile eşinin hatalarından sonraki ilk sözleri: Rabbimiz, kendimize zulmettik. Pişmanlığın ilk dili bu; sen de aynı cümleyle başlayabilirsin.
+28:16 | Hz. Musa istemeden birinin ölümüne sebep olduktan sonra şöyle dedi: Rabbim, kendime haksızlık ettim, beni bağışla. Ve bağışlandı.
+25:70 | Tövbe edip iyilik yapanın kötülükleri iyiliğe çevriliyor. Pişman olduğun şey, dönüşünle birlikte bambaşka bir şeye dönüşebilir.
+11:114 | İyilikler kötülükleri giderir. Pişmanlığını bir iyiliğe çevirmek, yükü hafifletmenin en sağlam yolu.
+15:49 | Tek bir cümle: kullarıma haber ver, Ben çok bağışlayanım, merhameti kesintisiz olanım. Bu haber sana da veriliyor.
+20:82 | Tövbe eden, iman edip iyilik yapan ve doğru yolda kalanı O kesinlikle bağışlar. Bu bir ihtimal değil, verilmiş bir söz.
+42:25 | O, kullarının tövbesini kabul eder ve kötülüklerini bağışlar. Dönmek için geç kalmış değilsin.
+53:32 | Rabbinin bağışlaması geniş ve O seni annenin karnındayken bile tanıyordu. Kendini temize çıkarmana da, mükemmel olmana da gerek yok.
+12:53 | Hz. Yusuf, aklandığı anda bile şöyle dedi: ben kendimi temize çıkarmıyorum. Kusurunu dürüstçe kabul etmek, O’nun rahmetine yer açar.
+23:118 | Kısa bir dua: Rabbim, bağışla ve merhamet et; Sen merhamet edenlerin en hayırlısısın. Pişmanlığı söze dökemediğinde bunu söyleyebilirsin.
+
+# yetersiz
+95:4 | Tek cümle: insanı en güzel biçimde yarattık. Kendini eksik hissettiğinde, yaratılışının en güzel biçimde olduğunu hatırla.
+17:70 | İnsanoğlu onurlu kılındı. Değerin, bir şey başarmadan önce sana verildi.
+82:7-8 | Seni yaratan, biçim veren ve dengeli kılan O. Senin olduğun hâlin, O’nun özenle verdiği bir şekil.
+23:62 | Kimse gücünün üstünde bir şeyden sorumlu tutulmuyor ve hiçbir emek haksızlığa uğramıyor. Senden beklenen, yapabildiğin kadarı.
+4:28 | Allah yükünü hafifletmek istiyor; çünkü insan zayıf yaratıldı. Zayıflık ayıp değil, insanın bilinen bir hâli.
+18:30 | İyi bir iş yapanın emeği asla karşılıksız bırakılmıyor. Küçük gördüğün çaban bile.
+21:94 | İnanarak iyilik yapan kimsenin çabası inkâr edilmiyor; her çaba yazılıyor. Kimse görmese de emeğin kayıtta.
+99:7-8 | Zerre kadar iyilik bile görülecek. Yetersiz bulduğun küçük iyiliklerin, O’nun katında kaybolmuyor.
+20:25-28 | Hz. Musa, büyük bir görevin önünde kendini yetersiz hissetti ve dua etti: göğsümü aç, işimi kolaylaştır, dilimdeki düğümü çöz. Sen de eksik hissettiğin yeri söyleyerek dua edebilirsin.
+35:32 | Kitap’ın mirasçıları sayılırken, kendine yazık edenler de orta yolda gidenler de öne geçenler de birlikte anılıyor. Mükemmel olmayanlar da bu yolda.
+32:17 | Yaptığın iyiliklerin karşılığında seni nasıl bir sevincin beklediğini kimse bilmiyor. Senin “az” dediğin şeyin karşılığı tahmin ettiğinden büyük olabilir.
+
+# kiyas
+4:32 | Başkasına verilen üstünlüğü arzulama; Allah’tan O’nun lütfunu iste. Kıyasın doğrudan ilacı: gözünü başkasından alıp O’na çevirmek.
+20:131 | Başkalarına verilen dünya süsüne imrenme; onlar bununla sınanıyor. Rabbinin sana verdiği rızık daha hayırlı ve daha kalıcı.
+15:88 | Başkalarına verilene imrenme, onlar için üzülme. Bunun yerine, yanındaki insanlara kol kanat ger.
+25:20 | İnsanların bir kısmı bir kısmı için sınav kılındı: bakalım sabredecek misiniz? Kıyasladığın şey de bu sınavın bir parçası.
+43:32 | Geçimi O paylaştırdı; insanlar birbirine iş görsün diye farklı derecelerde. Ve Rabbinin rahmeti, biriktirilen her şeyden hayırlı.
+49:13 | Allah katında en değerli olan en çok sakınan; soy, servet ya da görünüş değil. Kıyaslandığın ölçüler O’nun ölçüleri değil.
+28:79-80 | Karun’un gösterişini görenler “keşke bizim de olsaydı” dedi; bilgi sahibi olanlar ise “Allah’ın vereceği karşılık daha hayırlı” diye cevap verdi. Kıssanın sonu, kimin haklı olduğunu gösteriyor.
+18:39 | İki bahçe sahibinin kıssasında, malca eksik görülen adamın sözü: Allah ne dilerse o olur. Eksik görülmek, eksik olmak demek değil.
+57:20 | Dünya hayatı oyun, süs, övünme ve çokluk yarışıdır; yağmurla yeşerip sonra sararan bir bitki gibi. Kıyaslandığın şeyin ne kadar geçici olduğunu hatırla.
+102:1-2 | Çoğaltma yarışı insanı oyalar, ta ki hayat bitinceye kadar. Kıyas seni bu yarışa çekiyorsa durup sormak iyi gelir.
+42:27 | Rızık herkese bol verilseydi insanlar yeryüzünde azardı; O, dilediği kadarını ölçüyle indirir. Senin payının bir ölçüsü ve hikmeti var.
+10:58 | Allah’ın lütfu ve rahmetiyle sevin; bu, biriktirilen her şeyden daha hayırlı. Başkasında olanı değil, sende olan rahmeti sayabilirsin.
+
+# sabirsiz
+70:5 | Tek cümle: güzel bir sabırla sabret. Şikâyetsiz, içini karartmadan beklemenin adı güzel sabır.
+2:214 | Sizden öncekiler de öyle sarsıldı ki “Allah’ın yardımı ne zaman?” diye sordular. Cevap: Allah’ın yardımı yakın. Bu soruyu soran ilk kişi sen değilsin.
+11:115 | Sabret; Allah iyilik yapanların emeğini asla karşılıksız bırakmaz. Beklerken yaptığın iyilik de sayılıyor.
+39:10 | Sabredenlere karşılıkları hesapsız verilir. Beklemenin uzunluğu, karşılığın büyüklüğünü de artırıyor.
+40:55 | Sabret, Allah’ın sözü gerçektir. Beklerken yapabileceklerin de söyleniyor: bağışlanma dile, sabah akşam O’nu an.
+46:35 | Kararlı peygamberlerin sabrettiği gibi sabret ve acele etme. En büyük peygamberler bile beklemek zorunda kaldı.
+3:200 | Kısa bir yol haritası: sabret, dayan, dikkatini kaybetme, Allah’tan sakın. Sabır bir kez değil, her gün yeniden.
+13:24 | Sabredenleri karşılayan söz: sabrettiğiniz için size selam olsun. Bugün gösterdiğin sabrın da bir karşılığı var.
+7:128 | Firavun’un baskısı altındaki halkına Hz. Musa’nın öğüdü: Allah’tan yardım dileyin ve sabredin; sonuç sakınanlarındır. Uzun bir bekleyişin ortasında söylenmiş bir söz.
+20:114 | Peygambere vahiy gelirken acele etmemesi söylendi; yerine bir dua öğretildi: Rabbim, bilgimi artır. Beklerken öğrenmeye devam etmek.
+21:37 | İnsan aceleden yaratılmış. Sabırsızlığın insanca; ayet bunu kabul ediyor ve sonra “günü gelince” diyor.
+74:7 | En kısa öğüt: Rabbin için sabret. Sabrın kime yönelik olduğunu bilmek onu kolaylaştırır.
+
+# kararsiz
+3:159 | Karar anı için üç adım: danış, karar ver, sonra Allah’a dayan. Karar verdikten sonra tereddütü O’na bırakabilirsin.
+42:38 | İnananlar işlerini aralarında danışarak yürütür. Kararsızken güvendiğin birine danışmak da bu yolun bir parçası.
+18:23-24 | “Yarın kesin yapacağım” deme; “Allah dilerse” de. Ve şöyle dua et: umarım Rabbim beni daha doğru olana yöneltir.
+17:80 | Her yeni kapının duası: Rabbim, beni doğru bir girişle girdir, doğru bir çıkışla çıkar. Bir şeye başlarken ya da bir yerden ayrılırken.
+28:22 | Hz. Musa, nereye gideceğini bilmeden Medyen’e yönelirken şöyle dedi: umarım Rabbim bana doğru yolu gösterir. Belirsiz bir yola çıkarken edilecek dua.
+37:99 | Hz. İbrahim yurdundan ayrılırken: ben Rabbime gidiyorum, O bana yol gösterecek. Yönü bilmeden de yola güvenle çıkılabilir.
+1:6-7 | Her gün okunan yön duası: bizi doğru yola, nimet verdiklerinin yoluna ilet. Kararsızken bu duanın anlamını düşünerek okumak.
+28:68 | Hayırlı olanı seçen O. Bu, seçimin bütün yükünü senin taşımadığını hatırlatır.
+29:69 | O’nun yolunda çaba gösterenlere yollar gösterilecek. Kararsızken de bir adım atmak, yolun açılmasına vesile olabilir.
+93:7 | Seni yolunu kaybetmiş bulup doğru yolu göstermedi mi? Daha önce de yolunu bulduğun zamanlar oldu.
+34:46 | Allah için tek başına ya da biriyle birlikte, sakince oturup düşünme çağrısı. Karar vermeden önce gürültüden uzaklaşmak.
+39:18 | Sözü dinleyip en güzeline uyanlar, akıl sahipleri olarak anılıyor. Seçenekleri dinle, en güzeline yönel.
+
+# isteksiz
+94:7-8 | Bir işi bitirince diğerine koyul ve yalnızca Rabbine yönel. İçinden bir şey gelmediğinde büyük değil, küçük bir adımla başla.
+8:24 | Sana hayat verecek şeye çağrıldığında karşılık ver. Ve Allah kişi ile kalbi arasındadır; boşluk hissettiğin kalbin O’na uzak değil.
+57:16 | Kalplerin yumuşama vakti gelmedi mi? Uzun süredir bir şey hissetmediysen, bu nazik bir soru.
+16:97 | İnanarak iyilik yapan kadın ya da erkeğe hoş ve temiz bir hayat sözü. Boşluk hissine küçük bir iyilikle başlamak iyi gelebilir.
+53:39-41 | İnsan için çalıştığından başkası yok; çalışması görülecek ve karşılığı eksiksiz verilecek. Bugün yapacağın küçük şey de sayılıyor.
+74:1-2 | Ey örtüsüne bürünmüş olan, kalk. Bu sözler Peygambere söylenmişti; bazen yapılacak ilk şey sadece kalkmaktır.
+3:139 | Gevşeme, üzülme. İsteksizlik geçici bir hâl; sen ondan daha fazlasısın.
+57:21 | Bağışlanmaya ve genişliği gökler ve yer kadar olan bir cennete doğru yarışın. Bir hedefi hatırlamak, isteği geri getirebilir.
+17:19 | Ahireti isteyip onun için çalışanların çabası takdir görür. Emeğinin bir anlamı ve bir karşılığı var.
+
+# gecim
+11:6 | Yeryüzündeki her canlının rızkı Allah’a ait; O, nerede durduğunu da nereye gideceğini de biliyor. Sen de bu canlıların arasındasın.
+29:60 | Rızkını taşıyamayan nice canlı var; onları da seni de Allah rızıklandırıyor. Geçim kaygısının yükü yalnızca senin omzunda değil.
+2:268 | Para kaygısının iki sesi var: yoksullukla korkutan şeytanın sesi ve bağış ile bolluk vaat eden Allah’ın sesi. Hangisini dinlediğini fark etmek bile rahatlatır.
+51:22-23 | Rızkın gökte; ve bu, konuşman kadar gerçek. Kaygı bunu unutturduğunda bu ayeti hatırla.
+15:21 | Her şeyin hazinesi O’nun yanında ve her şey belli bir ölçüyle iner. Senin payın da.
+53:48 | Zengin eden de O, yetinen kılan da. Bolluk kadar gönül zenginliği de O’ndan istenir.
+62:10 | Namazdan sonra yeryüzüne dağılın ve Allah’ın lütfundan nasibinizi arayın. Çalışmak ve iş aramak da O’nun yolunda bir çaba.
+67:15 | Yeryüzü sana boyun eğdirildi; üzerinde dolaş ve rızkından ye. Yol aramak, kapı çalmak bu düzenin bir parçası.
+28:24 | Hz. Musa, işsiz ve yurtsuz bir hâldeyken, yardım ettiği iki kadından sonra gölgeye çekilip dua etti: Rabbim, bana indireceğin her hayra muhtacım. Bundan hemen sonra hem iş hem yuva buldu.
+93:8 | Seni muhtaç bulup zengin etmedi mi? Geçmişte darlıktan nasıl çıktığını hatırlamak bugüne güç verir.
+106:1-4 | Kureyş suresi: aç olanı doyuran, korkuda olanı güvene kavuşturan Rab. Geçim ve güvenlik derdinin ikisi de O’na açılır.
+34:39 | Rızkı genişleten de ölçen de O; ve infak ettiğinin karşılığını veren de O. Dar zamanda bile paylaşmak bereketi azaltmaz.
+71:10-12 | Hz. Nuh halkına, Rabbinizden bağışlanma dileyin dedi; ardından yağmur, mal ve evlatla yardım geleceğini söyledi. Bağışlanma dilemek, bereketin kapılarından biri.
+20:132 | Senden rızık istemiyoruz, seni Biz rızıklandırıyoruz. Geçim kaygısı ibadetini ve aileni ihmal etmene yol açmasın.
+
+# hasta
+26:80 | Hz. İbrahim’in sözü: hastalandığımda bana şifa veren O’dur. Hastalığı kendine, şifayı O’na nispet eden ince bir edep.
+21:83-84 | Uzun bir hastalık çeken Hz. Eyyub şikâyet etmeden yalnızca hâlini söyledi: bana bir dert dokundu, Sen merhametlilerin en merhametlisisin. Ve çağrısına karşılık verildi.
+38:41-42 | Hz. Eyyub’a dertten kurtulması için serin bir su gösterildi. Şifanın bazen yakınında, basit bir yerde olabileceğini hatırlatır.
+17:82 | Kur’an’dan inenler inananlar için şifa ve rahmet. Hastayken okunacak ayetler kalbe de iyi gelir.
+10:57 | Göğüslerde olana şifa olan bir öğüt geldi. Beden yorulduğunda, içine iyi gelecek sözler de bir şifadır.
+16:68-69 | Arıya bir yol gösterildi ve balında insanlar için şifa var. Tedavi aramak, O’nun yarattığı şifalara başvurmak da bu ayetin içinde.
+9:91 | Zayıflara ve hastalara sorumluluk yüklenmiyor. Hastalığın yüzünden yapamadıkların için kendini suçlamana gerek yok.
+37:145-146 | Hz. Yunus bitkin hâlde kıyıya bırakıldığında, üzerine gölge edecek geniş yapraklı bir bitki bitirildi. İyileşme sürecinde de gözetiliyorsun.
+2:286 | Kimseye gücünün üstünde yük yüklenmiyor. Ayetin sonundaki duayı, hastalıkla uğraşırken kendi duan yapabilirsin.
+
+# gece
+2:255 | Âyetü’l-Kürsî: O’nu ne dalgınlık ne uyuklama tutar. Senin uyuyamadığın gece, hiç uyumayan biri her şeyi gözetiyor; düşüncelerini O’na bırakabilirsin.
+10:67 | Geceyi, sükûnet bulasın diye karanlık yapan O. Gece düşünmek için değil, dinlenmek için yaratıldı.
+25:47 | Gece bir örtü, uyku bir dinlenme olarak verildi. Bu gecelik düşüncelerini örtünün altına bırakmayı deneyebilirsin.
+78:9-11 | Uyku dinlenme, gece bir elbise, gündüz çalışma vakti. Her şeyin vakti var; şu an çözmek zorunda olduğun bir şey yok.
+32:16 | Yataklarından kalkıp korku ve umut içinde dua edenler anlatılıyor. Uyku tutmuyorsa, uykusuzluğu bir duaya çevirebilirsin.
+51:17-18 | Geceleri az uyuyup seher vakitlerinde bağışlanma dileyenler övülüyor. Uyanık geçen gecenin de bir değeri olabilir.
+17:79 | Gecenin bir kısmında kalkıp namaz kılmak Peygambere ayrıca öğütlendi. Uyanık kaldığın bu saatler, O’na en yakın olunan saatlerden.
+73:6 | Gece kalkışı kalbe daha derin işler, söz daha sağlam olur. Susmayan düşüncelerin yerine bu saatte bir dua koymak iyi gelir.
+76:25-26 | Sabah akşam O’nun adını an, gecenin bir bölümünde secde et. Gecenin sessizliğinde zihni toplamanın bir yolu.
+39:9 | Gece saatlerinde secde edip ayakta duran ve Rabbinin rahmetini uman kişi anlatılıyor. Gecenin karanlığı, umut için de bir zaman.
+52:49 | Gecenin bir kısmında ve yıldızlar batarken O’nu tesbih et. Uyuyamadığın saatlerde birkaç kez “Sübhanallah” demek, zihni yatıştırır.
+
+# daginik
+39:29 | Birbiriyle çekişen birçok efendiye bağlı bir adam ile tek bir efendiye bağlı bir adam. Dağınıklığın en net resmi bu; toplanmak, yönünü tek bir yere çevirmekle başlar.
+13:28 | Kalpler ancak O’nu anmakla yatışır. Gürültünün ortasında da bir an durup O’nu anmak, içini toplar.
+73:8 | Rabbinin adını an ve bütün benliğinle yalnızca O’na yönel. Dağınık zihin için tek bir yön.
+33:41-42 | O’nu çokça anın, sabah akşam tesbih edin. Küçük ve düzenli bir anma, günün dağınıklığına bir çerçeve verir.
+7:205 | Sabah akşam, içinden, alçak bir sesle Rabbini an. Gürültüden uzaklaşmak için bağırmak gerekmez; sessizce başlanır.
+29:45 | Namaz insanı kötülükten alıkoyar ve Allah’ı anmak her şeyden büyük. Günün koşturmasında namaz, durup toparlandığın bir mola.
+63:9 | Malların ve çocukların seni Allah’ı anmaktan alıkoymasın. Koşturmanın içinde neyin seni oyaladığını fark etmek de bir adım.
+24:37 | Ne ticaret ne alışveriş onları Allah’ı anmaktan alıkoyar. İşin ortasında bile kalbi toplu tutmak mümkün.
+23:1-3 | Kurtuluşa erenler namazlarında huşu içindedir ve boş şeylerden yüz çevirirler. Dağınıklığa iyi gelen ikisi: huşu ve gereksizi bırakmak.
+25:72 | Boş ve anlamsız bir şeyle karşılaştıklarında onurla oradan uzaklaşırlar. Seni dağıtan gürültüden uzaklaşmak da bir erdem.
+103:1-3 | Zamana yemin edilerek, insanın kayıpta olduğu söyleniyor; inanıp iyi işler yapan ve birbirine hakkı ve sabrı tavsiye edenler hariç. Zaman akıp giderken neye odaklanacağının kısa bir listesi.
+
+# aile
+30:21 | Eşler arasına sevgi ve merhamet konuldu; eş, yanında dinginlik bulunan kişidir. Zorlandığın dönemde bu sevgi ve merhametin hâlâ orada olduğunu hatırla.
+17:23-24 | Yaşlanan anne babaya “öf” bile dememek ve onlar için edilecek dua: Rabbim, beni küçükken nasıl şefkatle büyüttülerse Sen de onlara öyle merhamet et.
+31:14 | Annen seni zorluk üstüne zorlukla taşıdı. Aile ilişkileri zorlaştığında, verilen emeği hatırlamak bakışı yumuşatabilir.
+46:15 | Olgunluk çağına gelen birinin duası: bana ve anne babama verdiğin nimetlere şükretmeyi, soyumun da iyi olmasını nasip et. Aile için edilecek kapsamlı bir dua.
+25:74 | Rahman’ın kullarının duası: eşlerimizden ve çocuklarımızdan bize göz aydınlığı bağışla. Zorlandığın kişiler için bu duayı edebilirsin.
+28:56 | Sevdiğin birini doğru yola sen iletemezsin; Allah iletir. Bir çocuğun ya da yakının için çırpınırken bu, omzundaki yükü hafifletir ve duaya yer açar.
+64:14 | Eşlerden ve çocuklardan incitici davranışlar gelebilir; bu açıkça söyleniyor. Ama affeder, görmezden gelir ve bağışlarsan, Allah da bağışlayan ve merhamet edendir.
+4:128 | Eşler arasında geçimsizlik olduğunda uzlaşmak daha hayırlı; çünkü insanın benliği bencilliğe yatkındır. Bunu bilmek, karşındakini de kendini de daha iyi anlamaya yardım eder.
+29:8 | Anne babaya iyilik et; ama yanlış bir şeye zorladıklarında itaat etme. Saygının da bir sınırı var.
+12:100 | Kardeşleri tarafından kuyuya atılan Hz. Yusuf, yıllar sonra ailesine kavuştu ve kimseyi suçlamadan şöyle dedi: şeytan benimle kardeşlerimin arasını açtıktan sonra. Kırılan aile bağları da onarılabilir.
+14:40-41 | Hz. İbrahim’in ailesi için duası: beni ve soyumu namazı kılanlardan eyle; beni, annemi, babamı ve inananları bağışla. Aileni duana katmak.
+49:10 | İnananlar kardeştir; öyleyse kardeşlerinizin arasını düzeltin. Arayı düzeltmek, bazen ilk adımı atan olmaktır.
+
+# yuk
+2:286 | Kimseye gücünün üstünde yük yüklenmiyor. Ayetin sonundaki duada, ağır gelen yüklerin hafifletilmesini istemek de öğretiliyor.
+94:1-4 | Göğsün açılması ve belini büken yükün kaldırılması, Peygambere söylenmişti. Taşıdığın yükü O’na açtığında hafifleyebilir.
+23:62 | Hiç kimse gücünün yettiğinden fazlasıyla sorumlu tutulmuyor. Senden her şeyi yapman değil, gücün yettiğince yapman bekleniyor.
+64:16 | Gücünüz yettiğince. Mükemmel olmak değil, elden geleni yapmak isteniyor.
+73:20 | Gece ibadeti hafifletilirken, kiminin hasta, kiminin rızık peşinde, kiminin zorda olduğu bilindiği söyleniyor. Senin durumun da biliniyor; gücün yettiğince yap.
+87:8 | Sana yeterince kolaylaştıracağız. Ağır gelen işlerin içinde kolaylık da var.
+31:17 | Lokman oğluna, başına gelen zorluklara dayanmasını öğütledi; bu kararlılık gerektiren işlerden. Yükü taşıman güçlü olduğunun göstergesi.
+39:10 | Sabredenlere karşılıkları hesapsız verilir. Yükünü sabırla taşıman boşa gitmiyor.
+29:2-3 | Ağır dönemler bir sınav ve senden öncekiler de sınandı. Taşıdığın yükün bir anlamı var.
+
+# tereddut
+2:260 | Hz. İbrahim bile sordu: ölüleri nasıl dirilttiğini göster. “İnanmıyor musun?” sorusuna cevabı: inanıyorum, ama kalbim yatışsın istiyorum. Soru sormak imanın dışında değil.
+6:76-79 | Hz. İbrahim yıldıza, aya, güneşe baktı ve her biri batınca arayışını sürdürdü. Arayış, doğruya giden yolun bir parçası olabilir.
+2:256 | Dinde zorlama yoktur; doğru yanlıştan ayrılmıştır. İnanç baskıyla değil, anlayarak ve isteyerek olur.
+16:43 | Bilmiyorsanız bilenlere sorun. Sorularını içinde tutmak yerine, bilen birine sormak da öğütleniyor.
+34:46 | Allah için tek başına ya da biriyle sakince oturup düşünün. Sorular üzerine dürüstçe düşünmek bir çağrı.
+41:53 | İşaretler hem ufuklarda hem insanın kendi içinde gösterilecek; gerçek açıkça belli olsun diye. Aradığın cevaplar dışarıda da içinde de olabilir.
+22:54 | İlim verilenler gerçeği tanıdıkça ona iman eder ve kalpleri yatışır. Bilgi aramak kuşkuyu gidermenin bir yolu.
+3:8 | Rabbimiz, bize doğruyu gösterdikten sonra kalplerimizi kaydırma. Emin olamadığın zamanlarda tutunabileceğin bir dua.
+31:22 | Kendini bütünüyle Allah’a yönelten ve iyilik eden, en sağlam tutamağa tutunmuştur. Soruların olsa da yönelmeye devam edebilirsin.
+47:7 | Siz Allah’a yardım ederseniz O da size yardım eder ve ayaklarınızı sağlam basar kılar. Tereddüt anlarında sağlam durmak da O’ndan istenir.
+
+# sukur
+14:7 | Şükrederseniz artırırım. Şükrün kendisi de bir nimeti çoğaltır.
+27:19 | Hz. Süleyman bir karıncanın sözüne gülümsedi ve şükrünü bir duaya çevirdi: bana ve anne babama verdiğin nimetlere şükretmemi nasip et. Şükrü en yakınlarınla birlikte anmak.
+16:18 | Allah’ın nimetlerini saymaya kalksan sayamazsın. Bugün birkaçını sayarak başlamak bile güzel.
+2:152 | Beni anın ki Ben de sizi anayım; Bana şükredin. Şükür, karşılığında anılmak olan bir anmadır.
+31:20 | Göklerde ve yerde ne varsa hizmetine sunuldu; görünen ve görünmeyen nimetler bollaştırıldı. Görmediğin nimetler de var.
+16:78 | Hiçbir şey bilmezken işitme, görme ve kavrayan bir kalp verildi. Bunlar, şükredesin diye verildi.
+93:11 | Rabbinin nimetini anlat. Sevincini paylaşmak da şükrün bir yolu.
+108:1-2 | Sana bolca iyilik verdik; o hâlde Rabbin için namaz kıl. Bolluk geldiğinde yönünü O’na çevirmek.
+80:24-32 | İnsan yiyeceğine bir baksın: yağmurdan, yarılan topraktan, tanelerden ve meyvelerden sofraya uzanan yol. Bugünkü sofranı bu gözle görmeyi dene.
+55:10-13 | Yeryüzü, meyveler, salkım salkım hurmalar ve güzel kokulu bitkiler sayılıyor; ardından soru: Rabbinizin hangi nimetini yalanlayabilirsiniz?
+12:101 | Hz. Yusuf, kuyu ve zindandan sonra hayatına dönüp baktığında şükürle dua etti: bana verdin, bana öğrettin. Geçmişine bu gözle bakmak.
+14:39 | Hz. İbrahim yaşlılığında verilen çocukları için hamd etti: Rabbim duayı işitendir. Kabul olmuş bir dua için şükrün sözü.
+
+# huzurlu
+89:27-30 | Huzura ermiş ruha seslenilir: razı olarak ve razı olunmuş olarak Rabbine dön. Bu huzurun gittiği yer.
+10:25 | Allah esenlik yurduna çağırıyor. Bugün içinde hissettiğin huzur, o yurdun küçük bir tadı olabilir.
+39:23 | Sözün en güzeli okunduğunda önce tüyler ürperir, sonra kalpler yumuşar ve huzura kavuşur. Bu huzuru birkaç ayet daha okuyarak derinleştirebilirsin.
+97:1-5 | Kadir suresi: Kur’an’ın indiği ve sabaha kadar esenlik içinde geçen gece. Huzurlu bir an için okunacak sure.
+24:35 | Nur ayeti: göklerin ve yerin ışığı, cam içinde bir kandil, inci gibi parlayan bir yıldız. Dingin bir zihinle yavaşça okunacak bir örnek.
+16:80 | Evlerin bir huzur ve dinlenme yeri kılınması da bir nimet. Bugün evinde hissettiğin dinginlik için şükredebilirsin.
+36:58 | Rahmeti kesintisiz Rabden bir söz: selam. Huzurun en sade hâli.
+6:96 | Sabahı yarıp çıkaran ve geceyi dinginlik kılan O. Gün ile gecenin düzeni, içindeki huzurun da dayanağı.
+30:17-18 | Akşama girerken ve sabaha ererken, öğle ve günün sonunda O’nu tesbih et. Huzuru günün vakitlerine yaymanın yolu.
+7:43 | Cennet ehlinin göğüslerinden tasa adına ne varsa çıkarılır ve şöyle derler: bizi buraya ulaştıran Allah’a hamd olsun. Huzurlu bir kalbin sözü.
+
+# umutlu
+10:58 | Allah’ın lütfu ve rahmetiyle sevinin; bu, biriktirilen her şeyden hayırlı. Sevincin doğru adresi.
+93:5 | Rabbin sana verecek, sen de hoşnut olacaksın. Bu söz Peygambere söylenmişti; umudun ne kadar güzel bir söze dayanabileceğini gösteriyor.
+20:36 | Hz. Musa duasını bitirdiğinde aldığı cevap: ey Musa, istediğin sana verildi. Duası kabul olan birinin sevincine ortak olmak.
+21:90 | Hz. Zekeriya’nın duasına karşılık verildi ve ona Yahya bağışlandı; ailesi umarak ve endişe ederek dua eden, hayırlarda yarışan insanlardı.
+110:1-3 | Yardım ve zafer geldiğinde yapılacak şey: Rabbini hamd ile tesbih et ve bağışlanma dile. Sevinci şükre çevirmenin suresi.
+2:201 | Rabbimiz, bize dünyada da iyilik, ahirette de iyilik ver. Umutlu bir günde edilecek kısa ve kapsamlı bir dua.
+7:56 | O’na korkuyla ve umutla dua et; Allah’ın rahmeti iyilik yapanlara yakın. Umut, rahmetin yakınlığından beslenir.
+16:97 | İnanıp iyilik yapan kadın ya da erkeğe hoş ve temiz bir hayat sözü. Bugünkü iyi hâlini bir iyilikle taçlandırabilirsin.
+84:7-9 | Kitabı sağından verilen, sevinç içinde yakınlarına döner. Sevincin en güzeli, sevdiklerinle paylaşılanı.
+80:38-39 | O gün pırıl pırıl, gülen ve sevinen yüzler olacak. Bugünkü sevincin, o sevincin bir habercisi olsun.
+
+# baslangic
+17:80 | Yeni bir kapıdan geçerken edilecek dua: Rabbim, beni doğru bir girişle girdir, doğru bir çıkışla çıkar. Başlangıcı da, ileride gelecek ayrılığı da O’na emanet etmek.
+23:29 | Hz. Nuh gemiden inerken bu duayı etti: Rabbim, beni bereketli bir yere indir. Yeni bir eve, şehre ya da işe yerleşirken edilebilecek bir dua.
+20:25-26 | Hz. Musa büyük bir görevin başında şöyle dua etti: Rabbim, göğsüme genişlik ver, işimi kolaylaştır. Yeni bir işin ilk günü için iki kısa cümle.
+18:10 | Mağaraya sığınan gençler, belirsiz bir geleceğin önünde dua etti: katından bize rahmet ver, işimizde bize doğruyu göster. Yeni bir yola çıkarken edilecek dua.
+29:26 | Yurdundan ayrılan bir peygamberin sözü: ben Rabbim için yola çıkıyorum. Yeni bir başlangıca niyetini düzelterek başlamak.
+25:74 | Rahman’ın kullarının duası: eşlerimizden ve çocuklarımızdan bize göz aydınlığı bağışla. Evlilik ve aile kurmanın eşiğinde edilecek bir dua.
+26:83-85 | Hz. İbrahim’in duası: bana hikmet ver, beni iyilerin arasına kat, benden sonrakiler beni güzellikle ansın. Yeni bir döneme güzel bir iz bırakma niyetiyle başlamak.
+43:13-14 | Bir araca binip yola çıkarken söylenecek söz: bunu hizmetimize veren Allah ne yücedir, biz bunu kendi gücümüzle yapamazdık. Yola çıkışın duası.
+2:148 | Herkesin yöneldiği bir yönü var; öyleyse iyilikte yarışın. Yeni yönünü, iyilik yapabileceğin bir alan olarak görmek.
+96:1-5 | İlk inen ayetler: yaratan Rabbinin adıyla oku. En büyük başlangıç “O’nun adıyla” başladı; seninki de öyle başlayabilir.
+
+# sevgi
+30:21 | Eşler arasına sevgi ve merhamet konuldu; eş, yanında dinginlik bulunan kişi. Sevdiğin insanın kendisi de O’nun bir işareti.
+16:72 | Eşler, çocuklar ve torunlar; hepsi takdir edilmiş birer nimet. Sevdiklerini düşünürken onları bir nimet olarak anabilirsin.
+17:24 | Anne baba için öğretilen dua: Rabbim, beni küçükken nasıl şefkatle büyüttülerse Sen de onlara öyle merhamet et. Sevdiklerin için edilecek en güzel dualardan biri.
+13:23 | Cennete, anne babalarından, eşlerinden ve çocuklarından iyi olanlarla birlikte girilecek. Sevdiklerinle birlikte olmanın ahirete uzanan bir hâli var.
+3:103 | Birbirine düşman olan insanların kalpleri kaynaştırıldı ve kardeş oldular. Sevgi, O’nun kalplere koyduğu bir nimet.
+9:71 | İnanan erkekler ve kadınlar birbirinin dostudur. Dostluk, iyilikte birbirine destek olmakla derinleşir.
+85:14-16 | O çok bağışlayan ve çok seven. Sevginin asıl kaynağı Vedûd olan O.
+19:96 | İman edip iyilik yapanlar için Rahman bir sevgi var edecek. İnsanlar arasındaki sevgi, O’nun bir armağanı.
+20:39 | Bebek Hz. Musa’ya söylenen söz: seni sevimli biri yaptım. Sevilmek de O’nun bir lütfu; seni sevenler bu lütfun bir parçası.
+11:73 | Hz. İbrahim’in ev halkına söylenen söz: Allah’ın rahmeti ve bereketi üzerinizde olsun. Sevdiklerin için bu sözü dua olarak söyleyebilirsin.
+
+# tefekkur
+3:190-191 | Göklerin ve yerin yaratılışını ayakta, otururken, yatarken düşünenlerin sözü: Rabbimiz, Sen bunu boşuna yaratmadın. Tefekkürün varabileceği en güzel cümle.
+2:164 | Gökler, gece ile gündüz, denizdeki gemiler, yağmur, rüzgârlar ve bulutlar; hepsi düşünen bir akıl için işaret. Bugün bunlardan birine biraz daha uzun bak.
+6:99 | Yağmurla çıkan taneler, salkımlar, zeytin ve nar; ve bir davet: meyve verdiğinde ve olgunlaştığında bakın. Sıradan görünen bir meyveye bu gözle bakmayı dene.
+17:44 | Yedi gök, yer ve içindeki her şey O’nu tesbih ediyor; ama biz onların tesbihini anlamıyoruz. Etrafındaki sessizliği dinlerken bunu düşün.
+18:109 | Denizler mürekkep olsa, Rabbinin kelimeleri bitmeden denizler biterdi. Bilgimizin sınırı ile O’nun bilgisinin sınırsızlığı üzerine.
+31:27 | Yeryüzündeki ağaçlar kalem, yedi deniz mürekkep olsa da Allah’ın kelimeleri tükenmezdi. Durup bu büyüklüğü düşünmek.
+21:30 | Bitişik olan gökler ve yer ayrıldı ve her canlı sudan hayat buldu. Evrenin başlangıcı ve hayatın kaynağı üzerine düşünmek için.
+23:12-14 | İnsanın çamurun özünden başlayıp ana rahminde aşama aşama şekillenmesi ve sonunda: yaratanların en güzeli olan Allah ne yücedir. Kendi yaratılışına bakmak.
+25:45-46 | Gölgenin nasıl uzayıp kısaldığını görmüyor musun? Her gün olan ama fark etmediğimiz bir düzen.
+27:88 | Hareketsiz sandığın dağlar bulutlar gibi geçip gidiyor. Göründüğü gibi olmayan şeyler üzerine düşünmek.
+30:22 | Göklerin ve yerin yaratılışı, dillerinin ve renklerinin farklılığı O’nun işaretlerinden. İnsanların çeşitliliği de bir tefekkür konusu.
+35:27-28 | Rengârenk meyveler, beyaz, kırmızı ve simsiyah dağ katmanları, renk renk insanlar ve hayvanlar. Ayet, bunlar üzerine bilgiyle düşünenlerin derin bir saygı duyduğunu söylüyor.
+36:38-40 | Güneş kendi yörüngesinde akıyor, ay menzillerinde ilerliyor; her biri kendi yörüngesinde yüzüyor. Gece gökyüzüne bakarken okunacak ayetler.
+51:20-21 | Yeryüzünde işaretler var; ve kendinde de. Görmüyor musun? Tefekküre kendinden başlamak.
+67:3-4 | Rahman’ın yaratmasında bir düzensizlik bulabilir misin? Tekrar tekrar bak. Ayet bakmaya ve sorgulamaya davet ediyor.
+67:19 | Kanat çırpıp süzülen kuşları havada tutan Rahman’dan başkası değil. Bugün gördüğün bir kuşa bu gözle bak.
+88:17-20 | Deveye, göğe, dağlara ve yeryüzüne bakmak. Dört basit bakış; ama her biri bir düşünce kapısı.
+59:22-24 | Haşr suresinin son ayetleri: Allah’ın en güzel isimleri art arda sayılıyor. Bir isim seçip üzerinde biraz durabilirsin.
+
+# affetmek
+24:22 | Bu ayet, kızına iftira atılmasına katılan bir akrabasına yardımı kesmeye yemin eden Hz. Ebubekir hakkında indi: bağışlasınlar, hoş görsünler; Allah’ın sizi bağışlamasını sevmez misiniz? Affetmenin en güçlü gerekçesi.
+12:92 | Kendisini kuyuya atan kardeşleri karşısına geldiğinde Hz. Yusuf şöyle dedi: bugün size kınama yok, Allah sizi bağışlasın. Güç elindeyken affetmenin örneği.
+42:40 | Kötülüğün karşılığını vermek hak olarak tanınıyor; ama bağışlayıp arayı düzeltenin karşılığı Allah’a ait. Affetmek zorunlu değil, ama çok yüce.
+42:43 | Haksızlığa uğrayıp da sabreden ve bağışlayan büyük bir iş yapmış olur. Affetmenin zor olduğu biliniyor; onun için büyüklük sayılıyor.
+3:134 | Öfkelerini yutan ve insanların kusurlarını bağışlayanları Allah seviyor. Affettiğinde, O’nun sevdiği bir iş yapıyorsun.
+4:149 | Bir kötülüğü bağışlarsan bil ki Allah da çok affedici. Affetmek, O’nun bir sıfatına benzemeye çalışmak.
+7:199 | Üç kısa öğüt: affedici ol, iyiliği söyle, cahillerden yüz çevir. Affetmek bir an değil, bir tutum.
+64:14 | Eşlerden ve çocuklardan incitici davranışlar gelebilir. Affeder, görmezden gelir ve bağışlarsan, Allah da bağışlayan ve merhamet edendir.
+19:47 | Kendisini taşlamakla tehdit eden babasına Hz. İbrahim’in cevabı: sana selam olsun, senin için Rabbimden bağışlanma dileyeceğim. Kırılan bir ilişkiye bile kapıyı açık bırakmak.
+59:10 | Rabbimiz, kalplerimizde kin bırakma. Henüz affedemediğinde bile bu duayı edebilirsin.
+
+# toparlanmak
+13:11 | Bir toplum kendi durumunu değiştirmedikçe Allah onların durumunu değiştirmez. Değişim, senin atacağın adımla başlar.
+66:8 | İçten, insana ders veren bir tövbe ile dönmek. Ve dönenlerin duası: Rabbimiz, ışığımızı tamamla ve bizi bağışla.
+59:18 | Herkes yarın için ne hazırladığına baksın. Toparlanmak, yarına küçük bir şey hazırlamakla başlayabilir.
+91:9-10 | Nefsini arındırıp yücelten kurtulur, onu alçaltan kaybeder. Kendini toparlama isteği, bu arınmanın başlangıcı.
+87:14-15 | Arınan, Rabbinin adını anan ve namaz kılan kurtuldu. Toparlanmanın adımları basit: arın, an, kıl.
+33:70-71 | Doğru söz söyleyin ki işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kendine ve başkalarına dürüst olmak, düzelmenin kapısı.
+28:17 | Hz. Musa, hatasından sonra bağışlandığında şöyle karar verdi: bana verdiğin nimet hakkı için bundan sonra suçlulara arka çıkmayacağım. Pişmanlıktan sonra somut bir karar almak.
+47:2 | İnanıp iyilik yapanların kötülükleri örtülecek ve durumları düzeltilecek. Düzelmek mümkün; ve sen bunu tek başına yapmıyorsun.
+3:133 | Rabbinizin bağışlamasına ve yer ile gök genişliğindeki cennete koşun. Yeniden başlamak için hiçbir vakit geç değil.
+6:122 | Ölüyken diriltilen ve insanlar arasında yürüyeceği bir ışık verilen kişi, karanlıkta kalan gibi olur mu? Toparlanmak, karanlıktan ışığa doğru atılan bir adım.
+68:49-50 | Hz. Yunus’un hatasından sonra bile Rabbi onu yeniden seçti ve iyilerden kıldı. Hata yapmış olmak, yeniden seçilmene engel değil.
+
+# iyilik
+16:90 | Allah adaleti, iyiliği ve yakınlara yardım etmeyi emrediyor. İyilik yapma isteğin, O’nun emrettiği bir şeye denk düşüyor.
+59:9 | Medineliler, kendileri muhtaçken bile göç eden kardeşlerini kendilerine tercih ettiler. İyiliğin en yücesi, ihtiyacın varken verebilmek.
+76:8-9 | Yoksula, yetime ve esire yedirip “sizden ne karşılık ne teşekkür bekliyoruz” diyenler. Karşılık beklemeden yapılan iyiliğin sözü.
+3:92 | Sevdiğin şeylerden vermedikçe iyiliğin özüne eremezsin. Ve ne verirsen ver, O biliyor.
+2:177 | Gerçek iyilik ne? İnanmak; sevdiği hâlde malını yakınlara, yetimlere, yoksullara vermek; sözünü tutmak ve zorlukta sabretmek. İyiliğin geniş bir haritası.
+90:11-16 | Sarp yokuş: birini esaretten kurtarmak ya da darlık gününde yetimi ve yoksulu doyurmak. İyilik bazen zahmetli bir yokuştur, ama aşmaya değer.
+92:18-21 | Malını arınmak için, kimseden karşılık beklemeden veren kişi; ve sonunda hoşnut olacak. Verdiğinde içinde hissettiğin hafiflik de bu hoşnutluğun başlangıcı.
+4:36 | Anne baba, akraba, yetim, yoksul, yakın komşu, uzak komşu, yanındaki arkadaş, yolda kalmış: iyiliğin halkaları. Bugün hangi halkadan başlayacağını seçebilirsin.
+2:263 | Güzel bir söz ve hoşgörü, ardından incitme gelen sadakadan daha hayırlıdır. İyiliğin nasıl yapıldığı da en az kendisi kadar önemli.
+17:28 | Verecek bir şeyin yoksa en azından yumuşak bir sözle gönül al. İyilik her zaman para değil.
+14:24-25 | Güzel söz, kökü sağlam ve dalları gökte olan, her zaman meyve veren bir ağaç gibidir. Bugün söyleyeceğin güzel bir sözün meyvesi uzun sürebilir.
+55:60 | İyiliğin karşılığı iyilikten başka olabilir mi? Yaptığın iyilik karşılıksız kalmayacak.
+
+# anlam
+23:115 | Sizi boş yere yarattığımızı mı sandınız? Hayatın bir amacı olduğunu söyleyen doğrudan bir soru.
+51:56 | Cinleri ve insanları yalnızca Bana kulluk etsinler diye yarattım. “Niçin buradayım” sorusuna Kur’an’ın en kısa cevabı.
+67:2 | Ölüm ve hayat, hanginizin daha güzel iş yapacağını sınamak için yaratıldı. Ölçü “daha çok” değil, “daha güzel”.
+6:162-163 | Namazım, ibadetim, hayatım ve ölümüm âlemlerin Rabbi Allah içindir. Bütün bir hayatı tek bir yöne bağlayan cümle.
+30:30 | İnsan, Allah’ın yarattığı fıtrat üzerine yaratıldı; yüzünü ona dön. Aradığın anlam, zaten içine yerleştirilmiş olabilir.
+2:30 | Allah yeryüzüne bir halife yaratacağını söylediğinde melekler sordu; cevap: Ben sizin bilmediğinizi bilirim. İnsanın varlığının, meleklerin bile kavrayamadığı bir anlamı var.
+33:72 | Göklerin, yerin ve dağların taşımaktan çekindiği emaneti insan yüklendi. Senin varlığın, büyük bir emanet taşımak.
+28:77 | Allah’ın sana verdikleriyle ahireti ara, dünyadan da payını unutma; sana iyilik edildiği gibi sen de iyilik et. Dengeli bir hayatın kısa bir tarifi.
+18:46 | Mal ve çocuklar dünya hayatının süsü; kalıcı iyi işler ise Rabbinin katında daha değerli ve umut bağlamaya daha layık. Neyin kalıcı olduğunu düşünmek.
+29:64 | Bu dünya hayatı oyun ve oyalanmadan ibaret; asıl hayat ahiret yurdu. Hayatın anlamını düşünürken bakış açısını genişleten bir ayet.
+44:38-39 | Gökler, yer ve ikisinin arasındakiler oyun olsun diye yaratılmadı; hak ile yaratıldı. Varlığın tesadüf değil.
+18:82 | Hz. Musa’nın yol arkadaşı olan bilge kul, anlam veremediği olayların ardındaki rahmeti sonunda açıkladı. Hayatta anlamadığımız şeylerin de bir anlamı olabilir.

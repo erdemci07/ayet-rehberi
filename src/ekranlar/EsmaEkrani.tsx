@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { Ikon } from "@/bilesen/Ikon";
+import { KayitliAyet } from "@/bilesen/KayitliAyet";
 import { Iskelet, YuklenemediKutusu } from "@/bilesen/Ortak";
 import { esmalar, useVeri } from "@/istemci/veri";
 
@@ -40,6 +41,12 @@ export function EsmaEkrani({ slug }: { slug: string }) {
         <section className="neden">
           <p className="not-kutusu__baslik">Bugün dene</p>
           <p>{e.bugunDene}</p>
+        </section>
+      )}
+      {e.ayetler.length > 0 && (
+        <section className="bolum-blok">
+          <h2 className="ara-baslik">Kur’an’da</h2>
+          {e.ayetler.map(a => <KayitliAyet key={a} adres={a} />)}
         </section>
       )}
       {!aciklamaVar && <p className="bilgi">Bu ismin açıklaması hazırlanıyor.</p>}

@@ -182,7 +182,7 @@ a.kart--kum { color: var(--kum-yazi); }
 /* Esmâ */
 .kemer { width: 190px; height: 150px; background: var(--koyu-kart); border-radius: 95px 95px 14px 14px; padding: 8px; display: flex; margin: 0 auto; }
 .kemer > div { flex: 1; border: 1px solid var(--koyu-kart-altin); border-radius: 88px 88px 9px 9px; display: flex; align-items: center; justify-content: center; }
-.kemer p { margin: 14px 0 0; font-family: var(--yazi-arapca); font-size: 44px; line-height: 1.3; color: #e3cb94; }
+.kemer > div > p { margin: 14px 0 0; font-family: var(--yazi-arapca); font-size: 44px; line-height: 1.3; color: #e3cb94; }
 .kemer--kucuk { width: 64px; height: 72px; padding: 0; background: transparent; border: 1px solid var(--koyu-kart-altin); border-radius: 32px 32px 8px 8px; margin: 0; align-items: center; justify-content: center; }
 .kemer--kucuk span { font-family: var(--yazi-arapca); font-size: 20px; color: #e3cb94; }
 .esma-ust { display: flex; flex-direction: column; align-items: center; gap: 10px; text-align: center; }
