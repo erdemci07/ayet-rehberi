@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   title: { default: "Ayet Rehberi", template: "%s · Ayet Rehberi" },
   description: "Her gün bir ayet, o anki hâline göre seçilmiş ayetler ve bölüm bölüm sakin bir Kur'an okuması.",
   applicationName: "Ayet Rehberi",
+  manifest: "/manifest.webmanifest",
 };
 
 export const viewport: Viewport = {
