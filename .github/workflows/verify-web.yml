@@ -1,4 +1,4 @@
-name: Verify web build
+name: Verify web build and deploy
 on:
   push:
     branches: [main]
@@ -7,15 +7,26 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+concurrency:
+  group: web-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   verify:
     runs-on: ubuntu-latest
+    env:
+      NEXT_TELEMETRY_DISABLED: '1'
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: '22'
           cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .next/cache
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-nextjs-${{ hashFiles('package-lock.json') }}-
       - run: npm ci
       - run: npm run lint -- --max-warnings=0
       - run: npm test
@@ -27,3 +38,22 @@ jobs:
           test -s out/manifest.webmanifest
           test -s out/icons/ayet-192.png
           test -s out/icons/ayet-512.png
+      - name: Deploy to Firebase Hosting
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_AYET_REHBERI || secrets.FIREBASE_SERVICE_ACCOUNT }}
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -n "$FIREBASE_SERVICE_ACCOUNT" ]; then
+            export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/ayet-rehberi-firebase.json"
+            umask 077
+            printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$GOOGLE_APPLICATION_CREDENTIALS"
+            trap 'rm -f "$GOOGLE_APPLICATION_CREDENTIALS"' EXIT
+            unset FIREBASE_TOKEN
+          elif [ -z "$FIREBASE_TOKEN" ]; then
+            echo "::error::Missing Firebase deployment credentials. Configure FIREBASE_SERVICE_ACCOUNT_AYET_REHBERI in repository Actions secrets."
+            exit 1
+          fi
+          unset FIREBASE_SERVICE_ACCOUNT
+          npx --yes firebase-tools deploy --only hosting --project ayet-rehberi --non-interactive
