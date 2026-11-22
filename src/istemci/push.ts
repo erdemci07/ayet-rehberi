@@ -1,7 +1,7 @@
 "use client";
 import type { Durum, Hatirlatmalar } from "@/cekirdek/durum";
 
-const ENDPOINT = "https://us-central1-ayet-rehberi.cloudfunctions.net/ayetPushApi";
+const ENDPOINT = "https://us-central1-zumrenet-657e1.cloudfunctions.net/ayetPushApi";
 const DEVICE_KEY = "ayet-rehberi:push-device:v1";
 const ENABLED_KEY = "ayet-rehberi:push-enabled:v1";
 

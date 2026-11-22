@@ -30,11 +30,9 @@ jobs:
       - run: npm ci
       - run: npm run lint -- --max-warnings=0
       - run: npm test
-      - name: Validate Web Push service worker and scheduled reminders
+      - name: Validate Web Push service worker
         run: |
           node --check public/sw.js
-          node --check functions/index.mjs
-          node --test functions/rules.test.mjs
       - run: npm run build
       - name: Check exported icons
         run: |
@@ -48,7 +46,6 @@ jobs:
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_AYET_REHBERI || secrets.FIREBASE_SERVICE_ACCOUNT }}
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-          ENABLE_AYET_PUSH_DEPLOY: ${{ vars.ENABLE_AYET_PUSH_DEPLOY }}
         run: |
           set -euo pipefail
           if [ -n "$FIREBASE_SERVICE_ACCOUNT" ]; then
@@ -62,10 +59,4 @@ jobs:
             exit 1
           fi
           unset FIREBASE_SERVICE_ACCOUNT
-          if [ "$ENABLE_AYET_PUSH_DEPLOY" = "true" ]; then
-            npm install --prefix functions --no-package-lock --ignore-scripts --no-audit --no-fund
-            npx --yes firebase-tools@15.32.0 deploy --only functions:ayet-push --project ayet-rehberi --non-interactive
-          else
-            echo "Push backend deploy gated. Enable after Cloud billing, secrets and permissions are configured."
-          fi
           npx --yes firebase-tools@15.32.0 deploy --only hosting --project ayet-rehberi --non-interactive
