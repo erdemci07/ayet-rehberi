@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { izleriSil, kaydiDegistir, type Ayarlar, type Hatirlatmalar as HatirlatmaAyarlari } from "@/cekirdek/durum";
 import { Ikon } from "@/bilesen/Ikon";
 import { KayitliAyet } from "@/bilesen/KayitliAyet";
@@ -89,13 +89,12 @@ export function Hatirlatmalar() {
   const istemcide = useIstemcide();
   const { ayarlar } = useDurum();
   const h = ayarlar.hatirlatmalar;
-  const [bagli, setBagli] = useState(false);
+  const [bagli, setBagli] = useState(() => hasPushConsent());
   const [mesaj, setMesaj] = useState("");
   const [islem, setIslem] = useState(false);
   const ayarla = (y: Partial<HatirlatmaAyarlari>) => durumuGuncelle(d => ({
     ...d, ayarlar: { ...d.ayarlar, hatirlatmalar: { ...d.ayarlar.hatirlatmalar, ...y } },
   }));
-  useEffect(() => { setBagli(hasPushConsent()); }, []);
 
   async function baslat() {
     if (islem) return;
@@ -146,7 +145,7 @@ export function Hatirlatmalar() {
         </div>
         <p className="soluk" style={{ margin: 0 }}>
           Önce bu cihazda izin ver. Sonrasında uygulama kapalıyken de bildirim alabilirsin.
-          iPhone'da ana ekrana eklenmiş uygulamadan açman gerekir.
+          iPhone’da ana ekrana eklenmiş uygulamadan açman gerekir.
         </p>
         {isIosOutsidePwa() && <p className="bilgi">iPhone: Safari → Paylaş → Ana Ekrana Ekle.
           Ana ekrandaki Ayet Rehberi ikonunu aç ve bu ekrandan izin ver.</p>}
