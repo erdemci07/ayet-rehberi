@@ -8,6 +8,7 @@ import "@fontsource/amiri/400.css";
 import "./tema.css";
 import "./stiller.css";
 import { AltMenu } from "@/bilesen/AltMenu";
+import { BildirimSenkron } from "@/bilesen/BildirimSenkron";
 import { AyarUygulayici } from "@/bilesen/AyarUygulayici";
 
 export const metadata: Metadata = {
@@ -38,6 +39,7 @@ export default function KokYerlesim({ children }: { children: React.ReactNode })
       </head>
       <body>
         <AyarUygulayici />
+        <BildirimSenkron />
         {children}
         <AltMenu />
       </body>

@@ -1,11 +1,12 @@
 "use client";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { izleriSil, kaydiDegistir, type Ayarlar, type Hatirlatmalar as HatirlatmaAyarlari } from "@/cekirdek/durum";
 import { Ikon } from "@/bilesen/Ikon";
 import { KayitliAyet } from "@/bilesen/KayitliAyet";
 import { Iskelet, Tost, useTost } from "@/bilesen/Ortak";
-import { durumuGuncelle, herSeyiSil, useDurum, useIstemcide } from "@/istemci/depo";
+import { durumuAl, durumuGuncelle, herSeyiSil, useDurum, useIstemcide } from "@/istemci/depo";
+import { disablePush, enablePush, hasPushConsent, isIosOutsidePwa, supportsPush, testPush } from "@/istemci/push";
 import { haller, useVeri } from "@/istemci/veri";
 
 function Kabuk({ baslik, children }: { baslik: string; children: React.ReactNode }) {
@@ -88,24 +89,102 @@ export function Hatirlatmalar() {
   const istemcide = useIstemcide();
   const { ayarlar } = useDurum();
   const h = ayarlar.hatirlatmalar;
-  const ayarla = (y: Partial<HatirlatmaAyarlari>) => durumuGuncelle(d => ({ ...d, ayarlar: { ...d.ayarlar, hatirlatmalar: { ...d.ayarlar.hatirlatmalar, ...y } } }));
+  const [bagli, setBagli] = useState(false);
+  const [mesaj, setMesaj] = useState("");
+  const [islem, setIslem] = useState(false);
+  const ayarla = (y: Partial<HatirlatmaAyarlari>) => durumuGuncelle(d => ({
+    ...d, ayarlar: { ...d.ayarlar, hatirlatmalar: { ...d.ayarlar.hatirlatmalar, ...y } },
+  }));
+  useEffect(() => { setBagli(hasPushConsent()); }, []);
+
+  async function baslat() {
+    if (islem) return;
+    setIslem(true); setMesaj("");
+    try {
+      const current = durumuAl();
+      const prefs = current.ayarlar.hatirlatmalar;
+      const noneSelected = !prefs.gununAyeti && !prefs.nasilsin &&
+        !prefs.kaldiginYer && !prefs.haftaninIsmi;
+      const next = noneSelected
+        ? { ...current, ayarlar: { ...current.ayarlar,
+            hatirlatmalar: { ...prefs, gununAyeti: true, nasilsin: true } } }
+        : current;
+      await enablePush(next);
+      if (noneSelected) ayarla({ gununAyeti: true, nasilsin: true });
+      setBagli(true);
+      setMesaj("Bildirim bağlantısı kuruldu. Saatlerinde hatırlatmalar gönderilebilir.");
+    } catch (e) {
+      setMesaj(e instanceof Error ? e.message : "Bildirim bağlantısı kurulamadı.");
+    } finally { setIslem(false); }
+  }
+  async function kapat() {
+    if (islem) return;
+    setIslem(true); setMesaj("");
+    try {
+      await disablePush();
+      setBagli(false);
+      setMesaj("Bu cihazın push aboneliği kapatıldı.");
+    } catch (e) { setMesaj(e instanceof Error ? e.message : "Bildirimler kapatılamadı."); }
+    finally { setIslem(false); }
+  }
+  async function dene() {
+    if (islem) return;
+    setIslem(true); setMesaj("");
+    try {
+      await testPush();
+      setMesaj("Sunucudan test bildirimi gönderildi. Telefonun bildirim merkezini kontrol et.");
+    } catch (e) { setMesaj(e instanceof Error ? e.message : "Test bildirimi gönderilemedi."); }
+    finally { setIslem(false); }
+  }
   if (!istemcide) return <Kabuk baslik="Hatırlatmalar"><Iskelet /></Kabuk>;
   return (
     <Kabuk baslik="Hatırlatmalar">
-      <p className="soluk" style={{ margin: 0 }}>Hepsi kapalı başlar. Açtıkların günde en fazla bir kez, sessiz saatler dışında gelir.</p>
+      <section className="kart bolum-blok" style={{ gap: 10 }}>
+        <div className="satir-arasi">
+          <strong>Web Push bildirimleri</strong>
+          <small>{bagli ? "Bağlı" : "Kapalı"}</small>
+        </div>
+        <p className="soluk" style={{ margin: 0 }}>
+          Önce bu cihazda izin ver. Sonrasında uygulama kapalıyken de bildirim alabilirsin.
+          iPhone'da ana ekrana eklenmiş uygulamadan açman gerekir.
+        </p>
+        {isIosOutsidePwa() && <p className="bilgi">iPhone: Safari → Paylaş → Ana Ekrana Ekle.
+          Ana ekrandaki Ayet Rehberi ikonunu aç ve bu ekrandan izin ver.</p>}
+        {!supportsPush() && !isIosOutsidePwa() && <p className="bilgi">Bu ortam Web Push desteklemiyor.
+          HTTPS bağlantısını ve cihazın bildirim desteğini kontrol et.</p>}
+        <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+          {!bagli
+            ? <button type="button" className="dugme dugme--ikincil" disabled={islem}
+                onClick={() => void baslat()}>{islem ? "Bağlanıyor…" : "Bildirimleri etkinleştir"}</button>
+            : <>
+                <button type="button" className="dugme dugme--ikincil" disabled={islem}
+                  onClick={() => void dene()}>{islem ? "Kontrol ediliyor…" : "Sunucudan deneme gönder"}</button>
+                <button type="button" className="dugme dugme--sade" disabled={islem}
+                  onClick={() => void baslat()}>Bağlantıyı yenile</button>
+                <button type="button" className="dugme dugme--sade" disabled={islem}
+                  onClick={() => void kapat()}>Bildirimleri kapat</button>
+              </>}
+        </div>
+        {mesaj && <p className="bilgi" role="status">{mesaj}</p>}
+      </section>
+      <p className="soluk" style={{ margin: 0 }}>
+        İlk etkinleştirmede sabah ve akşam hatırlatmaları önerilir. Saatleri ve bildirim türlerini
+        değiştirebilirsin. Sunucu bir günde en fazla iki hatırlatma gönderir.
+      </p>
       <div className="liste">
         {HATIRLATMALAR.map(x => (
           <div key={x.id} className="liste__satir">
             <span style={{ display: "flex", flexDirection: "column" }}>
-              <span>{x.ad}</span>
-              <small>{x.alt}</small>
+              <span>{x.ad}</span><small>{x.alt}</small>
             </span>
             <span style={{ display: "flex", alignItems: "center", gap: 10 }}>
               {x.saat && h[x.id] && (
-                <input className="saat" type="time" aria-label={`${x.ad} saati`} value={h[x.saat]} onChange={e => e.target.value && ayarla({ [x.saat!]: e.target.value })} />
+                <input className="saat" type="time" aria-label={`${x.ad} saati`}
+                  value={h[x.saat]} onChange={e => e.target.value && ayarla({ [x.saat!]: e.target.value })} />
               )}
               <label className="anahtar">
-                <input type="checkbox" role="switch" checked={h[x.id]} aria-label={x.ad} onChange={e => ayarla({ [x.id]: e.target.checked })} />
+                <input type="checkbox" role="switch" checked={h[x.id]} aria-label={x.ad}
+                  onChange={e => ayarla({ [x.id]: e.target.checked })} />
                 <span />
               </label>
             </span>
@@ -117,15 +196,19 @@ export function Hatirlatmalar() {
         <div className="liste">
           <div className="liste__satir">
             <span>Başlangıç</span>
-            <input className="saat" type="time" aria-label="Sessiz saat başlangıcı" value={h.sessizBas} onChange={e => e.target.value && ayarla({ sessizBas: e.target.value })} />
+            <input className="saat" type="time" aria-label="Sessiz saat başlangıcı"
+              value={h.sessizBas} onChange={e => e.target.value && ayarla({ sessizBas: e.target.value })} />
           </div>
           <div className="liste__satir">
             <span>Bitiş</span>
-            <input className="saat" type="time" aria-label="Sessiz saat bitişi" value={h.sessizSon} onChange={e => e.target.value && ayarla({ sessizSon: e.target.value })} />
+            <input className="saat" type="time" aria-label="Sessiz saat bitişi"
+              value={h.sessizSon} onChange={e => e.target.value && ayarla({ sessizSon: e.target.value })} />
           </div>
         </div>
       </section>
-      <p className="bilgi">Bildirimler telefon uygulamasında çalışacak. Seçimlerin şimdiden kaydediliyor.</p>
+      <p className="bilgi">Seçtiğin hâller ve kaydettiğin ayetler bu cihazda kalır.
+        Bildirimi etkinleştirirsen yalnızca cihaz aboneliği, bildirim tercihleri,
+        son ziyaret ve son okuma özeti sunucuya kaydedilir.</p>
     </Kabuk>
   );
 }
@@ -143,7 +226,7 @@ export function Tanima() {
   return (
     <Kabuk baslik="Beni nasıl tanıyorsun?">
       <p style={{ margin: 0, fontFamily: "var(--yazi-okuma)", fontSize: 18, lineHeight: 1.5 }}>
-        Seni yalnızca bu telefonda tuttuğum birkaç küçük izle tanıyorum. Hiçbiri bir sunucuya gitmez, hesap da yok.
+        Seçtiğin hâller, kaydettiğin ayetler ve okuma geçmişin bu cihazda kalır. Bildirimleri etkinleştirirsen yalnızca cihaz aboneliği, bildirim ayarların ve son okuma/ziyaret özeti gönderilir. Hesap açman gerekmez.
       </p>
       <div className="liste">
         <div className="liste__satir"><span>Seçtiğin hâller</span><small>{durum.halSecimleri.length}</small></div>
@@ -176,9 +259,16 @@ export function Tanima() {
           </p>
           <div style={{ display: "flex", gap: 10 }}>
             <button type="button" className="dugme dugme--ikincil" style={{ flex: 1 }} onClick={() => setOnay(null)}>Vazgeç</button>
-            <button type="button" className="dugme dugme--tehlike" style={{ flex: 1 }} onClick={() => {
-              if (onay === "izler") durumuGuncelle(izleriSil);
-              else herSeyiSil();
+            <button type="button" className="dugme dugme--tehlike" style={{ flex: 1 }} onClick={async () => {
+              if (onay === "izler") {
+                durumuGuncelle(izleriSil);
+              } else {
+                if (hasPushConsent()) {
+                  try { await disablePush(); }
+                  catch { tostGoster("Sunucudaki bildirim aboneliği kaldırılamadı. Yeniden dene."); return; }
+                }
+                herSeyiSil();
+              }
               setOnay(null);
               tostGoster("Silindi");
             }}>Sil</button>
