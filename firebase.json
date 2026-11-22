@@ -1,10 +1,7 @@
 {
+  "functions": [{ "source": "functions", "codebase": "ayet-push" }],
   "hosting": {
     "public": "out",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
   }
 }
