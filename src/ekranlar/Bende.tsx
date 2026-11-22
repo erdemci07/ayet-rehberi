@@ -80,7 +80,7 @@ export function Bende() {
         <Link className="liste__satir" href="/bende/gorunum/"><span>Görünüm ve yazı boyutu</span><Ikon ad="ileri" boyut={18} /></Link>
         <Link className="liste__satir" href="/bende/tanima/"><span>Beni nasıl tanıyorsun?</span><Ikon ad="ileri" boyut={18} /></Link>
       </nav>
-      <p className="sayac" style={{ textAlign: "center", margin: 0 }}>Meal: Erhan Aktaş · Her şey yalnızca bu cihazda tutulur.</p>
+      <p className="sayac" style={{ textAlign: "center", margin: 0 }}>Meal: Erhan Aktaş · Kişisel ayet ve hâl kayıtların bu cihazda tutulur.</p>
     </main>
   );
 }

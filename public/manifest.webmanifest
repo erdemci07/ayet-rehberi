@@ -1,6 +1,7 @@
 {
   "name": "Ayet Rehberi",
   "short_name": "Ayet Rehberi",
+  "id": "/",
   "lang": "tr",
   "start_url": "/",
   "scope": "/",
