@@ -109,7 +109,12 @@ async function post(req, res) {
   if (!existing.exists || !sameHash(existing.data().secretHash, hash))
     return error(res, 403, 'Önce cihazı bağlayın.')
   if (action === 'unsubscribe') {
-    await ref.delete()
+    // Erase the device and its delivery history when consent is revoked.
+    const histories = await db.collection(DISPATCH).where('deviceId', '==', id).get()
+    const batch = db.bulkWriter()
+    for (const record of histories.docs) batch.delete(record.ref)
+    batch.delete(ref)
+    await batch.close()
     return res.status(200).json({ ok: true })
   }
   if (!existing.data().enabled) return error(res, 409, 'Bildirimler kapalı.')
@@ -121,7 +126,14 @@ async function post(req, res) {
     const last = existing.data().lastTestAt?.toMillis?.() ?? 0
     if (Date.now() - last < 60_000) return error(res, 429, 'Deneme için bir dakika bekleyin.')
     await ref.update({ lastTestAt: FieldValue.serverTimestamp() })
-    await send(existing.data().subscription, 'morning', '/')
+    pushConfig()
+    await webpush.sendNotification(existing.data().subscription, JSON.stringify({
+      notification: {
+        title: 'Ayet Rehberi · Deneme bildirimi',
+        body: 'Bağlantı çalışıyor. Sabah ve akşam hatırlatmaları artık bu cihazına ulaşabilir.',
+      },
+      data: { link: '/', kind: 'test' },
+    }), { TTL: 120, urgency: 'normal' })
     return res.status(200).json({ ok: true })
   }
   return error(res, 400, 'Bilinmeyen işlem.')
@@ -164,7 +176,7 @@ export const dispatchAyetReminders = onSchedule({
       const kinds = Array.isArray(state.types) ? state.types : []
       if (kinds.includes(selected.type) || kinds.length >= 2) return false
       tx.set(claimRef, {
-        types: [...kinds, selected.type], updatedAt: FieldValue.serverTimestamp(),
+        deviceId: device.id, types: [...kinds, selected.type], updatedAt: FieldValue.serverTimestamp(),
       }, { merge: true })
       return true
     })
